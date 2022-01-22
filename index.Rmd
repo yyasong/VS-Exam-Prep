@@ -1,0 +1,28 @@
+--- 
+title: "Vascular Surgery Board Review"
+author: "Audible Bleeding"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+# bibliography: [book.bib, packages.bib]
+# url: https://adam-mdmph.github.io/VS-Board-Review/
+# cover-image: images/AB logo.png
+description: |
+ This is a ebook version of board review content produece on Audible Bleeding
+link-citations: yes
+github-repo: rstudio/bookdown-demo
+---
+
+
+# About
+
+The content was developed here by the Audible Bleeding team to accompany our board review podcast episodes.
+
+## Usage 
+
+This is not a comprehensive guide but instead an outline of the most high yield information to help guide board preparation.```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+```
