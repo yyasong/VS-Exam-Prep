@@ -6,7 +6,7 @@ bookdown::gitbook:
         <li><a href="./">VS Board Review</a></li>
       after: |
         <li><a href="https://github.com/adam-mdmph/VS-Board-Review" target="blank">Published with bookdown</a></li>
-    edit: https://github.com/adam-mdmph/VS-Board-Review/edit/BRANCH/%s
+    edit: https://github.com/adam-mdmph/VS-Board-Review/blob/main/%s
     download: ["pdf"]
 bookdown::pdf_book:
   includes:
@@ -14,4 +14,3 @@ bookdown::pdf_book:
   latex_engine: xelatex
   citation_package: natbib
   keep_tex: yes
-bookdown::epub_book: default
