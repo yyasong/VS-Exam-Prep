@@ -9,7 +9,7 @@ csl: jvs.csl
 url: https://adam-mdmph.github.io/VS-Board-Review/
 # cover-image: images/AB logo.png
 description: |
- This is a ebook version of board review content produece on Audible Bleeding
+ This is an ebook version of board review content produced for Audible Bleeding: The Vascular Surgery Podcast
 link-citations: yes
 github-repo: https://github.com/adam-mdmph/VS-Board-Review
 ---
