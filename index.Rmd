@@ -20,9 +20,11 @@ The content was developed here by the Audible Bleeding team to accompany our boa
 
 ## Usage 
 
-This is not a comprehensive guide but instead an outline of the most high yield information to help guide board preparation.```{r include=FALSE}
-# automatically create a bib database for R packages
+This is not a comprehensive guide but instead an outline of the most high yield information to help guide board preparation.
+
+
+```{r include=FALSE}
 knitr::write_bib(c(
-  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+  .packages(), 'bookdown', 'knitr', 'rmarkdown', 'embedr'
 ), 'packages.bib')
 ```
