@@ -4,13 +4,14 @@ author: "Audible Bleeding"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
-# bibliography: [book.bib, packages.bib]
+bibliography: references.bib
+csl: jvs.csl
 url: https://adam-mdmph.github.io/VS-Board-Review/
 # cover-image: images/AB logo.png
 description: |
  This is a ebook version of board review content produece on Audible Bleeding
 link-citations: yes
-github-repo: rstudio/bookdown-demo
+github-repo: https://github.com/adam-mdmph/VS-Board-Review
 ---
 
 

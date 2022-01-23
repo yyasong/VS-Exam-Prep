@@ -5,7 +5,7 @@ bookdown::gitbook:
       before: |
         <li><a href="./">VS Board Review</a></li>
       after: |
-        <li><a href="https://github.com/adam-mdmph/VS-Board-Review" target="blank">Published with bookdown</a></li>
+        <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
     edit: https://github.com/adam-mdmph/VS-Board-Review/blob/main/%s
     download: ["pdf"]
 bookdown::pdf_book:
