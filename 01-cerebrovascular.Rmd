@@ -4,13 +4,6 @@ editor_options:
     wrap: 72
 ---
 
-```{r message=FALSE, warning=FALSE, include=FALSE}
-library(devtools)
-
-devtools::install_github("mccarthy-m-g/embedr")
-library(embedr)
-```
-
 # Cerebrovascular
 
 **07 Jan 2019:** *Adam Johnson, MD, MPH; Nicole Rich, MD, MPH; Kevin

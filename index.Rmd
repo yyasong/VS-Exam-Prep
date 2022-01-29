@@ -2,17 +2,26 @@
 title: "Vascular Surgery Board Review"
 author: "Audible Bleeding"
 date: "`r Sys.Date()`"
-site: bookdown::bookdown_site
+output: pdf_document
 documentclass: book
 bibliography: references.bib
 csl: jvs.csl
 url: https://adam-mdmph.github.io/VS-Board-Review/
-# cover-image: images/AB logo.png
 description: |
- This is an ebook version of board review content produced for Audible Bleeding: The Vascular Surgery Podcast
+  This is an ebook version of board review content produced for Audible Bleeding: The Vascular Surgery Podcast
 link-citations: yes
 github-repo: https://github.com/adam-mdmph/VS-Board-Review
+site: bookdown::bookdown_site
 ---
+
+
+```{r message=FALSE, warning=FALSE, include=FALSE}
+library(devtools)
+library(bibtex)
+
+devtools::install_github("mccarthy-m-g/embedr")
+library(embedr)
+```
 
 
 # About
