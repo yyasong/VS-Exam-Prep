@@ -4,7 +4,7 @@ author: "Audible Bleeding"
 date: "`r Sys.Date()`"
 output: pdf_document
 documentclass: book
-bibliography: references.bib
+bibliography: [references.bib, packages.bib]
 csl: jvs.csl
 url: https://adam-mdmph.github.io/VS-Board-Review/
 description: |
@@ -33,7 +33,7 @@ This is not a comprehensive guide but instead an outline of the most high yield 
 
 ## Comments, Questions or Contributions
 
-Please visit our [github page](https://github.com/adam-mdmph/VS-Board-Review) or [send us an emial](mailto:audiblebleeding@vascularsociety.org).
+Please visit our [github page](https://github.com/adam-mdmph/VS-Board-Review) or [send us an email](mailto:audiblebleeding@vascularsociety.org).
 
 
 ```{r include=FALSE}
