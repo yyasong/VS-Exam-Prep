@@ -17,7 +17,6 @@ site: bookdown::bookdown_site
 
 ```{r message=FALSE, warning=FALSE, include=FALSE}
 library(devtools)
-library(bibtex)
 
 devtools::install_github("mccarthy-m-g/embedr")
 library(embedr)
