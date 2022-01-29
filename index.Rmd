@@ -23,6 +23,10 @@ The content was developed here by the Audible Bleeding team to accompany our boa
 
 This is not a comprehensive guide but instead an outline of the most high yield information to help guide board preparation.
 
+## Comments, Questions or Contributions
+
+Please visit our [github page](https://github.com/adam-mdmph/VS-Board-Review) or [send us an emial](mailto:audiblebleeding@vascularsociety.org).
+
 
 ```{r include=FALSE}
 knitr::write_bib(c(
