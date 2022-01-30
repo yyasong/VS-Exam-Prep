@@ -8,6 +8,7 @@ Warning--empty publisher in illig57UpperExtremity
 Warning--empty year in illig57UpperExtremity
 Warning--empty year in illig57UpperExtremity
 Warning--empty publisher in landry141RaynaudPhenomenon2019
+Warning--empty publisher in mcminnLastAnatomyRegional2019
 Warning--empty journal in rantnerEarlyEndarterectomyCarries
 Warning--empty year in rantnerEarlyEndarterectomyCarries
 Warning--empty year in rantnerEarlyEndarterectomyCarries
@@ -17,45 +18,45 @@ Warning--empty booktitle in shuja117UpperExtremity
 Warning--empty publisher in shuja117UpperExtremity
 Warning--empty year in shuja117UpperExtremity
 Warning--empty year in shuja117UpperExtremity
-You've used 31 entries,
+You've used 43 entries,
             2773 wiz_defined-function locations,
-            844 strings with 15834 characters,
-and the built_in function-call counts, 20284 in all, are:
-= -- 1720
-> -- 1719
-< -- 19
-+ -- 577
-- -- 546
-* -- 1953
-:= -- 3254
-add.period$ -- 138
-call.type$ -- 31
-change.case$ -- 270
-chr.to.int$ -- 31
-cite$ -- 76
-duplicate$ -- 688
-empty$ -- 1233
-format.name$ -- 589
-if$ -- 4098
-int.to.chr$ -- 1
+            934 strings with 19006 characters,
+and the built_in function-call counts, 26965 in all, are:
+= -- 2332
+> -- 2165
+< -- 31
++ -- 728
+- -- 684
+* -- 2547
+:= -- 4301
+add.period$ -- 195
+call.type$ -- 43
+change.case$ -- 352
+chr.to.int$ -- 42
+cite$ -- 101
+duplicate$ -- 954
+empty$ -- 1713
+format.name$ -- 751
+if$ -- 5490
+int.to.chr$ -- 2
 int.to.str$ -- 1
-missing$ -- 36
-newline$ -- 205
-num.names$ -- 124
-pop$ -- 528
+missing$ -- 50
+newline$ -- 283
+num.names$ -- 172
+pop$ -- 674
 preamble$ -- 1
-purify$ -- 244
+purify$ -- 314
 quote$ -- 0
-skip$ -- 562
+skip$ -- 767
 stack$ -- 0
-substring$ -- 600
-swap$ -- 81
-text.length$ -- 7
+substring$ -- 825
+swap$ -- 115
+text.length$ -- 11
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 316
-warning$ -- 14
-while$ -- 137
+type$ -- 438
+warning$ -- 15
+while$ -- 187
 width$ -- 0
-write$ -- 485
-(There were 14 warnings)
+write$ -- 681
+(There were 15 warnings)

@@ -1,4 +1,4 @@
-\begin{thebibliography}{31}
+\begin{thebibliography}{43}
 \providecommand{\natexlab}[1]{#1}
 \providecommand{\url}[1]{\texttt{#1}}
 \expandafter\ifx\csname urlstyle\endcsname\relax
@@ -17,6 +17,12 @@ Ali~F. AbuRahma, Efthymios~D. Avgerinos, Robert~W. Chang, R.~Clement Darling,
   4S--22S, January 2022.
 \newblock ISSN 07415214.
 \newblock \doi{10.1016/j.jvs.2021.04.073}.
+
+\bibitem[Boll and Valentine(2019)]{boll122ThoracicOutlet2019}
+Julia~M Boll and R.~James Valentine.
+\newblock 122: {{Thoracic}} outlet syndrome: {{Arterial}}.
+\newblock In \emph{Rutherford's {{Vascular Surgery}} and {{Endovascular
+  Therapy}}}, volume~2. {Elsevier Health Sciences}, ninth edition, 2019.
 
 \bibitem[Brott et~al.(2016)Brott, Howard, Roubin, Meschia, Mackey, Brooks,
   Moore, Hill, Mantese, Clark, Timaran, Heck, Leimgruber, Sheffet, Howard,
@@ -91,6 +97,15 @@ Stefanos Giannopoulos, Pavlos Texakalidis, Anil~Kumar Jonnalagadda, Theofilos
 \newblock ISSN 15538389.
 \newblock \doi{10.1016/j.carrev.2018.01.014}.
 
+\bibitem[Grunwald and
+  Hofmann(2004)]{grunwaldCatheterDirectedThrombolysisTreatment2004}
+Michael~R. Grunwald and Lawrence~V. Hofmann.
+\newblock Catheter-{{Directed Thrombolysis}} for the {{Treatment}} of
+  {{Symptomatic Deep Vein Thrombosis}}.
+\newblock \emph{Circulation}, 109\penalty0 (2), January 2004.
+\newblock ISSN 0009-7322, 1524-4539.
+\newblock \doi{10.1161/01.CIR.0000111132.23469.70}.
+
 \bibitem[Halliday et~al.(2010)Halliday, Harrison, Hayter, Kong, Mansfield,
   Marro, Pan, Peto, Potter, Rahimi, Rau, Robertson, Streifler, and
   Thomas]{halliday10yearStrokePrevention2010}
@@ -104,10 +119,36 @@ Alison Halliday, Michael Harrison, Elizabeth Hayter, Xiangling Kong, Averil
 \newblock ISSN 0140-6736.
 \newblock \doi{10.1016/S0140-6736(10)61197-X}.
 
+\bibitem[Humphries and
+  Freischlag(2019{\natexlab{a}})]{humphries123ThoracicOutlet2019}
+Misty~D Humphries and Julie~A Freischlag.
+\newblock 123: {{Thoracic}} outlet syndrome: {{Venous}}.
+\newblock In \emph{Rutherford's {{Vascular Surgery}} and {{Endovascular
+  Therapy}}}, volume~2, pages 1648--1655.e2. {Elsevier Inc.},
+  2019{\natexlab{a}}.
+\newblock \doi{10.1016/j.mpsur.2018.12.010}.
+
+\bibitem[Humphries and
+  Freischlag(2019{\natexlab{b}})]{humphries124ThoracicOutlet2019}
+Misty~D Humphries and Julie~A Freischlag.
+\newblock 124: {{Thoracic Outlet Syndrome}} : {{Surgical Decompression}} of the
+  {{Thoracic Outlet}}.
+\newblock In \emph{Rutherford's {{Vascular Surgery}} and {{Endovascular
+  Therapy}}}, volume~2. {Elsevier Inc.}, ninth edition, 2019{\natexlab{b}}.
+\newblock \doi{10.1016/B978-0-323-42791-3.00124-9}.
+
 \bibitem[Illig()]{illig57UpperExtremity}
 Karl~A Illig.
 \newblock 57. {{Upper Extremity Vascular Exposure}}.
 \newblock page~12.
+
+\bibitem[Illig and Doyle(2010)]{illigComprehensiveReviewPagetSchroetter2010}
+Karl~A. Illig and Adam~J. Doyle.
+\newblock A comprehensive review of {{Paget-Schroetter}} syndrome.
+\newblock \emph{Journal of Vascular Surgery}, 51\penalty0 (6):\penalty0
+  1538--1547, June 2010.
+\newblock ISSN 07415214.
+\newblock \doi{10.1016/j.jvs.2009.12.022}.
 
 \bibitem[{Jack L Cronenwett} et~al.(2020){Jack L Cronenwett}, {Alik Farber},
   and {Erica L. Mitchell}]{jacklcronenwettVascularDecisionMaking2020}
@@ -132,6 +173,18 @@ David~S Kauvar and Larry~W Kraiss.
 \newblock \emph{184: {{Vascular Trauma}}: {{Extremity}}}.
 \newblock {Elsevier Inc.}, 2020.
 \newblock \doi{10.1016/B978-0-323-42791-3.00184-5}.
+
+\bibitem[Kearon et~al.(2016)Kearon, Akl, Ornelas, Blaivas, Jimenez, Bounameaux,
+  Huisman, King, Morris, Sood, Stevens, Vintch, Wells, Woller, and
+  Moores]{kearonAntithromboticTherapyVTE2016}
+Clive Kearon, Elie~A. Akl, Joseph Ornelas, Allen Blaivas, David Jimenez, Henri
+  Bounameaux, Menno Huisman, Christopher~S. King, Timothy~A. Morris, Namita
+  Sood, Scott~M. Stevens, Janine~R.E. Vintch, Philip Wells, Scott~C. Woller,
+  and Lisa Moores.
+\newblock Antithrombotic {{Therapy}} for {{VTE Disease}}.
+\newblock \emph{Chest}, 149\penalty0 (2):\penalty0 315--352, February 2016.
+\newblock ISSN 00123692.
+\newblock \doi{10.1016/j.chest.2015.11.026}.
 
 \bibitem[Klarin et~al.(2016)Klarin, Lancaster, Ergul, Bertges, Goodney,
   Schermerhorn, Cambria, and Patel]{klarinPerioperativeLongtermImpact2016}
@@ -163,6 +216,17 @@ Arlindo~Cardoso Lima~Neto, Roseli Bittar, Gabriel~Scarabotolo Gattas, Edson
 \newblock ISSN 1809-9777.
 \newblock \doi{10.1055/s-0036-1593448}.
 
+\bibitem[Lugo et~al.(2015)Lugo, Tanious, Armstrong, Back, Johnson, Shames,
+  Moudgill, Nelson, and Illig]{lugoAcutePagetSchroetter2015}
+Joanelle Lugo, Adam Tanious, Paul Armstrong, Martin Back, Brad Johnson, Murray
+  Shames, Neil Moudgill, Peter Nelson, and Karl~A. Illig.
+\newblock Acute {{Paget}}\textendash{{Schroetter Syndrome}}: {{Does}} the
+  {{First Rib Routinely Need}} to {{Be Removed}} after {{Thrombolysis}}?
+\newblock \emph{Annals of Vascular Surgery}, 29\penalty0 (6):\penalty0
+  1073--1077, August 2015.
+\newblock ISSN 08905096.
+\newblock \doi{10.1016/j.avsg.2015.02.006}.
+
 \bibitem[Markus et~al.(2019)Markus, Levi, King, Madigan, and
   Norris]{markusAntiplateletTherapyVs2019a}
 Hugh~S. Markus, Christopher Levi, Alice King, Jeremy Madigan, and John Norris.
@@ -171,6 +235,12 @@ Hugh~S. Markus, Christopher Levi, Alice King, Jeremy Madigan, and John Norris.
 \newblock \emph{JAMA Neurology}, 76\penalty0 (6):\penalty0 657--664, June 2019.
 \newblock ISSN 2168-6149.
 \newblock \doi{10.1001/jamaneurol.2019.0072}.
+
+\bibitem[McMinn(2019)]{mcminnLastAnatomyRegional2019}
+Robert~H. McMinn.
+\newblock \emph{Last's {{Anatomy}}: Regional and Applied}.
+\newblock 2019.
+\newblock ISBN 978-0-7295-4357-6.
 
 \bibitem[Meershoek and {de
   Borst}(2018)]{meershoekTimingCarotidIntervention2018}
@@ -269,6 +339,23 @@ Pm~Rothwell, M~Eliasziw, Sa~Gutnikov, Cp~Warlow, and Hjm Barnett.
 \newblock ISSN 01406736.
 \newblock \doi{10.1016/S0140-6736(04)15785-1}.
 
+\bibitem[Sajid et~al.(2007)Sajid, Ahmed, Desai, Baker, and
+  Hamilton]{sajidUpperLimbDeep2007}
+Muhammad~S. Sajid, Naeem Ahmed, Mittal Desai, Daryll Baker, and George
+  Hamilton.
+\newblock Upper {{Limb Deep Vein Thrombosis}}: {{A Literature Review}} to
+  {{Streamline}} the {{Protocol}} for {{Management}}.
+\newblock \emph{Acta Haematologica}, 118\penalty0 (1):\penalty0 10--18, 2007.
+\newblock ISSN 0001-5792, 1421-9662.
+\newblock \doi{10.1159/000101700}.
+
+\bibitem[Sekhar(2018)]{sekharYearbookVascularEndovascular2018}
+R~Sekhar.
+\newblock \emph{Yearbook of Vascular and Endovascular Surgery-2, 2018}.
+\newblock {JAYPEE Brothers MEDICAL P}, {Place of publication not identified},
+  2018.
+\newblock ISBN 978-93-5465-100-7.
+
 \bibitem[shadman Baig and Timaran(2019)]{baig84UpperExtremity2019}
 m~shadman Baig and Carlos~H. Timaran.
 \newblock 84. {{Upper}} extremity aneurysms.
@@ -295,6 +382,15 @@ James~C Stanley, Frank Veith, and Thomas~W. Wakefield.
   Surgery}}}.
 \newblock {Elsevier Health Sciences}, 2014.
 
+\bibitem[Urschel and Patel(2008)]{urschelSurgeryRemainsMost2008}
+Harold~C. Urschel and Amit~N. Patel.
+\newblock Surgery {{Remains}} the {{Most Effective Treatment}} for
+  {{Paget-Schroetter Syndrome}}: 50 {{Years}}' {{Experience}}.
+\newblock \emph{The Annals of Thoracic Surgery}, 86\penalty0 (1):\penalty0
+  254--260, July 2008.
+\newblock ISSN 00034975.
+\newblock \doi{10.1016/j.athoracsur.2008.03.021}.
+
 \bibitem[Voigt et~al.(2019)Voigt, Bishawi, Ranney, Yerokun, McCann, and
   Hughes]{voigtOutcomesCarotidsubclavianBypass2019}
 Soraya~L. Voigt, Muath Bishawi, David Ranney, Babatunde Yerokun, Richard~L.
@@ -305,5 +401,15 @@ Soraya~L. Voigt, Muath Bishawi, David Ranney, Babatunde Yerokun, Richard~L.
   701--709, March 2019.
 \newblock ISSN 07415214.
 \newblock \doi{10.1016/j.jvs.2018.07.022}.
+
+\bibitem[Wilson et~al.(1990)Wilson, Zahn, and
+  Newman]{wilsonFibrinolyticTherapyIdiopathic1990}
+Jonathan~J. Wilson, Catherine~A. Zahn, and Harold Newman.
+\newblock Fibrinolytic therapy for idiopathic subclavian-axillary vein
+  thrombosis.
+\newblock \emph{The American Journal of Surgery}, 159\penalty0 (2):\penalty0
+  208--210, February 1990.
+\newblock ISSN 00029610.
+\newblock \doi{10.1016/S0002-9610(05)80262-4}.
 
 \end{thebibliography}

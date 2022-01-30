@@ -11,6 +11,8 @@ Kniery, MD, MPH*
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
 
 ```

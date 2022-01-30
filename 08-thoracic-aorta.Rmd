@@ -4,7 +4,7 @@ editor_options:
     wrap: 72
 ---
 
-# Thoracic Outlet
+# Thoracic Aorta
 
 ```{r echo=FALSE}
 

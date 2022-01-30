@@ -11,11 +11,13 @@ bibliography: references.bib
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_Upper_Extremity_post_auphonic.mp3")
 
 ```
 
-## Anatomy/ Exposure of Vessels 
+## Anatomy/ Exposure of Vessels
 
 **What are the zones of the upper extremity?** @illig57UpperExtremity
 
@@ -304,7 +306,7 @@ underlying pathology?**
 3.  Immunosuppression/immunomodulation for connective tissue disorders
     associated with secondary Raynaud phenomenon
 
-### **Ergotism** 
+### **Ergotism**
 
 **What is Ergotism?** @jamescstanleyCurrentTherapyVascular2014
 
@@ -345,7 +347,7 @@ Treatment: 
 
 -   Surgical: for thrombosis, consider thrombolysis 
 
-### **Buerger's Disease** 
+### **Buerger's Disease**
 
 **How is Buerger's disease categorized?**
 @jacklcronenwettVascularDecisionMaking2020
@@ -398,7 +400,7 @@ Buerger's?**
 
 6.  Amputation-reported in 30-40% who are followed longer than 5 years 
 
-### **Large Artery Vasculitis** 
+### **Large Artery Vasculitis**
 
 **What are common characteristics for patients who are suspected to have
 a large vessel vasculitis?** @shanmugam137VasculitisOther2019
@@ -502,7 +504,7 @@ surgical treatment?**
 
         -   Aortic aneurysms should be managed with open surgery 
 
-## Aneurysmal Disease 
+## Aneurysmal Disease
 
 **How are subclavian aneurysms caused and how can they present?**
 @baig84UpperExtremity2019
