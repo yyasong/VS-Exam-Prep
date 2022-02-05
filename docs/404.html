@@ -21,7 +21,7 @@
   <meta name="twitter:description" content="This is an ebook version of board review content produced for Audible Bleeding: The Vascular Surgery Podcast" />
   
 
-<meta name="author" content="Audible Bleeding" />
+<meta name="author" content="Adam Johnson, MD, MPH; Matt Smith, MD, PhD; and Audible Bleeding" />
 
 
 <meta name="date" content="2022-02-05" />
@@ -293,6 +293,20 @@ gitbook.start({
 });
 </script>
 
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    var src = "true";
+    if (src === "" || src === "true") src = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML";
+    if (location.protocol !== "file:")
+      if (/^https?:/.test(src))
+        src = src.replace(/^https?:/, '');
+    script.src = src;
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
 </body>
 
 </html>
