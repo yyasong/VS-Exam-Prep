@@ -5,11 +5,12 @@ date: "`r Sys.Date()`"
 output: pdf_document
 documentclass: book
 bibliography: [references.bib, packages.bib]
-csl: jvs.csl
+csl: apa.csl
 url: https://adam-mdmph.github.io/VS-Board-Review/
 description: |
   This is an ebook version of board review content produced for Audible Bleeding: The Vascular Surgery Podcast
 link-citations: yes
+link-bibliography: yes
 github-repo: https://github.com/adam-mdmph/VS-Board-Review
 site: bookdown::bookdown_site
 ---

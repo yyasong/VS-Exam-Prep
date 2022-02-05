@@ -22,7 +22,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
 [Society for Vascular Surgery clinical practice guidelines for
 management of extracranial cerebrovascular
 disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
-@aburahmaSocietyVascularSurgery2022
+[@aburahmaSocietyVascularSurgery2022]
 
 ## Presentation and Diagnosis
 
@@ -66,7 +66,7 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
     -   The benefit of prophylactic treatment of high grade stenosis is
         estimated at a 1-2% stroke reduction risk per year.
-        @naylorWhyManagementAsymptomatic2015
+        [@naylorWhyManagementAsymptomatic2015]
 
     -   Keep in mind that intervention (CEA/CAS) has only demonstrated a
         benefit in asymptomatic patient with life expectancy greater
@@ -164,7 +164,7 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
 -   High dose statin therapy in patients with TIA/stroke reduce future
     rates of stroke or cardiovascular events but not overall mortality
-    at 5 years. @karamHighDoseAtorvastatinStroke2008
+    at 5 years. [@karamHighDoseAtorvastatinStroke2008]
 
 **Smoking** - Physician counseling is an important and effective
 intervention that reduces smoking in patients by 10% to 20%
@@ -196,9 +196,9 @@ asymptomatic patients with carotid atherosclerosis
 
     -   CEA is preferred to CAS based on an increased embolic potential
         of carotid lesions that present in this fashion.
-        @rantnerEarlyEndarterectomyCarries
+        [@rantnerEarlyEndarterectomyCarries2017]
 
-    -   Management of acute stroke @powers2018GuidelinesEarly2018
+    -   Management of acute stroke [@powers2018GuidelinesEarly2018]
 
         -   \<4.5hrs from onset of symptoms - tPA unless
             contraindication
@@ -307,7 +307,7 @@ asymptomatic patients with carotid atherosclerosis
 
     -   ESRD patients have higher rates of perioperative stroke, but
         also have higher rates of stroke if not revascularized.
-        @klarinPerioperativeLongtermImpact2016
+        [@klarinPerioperativeLongtermImpact2016]
 
 **Long term complications and follow up**
 
@@ -345,7 +345,7 @@ asymptomatic patients with carotid atherosclerosis
     -   Ipsilateral neck dissection or XRT - equivalent periprocedural
         stroke rate to CEA, but increased later stroke rate. CEA higher
         rates of cranial nerve damage (9%).
-        @giannopoulosRevascularizationRadiationinducedCarotid2018
+        [@giannopoulosRevascularizationRadiationinducedCarotid2018]
 
     -   Contralateral vocal cord paralysis
 
@@ -363,7 +363,7 @@ asymptomatic patients with carotid atherosclerosis
     -   In stent restenosis (>50%) - repeat angioplasty or stent have
         low incidence of periprocedural stroke but failed to improve
         long term stroke/death/MI or patency rates.
-        @chungPercutaneousInterventionCarotid2016a
+        [@chungPercutaneousInterventionCarotid2016a]
 
 ### Management of uncommon disease presentations
 
@@ -384,7 +384,7 @@ asymptomatic patients with carotid atherosclerosis
     -   Should undergo carotid revascularization first to improve flow
     -   Vertebrobasilar insufficiency characterized by dizziness,
         ataxia, nausea, vertigo and bilateral weakness.
-        @limanetoPathophysiologyDiagnosisVertebrobasilar2017
+        [@limanetoPathophysiologyDiagnosisVertebrobasilar2017]
 
 -   What about tandem lesions in the carotid in a symptomatic patient,
     carotid bulb and carotid siphon lesion (high ICA)? How should you
@@ -422,7 +422,7 @@ asymptomatic patients with carotid atherosclerosis
         Level of Evidence B)
 
     -   Patients undergoing simultaneous CEA/CABG demonstrate highest
-        mortality. @naylorSystematicReviewOutcomes2003
+        mortality. [@naylorSystematicReviewOutcomes2003]
 
 ## Prospective Trials - MUST READS
 
@@ -439,7 +439,7 @@ asymptomatic patients with carotid atherosclerosis
     -   This was pre statin and clopidogrel era
 
 2.  North American Symptomatic Carotid Endarterectomy Trial (NASCET)
-    @northamericansymptomaticcarotidendarterectomytrialcollaboratorsBeneficialEffectCarotid1991
+    [@northamericansymptomaticcarotidendarterectomytrialcollaboratorsBeneficialEffectCarotid1991]
 
     -   Compared medical management vs CEA for symptomatic patients with
         moderate (50-69%) and severe stenosis (>70%)
@@ -478,7 +478,7 @@ asymptomatic patients with carotid atherosclerosis
         -   Follow up at 10 years demonstrated no difference in
             composite stroke/MI/death but increased rate of stroke/death
             in stented patients likely attributable to increased
-            periprocedural stroke. @brottLongTermResultsStenting2016b
+            periprocedural stroke. [@brottLongTermResultsStenting2016b]
 
     -   Subanalyses identified that older patients (>70y) had better
         outcomes after CEA than CAS, the QOL impact of stroke was more

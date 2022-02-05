@@ -19,7 +19,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_Upper_Extremity_po
 
 ## Anatomy/ Exposure of Vessels
 
-**What are the zones of the upper extremity?** @illig57UpperExtremity
+**What are the zones of the upper extremity?**
+[@illig57UpperExtremity2019; @illig57UpperExtremity2019]
 
 Division of the upper extremity into three zones:
 
@@ -65,7 +66,7 @@ vein is first structure encountered in the sheath and the artery lies
 just superior and deep to the vein. Make sure to avoid nerves of
 brachial plexus that lie deep to first part of axillary artery and are
 at risk for injury during blind placement of occluding arterial clamps.
-@garygwindAnatomicExposuresVascular2013
+[@garygwindAnatomicExposuresVascular2013]
 
 **What steps are involved for brachial artery exposure?**
 
@@ -130,7 +131,7 @@ aware of?**
 ## Epidemiology, etiology, and diagnostic evaluation
 
 **How does evaluation of upper extremity ischemia differentiate from
-lower extremity ischemia?** @shuja117UpperExtremity
+lower extremity ischemia?** [@shuja117UpperExtremity]
 
 -   Upper extremity ischemia \<5% of patients with limb ischemia and in
     contrast to lower extremity, atherosclerosis is not a major
@@ -220,7 +221,7 @@ Exposure (Transposition vs Bypass)
 **What are some common complications after carotid subclavian bypass in
 order of highest to lowest incidence?**
 
-Complications @voigtOutcomesCarotidsubclavianBypass2019
+Complications [@voigtOutcomesCarotidsubclavianBypass2019]
 
 1.  Phrenic nerve palsy  
 
@@ -243,7 +244,7 @@ Complications @voigtOutcomesCarotidsubclavianBypass2019
 ## Vaso-occlusive disease
 
 **What are causes and symptoms associated with subclavian/axillary
-occlusive disease?** @jacklcronenwettVascularDecisionMaking2020
+occlusive disease?** [@jacklcronenwettVascularDecisionMaking2020]
 
 -   Etiology: Atherosclerosis is the most common cause of
     subclavian/axillary occlusive disease. Left SCA > Right involvement.
@@ -362,7 +363,7 @@ underlying pathology?**
 
 ### **Ergotism**
 
-**What is Ergotism?** @jamescstanleyCurrentTherapyVascular2014
+**What is Ergotism?** [@jamescstanleyCurrentTherapyVascular2014]
 
 -   Etiology: Ergot is a parasitic fungal disease that has a particular
     prevalence for infecting rye plants and ergot alkaloids have been
@@ -404,7 +405,7 @@ Treatment: 
 ### **Buerger's Disease**
 
 **How is Buerger's disease categorized?**
-@jacklcronenwettVascularDecisionMaking2020
+[@jacklcronenwettVascularDecisionMaking2020]
 
 -   Non-atherosclerotic, segmental, inflammatory disease of small/medium
     sized arteries in distal extremities of tobacco users distinct from
@@ -457,7 +458,7 @@ Buerger's?**
 ### **Large Artery Vasculitis**
 
 **What are common characteristics for patients who are suspected to have
-a large vessel vasculitis?** @shanmugam137VasculitisOther2019
+a large vessel vasculitis?** [@shanmugam137VasculitisOther2019]
 
 -   Affect aorta and major branches 
 
@@ -561,7 +562,7 @@ surgical treatment?**
 ## Aneurysmal Disease
 
 **How are subclavian aneurysms caused and how can they present?**
-@baig84UpperExtremity2019
+[@baig84UpperExtremity2019]
 
 Etiology/Pathology:
 
@@ -710,7 +711,7 @@ Treatment: 
 vascular disease in the upper extremity. Hand arm vibration syndrome and
 hypothenar hammer are of particular importance. Can you talk to us about
 the key information from these syndromes?**
-@eskandari185ConditionsArising2020
+[@eskandari185ConditionsArising2020]
 
 ### Hand-Arm Vibration Syndrome 
 
@@ -854,7 +855,7 @@ Overview
 
 **This is discussed in detail here:** \@ref(vascular-trauma), **so we
 will go over some important specifics for upper extremity vascular
-injury.** @kauvar184VascularTrauma2020
+injury.** [@kauvar184VascularTrauma2020]
 
 **What is the mechanism and management of upper extremity axillary
 artery trauma?**
@@ -1027,7 +1028,7 @@ Types: Neurogenic, Venous and Arterial 
 
 -   aTOS -- 1%
 
--   nTOS --  >95% @humphries124ThoracicOutlet2019
+-   nTOS --  >95% [@humphries124ThoracicOutlet2019]
 
 ### Anatomy
 
@@ -1039,9 +1040,9 @@ compression:
 
 1.  Interscalene Triangle 
 
-2.  Costoclavicular Passage @garygwindAnatomicExposuresVascular2013
+2.  Costoclavicular Passage [@garygwindAnatomicExposuresVascular2013]
 
-3.  Subcoracoid Space @garygwindAnatomicExposuresVascular2013
+3.  Subcoracoid Space [@garygwindAnatomicExposuresVascular2013]
 
 **Interscalene Triangle:**
 
@@ -1058,7 +1059,7 @@ Attachments: Anterior Tubercles of the four 'typical' cervical vertebrae
 
 Attachments: The posterior tubercles and intertubercular lamellae of all
 the cervical vertebrae AND the Quadrangular area between the neck and
-subclavian groove of the first rib. @mcminnLastAnatomyRegional2019
+subclavian groove of the first rib. [@mcminnLastAnatomyRegional2019]
 
 **The First Rib:** 
 
@@ -1077,13 +1078,14 @@ subclavian groove of the first rib. @mcminnLastAnatomyRegional2019
     through the tight space created by the clavicle, the subclavius
     muscle and the costoclavicular ligament and also more posteriorly
     this can also compress the artery and nerves as the space can also
-    be narrow in relation with the scapula and subscapularis. \[2\]
+    be narrow in relation with the scapula and subscapularis.
+    [@garygwindAnatomicExposuresVascular2013]
 
 **Subclavius Muscle:**
 
 -   Attached to the costochondral junction of the first rib and is
     inserted into the subclavian groove on the inferior surface of the
-    clavicle. @mcminnLastAnatomyRegional2019
+    clavicle. [@mcminnLastAnatomyRegional2019]
 
 -   This space is best appreciated by intimate knowledge of three
     things:
@@ -1131,7 +1133,7 @@ the first rib.
     0.75% respectively. 
 
 -   Incidence of bands are as high as 63% in the general population.
-    @humphries124ThoracicOutlet2019
+    [@humphries124ThoracicOutlet2019]
 
 nTOS  
 
@@ -1206,7 +1208,7 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 -   A further manoeuvre is then performed, laterally flex the head on
     each side, if pain is elicited on the contralateral side to which
     the head is flexed then test is positive.
-    @humphries124ThoracicOutlet2019
+    [@humphries124ThoracicOutlet2019]
 
 #### Non-invasive imaging or vascular lab studies
 
@@ -1233,68 +1235,73 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
     in a hundred years earlier defined acute arm swelling and pain as
     possibly related to vasospasm and then von Schroetter who in 1884
     attributed to the presentation to subclavian and axillary vein
-    thrombosis. @humphries123ThoracicOutlet2019
+    thrombosis. [@humphries123ThoracicOutlet2019]
 
 -   Now vTOS and Paget Schroetter Syndrome are used synonymously.
 
 -   Paget Schroetter Syndrome accounts for 10-20% of all upper extremity
-    deep vein thrombosis. @sekharYearbookVascularEndovascular2018
+    deep vein thrombosis. [@sekharYearbookVascularEndovascular2018]
 
 ### Rib Resection approaches
 
-+-------------+-------------+-------------+-------------+
-| Type        | T           | Su p        | In f        |
-|             | r           | r           | r           |
-|             | ansaxillary | aclavicular | aclavicular |
-+=============+=============+=============+=============+
-| Advantages  | C           | -Good for   | -Good       |
-|             | osmetically | scalene     | access for  |
-|             | more        | triangle    | venous d    |
-|             | appealing   | access and  | e           |
-|             | as it has a | debulking   | compression |
-|             | limited     | and         |             |
-|             | hidden scar | cervical    | -Allows for |
-|             |             | rib         | excision of |
-|             |             | resection   | subclavius  |
-|             |             |             | muscle and  |
-|             |             | -Required   | c o s       |
-|             |             | for aTOS if | t           |
-|             |             | arterial r  | oclavicular |
-|             |             | e           | ligament    |
-|             |             | c           |             |
-|             |             | onstruction |             |
-|             |             | necessary   |             |
-+-------------+-------------+-------------+-------------+
-| D           | -Difficult  | -Unable to  | -Unable to  |
-| i           | to          | decompress  | expose      |
-| sadvantages | visualise   | venous      | subclavian  |
-|             | the         | compression | artery      |
-|             | anatomy,    | or          |             |
-|             | dependent   | visualise   | -Difficult  |
-|             | on good     | vein        | to access   |
-|             | assistance  | adequately  | most        |
-|             |             |             | posterior   |
-|             | -Risk of T1 | -   c       | aspect of   |
-|             | nerve root  | osmetically | rib         |
-|             | injury,     |     less    |             |
-|             | subclavian  |             | \-          |
-|             | vein injury |   appealing | C           |
-|             | and         |             | osmetically |
-|             | arterial    |             | less        |
-|             | injury with |             | appealing   |
-|             | limited     |             |             |
-|             |             |             |             |
-|             | exposure to |             |             |
-|             | repair      |             |             |
-|             |             |             |             |
-|             | -Not able   |             |             |
-|             | to approach |             |             |
-|             | cervical    |             |             |
-|             | ribs,       |             |             |
-|             | scalene     |             |             |
-|             | triangle or |             |             |
-|             | patch vein. |             |             |
-+-------------+-------------+-------------+-------------+
++------------+------------+------------+------------+
+| Type       | Tr         | Supr       | Infr       |
+|            | a          | a          | a          |
+|            | nsaxillary | clavicular | clavicular |
++============+============+============+============+
+| Advantages | C          | -Good for  | -Good      |
+|            | o          | scalene    | access for |
+|            | smetically | triangle   | venous d e |
+|            | more       | access and | c          |
+|            | appealing  | debulking  | ompression |
+|            | as it has  | and        |            |
+|            | a limited  | cervical   | -Allows    |
+|            | hidden     | rib        | for        |
+|            | scar       | resection  | excision   |
+|            |            |            | of         |
+|            |            | -Required  | subclavius |
+|            |            | for aTOS   | muscle and |
+|            |            | if         | c o s t    |
+|            |            | arterial r | o          |
+|            |            | e c        | clavicular |
+|            |            | o          | ligament   |
+|            |            | nstruction |            |
+|            |            | necessary  |            |
++------------+------------+------------+------------+
+| D i        | -Difficult | -Unable to | -Unable to |
+| s          | to         | decompress | expose     |
+| advantages | visualise  | venous     | subclavian |
+|            | the        | c          | artery     |
+|            | anatomy,   | ompression |            |
+|            | dependent  | or         | -Difficult |
+|            | on good    | visualise  | to access  |
+|            | assistance | vein       | most       |
+|            |            | adequately | posterior  |
+|            | -Risk of   |            | aspect of  |
+|            | T1 nerve   | -   c      | rib        |
+|            | root       |     o      |            |
+|            | injury,    | smetically | \- C       |
+|            | subclavian |     less   | o          |
+|            | vein       |            | smetically |
+|            | injury and | appealing  | less       |
+|            | arterial   |            | appealing  |
+|            | injury     |            |            |
+|            | with       |            |            |
+|            | limited    |            |            |
+|            |            |            |            |
+|            | exposure   |            |            |
+|            | to repair  |            |            |
+|            |            |            |            |
+|            | -Not able  |            |            |
+|            | to         |            |            |
+|            | approach   |            |            |
+|            | cervical   |            |            |
+|            | ribs,      |            |            |
+|            | scalene    |            |            |
+|            | triangle   |            |            |
+|            | or patch   |            |            |
+|            | vein.      |            |            |
++------------+------------+------------+------------+
 
 ### vTOS
 
@@ -1303,7 +1310,7 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 -   Incidence: 2/100,000 persons
 
 -   Age: 18 years to 30 years
-    @illigComprehensiveReviewPagetSchroetter2010
+    [@illigComprehensiveReviewPagetSchroetter2010]
 
 -   M>F
 
@@ -1312,13 +1319,13 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
     -   Collateral vein dilatation over the shoulder, neck and anterior
         chest wall to accommodate for the increased venous hypertension.
-        @humphries123ThoracicOutlet2019
+        [@humphries123ThoracicOutlet2019]
 
     -   Pain on exertion of the upper limb described as stabbing, aching
         or tightness.
 
     -   The reported incidence of PE following Upper Limb DVT is \<12%.
-        @humphries123ThoracicOutlet2019
+        [@humphries123ThoracicOutlet2019]
 
 #### History
 
@@ -1358,19 +1365,20 @@ retrospective studies. 
 -   Initial Management
 
 -   As per ACCP Guidelines: Initial management is anticoagulation
-    regardless of etiology. @kearonAntithromboticTherapyVTE2016
+    regardless of etiology. [@kearonAntithromboticTherapyVTE2016]
 
     -   The limitations of anticoagulation alone are that the slow
         recanalization of the thrombus may lead to eventual valvular
         damage and intravenous scarring.
-        @sekharYearbookVascularEndovascular2018
+        [@sekharYearbookVascularEndovascular2018]
 
     -   Thrombolysis has been considered superior to anticoagulation
         alone in minimizing valvular damage due to residual clot.
-        @urschelSurgeryRemainsMost2008
+        [@urschelSurgeryRemainsMost2008]
 
     -   Systemic Lysis -- non favoured due to risk of intracranial
-        haemorrhage. @grunwaldCatheterDirectedThrombolysisTreatment2004
+        haemorrhage.
+        [@grunwaldCatheterDirectedThrombolysisTreatment2004]
 
     -   Catheter Directed Lysis (CDT) -- carries a lower risk of
         intracranial haemorrhage.
@@ -1379,7 +1387,7 @@ retrospective studies. 
 
     -   Within 14 days of onset of thrombosis. Excellent results have
         been reported following CDT if initiated before 14 days.
-        @wilsonFibrinolyticTherapyIdiopathic1990
+        [@wilsonFibrinolyticTherapyIdiopathic1990]
 
 -   Surgical indications for vTOS
 
@@ -1404,17 +1412,17 @@ retrospective studies. 
     -   Deferring surgical decompression for 1-3 months after
         thrombolysis to allow for healing of the venous endothelium and
         resolution of the acute inflammatory process.
-        @humphries123ThoracicOutlet2019
+        [@humphries123ThoracicOutlet2019]
 
     -   Decompression during the same admission, as the thrombolysis,
         with the main benefit being to reduce the risk of re-occlusion.
-        @humphries123ThoracicOutlet2019
+        [@humphries123ThoracicOutlet2019]
 
 #### Landmark papers regarding vTOS and what are the take home messages
 
 1.  Lugo J et al -- Acute Paget Schroetter syndrome: does the first rib
     routinely need to be removed after thrombolysis? Annals of Vascular
-    Surgery 2015 @lugoAcutePagetSchroetter2015
+    Surgery 2015 [@lugoAcutePagetSchroetter2015]
 
     1.  Systematic literature review analysis. Patients divided into
         three groups
@@ -1438,7 +1446,7 @@ retrospective studies. 
 
 2.  Sajid MS et al -- Upper limb vein thrombosis: a literature review to
     streamline the protocol for management. Acta Haematology 2007
-    @sajidUpperLimbDeep2007
+    [@sajidUpperLimbDeep2007]
 
     1.  a comprehensive review identifying the key papers on this topic
         and allows for a clear view of the best management strategy. 
@@ -1497,7 +1505,7 @@ retrospective studies. 
 
 -   Clavicular Fracture (6%)
 
--   Enlarged C7 transverse process (1%) @boll122ThoracicOutlet2019
+-   Enlarged C7 transverse process (1%) [@boll122ThoracicOutlet2019]
 
 #### Scher Staging of aTOS
 
@@ -1515,7 +1523,7 @@ retrospective studies. 
 
 -   Symptomatic patients are generally indicated for treatment. Unlike
     asymptomatic patients in whom it may be appropriate to manage
-    conservatively. @boll122ThoracicOutlet2019
+    conservatively. [@boll122ThoracicOutlet2019]
 
 -   Supraclavicular rib resection is the most suitable for adequate
     arterial reconstruction. Transaxillary has been argued to offer more
