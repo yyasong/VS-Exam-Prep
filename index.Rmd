@@ -1,6 +1,6 @@
 --- 
 title: "Vascular Surgery Board Review"
-author: "Adam Johnson, MD, MPH; Matt Smith, MD, PhD; and Audible Bleeding"
+author: "Editors: Adam Johnson, MD, MPH; Matt Smith, MD, PhD; and Audible Bleeding"
 date: "`r Sys.Date()`"
 output: pdf_document
 documentclass: book
@@ -25,11 +25,11 @@ library(embedr)
 
 # About
 
-The content was developed here by the Audible Bleeding team to accompany our board review podcast episodes.
+The content was developed here by the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/) to accompany our board review podcast episodes.
 
 ## Usage 
 
-This is not a comprehensive guide but instead an outline of the most high yield information to help guide board preparation.
+This is not a comprehensive textbook but instead an outline of the most high yield information to help guide board preparation.
 
 ## Comments, Questions or Contributions
 
