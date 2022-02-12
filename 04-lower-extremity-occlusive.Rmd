@@ -116,10 +116,9 @@ Non Modifiable:
         [@bildMultiEthnicStudyAtherosclerosis2002]
 
     -   Cross Sectional analysis 6653 subjects all with ABPI assessment
-        revealed a prevalence of PAD (\<0.9) of 4%. Non-Hispanic
-        Whites: 3.6%, Asian: 2%, African American: 7.2% and
-        Hispanic: 2.4%. (p\<0.01)
-        [@allisonEffectNovelCardiovascular2006]
+        revealed a prevalence of PAD (\<0.9) of 4%. Non-Hispanic Whites:
+        3.6%, Asian: 2%, African American: 7.2% and Hispanic: 2.4%.
+        (p\<0.01) [@allisonEffectNovelCardiovascular2006]
 
 **What are the some of the major population-based trials looking at the
 natural history?**
@@ -181,8 +180,10 @@ claudication allows for a period of detection, management and and risk
 factor modification before they develop tissue loss and are at risk of
 amputation.
 
-Since 2014 and the publication of WIfI a lot has changed in the way we view
-PAD leading up to last years new Global Vascular Guidelines on CLTI, which as a term has replaced CLI. [@millsSocietyVascularSurgery2014a;@conteGlobalVascularGuidelines2019a]
+Since 2014 and the publication of WIfI a lot has changed in the way we
+view PAD leading up to last years new Global Vascular Guidelines on
+CLTI, which as a term has replaced CLI.
+[@millsSocietyVascularSurgery2014a; @conteGlobalVascularGuidelines2019a]
 
 ## Intermittent Claudication
 
@@ -277,28 +278,13 @@ POAD. [@strandnessHemodynamicsSurgeons1975a]
 
 **What is the ultrasound duplex criteria for defining PAOD?**
 
-+-------------+--------------------+-------------+------------------+
-| Stenosis    | Peak Systolic      | Velocity    | Distal Artery    |
-| Category    | Velocity           | Ratio       | Spectral         |
-|             |                    |             | Waveform         |
-+=============+====================+=============+==================+
-| Normal      | \<150              | \<1.5       | Triphasic,       |
-|             |                    |             | Normal PSV       |
-+-------------+--------------------+-------------+------------------+
-| 30-49%      | 150-200            | 1.5-2       | Triphasic,       |
-|             |                    |             | Normal PSV       |
-+-------------+--------------------+-------------+------------------+
-| 50-75%      | 200-400            | 2-4         | Monophasic,      |
-|             |                    |             | reduced PSV      |
-+-------------+--------------------+-------------+------------------+
-| \>75%       | \>400              | \>4         | Damped,          |
-|             |                    |             | monophasic,      |
-|             |                    |             | reduced PSV      |
-+-------------+--------------------+-------------+------------------+
-| Occlusion   | No Flow -- B       |             |                  |
-|             | -mode, Terminal    |             |                  |
-|             | Thump              |             |                  |
-+-------------+--------------------+-------------+------------------+
+| Stenosis Category | Peak Systolic Velocity             | Velocity Ratio | Distal Artery Spectral Waveform |
+|-------------------|------------------------------------|----------------|---------------------------------|
+| Normal            | \<150                              | \<1.5          | Triphasic, Normal PSV           |
+| 30-49%            | 150-200                            | 1.5-2          | Triphasic, Normal PSV           |
+| 50-75%            | 200-400                            | 2-4            | Monophasic, reduced PSV         |
+| \>75%             | \>400                              | \>4            | Damped, monophasic, reduced PSV |
+| Occlusion         | No Flow -- B -mode, Terminal Thump |                |                                 |
 
 Adapted from [@stone21VascularLaboratory2019]
 
@@ -307,7 +293,9 @@ Adapted from [@stone21VascularLaboratory2019]
 SVS Guidelines (2015)
 
 -   The SVS published the SVS practice guidelines for atherosclerotic
-    occlusive disease of the lower extremities:**Management of asymptomatic disease and claudication**. *Conte and Pomposelli et al. JVS 2015* [@conteSocietyVascularSurgery2015]
+    occlusive disease of the lower extremities:**Management of
+    asymptomatic disease and claudication**. *Conte and Pomposelli et
+    al. JVS 2015* [@conteSocietyVascularSurgery2015]
 
 Other Guidelines:
 
@@ -337,11 +325,12 @@ on the SVS Guidelines?**
 
 -   Statin Therapy
 
-    -   The Heart Protection Study [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007] - this
-        study looked at Statins in patients with PAD but not completely
-        asymptomatic, they had other risk factors such as diabetes, IHD,
-        cerebral disease or hypertension. Without these risk factors
-        Statin therapy benefit unsure.
+    -   The Heart Protection Study
+        [@heartprotectionstudycollaborativegroupRandomizedTrialEffects2007] -
+        this study looked at Statins in patients with PAD but not
+        completely asymptomatic, they had other risk factors such as
+        diabetes, IHD, cerebral disease or hypertension. Without these
+        risk factors Statin therapy benefit unsure.
 
     -   However, the AHA from the Framingham Study does recommend using
         Statins if 10-year risk based on risk calculators >7.5% (which
