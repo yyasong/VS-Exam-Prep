@@ -1,5 +1,5 @@
 --- 
-title: "Vascular Surgery Board Review"
+title: "Vascular Surgery Exam Prep"
 author: "Editors: Adam Johnson, MD, MPH; Matt Smith, MD, PhD; and Audible Bleeding"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -12,6 +12,8 @@ description: |
 link-citations: yes
 github-repo: https://github.com/adam-mdmph/VS-Board-Review
 site: bookdown::bookdown_site
+apple-touch-icon: "images/apple_icon.pdf"
+apple-touch-icon-size: 120
 ---
 
 
