@@ -6,10 +6,523 @@ editor_options:
 
 # Mesenteric Disease
 
+**09 Apr 2020**: *Matt Chia, MD and Nick Mouawad, MD*
+
 ```{r echo=FALSE}
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Mesenteric_Ischemia.mp3")
 
 ```
 
-## 
+Mesenteric vascular disease can be broken down into three disease states
+that we'll cover today. There's the arterial disease, which is clearly
+separated into acute mesenteric ischemia and chronic mesenteric
+ischemia. Then there is venous disease, which we'll touch on briefly.
+There are also a handful of somewhat related diseases that we'll also
+sprinkle into these discussions, like median arcuate ligament syndrome
+and SMA syndrome, but that's overall where we're headed.
+
+## Acute Mesenteric Ischemia
+
+### Presentation and diagnosis
+
+**Can you tell me about the classic presentation and approach to
+patients presenting with acute mesenteric ischemia?**
+
+These patients present with the sudden onset of abdominal pain. Nausea,
+vomiting, distention, and diarrhea (possibly bloody, described as
+"sudden and forceful evacuation") are the common symptoms. Pain out of
+proportion is the classic buzzword, and can be hidden on multiple choice
+tests with a pain score of 10/10 with only mild abdominal tenderness on
+physical exam.
+
+Vitals typically normal, possible tachycardia.
+
+Lab evaluation typically unremarkable. Leukocytosis, hemoconcentration,
+and acidosis (high anion gap) all are frequently found, but the absence
+of these definitely does **not** rule out acute mesenteric ischemia.
+
+D-dimer has been proposed as a reasonable rule-out test for acute
+mesenteric ischemia.
+
+**How about radiology studies?**
+
+[Plain film:]{.ul}
+
+Frequently normal, may show ileus in the early stages. In late stage
+acute mesenteric ischemia, findings on plain film can include bowel wall
+edema (thumbprinting) or pneumatosis.
+
+[CT angio:]{.ul}
+
+Probably represents the most common diagnostic modality to diagnose
+acute mesenteric ischemia. CTA has the advantages of speed,
+availability, and noninvasiveness when compared to conventional
+angiography, and also allows for some assessment of the degree of bowel
+involvement. 
+
+Preferentially, a "negative" oral contrast agent would help prevent oral
+contrast from causing artifact or obscuring evaluation of the vessels,
+although the availability of these agents may limit their use.
+
+**How about mesenteric duplex (vascular lab studies)?**
+
+Mesenteric duplex has the advantage of being able to see the velocity of
+flow across a stenosis, giving you a good method of quantifying the
+significance of a stenosis. However, bowel gas often limits the acoustic
+windows for visualizing the mesenteric arteries, and so we usually will
+have patients fast for several hours before a study. Also, duplex is
+more sensitive for proximal disease rather than distal mesenteric
+involvement. For these reasons, mesenteric duplex is considered the gold
+standard for evaluating chronic mesenteric ischemia, but has no real
+role in the evaluation of acute mesenteric ischemia. Can you imagine,
+having a tech mash a transducer into a patient with acute abdominal
+pain?[!]{.ul} 
+
+### Management
+
+**What's your approach to the initial management of the patient?**
+
+1.  [Resuscitation]{.ul}. Fluids, fluids, fluids. These patients are
+    really volume down, and are headed towards a profound distributive
+    shock that will be worsened by your eventual plan for
+    revascularization (think ischemia-reperfusion injury). Also look for
+    electrolyte imbalances and correct those early.
+
+2.  [Antibiotics]{.ul}. These patients are not usually septic on initial
+    presentation, but are at high-risk, so broad-spectrum antibiotics
+    with gut coverage (Gram negative and anaerobes) are standard of
+    care.
+
+3.  [Heparin]{.ul}. In the absence of a clinical contraindication, these
+    patients should be systemically heparinized, with a bolus, as soon
+    as the diagnosis is made. 
+
+**Which blood vessel does acute mesenteric ischemia typically involve?**
+
+The SMA. This makes sense if you think of each mesenteric distribution.
+The celiac distribution has organs that have redundant blood supply
+(like liver and stomach). The IMA is frequently occluded in patients
+with AAA, but the patients are rarely ever symptomatic due to collateral
+flow. The hypogastrics (which ARE mesenteric vessels, especially in the
+situation of an occluded IMA) principally supply the rectum from a
+mesenteric standpoint.
+
+For embolic pathology, the acute angle of the SMA seems to predispose it
+to capture emboli from above, but this is more theoretical than proven.
+
+**Tell me about the two main pathologies, and how they would differ in
+terms of the anatomy and operative findings.**
+
+So the two most common etiologies of acute mesenteric ischemia are
+embolism and thrombosis. 
+
+Embolism is the more common, where preexisting thrombus (think atrial
+fibrillation, mural thrombus from thoracic aneurysm, etc.) or plaques
+from atherosclerotic disease break off and lodge in the SMA. The classic
+operative finding is that an embolism lodges just distal to the middle
+colic artery, where there is a significant caliber change in the SMA.
+This is distal to the first few jejunal branches off of the SMA, leading
+to the classic sparing of the proximal jejunum and transverse colon. In
+other words, the mid to distal jejunum and all of the ileum will be
+ischemic, but other areas of the SMA territory are spared.
+Atherosclerotic debris is typically smaller, and results in smaller,
+more patchy areas of ischemia.
+
+Thrombosis occurs primarily as a plaque rupture of preexisting
+atherosclerotic disease, resulting in acute thrombosis at the site of
+the disease. Thus the patients will often present with an
+acute-on-chronic symptomatology, having classic symptoms of postprandial
+abdominal pain, food fear, and weight loss, but with a sudden onset of
+severe symptoms. This frequently allows for the development of
+mesenteric collaterals, which may make the onset of acute symptoms more
+insidious than for embolic pathology. In the majority of situations, the
+atherosclerotic disease is most severe right at the origin (consistent
+with what we know about shear stress and branch points in blood
+vessels). This means that when the plaque ruptures, the entirety of the
+SMA occludes, leading to ischemia of the entire territory, as opposed to
+the jejunal-sparing distribution seen in embolic disease.
+
+**Describe the operative steps to getting exposure of the supraceliac
+aorta (or the celiac artery).**
+
+1.  Divide triangular ligament to mobilize left lobe of liver
+
+2.  Divide gastrohepatic ligament to enter the lesser sac 
+
+3.  Retract liver to right with a self-retaining retractor
+
+4.  Push esophagus left (use NGT to assist with identification)
+
+5.  Divide peritoneum overlying crura to identify celiac vessels
+
+6.  Typically trace common hepatic artery backwards to identify celiac
+    artery
+
+    -   Watch out for the left gastric vein as it crosses the celiac
+        artery as it drains the lesser curve of the stomach into the
+        portal vein.
+
+    -   About half of the time, the phrenic artery takes an origin from
+        the celiac artery and must be controlled during exposure.
+
+7.  To expose the supraceliac aorta, divide the median arcuate ligament
+    and separate the left and right crura from each other.
+
+**So through this kind of exposure, what mesenteric vessels do you get
+access to?**
+
+You can trace most of the proximal celiac distribution right at the
+origin, and through this exposure you get access to the origin of the
+SMA if you mobilize the superior border of the pancreas. The neck of the
+pancreas and the splenic vein cross the anterior of the SMA, obscuring
+the rest of the mid and distal SMA from the superior approach.
+
+**How about getting to the rest of the SMA?**
+
+There are a couple of places you can get exposure to the SMA. 
+
+Most commonly you'll hear it described at "root of the mesentery."
+Specifically, lifting up the transverse colon will stretch out its
+mesentery (i.e. transverse mesocolon). At the bottom, or "root" of the
+transverse mesocolon, a transverse incision is made. If the middle colic
+artery is palpable in the mesocolon, the incision can be made around it,
+and you can trace the middle colic backwards to the SMA. Usually you'll
+find the SMV first, and the SMA will be just to the left of it. Be sure
+to identify and preserve small jejunal branches during the dissection.
+If needed, careful dissection superiorly, going behind the inferior
+border of the pancreas can get a little more proximal exposure.
+
+Alternatively, you can get to the SMA from a lateral approach,
+specifically from the left side. Begin by dividing the ligament of
+Treitz and mobilizing the 4th portion of the duodenum. The SMA is found
+in the tissues just cephalad to the duodenum. You can also improve your
+proximal exposure if needed by retracting the inferior border of the
+pancreas cephalad to the level of the left renal vein.
+
+Other options include a retroperitoneal exposure, like you were
+preparing to treat a thoracoabdominal aneurysm. Additionally, the more
+distal SMA can just be identified in the small bowel mesentery.
+
+**So for the operative strategy for acute mesenteric ischemia, tell me
+about the general approach to the patient.**
+
+1.  [Resect frankly necrotic bowel and contain gross spillage]{.ul}.
+    Once you revascularize the bowel, compromised-appearing bowel may
+    improve and not need immediate resection. Thus the first step is
+    only damage control, to remove anything completely unsalvageable
+    that is making the patient sick, or anything causing gross
+    contamination of the operative field. The key is you're not doing
+    anything definitive with the bowel as your first step.
+
+2.  [Revascularization]{.ul}. SMA embolectomy is the initial management
+    of choice for embolic disease. Thrombotic disease, on the other
+    hand, may be more challenging to treat by embolectomy alone, and
+    frequently are treated with a bypass. (More to come on these
+    procedures).
+
+3.  [Re-assess bowel viability]{.ul}. Clinical status permitting, 20-30
+    minutes should be taken to fully assess the results of the
+    revascularization before proceeding with resection. Perfusion can be
+    assessed by many methods, including clinically, by Doppler, pulse
+    oximetry (a.k.a. photoplethysmography), fluorescein fluorescence,
+    etc. The take home is to give the bowel enough time to be perfused
+    before going ahead with resection.
+
+4.  [Proceed with temporizing or definitive bowel repair]{.ul}.
+    Resection, leaving in discontinuity, primary anastomosis, diversion,
+    etc. All of these are options on the table, but the key here is that
+    all of the previous steps occur before addressing the bowel. 
+
+5.  [Consider second-look laparotomy.]{.ul} Many times, bowel may look
+    questionable even after revascularization and thorough
+    re-assessment. To preserve the most bowel length, it may be
+    reasonable to leave borderline bowel alone at the index operation
+    and do a "second look" to fully reassess the bowel, especially after
+    the patient has benefitted from aggressive resuscitation in the ICU.
+
+**Let's talk a little about the steps for an SMA embolectomy.**
+
+Typically, you'll expose at the root of the transverse mesocolon. After
+obtaining proximal and distal control, an arteriotomy is made, and
+embolectomy can be performed by passing Fogarty catheters in both a
+retrograde and antegrade fashion. The arteriotomy can be made
+transversely for an embolectomy, and thus could be closed primarily. A
+longitudinal arteriotomy may be advisable if you have a high suspicion
+that you'll need to do a bypass, and if not, may be closed with vein
+patch angioplasty (remember that the field is contaminated or dirty in
+many situations).
+
+**So if I'm gonna do a bypass, what are my options for conduit?**
+
+Yeah, so again, because the field is frequently contaminated or dirty, a
+good conduit is saphenous, followed by femoral vein. Thus every patient
+undergoing surgery for acute mesenteric ischemia should have both legs
+prepped out in the field. Prosthetic conduit has the advantages of being
+more resistant to kinking (externally reinforced), likely better patency
+than vein (although data are a little mixed), but in the situation of
+gross contamination may be less preferred than vein. Other less common
+options include cryo-preserved cadaveric homograft, or rifampin-soaked
+prosthetic.
+
+**And what are some of my options for constructing a bypass?**
+
+[Short retrograde aorto-SMA bypass:]{.ul}
+
+This bypass takes is origin off of the aorta just below the SMA,
+anastomosing typically end-side onto the SMA just below its origin in
+order to bypass ostial or very proximal disease. This is a relatively
+quick bypass, with only one field of dissection directly from the aorta
+below the SMA onto the proximal-mid SMA. The length of the bypass is
+very short, limiting concerns with kinking or twisting of the bypass.
+However, this may not always be feasible, as SMA disease often coexists
+with significant aortic disease. Additionally, the other bypasses
+described have better reported patency.
+
+[Long retrograde R iliac-SMA bypass ("C-loop"):]{.ul}
+
+This bypass originates from the right common iliac artery, which
+presents a number of distinct advantages over an aorto-mesenteric
+bypass. First, using the iliacs avoids the hemodynamic consequences of
+an aortic cross-clamp, which may be contraindicated depending on your
+patient's medical condition. Second, you can avoid showering, causing
+dissection, or otherwise injuring your clamp sites if you have
+significant disease in the mesenteric segment of the aorta, which is
+common in patients with chronic mesenteric ischemia. The graft should be
+tunneled in a gentle C-loop towards the SMA to avoid kinging or
+twisting. The proximal anastomosis is performed end-side on the iliac
+artery, and the distal can be performed either end-end or end-side
+depending on the anatomy of the disease. Especially when using
+prosthetic in a contaminated field, you can consider taking an omental
+flap to wrap or cover the prosthetic.
+
+[Antegrade supraceliac aorta-SMA bypass:]{.ul}
+
+This bypass originates from the supraceliac aorta. If revascularization
+of both celiac and SMA is planned, a bifurcated graft can be selected. A
+side-biting aortic clamp can be used to mitigate the hemodynamic effect
+of an aortic cross-clamp. The tunnel to the SMA is created with gentle
+finger dissection in a retropancreatic plane, taking care to avoid
+injury to the SMV.
+
+**What other options have been described for treatment of acute
+mesenteric ischemia?**
+
+[Retrograde open mesenteric stenting (ROMS)]{.ul}
+
+So ROMS is a hybrid procedure involving an upper midline laparotomy that
+is used to evaluate the bowel. Through this incision, SMA exposure is
+obtained just as in a traditional open fashion at the root of the
+mesentery. The mid-SMA is then punctured under direct vision, and the
+area of disease is attempted to be treated from a retrograde approach
+back into the aorta. If bowel ischemia is found, the upper midline is
+easily lengthened into a traditional vertical laparotomy incision.
+
+[Endovascular treatment (percutaneous thrombectomy / thrombolysis /
+pharmacomechanical thrombectomy)]{.ul}
+
+Some authors have described completely endovascular approaches to
+treatment of acute mesenteric ischemia. However, the major limitation is
+the inability to assess the bowel. These patients are frequently those
+who are deemed to be lower-risk for frank bowel ischemia or perforation,
+but the rates of laparotomy and bowel resection after these treatments
+have been described at over 20%. Probably not your first answer for oral
+boards.
+
+### Rare Etiologies
+
+**What are some other, more rare etiologies of acute mesenteric
+ischemia?**
+
+Sure, so remember that embolism is the most common etiology of acute
+mesenteric ischemia, approaching half of these patients. The thrombotic
+etiology composes another quarter to a third of these populations. The
+other two etiologies to consider are non-occlusive mesenteric ischemia
+and mesenteric venous thrombosis.
+
+Perfect, so how does a non-occlusive mesenteric ischemia (or NOMI)
+patient differ from what we've been talking about?
+
+So NOMI patients typically do not have a focal lesion like you see with
+embolism or thrombosis. What happens to these patients is that
+classically they're pretty sick patients with some predisposing factors,
+most commonly ESRD. On top of that, there was some clear inciting
+hemodynamic event causing sustained hypotension, such as recently
+getting a session of hemodialysis or undergoing cardiopulmonary bypass.
+The presentation is more indolent and less obvious than embolic or
+thrombotic acute mesenteric ischemia, and the imaging findings are more
+consistent with a diffuse vasospasm and hypovolemia picture. Treatment
+is primarily conservative, with the emphasis on resuscitation and
+addressing whatever the underlying etiology is. Adjuncts to this include
+placement of infusion catheters into the affected vessel with infusions
+of vasodilators (most commonly papaverine) or prostaglandin.
+
+**How about mesenteric venous thrombosis?**
+
+This is the most rare and most difficult to diagnose. They have a very
+slow course, frequently with a lot of other workup already done. There's
+a wide variety of causes that have been reported, and any of the things
+that contribute to Virchow's triad have been reported (thrombophilia
+from coagulopathy or malignancy, venous stasis from abdominal
+hypertension or obesity, direct injury from trauma, surgery, or
+inflammation). The diagnostic test of choice is a CT venogram, which
+most commonly identifies thrombosis in the superior mesenteric vein (but
+can also involve the IMV, portal vein, or splenic vein). The treatment
+of choice is therapeutic anticoagulation.
+
+## Chronic Mesenteric Ischemia
+
+### Presentation and Diagnosis
+
+**How does chronic mesenteric ischemia differ in its presentation?**
+
+Chronic mesenteric ischemia is characterised by post-prandial abdominal
+pain, typically 30-60 minutes after eating (think after gastric emptying
+time). This pain is usually severe, crampy, and resolves after minutes
+to hours of time. The pain leads to food fear and
+eventual [unintentional]{.ul} weight loss.
+
+The clinical presentation here is key. Chronic mesenteric ischemia is
+pretty unlikely in patients who do not have this constellation of
+clinical symptoms, and it's really common for patients to be referred
+with imaging findings of elevated mesenteric velocities on duplex who
+have none of the clinical findings, and thus do not benefit from any
+intervention.
+
+**What are the duplex criteria for chronic mesenteric ischemia?**
+
+Yeah, so really the two vessels we're concerned with here are the celiac
+artery and the SMA. It's pretty rare that stenosis of the IMA results in
+clinically significant ischemia, and also pretty rare that isolated
+disease of either the celiac or the SMA would be enough to cause
+significant symptoms. Typically you see the classic symptomatology of
+chronic mesenteric ischemia in patients with occlusive disease in both
+the celiac and the SMA.
+
+The key numbers to remember here are peak systolic velocities (that's
+PSV) of 200 cm/s for the celiac artery, and 275 cm/s for the SMA. These
+correspond to a stenosis of at least 70%. Remember,
+the **superior** mesenteric artery has **higher** velocity criteria, in
+case you forget. These classic numbers come from a study done in 1993,
+and many other studies have demonstrated other thresholds. Make sure to
+check with your friendly neighborhood vascular technician to see what
+the thresholds in your local lab are!
+
+In addition to the PSV, you can also use the end diastolic velocity
+(EDV) to predict stenosis. For the EDV values in the celiac and the SMA,
+think approximately 50 cm/s predicts a stenosis of 50% (easy to
+remember, **50-50**).
+
+You can also predict a higher degree of stenosis with EDV values. This
+is easy for the SMA, where an EDV of 70 cm/s predicts a stenosis of 70%
+(**70-70**). For the celiac, it's a bit higher, where an EDV of 100 cm/s
+predicts that same 70% stenosis.
+
+So to review the numbers: [@monetaDuplexUltrasoundCriteria1991;
+@monetaMesentericDuplexScanning1993; @zwolakMesentericCeliacDuplex1998]
+
+-   PSVs: 200 in the celiac or 275 in the SMA gives you 70% stenosis
+
+-   EDVs: 50s in the celiac or 50s in the SMA gives you 50% stenosis
+
+-   EDV #2: 100 in the celiac, or 70 in the SMA gives you 70% stenosis.
+
+Final thought. When the celiac artery is severely narrowed or occluded,
+often you'll have retrograde flow coming from the SMA via collaterals
+(these are your pancreaticoduodenal arcades via the GDA). You can see
+this as backwards flow in the common hepatic artery, and this has 100%
+specificity for disease in the celiac artery.
+
+### Management
+
+**What's next in the approach to these patients?**
+
+Frequently they're going to get some kind of axial imaging, either CTA
+or MRA, to help plan for their revascularization, although this isn't
+strictly necessary. Often endovascular approaches are the mainstay of
+treatment. Remember that the angle of the SMA frequently favors a
+brachial approach, although you can also engage the SMA from a femoral
+approach with preformed catheters (think Sos, Cobra, etc) or steerable
+sheaths. Remember to watch out for median nerve compression from
+brachial sheath hematomas if you've opted for a percutaneous brachial
+approach, with a low threshold to evacuate the hematoma and perform
+median nerve decompression if the patient develops and symptoms in the
+median nerve distribution postoperatively. Also remember that a brachial
+sheath hematoma will not be easily palpable or visible at the skin
+level, so the neurologic exam postoperatively is key.
+
+**Any other technical tips for endo intervention on the mesenterics?**
+
+Most often balloon-expandable stents are selected for the mesenteric
+circulation. The precision of deployment and the increased hoop strength
+of a balloon expandable stent make them more favorable here over the
+radial force of a self-expanding stent. You can also flare the proximal
+end of a balloon-expandable stent into the aorta, making sure that
+you've really treated any ostial disease. Some authors advocate for use
+of embolic protection devices to prevent distal embolism, and other
+authors also advocate for the use of covered stents for the mesenteric
+circulation due to better patency. 
+
+**How about open revascularization?**
+
+So we talked a lot about open revascularization earlier in the acute
+mesenteric ischemia segment. The techniques are broadly similar, with
+the exception that often for chronic mesenteric ischemia, frequently
+you'll be planning to revascularize both the celiac and the SMA. The
+approach for this is with a bifurcated graft from the supraceliac aorta,
+taking one limb down to the celiac artery, and the other limb tunneled
+in a retropancreatic fashion to the mid-SMA. Remember that this approach
+requires a supraceliac aortic cross clamp, which your patient may not be
+able to tolerate. Taking a retrograde bypass off of the common iliac
+artery as we previously described may be a better option for these
+patients. A further option that completely avoids a bypass is to go
+right for a trapdoor endarterectomy of the celiac artery and the SMA,
+allowing you to address coral reef or proximal/ostial disease (such as
+flush occlusions) that are difficult to treat endovascularly. 
+
+## Median Arcuate Ligament Syndrome (MALS)
+
+**Can you tell me about median arcuate ligament syndrome and how that
+differs from chronic mesenteric ischemia?**
+
+Sure, so median arcuate ligament syndrome (MALS), which has many names
+(Dunbar syndrome, celiac axis compression syndrome, etc.) is a somewhat
+controversial entity that occurs when repeated compression of the celiac
+artery occurs against the median arcuate ligament during respiratory
+variation. The thing you want to visualize here is that during full
+exhalation, the lungs are completely emptied, and the diaphragm moves up
+at a sharper angle. This angulation kinks off the celiac artery more
+severely, so velocities in **exhalation** are **higher** in MALS.
+However, these findings are common in asymptomatic patients, and so just
+like chronic mesenteric ischemia, the clinical presentation is key.
+They'll have a similar presentation as chronic mesenteric ischemia
+patients, with post-prandial pain, food fear, and weight loss, but often
+the symptomatology is a little more indolent in these patients. Because
+of this, these patients have frequently gotten the million dollar workup
+for nonspecific GI pain. The treatment of choice for suspected MALS is a
+laparoscopic median arcuate ligament release, frequently performed by a
+MIS/foregut surgeon. A key point here is that you don't want to be
+fooled into putting a stent in these patients before they've gotten
+their median arcuate ligament release, because the dynamic motion of the
+diaphragm is likely to crimp or bend the stent if that hasn't been
+treated yet. It may be that some patients benefit from endovascular
+treatment after release, though, as some think that the chronic damage
+from MALS can result in intimal damage/scarring that persists even after
+the extrinsic compression is treated by the median arcuate ligament
+release.
+
+## SMA Syndrome
+
+**What is SMA syndrome?**
+
+So SMA syndrome, also called Wilkie's Syndrome is a rare entity where
+the 3rd portion of the duodenum gets compressed between the SMA and the
+aorta, causing a functional gastric outlet obstruction. Patients are
+typically emaciated, having lost a significant amount of weight before
+their symptom onset. What's happened is they've lost the fat pat that
+normally surrounds the SMA, and so the angle between the SMA and the
+aorta becomes more acute, pinching off the duodenum. The treatment of
+choice here is enteral feeding with a nasojejunal tube or other
+surgically placed tube, because what really will help them here is
+weight gain. It's not really a mesenteric vascular disease, but it
+sometimes shows up on exams as a related entity.
