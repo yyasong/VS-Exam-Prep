@@ -5,7 +5,7 @@ date: "`r Sys.Date()`"
 output: pdf_document
 documentclass: book
 bibliography: [references.bib, packages.bib]
-csl: apa.csl
+csl: apa-numeric-superscript-brackets.csl
 url: https://adam-mdmph.github.io/VS-Board-Review/
 description: |
   This is an ebook version of board review content produced for Audible Bleeding: The Vascular Surgery Podcast
