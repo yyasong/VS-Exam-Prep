@@ -6,10 +6,1269 @@ editor_options:
 
 # Renal
 
+**29 Jun 2020:** *Dr. Cullen McCarthy and Dr. Matthew Edwards; Wake
+Forest*
+
 ```{r echo=FALSE}
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Renalvascular_take_2.mp3")
 
 ```
 
-## 
+## Pathophysiology
+
+**What is renovascular hypertension?**
+
+Hypertension as a result of progressive renal artery stenosis
+
+-   While renal artery stenosis is a relatively common finding in older
+    patients with hypertension, it's relatively uncommon as the primary
+    cause of hypertension.
+
+**What is ischemic nephropathy?**
+
+Decreased renal function and/or chronic kidney disease that results from
+atherosclerotic renal artery stenosis due to a reduction in glomerular
+filtration rate (GFR) and rise in creatine produced by any cause of
+diminished renal blood flow that threatens
+
+**Who is at risk for ischemic nephropathy?**
+
+Renal injury can develop in anyone with a kidney or kidney region beyond
+a critically stenotic artery
+
+-   Now, this is usually in patients with atherosclerotic disease, but
+    any flow limiting lesion---such as coarctation of the aorta,
+    mid-aortic syndrome, or fibromuscular dyplasia-- can cause ischemic
+    neuropathy OR renovascular hypertension.
+
+-   In terms of clinical practice, the prevalence of renovascular
+    hypertension is probably less than 1 % in patients with mild
+    hypertension but may be as high as 10 to 40 % in patients with acute
+    (even if superimposed on a preexisting elevation in blood pressure),
+    severe, or refractory hypertension.
+
+**That's the best you can do, 10-40%? That's a big window.**
+
+Yes, and it illustrates the biggest issue we have with renovascular
+disease. We know 5-22 % of patients 50 years or older who have advanced
+CKD have some degree of renal artery stenosis and 23 to 54% of these
+patients have bilateral renal artery disease.
+
+-   Bilateral renal arterial stenosis is associated with more widespread
+    atherosclerotic disease, higher serum creatinine levels, and higher
+    mortality than unilateral disease
+
+-   Renal artery revascularization among patients in these studies
+    infrequently produced a meaningful recovery of kidney function,
+    which would have supported the diagnosis
+
+**So not everyone with flow limitations to their renal vascular will get
+renovascular hypertension or ischemic nephropathy?**
+
+Not at all, actually. Flow limiting lesions may be an "incidental"
+finding in patients who have CKD or hypertension that is caused by a
+separate disorder (eg, diabetic nephropathy and essential/primary
+hypertension).
+
+-   Because of this, it can be very difficult to distinguish between
+    patient whose disease is induced by renal artery stenosis and those
+    who have alternative causes of CKD or renovascular hypertension.
+
+**So you're telling me that we have no idea who has clinically
+significant disease and who doesn't?**
+
+No. Fortunately there are clinical findings that suggest that
+renovascular disease is an underlying cause:
+
+-   Recent or rapid development of severe hypertension.
+
+    -   Relatively specific for renovascular hypertension and is the
+        strongest predictor of antihypertensive benefit from
+        revascularization.
+
+-   Severe hypertension that may be treatment resistant.
+
+    -   Some patients with ischemic nephropathy are normotensive, which
+        may be due in part to a reduced cardiac output
+
+-   Acute rise in serum creatinine following the administration of
+    angiotensin-converting enzyme (ACE) inhibitors or angiotensin
+    receptor blockers (ARBs).
+
+    -   Rise in serum creatinine is more common with agents that block
+        the renin-angiotensin system than with other antihypertensive
+        drugs because glomerular filtration rate (GFR) often depends
+        upon the efferent arteriolar actions of angiotensin II in this
+        setting.
+
+    -   More common with bilateral as compared with unilateral disease
+        because there is hemodynamic compromise to the entire renal
+        functional mass
+
+    -   This usually resolves after withdrawal of the drug.
+
+    -   Restoring the renal blood supply in such cases can recover the
+        ability to use these drugs for blood pressure control.
+
+-   Significant variability of serum creatinine concentration that may
+    be due to changes in volume status
+
+-   A rapid rise in arterial pressure associated with sudden development
+    of left ventricular failure ("flash pulmonary edema").
+
+    -   This finding is more common with renal artery stenosis because
+        bilateral disease is also associated with diuretic resistance
+        and sympathetic adrenergic activation
+
+-   Deterioration of kidney function after placement of an endovascular
+    aortic stent graft-- IATROGENIC
+
+**So it matters which kidney is affected or if it's one or both?**
+
+Yes, effect of the stenosis may not be clinically apparent due to
+compensatory function of the unaffected contralateral kidney
+
+-   Most cases of renal artery stenosis affect one side much more than
+    the other; one kidney is affected with the second kidney being
+    essentially normal, hence the designation "unilateral" disease.
+
+-   Patients who are diagnosed with ischemic nephropathy usually have
+    high-grade stenosis of both renal arteries or stenosis to a solitary
+    functioning kidney.
+
+    -   It is this subpopulation of the disease that merits specific
+        consideration because of its additional contribution to fluid
+        retention, loss of kidney function, and congestive heart
+        failure.
+
+**What are the pathophysiological mechanisms at play here?**
+
+Like we said, first you need a flow limitation. We mentioned several,
+but by in large There are two major causes of renal artery stenosis:
+
+1.  Atherosclerosis -- you'll generally see this in patients over 45
+    years old, likely with known PVD/CAD---though it can occur as an
+    isolated renal lesion---usually involving the aortic orifice or the
+    proximal main renal artery.
+
+2.  Fibromuscular dysplasia -- These patients are most often women under
+    the age of 50 years and typically involves the mid- or distal main
+    renal artery or the intrarenal branches.
+
+    -   Rarely iatrogenic from malposition or migration of endovascular
+        aortic stent grafts over the renal orifices.
+
+```{r echo=FALSE}
+
+knitr::include_graphics(rep("images/renal1.png"))
+
+```
+
+<!--# Needs a reference -->
+
+**I think the flow limitation part has been well established. What
+next?**
+
+Renal (especially bilateral) hypoperfusion induces activation of the
+renin-angiotensin-aldosterone system which increases vascular tone and
+impairs sodium excretion resulting in expansion of the extracellular
+fluid volume.
+
+## Medical Management and Evaluation
+
+**Can't we just treat their hypertension and give these patients an ACE
+inhibitor at this point?**
+
+Sure. And oftentimes we do. In fact, many of these patients can be
+treated with medical therapy without loss of function or irreversible
+fibrosis, sometimes for many years
+
+-   Studies in human subjects demonstrate that, despite a moderate
+    reduction in renal perfusion pressure (up to 40 %) and in renal
+    blood flow (mean 30 %), glomerular filtration is reduced but tissue
+    oxygenation within the kidney cortex and medulla can adapt without
+    the development of severe hypoxia.
+
+-   But this only works to an extent.
+
+**Explain that...**
+
+As the hypertension is treated, we're lowering the pressure gradient
+across the stenosis and can actually increase the degree of renal
+malperfusion and worsen the renal function.
+
+-   Oftentimes this loss of kidney function is a reversible consequence
+    of antihypertensive therapy but it to some degree limits our ability
+    to control the hypertension medically without causing further damage
+    to the kidneys.... And it can also reflect progressive narrowing of
+    the renal arteries and/or progressive intrinsic kidney disease as
+    more advanced vascular occlusion, corresponding to a 70 to 80%
+    narrowing of the renal artery, leads to demonstrable cortical
+    hypoxia.
+
+**Can we tell who has cortical hypoxia through diagnostic tests?**
+
+A: To some degree. Cortical perfusion can be measured by blood oxygen
+level dependent magnetic resonance (BOLD-MR). Additionally, inflammatory
+markers sampled from renal veins of stenotic kidneys correlated strongly
+with the degree of hypoxia (as measured by BOLD-MR), particularly after
+correction of the stenosis with angioplasty
+
+**So we have a patient with evidence of malperfused kidneys, either
+through worsening renal function or uncontrolled hypertension, with
+known discrete stenoses, and we even got a BOLD-MRI which confirms it.
+Let's just revascularize them and be done with it?**
+
+Not so fast. Although vascular stenosis or occlusion can initiate these
+processes, long-standing ischemia causes parenchymal injury
+characterized by inflammation and fibrosis which eventually becomes an
+irreversible process. At some point, restoring renal blood flow provides
+no recovery of kidney function or clinical benefit.
+
+**So how can we determine who has CKD or hypertension due to
+renovascular stenosis that we can actually help?**
+
+This is probably the most important question since in this whole disease
+process.
+
+-   To start, if a patient has the clinical manifestations of ischemic
+    nephropathy or renovascular hypertension as we discussed above, a
+    presumptive diagnosis of ischemic nephropathy can be made if there
+    is radiologic documentation of significant stenosis (usually more
+    than 70 % luminal occlusion) of both renal arteries or of one renal
+    artery to a solitary functioning kidney.
+
+**But how do we know the vascular occlusive disease posing critical
+hemodynamic limitation to kidney function?**
+
+-   Generally, luminal occlusion of at least 60 to 75 % is required to
+    limit blood flow and reduce perfusion pressure
+
+-   This degree of stenosis is usually associated with a measurable
+    translesional "pull-back" pressure gradient of 10 to 15 mmHg.
+
+-   Doppler ultrasound criteria conventionally require peak systolic
+    velocities above 180 to 200 cm/sec to identify more than 60 %
+    luminal stenoses but identifiable levels of cortical hypoxia
+    (measured by blood oxygen level dependent magnetic resonance
+    BOLD-MR) are usually associated with translesional velocities above
+    385 cm/sec or reduction of single kidney glomerular filtration rate
+    (GFR) in the range of 20 to 25 mL/min.
+
+**Most importantly: is the condition of the kidneys such that restoring
+renal blood flow is likely to benefit function?**
+
+Short answer, we still can't be certain.
+
+Long answer, we can at least have some idea by considering the renal
+resistive index, the six-month trajectory of kidney function, and the
+size of the kidneys or by performing a kidney biopsy (which is not
+usually done).
+
+-   None of these factors predict the outcome of revascularization with
+    certainty.
+
+-   [Improved and validated methods to evaluate the salvageability of
+    kidney function in this disorder are greatly needed and are the holy
+    grail of this disease process.]{.ul}
+
+**Let's go through some of these:**
+
+[Renal Resistive index:]{.ul}
+
+Some studies indicate that elevated resistive indices in segmental
+vessels (above 0.80) measured by duplex ultrasound denote poor prognosis
+for renal recovery while a low resistive index is a favorable sign.
+
+[Trajectory of kidney function]{.ul}
+
+The most consistent predictor of good recovery of kidney function after
+revascularization has been a recent deterioration of kidney function
+(ie, in the prior six to twelve months).
+
+[Kidney size]{.ul}
+
+Very small kidneys (less than 7 cm in longest diameter) are usually
+considered unlikely to recover after revascularization.
+
+[Kidney biopsy]{.ul}
+
+Previous studies suggest that biopsy demonstrating preexisting
+atheroembolic changes and interstitial fibrosis indicate a limited
+potential for recovery.
+
+-   Biopsies are not usually performed.
+
+[Comparison of kidney morphology with kidney function]{.ul}
+
+Some investigators have recommended assessing morphologic parameters,
+such as renal parenchymal volume and cortical thickness with MRI, and
+comparing these parameters with kidney function measured by radionuclide
+scanning
+
+-   In a stenotic kidney, apparently normal morphology combined with
+    reduced function may indicate a "hibernating kidney" that could be
+    salvaged with revascularization.
+
+**So how do we get a definitive diagnosis?**
+
+A definitive diagnosis is not usually made before revascularization. In
+practice, confirmation of the diagnosis is based upon stabilization or
+improvement of the GFR after successful revascularization.
+
+## Operative Managment
+
+**Now we think our patient's renal artery stenosis maybe is causing
+hypertension or decline in renal function and we can possibly reverse
+it... how do we treat it?**
+
+For starters, all of these patients should receive medical therapy to
+control their hypertension in addition to routine CKD care and
+surveillance. They need to be aggressively treated for secondary
+prevention of cardiovascular morbidity with aspirin, statins, cessation
+of smoking, and, in patients with diabetes, glycemic control.
+
+**Second, once diagnosis has been made we have 2 therapeutic
+alternatives... Which are?**
+
+First, medical therapy alone- this generally involves ACE-I or ARB and
+as we discussed.
+
+Hemodynamically mediated acute kidney injury is the major limitation of
+ACE inhibitors and ARBs in patients with bilateral renal artery stenosis
+as lowering the systemic blood pressure is more likely to reduce the
+renal perfusion and thus the intraglomerular pressure below the limits
+of renal autoregulation... in turn lowering the GFR.
+
+**Okay, in other words we can have chronic normalization of the systemic
+pressure that might eventually lead to ischemic atrophy due to the
+reduced renal perfusion pressure distal to the stenosis? Any other
+concerns with medical management alone?**
+
+-   We're addressing or prevention progression of stenosis in those with
+    atherosclerotic disease.
+
+**Since this isn't a vascular medicine podcast, what's our other
+option?**
+
+Procedural intervention (open or endovascular) along with medical
+therapy.
+
+**Now you're talking. Who should we fix operatively?**
+
+Some but not all patients should undergo revascularization, Patient
+selection single most important factor.
+
+Depends upon the hemodynamic severity and likely recoverability of
+kidney function
+
+**You mentioned recoverability before, can you once again touch on what
+helps us determine recoverability?**
+
+-   Recoverability indicators--
+
+    -   A short duration of blood pressure elevation prior to the
+        diagnosis of renovascular disease, since this is the strongest
+        clinical predictor of a fall in blood pressure after renal
+        revascularization
+
+    -   Failure of optimal medical therapy to control the blood pressure
+
+    -   Intolerance to optimal medical therapy (eg, deterioration of
+        renal function during antihypertensive drug therapy)
+
+    -   Recurrent flash pulmonary edema and/or refractory heart failure
+
+    -   Otherwise unexplained progressive renal insufficiency,
+        particularly if proteinuria is absent
+
+**But do we have any good data proving our interventions help?**
+
+This is where things can get muddy.
+
+Early on, observational studies demonstrated a high rate of procedural
+success with percutaneous transluminal renal angioplasty (PTRA) and
+stent placement (\~85%) in patients with ostial atherosclerotic disease,
+as well as a high rate of clinical success measured by improvements in
+blood pressure and kidney function in 50 to 75 % of subjects.
+
+**Anything better than observational studies?**
+
+Unfortunately, randomized trials showed no additional benefit from
+stenting when added to medical therapy with respect to blood pressure
+control, renal function, cardiovascular events, and mortality. But these
+studies have their own limitations.
+
+**The one we keep hearing about is the CORAL trial. Tell me about
+that.**
+
+-   CORAL trial [@cooperStentingMedicalTherapy2014]
+
+    -   Cardiovascular Outcomes in Renal Atherosclerotic Lesions (CORAL)
+        trial
+
+    -   947 patients (80 % had unilateral disease) who met the following
+        two criteria:
+
+        -   Unilateral or bilateral atherosclerotic renal artery
+            stenosis >60 % if diagnosed with conventional angiography,
+            peak systolic velocity >300 cm/second if diagnosed by duplex
+            Doppler ultrasonography, Luminal narrowing >80 % if
+            diagnosed with magnetic resonance angiography or
+            computerized tomography angiography (or >70 % with
+            additional evidence of renal ischemia)
+
+        -   Systolic hypertension despite two or more antihypertensive
+            medications and/or an estimated glomerular filtration rate
+            (eGFR) \<60 mL/min/1.73 m2 that was presumably due to the
+            stenosis.
+
+        -   All patients received antiplatelet therapy plus best medical
+            therapy including ARB
+
+    -   Revascularization had no additional effect on the primary
+        outcome (a composite of cardiovascular or renal death, stroke,
+        myocardial infarction, hospitalization for heart failure, a
+        reduction in eGFR by more than 30 %, or end-stage renal disease)
+        as compared with medical therapy alone (35.1 versus 35.8 %).
+
+    -   No effect on any of the individual components of the primary
+        outcome.
+
+    -   Low procedural complication rate \~2%
+
+**Well, that sounds pretty convincing.**
+
+-   Limitations on existing treatment data:
+
+    -   [Considerable selection bias]{.ul} -- For the most part, the
+        patients enrolled in these trials did **not** meet the criteria
+        for selecting patients likely to benefit from intervention (eg,
+        short duration of blood pressure elevation, hypertension
+        resistant to medical therapy, recurrent flash pulmonary edema):
+
+        -   CORAL [@cooperStentingMedicalTherapy2014]
+
+            -   Patients hospitalized for heart failure within 30 days
+                of screening for the trial were excluded, thereby
+                limiting the number of trial participants with recurrent
+                flash pulmonary edema.
+
+            -   Mean number of antihypertensive medications used by
+                CORAL participants at baseline was 2.1- many had not
+                failed optimal medical therapy
+
+            -   More than 25 % had controlled blood pressure upon entry
+                into the trial.
+
+            -   Mortality and event rates lower than in most previous
+                registries, suggesting that many high-risk patients were
+                not enrolled.
+
+        -   ASTRAL
+            [@astralinvestigatorsRevascularizationMedicalTherapy2009]
+
+            -   Large number of patients had stenoses that were probably
+                not clinically significant (50 to 70 %), and patients
+                were excluded if their primary doctors felt that they
+                "definitely" needed revascularization.
+
+    -   [Results of the trials differ substantially from observational
+        reports of "high-risk" subsets]{.ul}
+
+        -   For the most part, patients selected by their treating
+            clinicians to undergo revascularization have derived greater
+            benefit from revascularization than did patients enrolled in
+            the trials who were randomly assigned to revascularization
+
+### Endovascular Therapy
+
+**We've determined our patient is an appropriate candidate for
+intervention, and we don't fully buy into CORAL, what can we do?**
+
+-   [Percutaneous renal angioplasty/stenting]{.ul}in addition to medical
+    therapy
+
+    -   Most commonly employed if technically feasible.
+
+    -   Most amenable lesions to angioplasty are those producing
+        incomplete occlusion in the main renal artery.
+
+        -   Total occlusions and ostial lesions extending into aorta
+            generally do not respond well to angioplasty alone due to
+            elastic recoil.
+
+    -   Quick results: maximum antihypertensive response is generally
+        observed at 48 hours after the procedure
+
+        -   But BP levels and antihypertensive drug requirements often
+            change over subsequent weeks
+
+    -   In general, the effects of revascularization on blood pressure
+        were greater in bilateral disease, but effects on renal function
+        and mortality did not differ in those with bilateral as compared
+        with unilateral stenosis .
+
+    -   Most atherosclerotic lesions are now treated with primary
+        stenting to avoid rapid development of restenosis.
+
+        -   A higher initial primary success rate, defined as less than
+            50 % stenosis (88 versus 57 %).
+
+        -   At six months, a higher patency rate (75 versus 29 %) and a
+            lower restenosis rate (14 versus 48 %).
+
+        -   Twelve patients assigned to PTRA alone underwent stenting
+            because of treatment failure within six months. These
+            patients had a similar blood pressure response as those
+            initially treated with stenting.
+
+**What about complications?**
+
+-   Complication rate with percutaneous transluminal renal angioplasty
+    with or without stenting is between 5 and 15 %
+
+    -   Mostly minor: puncture site hematoma and renal artery
+        dissection.
+
+    -   Serious complications more rare: renal artery thrombosis or
+        perforation, AKI 2/2 atheroembolic disease (\~1%)or
+        radiocontrast agent injury.
+
+    -   Mortality exceedingly rare
+
+**Outcomes data**
+
+-   In the correct patient population:
+
+    -   Unilateral disease
+
+        -   PTRA alone results in normalization of blood pressure
+            (removal of antihypertensive drug therapy) \~8-20%
+
+        -   Some improvement 50-60%
+
+        -   Failure rate \~20-30%
+
+        -   Restenosis rate of 8 to 30 % at two years (without stent)
+
+        -   Better results with unilateral fibromuscular disease.
+
+        -   Less consistent for patients with chronic hypertension
+            compared with patients who have an acute elevation in blood
+            pressure
+
+    -   Bilateral disease
+
+        -   25-30% will recover kidney function to a meaningful degree,
+            sometimes avoiding progression to end-stage kidney disease
+            (ESKD) and/or the need for renal replacement therapy.
+
+        -   \~50% will have little immediate change in kidney function
+            but will "stabilize"
+
+        -   \~20% will have a progressive deterioration of kidney
+            function, sometimes related to the procedure
+
+**Guidelines**
+
+-   2005 ACC/AHA guidelines on peripheral artery disease recommends that
+    a stent be placed in patients undergoing PTRA for treatment of
+    atherosclerotic renal artery stenosis [@hirschACCAHA20052006]
+
+    -   PTRA without stent placement is rarely performed unless the
+        anatomy precludes stenting.
+
+    -   POBA without stenting is generally less successful and
+        associated with more complications (eg atheroemboli)
+
+**How durable is PTA/stenting?**
+
+-   Restenosis
+
+    -   \~11-17%
+
+        -   11-39% during the first one to two years
+
+    -   Detected as a rise in blood pressure requiring more intensive
+        therapy
+
+    -   Angioplasty/stenting injures the vascular endothelium, which may
+        result in restenosis.
+
+    -   Symptomatic stenosis leading to a rise in blood pressure or a
+        fall in GFR are less common and are reported in 10 to 20 % of
+        patients
+
+**How do you follow these patients after stenting?**
+
+-   Follow-up of patients who have had a renal artery stent should
+    include serial measurements of blood pressure and estimation of GFR.
+
+    -   Post-stent duplex ultrasound \@2-4weeks with
+
+    -   Repeated examinations on a quarterly basis (not much data)
+
+    -   Patients who develop an increase in pressure or reduced GFR
+        after stenting should undergo duplex ultrasonography to identify
+        restenosis
+
+    -   Retreatment with angioplasty with or without repeat stenting can
+        be attempted, but the restenosis rate after repeat angioplasty
+        is increased.
+
+        -   Surgical reconstruction may be pursued in patients with
+            recurrent episodes of restenosis and loss of kidney
+            function.
+
+### Open Surgery
+
+**What about an open operation?**
+
+-   [Surgical revascularization]{.ul} used in addition to medical
+    therapy
+
+    -   Less common since the widespread application of effective
+        antihypertensive drug therapy and endovascular stents (mid 90s)
+
+**So who still gets open repair?**
+
+-   Primarily for correction of complex vascular lesions and/or repeated
+    episodes of in-stent restenosis
+
+**How do we do it?**
+
+-   Involves bypassing the stenotic segment or of removing a small
+    atrophic kidney with nearly complete arterial occlusion.
+
+    -   From the aorta or hepatorenal or splenorenal bypass to avoid
+        diseased aorta.
+
+    -   Bilateral: either bilateral repair or unilateral repair with
+        contralateral nephrectomy of a nonfunctioning, atrophic kidney.
+
+**How do outcomes compare to PTA/stenting?**
+
+-   Equally or more effective than PTRA in the treatment of
+    atherosclerotic disease, with cure of or improvement in the
+    hypertension occurring in 80 to 95 % of patients.
+
+    -   Cure of hypertension after surgery is most likely in patients
+        who have been hypertensive for less than five years
+
+-   Lack of complete response was usually associated with one of two
+    factors:
+
+    -   Presence of underlying primary/essential hypertension
+
+    -   Development of intrarenal vascular disease due to exposure of
+        the contralateral kidney to the elevated blood pressure.
+
+**Guidelines recommendations?**
+
+-   2005 American College of Cardiology/American Heart Association
+    (ACC/AHA) guidelines [@hirschACCAHA20052006]
+
+    -   Open surgery in patients with atherosclerotic renal artery
+        stenosis largely restricted to those who have multiple small
+        renal arteries, have early primary branching of the main renal
+        artery, require aortic reconstruction near the renal arteries
+        for other indications (eg, aneurysm repair or severe aortoiliac
+        occlusive disease), or to avoid manipulation of a highly
+        diseased aorta or failed endovascular stents (using specific
+        surgical techniques, including splenorenal, ileorenal, or
+        hepatorenal bypass procedures).
+
+**So why not do it instead of stent?**
+
+-   In-hospital mortality: \~3-10 % in high volume centers
+
+    -   Risk factors diffuse atherosclerosis, advanced age, chronic
+        kidney disease, heart failure, or chronic lung disease.
+
+    -   No deaths in 105 procedures for fibromuscular dysplasia (FMD).
+
+## Fibromuscular Dysplasia (FMD)
+
+**You mentioned FMD as a cause of renovascular hypertension, tell me
+more about that...**
+
+Fibromuscular dysplasia (FMD) is a noninflammatory, nonatherosclerotic
+disorder that leads to arterial stenosis, occlusion, aneurysm,
+dissection, and arterial tortuosity.
+
+-   Virtually always diagnosed radiographically -- formerly
+    pathologically, but rarely sent for specimen in modern diagnosis or
+    treatment
+
+**How do we classify it?**
+
+-   Most commonly classified by angiographic appearance:
+
+    -   Multifocal FMD (more common)
+
+        -   angiographic appearance of a "string of beads."
+
+        -   corresponds pathologically to medial fibroplasia, the most
+            common histologic type, and to perimedial fibroplasia, which
+            is less common.
+
+    -   Focal FMD (less common)
+
+        -   angiographic appearance of a "circumferential or tubular
+            stenosis"
+
+        -   corresponds pathologically to intimal fibroplasia but medial
+            hyperplasia and periarterial hyperplasia may also have a
+            focal appearance.
+
+    -   These two different angiographic subtypes of FMD (multifocal and
+        focal) have different phenotypic presentations and natural
+        history
+
+        -   Is FMD is, in fact, a single disease?
+
+**Where does it occur?**
+
+-   Has been observed in nearly every arterial bed
+
+-   Involvement of the renal arteries \~75-80%
+
+-   Involvement of the extracranial cerebrovascular arteries (eg,
+    carotid and vertebral arteries) \~75%
+
+    -   2/3 of patients have multiple arteries involved.
+
+**Who has FMD?**
+
+-   \~90% of cases in adults are in women.
+
+    -   No female predominance among children with FMD.
+
+-   Mean age at diagnosis was 52 years, with a range of 5 to 86 years
+
+    -   In the past, it was believed that FMD was a disease of young
+        women. However, older now know to make up a large proportion of
+        affected
+
+-   35-50% of cases in children and 5-10% of cases in adults under the
+    age of 60 years with renovascular hypertension
+
+-   Often an incidental finding:
+
+    -   4.4% of potential kidney donors had evidence of FMD.
+
+    -   CORAL trial:
+
+        -   FMD was discovered in 5.7% of the total study population
+            (8.8% of enrolled females)
+
+**What causes FMD?**
+
+The etiology of FMD remains unknown, but some mechanisms have been
+proposed
+
+-   Genetics may play an important role in development
+
+    -   Some studies report autosomal mode of inheritance with variable
+        penetrance
+
+    -   Potential association with a single nucleotide variant in the
+        phosphatase and actin regulator 1 gene (PHACTR1)
+
+    -   Variant rs9349379 is also a risk locus for coronary artery
+        disease, migraine headache, and cervical artery dissection.
+
+-   Predominance of young/childbearing age women hormonal influences are
+    thought to play a role
+
+    -   Remains unproven.
+
+-   Mechanical factors such as stretch and trauma unproven.
+
+**Does FMD present differently that the atherosclerotic renovascular
+disease we talked about?**
+
+-   Varies widely depending on artery affected and as it results from:
+
+-   Ischemia related to stenosis
+
+-   Dissection and occlusion of major arteries (renal infarction,
+    stroke, myocardial infarction)
+
+-   Rupture of aneurysms
+
+-   Embolization of intravascular thrombi from dissection or aneurysms
+
+**What are the common presenting symptoms and signs**
+
+-   Manifestations of renal FMD (eg, hypertension, flank pain) are more
+    likely to occur in men, as are arterial dissections and aneurysms.
+
+    -   Most common presenting signs:
+
+    -   Hypertension -- 67% (66% of women and 74 % of men)
+
+-   But overall hypertension is the most common manifestation of renal
+    artery FMD in both genders
+
+    -   Flank pain and abdominal pain can result from ischemia, aneurysm
+        rupture, or dissection of renal and mesenteric arteries,
+        respectively.
+
+**Are these dissections common?**
+
+-   High prevalence of aneurysm and/or dissection
+
+    -   Aneurysm (22%) and dissection (26%).
+
+        -   34% of aneurysms were renal
+
+        -   11% of dissections were renal
+
+    -   42% had an aneurysm and/or dissection.
+
+**So should we screen for these dissections in a patient with known
+FMD?**
+
+-   Every patient diagnosed with FMD should have one-time,
+    head-to-pelvic CTA (or MRA) is an alternative.
+
+    -   CTA of the neck and head on one day followed one week later by
+        CTA of the chest, abdomen, and pelvis
+
+**When should we suspect FMD?**
+
+-   Hypertension (particularly in a woman under the age of 60 years)
+    with findings that would prompt an evaluation for secondary
+    hypertension:
+
+    -   Severe or resistant hypertension.
+
+    -   Onset of hypertension before the age of 35 years.
+
+    -   A sudden rise in blood pressure over a previously stable
+        baseline.
+
+    -   A significant increase in the serum creatinine concentration
+        after the institution of therapy with an angiotensin-converting
+        enzyme (ACE) inhibitor or angiotensin receptor blocker (ARB) in
+        the absence of an excessive reduction in blood pressure.
+
+    -   An epigastric/abdominal bruit.
+
+-   Renal artery dissection (or carotid, vertebral, coronary)
+
+-   Aneurysm in a visceral, carotid, vertebral, or intracranial vessel.
+
+-   Renal infarction.
+
+**How do we diagnose this and/or distinguish it from renovascular
+atherosclerotic disease?**
+
+-   Confirmed by diagnostic imaging that reveals consistent findings
+
+-   Noninvasive imaging test is usually performed first. This includes
+    CTA, MRA, and Duplex ultrasound.
+
+**Let talk about CTA...**
+
+-   CTA is preferable due to higher spatial resolution than MRA, less
+    dependence upon technical expertise, and a shorter scan time
+
+-   Excellent diagnostic accuracy for FMD of the main renal arteries,
+    although the sensitivity decreases when FMD is only present in the
+    smaller branch renal arteries.
+
+-   Multirow detector CT scanners, which offer more rapid image
+    acquisition, variable section thickness, three-dimensional
+    rendering, diminished helical artifacts, and smaller contrast
+    requirements, may gain an increased role in the diagnosis and
+    follow-up of renal artery FMD
+
+**What about MRA?**
+
+-   Inconsistent detection of FMD and is performed if CTA is
+    contraindicated
+
+-   The spatial resolution in the branch vessels is not adequate, and
+    artifact may occur, suggesting "beading" when none is present.
+
+-   May miss mild FMD.
+
+-   Can be useful for detecting aneurysms and dissections
+
+**And finally, Duplex ultrasonography**
+
+-   Detects elevated blood flow velocities in the mid and distal
+    portions of the renal artery, most common locations for FMD.
+
+-   Increased peak systolic velocity, turbulent blood flow, and
+    tortuosity of the mid and distal artery.
+
+    -   \% diameter stenosis reports less helpful and usually inaccurate
+
+-   lowest spatial resolution of all of the cross-sectional imaging
+    modalities
+
+-   most operator dependence
+
+-   first choice only in high-volume centers with extensive expertise in
+    this technique
+
+**What about non invasive testing?**
+
+-   DSA is performed in patients if there is a high clinical suspicion
+    of FMD, and treatment with revascularization is planned if a
+    stenosis is found.
+
+    -   Can improve visualization of the arteries by eliminating
+        background soft tissue and bone and has higher spatial
+        resolution than any of the other imaging modalities
+
+    -   Can measure the pressure gradient across the stenosis
+
+        -   Pressure decrease threshold of 10 % or more of the mean
+            pressure should be used to decide whether a lesion is
+            hemodynamically significant
+
+        -   IVUS and optical coherence tomography (OCT) can be helpful
+            in determining if a dissection or intramural hematoma is
+            present as well as help to determine if angioplasty has
+            improved the stenosis.
+
+    -   Negative DSA excludes a diagnosis of FMD in the vascular bed
+        that was imaged.
+
+**Any place for pathologic diagnosis in modern therapy?**
+
+-   Histopathology (and histologic classification) is **no longer** part
+    of the diagnosis.
+
+    -   Only in the rare patient who requires surgical revascularization
+        or resection of an aneurysm.
+
+**So how do we treat this, what warrants intervention and are those
+interventions different than what we offer atherosclerotic disease of
+the renal arteries?**
+
+-   All patients with FMD should be placed on antiplatelet therapy (ASA)
+    unless otherwise contraindicated
+
+-   [Antihypertensive therapy]{.ul}
+
+    -   Most patients will require antihypertensive therapy, even if
+        they undergo revascularization.
+
+    -   Majority of patients with **focal** FMD have their blood
+        pressure cured with angoplasty
+
+**But what about revascularization?**
+
+-   [Revascularization]{.ul} Goal: control of hypertension
+
+    -   BP can be controlled in most adults with multifocal FMD with a
+        mean of two antihypertensive medications
+
+    -   Weigh risks and benefits in well controlled hypertension.
+
+-   **No** randomized trials comparing revascularization with medical
+    therapy
+
+**Well then who do we treat?**
+
+-   Recent-onset hypertension, with goal to cure hypertension.
+
+-   Resistant hypertension despite compliance with an appropriate
+    three-drug regimen.
+
+-   Patients unable to tolerate antihypertensive medications or who are
+    noncompliant with their medication regimen.
+
+-   Adults with bilateral renal FMD, or unilateral renal FMD to a single
+    functioning kidney, and unexplained progressive renal insufficiency
+    thought to result from renal artery stenosis
+
+-   Hypertensive children.
+
+-   may be at higher risk than adults for progressive renal parenchymal
+    loss, and therefore could benefit from revascularization even if
+    their hypertension can be well-controlled with one or two
+    antihypertensive medications.
+
+**And what kind of results do we get with revascularization?**
+
+-   Hypertension is cured or improved following revascularization in a
+    large proportion of patients with FMD.
+
+    -   Much better than 2/2 atherosclerosis
+
+    -   Varies considerably from study to study, although hypertension
+        control improves in most patients and depends in large part upon
+        the definition of cure.
+
+    -   Not good data on stabilization of either GFR or renal size in
+        patients with FMD.
+
+What options do we have in terms of revascularization?
+
+**Angioplasty and open surgery**
+
+Do we have good results treating FMD with these?
+
+-   Improvement in blood pressure (including those with and without
+    cure) was similar with PTA as compared with surgery (86 versus 88
+    %).
+
+-   Older age and longer duration of hypertension prior to
+    revascularization were significantly associated with a lower cure
+    rate.
+
+**How do these compare?**
+
+-   PTA achieves similar technical success and is associated with a
+    lower risk of adverse events in observational studies
+
+-   Most patients with FMD who are selected for renal revascularization
+    have PTA rather than surgery
+
+-   Major adverse events were more frequent with surgery (15 versus 6
+    %).
+
+**So why choose open surgery?**
+
+-   Cure rates were higher with surgery (54 versus 36 %).
+
+-   Surgery rather than PTA if PTA fails or if the arterial anatomy is
+    not amenable to PTA
+
+    -   Patients with small renal arteries (\<4 mm), with branch renal
+        artery disease, or with extensive intimal fibroplasia.
+
+**So how do we perform Percutaneous transluminal angioplasty** for FMD?
+
+-   [Without]{.ul} stent placement... unlike PTA for atherosclerotic RAS
+
+**Why not place a stent?**
+
+-   Patients do very well with angioplasty alone, no reason to place a
+    stent.
+
+    -   Lesion is so fibrotic that the pressure gradient cannot be
+        obliterated with an angioplasty, a stent will not correct this
+        problem
+
+        -   Such patients should be referred for surgery.
+
+-   Usually have stenoses in the mid and distal portions of the artery
+    rather than at the ostium or proximal portion (as occurs with
+    atherosclerosis).
+
+    -   Should surgical revascularization become necessary due, for
+        example, to in-stent restenosis, patients may require more
+        complex branch repair to bypass the occluded stent since the
+        stent often covers the renal artery up to the point of the first
+        intrarenal branch.
+
+**Do we ever place stents?**
+
+-   Stents placed when a dissection results from the performance of PTA
+    or in the rare instance in which a perforation of the renal artery
+    occurs during angioplasty.
+
+**And we're getting good outcomes with PTA alone?**
+
+-   Technical (angiographic) success rates for PTA 83-100
+
+-   Rate of restenosis 12-34% over follow-up intervals of six months to
+    two years
+
+    -   Difficult to determine if patients with FMD develop restenosis,
+        or if the lesion was not completely treated correctly the first
+        time.
+
+    -   Not necessarily associated with recurrent hypertension.
+
+**But generally we can achieve significant and sustained reductions in
+systolic blood pressure, diastolic blood pressure, serum creatinine, and
+number of antihypertensive agents.**
+
+-   Systolic blood pressure response was better in patients with FMD
+    affecting the main renal artery than in patients with branch vessel
+    involvement.
+
+**Any specific technical tips?**
+
+-   Cutting balloon angioplasty should be avoided
+
+    -   Increased risk of rupture
+
+-   Post angioplasty visual inspection alone is **not** accurate.
+
+    -   Measure pressure differential using a pressure guidewire, with a
+        mean gradient of \<5 mmHg across the treated segment suggesting
+        a satisfactory result
+
+        -   Measure before and after angioplasty
+
+    -   Post-procedure renal duplex scanning
+
+        -   Degree of turbulence is less prominent, and velocity
+            elevation in the mid-distal renal artery returns to normal.
+
+    -   Intravascular ultrasound or optical coherence tomography (OCT)
+        is occasionally used to evaluate the elimination or reduction of
+        various endoluminal defects.
+
+**What should we do if it doesn't work?**
+
+-   If either has no improvement in blood pressure or an initial
+    improvement followed by recurrence, repeat angiogram and PTA.
+
+    -   Restenosis may actually represent inadequate angioplasty during
+        the first procedure
+
+-   Persistent HTN despite technically successful PTA suggests that the
+    cause of hypertension is unrelated to fibromuscular disease or is
+    related to small vessel disease within the kidney (nephrosclerosis)
+    due to longstanding hypertension.
+
+**What kind of complications do we see after this?**
+
+-   Mostly related to vascular access
+
+-   Rarely: renal artery perforation, dissection, or segmental renal
+    infarction may occur.
+
+-   Decreasing over time- 16 % in 1998 to 3 % in 2001
+
+**Ok, lets switch gears to open revascularization?**
+
+-   Aortorenal bypass with a saphenous vein graft is the most common
+    technique
+
+    -   Artificial graft material used occasionally
+
+**For everyone? What about for pediatric patients?**
+
+-   Pediatric patients: hypogastric artery grafts are used or else
+    aortic reimplantation of the renal artery is performed because vein
+    grafts become aneurysmal
+
+**How does this compare again to PTA?**
+
+-   Similar success rates compared to PTA (82-89% patency) but with
+    higher morbidity.
+
+    -   Perioperative mortality appears to be very low (\~1.2%)
+
+    -   Usually limited to complex cases so success and complication
+        would probably be higher if simpler cases were included.
+
+**What's Monitoring and follow-up look like for these patients?**
+
+-   Medical management only:
+
+    -   Renal artery stenosis and kidney dysfunction may progress
+        despite good blood pressure control
+
+        -   Mostly in patients with focal FMD and intimal fibroplasia
+
+    -   Every patient with FMD should have measurement of serum
+        creatinine and renal artery duplex ultrasound every 12 months.
+
+**And After revascularization**?
+
+-   Duplex ultrasonography and serum creatinine measurements performed
+    on the first office visit post procedure, then every six months for
+    two years, and then yearly, if stable.
+
+-   With worsening on new hypertension, or unexplained increase in the
+    serum creatinine, he or she should be imaged at that time with
+    duplex ultrasound (or CTA if the ultrasound is equivocal or poor
+    quality).
+
+## Renal Artery Aneurysms
+
+**Ok, that's a pretty good review, but let's switch gears and talk about
+renal artery aneurysms**
+
+-   Renal artery aneurysms are rare.
+
+    -   Autopsy studies have revealed an incidence of 0.01% to 0.09%.
+
+    -   Renal artery aneurysms are bilateral in about 10% of cases with
+        more than 90% of true renal artery aneurysms being
+        extraparenchymal.
+
+-   Females > males
+
+    -   Females and males equal with FMD excluded
+
+-   Most frequent site of involvement is primary bifurcation,
+    intraparenchymal (\<10%)
+
+-   Most are saccular
+
+-   Right slightly more common than left, bilateral 10%
+
+-   Size criteria currently controversial\*
+
+    -   2.5 common criteria for visceral arterial intervention, but
+        paucity of data suggesting rupture risk drastically increases at
+        this size
+
+    -   Many aneurysms with circumferential calcification which could
+        offer protection against rupture
+
+-   The majority of renal artery aneurysms are asymptomatic, and less
+    than 3% rupture.
+
+    -   Present with flank pain, hypotension
+
+    -   10% mortality
+
+    -   90% risk of kidney loss
+
+-   Although arteriosclerotic changes have been identified in most
+    aneurysms in patients with multiple lesions, this is not a uniform
+    finding, suggesting that arteriosclerosis may not be the most
+    important factor in the genesis of renal artery aneurysms.
+
+-   More likely due to a congenital medial degenerative process with
+    weakness of the elastic lamina.
+
+-   Fibromuscular dysplasia (FMD) is often a direct contributor to the
+    development of an aneurysm.
+
+    -   Medial fibroplasia is typically associated with multiple
+        stenoses and post-stenotic dilatation of the distal two thirds
+        of the renal artery.
+
+    -   Renal artery aneurysms in association with FMD are generally
+        only a few millimeters in diameter.
+
+    -   The typical angiographic appearance of a renal artery involved
+        with medial fibroplasia is a "string of beads."
+
+-   The majority of renal artery aneurysms are saccular.
+
+-   A rare cause of renal artery aneurysms is Ehlers-Danlos' syndrome.
+
+    -   This disorder is associated with extreme arterial fragility and
+        spontaneous rupture.
+
+-   Renal artery dissection caused by guide wires or catheters can
+    occur, but is rare.
+
+-   In an elderly patient, observation of this aneurysm with Duplex
+    surveillance is the appropriate treatment.
+
+-   For larger aneurysms in younger patients, aneurysmorrhaphy with
+    primary repair or patching can be performed with low mortality.
+
+    -   Endovascular techniques such as coiling have been reported to be
+        successful in treating these saccular aneurysms; however,
+        covered stent placement may be difficult in the distal renal
+        artery near potential branch points of the artery.
