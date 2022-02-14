@@ -6,10 +6,49 @@ editor_options:
 
 # Venous Disease
 
+**28 Nov 2021**: *Mr. Andrew Nickinson, Mr. Aminder Singh and Mr Manj
+Gohel*
+
 ```{r echo=FALSE}
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Rouleaux_Club_-_Venous_Review_02auph.mp3")
 
 ```
 
-## 
+-   Chronic lower limb venous insufficiency
+
+    -   02:55 - What is chronic venous insufficiency?
+
+    -   10:09 - Approach to managing superficial venous reflux
+
+    -   20:47 - The role of surgery in superficial venous reflux
+        [@brittendenRandomizedTrialComparing2014;
+        @gohelLongTermResults2007; @gohelRandomizedTrialEarly2018]
+
+    -   27:31 - What is superficial venous thrombosis?
+
+-   Deep venous thrombosis [@kakkosEditorChoiceEuropean2021]
+
+    -   34:38 - Screening for malignancy and thrombophilias in patients
+        with DVT
+
+    -   40:33 - The role of compression in proximal DVTs
+
+    -   42:17 - What is post thrombotic syndrome?
+
+    -   46:42 - The evidence for catheter directed clot burden reduction
+        in proximal DVT
+        [@vedanthamPharmacomechanicalCatheterDirectedThrombolysis2017]
+
+    -   52:17 - Management of phelgmasia
+
+-   Proximal deep venous outflow obstruction
+
+    -   54:04 - The basics of proximal deep venous outflow obstruction
+
+    -   57:30 - When to consider imaging the proximal deep veins in
+        patients with symptoms of venous disease
+
+    -   1:08:07 - Pelvic congestion syndrome
+
+    -   1:11:15 - Training and service provision in venous interventions

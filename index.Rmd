@@ -13,7 +13,6 @@ link-citations: yes
 github-repo: https://github.com/adam-mdmph/VS-Board-Review
 site: bookdown::bookdown_site
 apple-touch-icon: "images/apple_icon.png"
-apple-touch-icon-size: 120
 ---
 
 

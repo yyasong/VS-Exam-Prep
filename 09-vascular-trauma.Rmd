@@ -6,10 +6,84 @@ editor_options:
 
 # Vascular Trauma
 
+## Peripheral
+
+**22 Sep 2019**: *Kevin Kniery, MD, MPH; Todd Rasmussen, MD*
+
 ```{r echo=FALSE}
 
-embed_audio("https://traffic.libsyn.com/audiblebleeding/E7_-_Carotid_VSITE.mp3")
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Final_Final.mp3")
 
 ```
 
-## 
+## Abdominal Arterial
+
+**22 Dec 2019:** *Kevin Kniery, MD, MPH; Adham Elmously, MD; Todd
+Rasmussen, MD*
+
+```{r echo=FALSE}
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Abdominal_Trauma_Part_One.mp3")
+
+```
+
+## Abdominal Venous
+
+**18 Jan 2020**: *Kevin Kniery, MD, MPH; Adham Elmously, MD; Todd
+Rasmussen, MD*
+
+```{r echo=FALSE}
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Vascular_Venous_Auphonic.mp3")
+
+```
+
+Check out Dr. Rasmussen's book
+
+<https://www.elsevier.com/books/richs-vascular-trauma/9781455712618>
+
+<https://www.amazon.com/Richs-Vascular-Trauma-Todd-Rasmussen/dp/1455712612>
+
+## Cerebrovascular Trauma
+
+**25 May 2020**: *Kevin Kniery, MD, MPH; Adam Johnson, MD, MPH; Nicole
+Rich, MD, MPH; Todd Rasmussen, MD*
+
+```{r echo=FALSE}
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Cerbrovascular_Trauma_auphonic.mp3")
+
+```
+
+EAST Blunt Cerebrovascular Injury Guidelines
+
+<https://www.east.org/education/practice-management-guidelines/blunt-cerebrovascular-injury> 
+
+Check out Rich's Vascular Trauma
+
+<https://www.elsevier.com/books/richs-vascular-trauma/9781455712618>
+
+## Endovascular Approaches
+
+**09 Feb 2021**: *Kevin Kniery, MD, MPH; Marlin "Wayne" Causey MD; Todd
+Rasmussen, MD*
+
+```{r echo=FALSE}
+
+embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Endovascular_Trauma.mp3")
+
+```
+
+Seminal Papers in Blunt Thoracic Aortic Injury
+
+-   AAST 1997 Paper: <https://pubmed.ncbi.nlm.nih.gov/9095103/>
+
+-   AAST 2008 Paper: <https://pubmed.ncbi.nlm.nih.gov/18545103/>
+
+-   JVS 2011 Paper: <https://pubmed.ncbi.nlm.nih.gov/20974523/>
+
+-   Timing of repair of BTAI JVS
+    2020: <https://www.jvascsurg.org/article/S0741-5214(20)31575-5/fulltext>
+
+Dr. Ben Starnes' podcast on Behind The Knife on
+BTAI: <https://bit.ly/2LuycWq>
