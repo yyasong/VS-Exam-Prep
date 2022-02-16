@@ -1,7 +1,7 @@
 --- 
 title: "Vascular Surgery Exam Prep"
 author: "Editors: Adam Johnson, MD, MPH; Matt Smith, MD, PhD; and Audible Bleeding"
-date: "`r Sys.Date()`"
+date: "DRAFT - `r Sys.Date()`"
 output: pdf_document
 documentclass: book
 bibliography: [references.bib, packages.bib]
