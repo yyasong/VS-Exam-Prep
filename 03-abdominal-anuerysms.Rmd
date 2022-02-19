@@ -49,6 +49,9 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         63% of those had associated AAA.
         [@duffyPoplitealAneurysms10year1998]
 
+    -   Patients with femoral aneurysms have an 85% chance of an
+        associated AAA. [@diwanIncidenceFemoralPopliteal2000]
+
     -   Conversely, if a patient is first found to have a AAA, there is
         an 11% chance of having associated popliteal artery
         aneurysms >15mm. [@tuvesonPatientsAbdominalAortic2016]
@@ -105,6 +108,15 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 -   Medical therapy has been studied with disappointing results.
     Beta-blockers and ACE/ARB inhibitors have been studied but have not
     shown any effect on growth of AAAs.
+
+-   Men more likely to have AAA, but women develop at a later age with
+    more aggressive growth and risk for rupture.
+    [@loAbdominalAorticAneurysms2016]
+
+    -   Stronger association with smoking in women.
+
+    -   Women have same outcomes from endo repair, higher complications
+        from open repair due to poorly managemend CV risk factors.
 
 -   Fluoroquinolones
 
@@ -208,23 +220,23 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         either a history of smoking or a family history of AAA, as well
         as men and women over the age of 75 with a smoking history in
         otherwise good health who have not previously undergone
-        screening. [@chaikofSocietyVascularSurgery2018a] Recommended
-        intervals for surveillance imaging:
+        screening. [@chaikofSocietyVascularSurgery2018a]
 
-        -   2.5 -- 2.9 cm -> 10 years
+| Size on Imaging | Surveillance Interval |
+|:---------------:|:---------------------:|
+|  2.5 -- 2.9 cm  |       10 years        |
+|   3 - 3.9 cm    |        3 years        |
+|   4 - 4.9 cm    |        1 year         |
+|    5 - 5.4cm    |       6 months        |
 
-        -   3 - 3.9 cm -> 3 years
+: Recommended Intervals for AAA Surveillance
 
-        -   4 - 4.9 cm -> 1 year
+-   It is important to note that these screening guidelines are Level 2,
+    Grade C evidence from the SVS.
 
-        -   5 - 5.4 cm -> 6 months
-
-    -   It is important to note that these screening guidelines are
-        Level 2, Grade C evidence from the SVS.
-
-    -   Traditionally, once duplex reveals an aneurysm 5cm in size, an
-        initial CTA is performed and patients are followed with
-        additional CT scans to assist with operative planning.
+-   Traditionally, once duplex reveals an aneurysm 5cm in size, an
+    initial CTA is performed and patients are followed with additional
+    CT scans to assist with operative planning.
 
 -   CT Angiograms are helpful in operative planning and determining
     candidacy for EVAR. You can assess the relationship of the aneurysm
@@ -409,8 +421,21 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         -   It is important that the neck is relatively free of thrombus
             or calcification to decrease the risk of endoleaks.
 
-        -   More complex options like fenestrated EVAR are available for
-            shorter necks but will not be discussed in this review.
+        -   Infrarenal necks 4-15mm would require fenestrated
+            endovascular repair. The only FDA approved device for
+            fenestrated repairs is the Cook Z-Fen
+            device.[@oderichResultsUnitedStates2014]
+
+            -   Z-fen requires diameter 19-31mm, angle \<45deg angle to
+                long axis of aneurysm, ipsilateral iliac fixation >30mm
+                and 9-21mm in diam, contralateral iliac >30mm and 7-21mm
+                diam. Multiple or early branching renal arteries can
+                limit this reapir as well.
+                [@oderichTechnicalAspectsRepair2014]
+
+            -   Parallel grafts for short necks (i.e. snorkel or
+                chimney) require 20mm seal for good outcomes.
+                [@donasCollectedWorldExperience2015]
 
     -   Angulation
 
@@ -518,6 +543,10 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 **You mentioned endoleaks, can you discuss the complications specific to
 EVAR and the management?** [@mooreVascularEndovascularSurgery2019]
+
+-   15 year follow up from EVAR-1 shows inferior late survival and
+    higher re-intervention in EVAR patients when compared with open
+    repair. [@patelEndovascularOpenRepair2016]
 
 -   Many of the cardiopulmonary complications inherent with open repair
     do not occur with EVAR as there is no aortic cross clamping.
@@ -792,6 +821,10 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 **What are some of the complications with open aortic aneurysm repair?**
 [@mooreVascularEndovascularSurgery2019]
 
+-   Recent studies have demonstrated equivalent outcomes in younger
+    healthy patients undergoing endovascular and open repair.
+    [@liangComparablePerioperativeMortality2018]
+
 -   Myocardial dysfunction which is usually secondary to cardiac
     ischemia or hemorrhage.
 
@@ -1021,3 +1054,10 @@ of a ruptured AAA (RAAA) as our last topic of the session?**
         (5.3% vs. 1.9%), postoperative blood transfusion (42.3% vs.
         31.6%), and have a myocardial infarction (5.0% vs. 2.2%).
         [@ulteeConversionEVAROpen2016]
+
+    -   A more recent systematic review and meta-analysis found the
+        elective late open conversion has comparable outcomes to primary
+        open aneurysm repair. 36% are able to complete with infrarenal
+        clamp alone. Highest complication rate in urgent setting (10x
+        higher mortality).
+        [@goudekettingSystematicReviewMetaanalysis2019]
