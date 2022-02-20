@@ -136,172 +136,180 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
 **Hypertension**
 
--   Lowering blood pressure to a target \<140/90 mmHg by lifestyle
+-   Blood pressure reduction, with a target of \<140/90 mmHg through lifestyle
     interventions and anti-hypertensive treatment is recommended in
     individuals who have hypertension with asymptomatic carotid
     atherosclerosis or those with TIA or stroke after the hyper-acute
     period.
 
 -   Each 10-mm Hg reduction in blood pressure among hypertensive
-    patients decreases the risk for stroke by 33%.
+    patients decreases the risk of stroke by 33%. (can we reference this?) 
 
 **Diabetes**
 
--   Glucose control to nearly normoglycemic levels (target hemoglobin
-    A1C \<7%) is recommended among diabetic patients to reduce
-    microvascular complications and, with lesser certainty,
-    macrovascular complications other than stroke.
+-   In diabetic patients glycaemic control to nearly normoglycemic levels (target hemoglobin
+    A1C \<7%) is recommended to reduce
+    microvascular complications and, with a smaller evidence base,
+    macrovascular complications other than stroke. (ref) 
 
-**Lipid abnormalities**
+**Hypercholesterolaemia**
 
 -   Risk of stroke decreased by >15% for every 10% reduction in serum
-    LDL in patients with known coronary or other atherosclerosis
+    LDL in patients with known coronary or other atherosclerosis. (Ref) 
 
--   Statin agents are recommended targeting LDL of 100 mg/dL, for those
+-   Statin agents are recommended targetting LDL of 100 mg/dL, for those
     with coronary heart disease or symptomatic atherosclerotic disease,
     and LDL of 70 mg/dL for very high-risk persons with multiple risk
-    factors
+    factors.
 
 -   High dose statin therapy in patients with TIA/stroke reduce future
     rates of stroke or cardiovascular events but not overall mortality
     at 5 years. [@karamHighDoseAtorvastatinStroke2008]
 
-**Smoking** - Physician counseling is an important and effective
-intervention that reduces smoking in patients by 10% to 20%
+**Smoking Cessation** - Encouraging smoking cessation is paramount for these patients. Physician counseling is an important and effective
+intervention that reduces smoking in patients by 10% to 20%. (REF) 
 
-**Antithrombotic therapy** - There is no evidence to suggest that
-antiplatelet agents other than aspirin have improved benefit in
-asymptomatic patients with carotid atherosclerosis
+**Antithrombotic therapy** - Aspirin is the only
+antiplatelet agent that has demonstrated improved benefit in
+asymptomatic patients with carotid atherosclerosis. (REF) 
 
 ### **Carotid endarterectomy**
 
-**Timing**
+**Indications for Surgical Intervention**
 
--   Recommendations on when to operate after a stroke
+-   Recommendations on when to operate after a TIA/stroke. 
 
     -   Acute stroke with a fixed neurologic deficit of >6h duration -
-        When the patient is medically stable, treatment in less than or
-        equal to 2 weeks after the stroke is preferable.
+        When the patient is medically stable, intervention in 14 days or less after stroke is preferable.
         [@rothwellEndarterectomySymptomaticCarotid2004;
         @meershoekTimingCarotidIntervention2018]
 
     -   Consider urgent intervention in a medically stable patient with
         mild-moderate neurologic deficit, if there is a significant area
-        of ischemic penumbra at risk for progression
+        of ischemic penumbra at risk for progression on imaging that is contributing to the patient's presentation.
 
-    -   Stroke in evolution (fluctuating / evolving neuro deficit) or
-        crescendo TIA (repetitive transient ischemia w improvement
-        between events) - If neuro status is not stabilized by medical
-        intervention consider urgent CEA
+    -   Stroke in evolution (fluctuating / evolving neurological deficit) or
+        crescendo TIA (repetitive transient ischemia with improvement
+        between events) - If the patient's neurological status is not stabilized by medical
+        intervention then an urgent CEA should be considered. 
 
-    -   CEA is preferred to CAS based on an increased embolic potential
-        of carotid lesions that present in this fashion.
+    -   In this clinical context CEA is preferred to CAS based on an increased embolic potential
+        of carotid lesions.
         [@rantnerEarlyEndarterectomyCarries2017]
 
     -   Management of acute stroke [@powers2018GuidelinesEarly2018]
 
-        -   \<4.5hrs from onset of symptoms - tPA unless
-            contraindication
+        -   \<4.5hrs from onset of symptoms - medical thrombolysis with tPA unless
+            contraindicated.
 
-            -   Age >80 and diabetes are contraindication to tPA after
+            -   Patient age >80 and diabetes are contraindications to tPA administration after
                 3hrs.
 
-            -   Other contraindications - high BP, intracranial
-                hemorrhage, recent stroke or head trauma, spine/brain
-                surgery within 3mo, GI bleed within 21d
+            -   Other contraindications include - hypertension, intracranial
+                hemorrhage, recent stroke or cranial trauma, spine/brain
+                surgery within 3 months, GI bleed within 21 days. 
 
         -   \<6hr from onset of symptoms - catheter directed therapy
 
 -   What is the only emergent indication for CEA?
 
     -   Crescendo TIAs or a stroke in evolution with a surgically
-        correctable lesion that is identified
+        correctable lesion identified on imaging.
 
-**Intraoperative Techniques**
+**CEA Intraoperative Techniques**
 
 -   General concepts
 
     -   Patch angioplasty or eversion endarterectomy are recommended
-        rather than primary closure to reduce the early and late
-        complications of CEA (GRADE 1, Level of Evidence A).
+        over primary arterial closure to reduce early and late
+        complications of CEA (GRADE 1, Level of Evidence A). (REF) 
 
 -   Neuromonitoring/Shunting options during a carotid endarterectomy
 
-    -   Local anesthesia with direct neuro monitoring - the patient is
-        awake and moving to command throughout the case. Though improved
-        neuromonitoring has not been shown to reduce MI rate with CEA
+    -   Procedure performed under local/regional anesthesia with direct neurological monitoring - the benefit being that the patient is
+        awake and moving to command throughout the case. Improved
+        neuromonitoring, however, has not been shown to reduce MI (myocardial infarction?) rate with CEA. (REF) 
 
-    -   Stump pressure Clamp the inflow and place butterfly attached to
-        a-line tubing into the internal carotid If stump pressure is >
-        40 mmHg can proceed, if \< 40 place shunt
+    -   Determining shunt use using stump pressure- Clamp the inflow and place a butterfly attached to
+        a-line tubing into the internal carotid atery. If the stump pressure is >
+        40 mmHg the surgeon can chose to proceed without shunt placement, if \< 40mmHg then a shunt should be placed prior to proceeding. (REF) 
 
     -   EEG Neuromonitoring - EEG tech places neuromonitoring, monitored
-        by intraop tech and neurologist remotely, generally clamp ICA
-        for 3 minutes before proceeding, if any deficits unclamp, await
-        normalization of EEG then proceed
+        by the technician and neurologist remotely intraoperatively. Generally the surgeon should clamp the ICA
+        for 3 minutes before proceeding, if the patient develops neurological deficit/EEG abnormalities then unclamp, await
+        normalization of EEG, then proceed. 
 
-    -   Non-selective shunting - shunt all carotids
+    -   Non-selective shunting - the surgeon uses a shunt for all CEAs as standard practice, this is often done for all CEAs performed under general  anaesthesia. 
 
--   Techniques to reach internal carotid lesions that are high?
+-   Techniques to reach high internal carotid lesions?
 
-    -   Nasotracheal intubation will help extend the neck to reach
-        higher lesions
+    -   A good knowledge of the available imaging while preparing for the procedure is essential when considering the level of the carotid bifurcation.  
 
-    -   Divide posterior belly of digastric to reach high lesions with
-        care to watch for glossopharyngeal
+    -   Nasotracheal intubation will allow for jaw closure and neck extension to facilitate exposure of
+        higher lesions.
 
-    -   Styloidectomy
+    -   Division of the posterior belly of the digastric muscle can be performed to improve exposure of a high bifurcation.
+        Care should be taken to identify and preserve the glossopharyngeal nerve. 
+        
+    -   Styloidectomy.  
 
-    -   Mandible subluxation with assistance from ENT if previous
+    -   ENT surgeon assisted mandible subluxation with assistance if previous
         techniques fail.
+        
 
--   What is the best technique for a patient with a kinked internal
+-   What is the best technique for a patient with an anatomically kinked internal
     carotid artery?
 
-    -   Eversion carotid endarterectomy will allow you to reduce the
-        redundancy
+    -   Eversion carotid endarterectomy (only indication for selection for this technique 
+        over patch endarterectomy), transection allows for reduction of redundancy
+         at re-anastamosis. 
 
     -   Otherwise, no advantage has been shown between eversion or
-        patch, both can be shunted
+        patch, both can be shunted.
 
--   Discuss nerve injuries -- where you would encounter these and what
-    deficit would be seen
+-   Nerve Injuries -- where you would encounter these and, if injured, what
+    deficit would be seen?
 
-    -   Hypoglossal Just above the bifurcation of the carotid artery
-        Will see tongue deviation to the side of injury
+    -   Hypoglossal: Most commonly injured. 
+        Usually passes above the bifurcation of the carotid artery.
+        If injured the tongue will deviate toward the side of injury on protrusion.
 
-    -   Glossopharyngeal High dissections under digastric Difficulty
-        swallowing, aspiration risk, can be devastating
+    -   Glossopharyngeal: Commonly injured during high dissections. 
+        Found under the posterior digastric muscle. 
+        Injury can be devastating for patients resulting in difficulty
+        swallowing and high aspiration risk.
 
-    -   Vagus Adjacent and lateral to carotid, injury occurs with
-        carotid clamping, Hoarseness is noted as RLN is a branch off of
-        vagus
+    -   Vagus: Usually found adjacent and lateral to the common carotid. Injury can occur with
+        carotid clamping. Patients develop hoarseness due to innervation of the laryngeal muscles 
+        from the recurrent laryngeal nerve which is a branch of the vagus. 
 
-    -   Marginal Mandibular (Off of facial nerve) Retraction at the
-        angle of the jaw for high dissections Leads to the corner of lip
-        drooping, can be confused with a neuro deficit following the
-        case
+    -   Marginal Mandibular: Branch of the facial nerve. Runs inferiorly to the angle of the mandible.
+        Commonly a retraction injury during high dissections leading to the corner of the ipsilateral lip
+        drooping, can be confused with a significant neurological deficit following the
+        case. 
 
 **Postoperative Complications**
 
--   What to do if neuro deficits following your carotid endarterectomy
+-   What to do if the patient develops neuro deficits following carotid endarterectomy:
+    Two main concerns- an intimal flap causing thrombosis or an embolic event resulting in a stroke.
+    Perform a thorough neurological exam to confirm in operated corotid territory.
 
-    -   If in OR -- perform duplex, if normal open wound and shoot
-        cerebral angiogram
+    -   If in OR -- perform duplex, if normal open wound and perform a
+        cerebral angiogram.
 
-    -   If in Recovery or on the floor -- many would consider CTA first
-        vs duplex to look for thrombosis
+    -   If in Recovery or on the floor -- many would consider CTA first line
+        vs duplex to look for thrombosis.
 
 -   Risk factors and how to manage hyperperfusion syndrome?
 
     -   Defined as an ipsilateral headache, hypertension, seizures, and
-        focal neurological deficits can present 2-3 days out from
-        surgery
+        focal neurological deficits likely in distribution of the carotid.
+        Can present 2-3 days post surgery.
 
     -   Patients with uncontrolled hypertension are at risk for
-        hyperperfusion syndrome, clinical practice guidelines by SVS
-        recommend strict BP control following CEA, maintain a pressure
-        less than 140/80
+        hyperperfusion syndrome, clinical practice guidelines from SVS
+        recommend strict BP control following CEA, with target pressure
+        being less than 140/80mmHg. 
 
 -   High risk groups
 
@@ -311,77 +319,80 @@ asymptomatic patients with carotid atherosclerosis
 
 **Long term complications and follow up**
 
--   Recommend f/u US at \</=30 days. >/= 50% stenosis requires further
-    imaging.
+-   Recommend f/u US duplex of bilateral carotids at \</=30 days. 
+    >/= 50% stenosis further imaging is indicated.
 
--   Contralateral stenosis
+-   Contralateral stenosis:
 
     -   The risk of progression for moderate stenosis at the initial
-        surveillance to severe stenosis can be as high as five times
+        surveillance to severe stenosis in the contralateral artery
+        can be as high as 5 times. 
 
     -   Requires post-operative surveillance.
 
 ### Carotid Artery Stenting
 
--   In patients aged >70 undergoing CAS the risk of stroke was the
-    highest, presumably due to calcific disease in the arch
+-   In patients aged >70 the risk of intra- or post procedure stroke was the
+    highest, if undergoing CAS, presumably due to calcified disease in the arch.
 
     -   Lesion-specific characteristics are thought to increase the risk
         of cerebral vascular events after CAS and include a "soft"
         lipid-rich plaque identified on noninvasive imaging, extensive
         (15 mm or more) disease, a pre-occlusive lesion, and
-        circumferential heavy calcification
+        circumferential heavy calcification.
 
-    -   This can be reduced, but not eliminated, by using flow-reversal
-        embolic protection rather than distal filter protection
+    -   This risk can be reduced, but not eliminated, by using flow-reversal
+        embolic protection rather than distal filter protection.
 
--   Limited data on CAS in asymptomatic patients - currently is not
-    supported by guidelines or considered reimbursable
+-   Limited data is available on CAS in asymptomatic patients - currently is not
+    supported by guidelines or considered reimbursable. 
 
 -   Consider CAS in symptomatic patients with >50% stenosis who are poor
     candidates for CEA due to severe uncorrectable medical comorbidities
-    and/or anatomic considerations
+    and/or anatomic considerations:
 
     -   Ipsilateral neck dissection or XRT - equivalent periprocedural
         stroke rate to CEA, but increased later stroke rate. CEA higher
         rates of cranial nerve damage (9%).
         [@giannopoulosRevascularizationRadiationinducedCarotid2018]
 
-    -   Contralateral vocal cord paralysis
+    -   Contralateral vocal cord paralysis.
 
-    -   Lesions that extend proximally to the clavicle or distal to C2
+    -   Lesions that extend proximally to the clavicle or distal to C2.
 
 -   Transfemoral Approach vs Transcarotid approach
 
     -   ROADSTER Trial - single arm study with flow reversal for
-        cerebral protection. Suggest lower rates of post-op stroke
+        cerebral protection. Suggested lower rates of post-op stroke 
+        in patients undergoing TCAR.
 
--   Post-op follow up - Dual-platelet therapy should be continued for 1
+-   Post-CAS follow up - Dual-platelet therapy should be continued for 1
     month after the procedure, and aspirin should be continued
-    indefinitely
+    indefinitely.
 
     -   In stent restenosis (>50%) - repeat angioplasty or stent have
         low incidence of periprocedural stroke but failed to improve
         long term stroke/death/MI or patency rates.
         [@chungPercutaneousInterventionCarotid2016a]
 
-### Management of uncommon disease presentations
+### Management of Uncommon Disease Presentations
 
--   Occluded Carotid What to do for occluded carotid?
+-   Occluded Carotid: What is the management of an occluded carotid?
 
-    -   Leave it alone
+    -   Leave it alone.
 
--   What if occluded carotid is still causing TIAs?
+-   What if an occluded carotid on imaging is still causing TIAs?
 
-    -   External carotid endarterectomy and ligation of internal
+    -   External carotid endarterectomy and ligation of the internal carotid. 
 
     -   The addition of oral anticoagulation is likely to reduce the
-        rate of recurrent CVA
+        rate of recurrent stroke. 
 
 -   What if the patient has severe vertebrobasilar insufficiency and
     carotid artery disease?
 
-    -   Should undergo carotid revascularization first to improve flow
+    -   Should undergo carotid revascularization first to improve flow. 
+        Then reassess for vertebrobasilar insufficency. 
     -   Vertebrobasilar insufficiency characterized by dizziness,
         ataxia, nausea, vertigo and bilateral weakness.
         [@limanetoPathophysiologyDiagnosisVertebrobasilar2017]
@@ -390,7 +401,7 @@ asymptomatic patients with carotid atherosclerosis
     carotid bulb and carotid siphon lesion (high ICA)? How should you
     treat this?
 
-    -   Treat carotid bulb first, likely the embolic source
+    -   Treat carotid bulb first, likely to be the embolic source.
 
 -   Carotid artery dissection
 
@@ -419,7 +430,7 @@ asymptomatic patients with carotid atherosclerosis
     -   Patients with severe bilateral asymptomatic carotid stenosis,
         including stenosis and contralateral occlusion, should be
         considered for CEA before or concomitant with CABG (GRADE 2,
-        Level of Evidence B)
+        Level of Evidence B).
 
     -   Patients undergoing simultaneous CEA/CABG demonstrate highest
         mortality. [@naylorSystematicReviewOutcomes2003]
@@ -429,14 +440,14 @@ asymptomatic patients with carotid atherosclerosis
 1.  Asymptomatic Carotid Atherosclerosis Study (ACAS)
 
     -   Compared medical management with CEA in asymptomatic patients
-        with > 60% stenosis
+        with > 60% stenosis.
 
-    -   5-year stroke and death rate was 5.1% vs 11%
+    -   5-year stroke and death rate was 5.1% vs 11%.
 
     -   In women, the benefit of CEA was not as certain as 5y stroke and
-        death rates were 7.3% vs. 8.7%
+        death rates were 7.3% vs. 8.7%.
 
-    -   This was pre statin and clopidogrel era
+    -   This trial was conducted pre-statin and clopidogrel era.
 
 2.  North American Symptomatic Carotid Endarterectomy Trial (NASCET)
     [@northamericansymptomaticcarotidendarterectomytrialcollaboratorsBeneficialEffectCarotid1991]
@@ -449,11 +460,11 @@ asymptomatic patients with carotid atherosclerosis
 
     -   Symptomatic patients with >70 % stenosis benefited from CEA, at
         18 months 7% major stroke in surgical arm, and a 24% stroke rate
-        in medical arm. 29% reduction in 5-year risk of stroke or death
+        in medical arm. 29% reduction in 5-year risk of stroke or death.
 
         -   Patients with severe >70% stenosis had such a dramatic
             effect the trial was stopped early for this subset and all
-            referred for endarterectomy
+            referred for endarterectomy.
 
     -   No benefit is shown in symptomatic patients with \< 50% stenosis
 
@@ -464,16 +475,16 @@ asymptomatic patients with carotid atherosclerosis
         -   ECST = NASCET.
 
 3.  Carotid Revascularization Endarterectomy versus Stenting Trial
-    (CREST)
+    (CREST).
 
     -   Compared CEA vs. CAS in both symptomatic and asymptomatic
         patients.
 
     -   Composite endpoint of 30-day stroke, MI, death equivalent
-        between CEA and CAS
+        between CEA and CAS.
 
     -   CAS had a significantly higher incidence of stroke and death
-        than CEA and CEA higher incidence of MI
+        than CEA and CEA higher incidence of MI.
 
         -   Follow up at 10 years demonstrated no difference in
             composite stroke/MI/death but increased rate of stroke/death
@@ -484,14 +495,14 @@ asymptomatic patients with carotid atherosclerosis
         outcomes after CEA than CAS, the QOL impact of stroke was more
         significant than that of MI, and anatomic characteristics of
         carotid lesions (longer, sequential, remote) were predictive of
-        increased stroke and death after CAS
+        increased stroke and death after CAS.
 
     -   Unfortunately, this study provides a benchmark to strive for,
         but no other large trials have achieved these results.
 
 4.  ROADSTER
 
-    -   Single arm feasibility trial of transcarotid carotid stenting
+    -   Single arm feasibility trial of transcarotid carotid stenting.
 
     -   The results of the ROADSTER trial demonstrate that the use of
         the ENROUTE Transcarotid NPS is safe and effective at preventing
@@ -499,14 +510,14 @@ asymptomatic patients with carotid atherosclerosis
         reported to date for any prospective, multicenter clinical trial
         of CAS.
 
-5.  Trials to look out for in the next few years
+5.  Trials to look out for in the next few years:
 
-    -   CREST-2 - multicenter, randomized controlled trial is underway
-        that is evaluating revascularization against modern intensive
-        medical management
+    -   CREST-2 - a multicenter, randomized controlled trial underway
+        evaluating revascularization against modern intensive
+        medical management.
 
     -   ACT-1 and ACST-2- the role of intervention in asymptomatic
         patients, designed to compare the early and long-term results of
-        CEA vs CAS and best medical management
+        CEA vs CAS and best medical management.
 
-    -   ROADSTER-2 - TCAR
+    -   ROADSTER-2 - TCAR.
