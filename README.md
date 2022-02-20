@@ -1,10 +1,11 @@
 # About
 
-The content was developed here by the Audible Bleeding team to accompany our board review podcast episodes.
+This content was developed by the Audible Bleeding team to accompany our board review podcast series.
+Each chapter covers a key domain of vascular surgery, essential for board review preparation, and is associated with an Audible Bleeding episode which you can access through the link embeded into the text. 
 
 ## Usage 
 
-This is not a comprehensive guide but instead an outline of the most high yield information to help guide board preparation.
+This e-book is not intended to be a comprehensive board review revision guide, but instead serves as an easily accessible resource, paired with our podcast content to help streamline board preparation.
 
 ## Preview
 
