@@ -1,6 +1,6 @@
 # About
 
-This content was developed by the Audible Bleeding team to accompany our board review podcast series.
+This content was developed by the [Audible Bleeding Team](https://www.audiblebleeding.com/about-1/) to accompany our board review podcast series.
 Each chapter covers a key domain of vascular surgery, essential for board review preparation, and is associated with an Audible Bleeding episode which you can access through the link embeded into the text. 
 
 ## Usage 

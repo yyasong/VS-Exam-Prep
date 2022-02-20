@@ -373,8 +373,8 @@ as we discussed.
 
 RAS can worsen ACE-I and ARB induced renal dysfunction due to systemic
 hypotension, efferent arterial vasodilation, and reduced glomerular
-hydrostatic pressure, in turn lowering GFR.
-[\[@rickey125RenovascularDisease2019;
+hydrostatic pressure, in turn lowering GFR. [\[
+@rickey125RenovascularDisease2019;
 @schoolwerthRenalConsiderationsAngiotensin2001]\]
 
 **Okay, in other words we can have chronic normalization of the systemic
@@ -1376,7 +1376,7 @@ imaging. [@asgharRenalVeinThrombosis2007;
 ### Management
 
 -   Renal vein thrombosis initially managed with heparin, then warfarin
-    for 6mo. [\[@asgharRenalVeinThrombosis2007;
+    for 6mo. [\[ @asgharRenalVeinThrombosis2007;
     @velazquez-ramirez129RenovascularDisease2019]\]
 
 -   Thrombectomy or thrombolysis reserved for acutely threatened kidney
