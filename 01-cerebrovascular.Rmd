@@ -29,18 +29,30 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 1.  **What is the definition of crescendo TIAs?**
 
     Frequent repetitive neurological attacks without complete resolution
-    of the deficit between the episodes, usually over a 24 hour period. The result of which is the same neurological deficit. If the patient exhibits    progressive deterioration in neurological function between TIA episodes this is classified as a stroke in evolution not a crescendo TIA. (this will need referenced if you can) 
+    of the deficit between the episodes, usually over a 24 hour period.
+    The result of which is the same neurological deficit. If the patient
+    exhibits progressive deterioration in neurological function between
+    TIA episodes this is classified as a stroke in evolution not a
+    crescendo TIA. <!--# Add Reference -->
 
 2.  **Who needs to be screened for carotid disease?**
 
-    Not everyone should be screened for carotid disease, however, as only 15% of patients who have a stroke experience a warning TIA prior to their event, there is merit in screening high risk patients. The purpose of carotid
-    bifurcation imaging is to detect "stroke-prone" carotid bifurcation
-    plaque and identify a high-risk patient likely to benefit from
-    therapy designed to reduce stroke risk.
+    Not everyone should be screened for carotid disease, however, as
+    only 15% of patients who have a stroke experience a warning TIA
+    prior to their event, there is merit in screening high risk
+    patients. The purpose of carotid bifurcation imaging is to detect
+    "stroke-prone" carotid bifurcation plaque and identify a high-risk
+    patient likely to benefit from therapy designed to reduce stroke
+    risk.
 
-    Traditionally, the clinical sign associated with carotid stenosis is the prescence of a neck bruit on auscultation.
-     Focal ipsilateral carotid bruits in symptomatic patients has a sensitivity of 63% and a
-    specificity of 61% for high-grade carotid stenosis (range, 70%-99%). As these figures suggest the absence of carotid bruit does not absolutely exclude the presence of a significant carotid bifurcation lesion, therefore additional criteria are used to determine which patients would benefit from screening:
+    Traditionally, the clinical sign associated with carotid stenosis is
+    the prescence of a neck bruit on auscultation. Focal ipsilateral
+    carotid bruits in symptomatic patients has a sensitivity of 63% and
+    a specificity of 61% for high-grade carotid stenosis (range,
+    70%-99%). As these figures suggest the absence of carotid bruit does
+    not absolutely exclude the presence of a significant carotid
+    bifurcation lesion, therefore additional criteria are used to
+    determine which patients would benefit from screening:
 
     -   Evidence of clinically significant peripheral vascular disease
         regardless of age
@@ -56,7 +68,7 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
     -   In general, the more risk factors present, the higher the yield
         of screening for the patient.
-        
+
     -   The benefit of prophylactic treatment of high grade stenosis is
         estimated at a 1-2% stroke reduction risk per year.
         [@naylorWhyManagementAsymptomatic2015]
@@ -68,11 +80,14 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
         @rosenfieldRandomizedTrialStent2016]
 
 3.  **Ultrasound Imaging**
-    - US is considered the best, least invasive, and cost effective method for detecting carotid stenosis on screening. 
 
-    -   50-69% stenosis of ICA - US has a low sensitivity for 50-69% stenosis. A
-        negative ultrasound in symptomatic patients necessitates
-        additional imaging. Typically on scanning if 50-69% ICA stenosis is present:
+    -   US is considered the best, least invasive, and cost effective
+        method for detecting carotid stenosis on screening.
+
+    -   50-69% stenosis of ICA - US has a low sensitivity for 50-69%
+        stenosis. A negative ultrasound in symptomatic patients
+        necessitates additional imaging. Typically on scanning if 50-69%
+        ICA stenosis is present:
 
         -   PSV 125-229 cm/sec
         -   EDV 40-100
@@ -109,7 +124,8 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
     -   MRA
 
-        -   Pro - no contrast administered; can analyze plaque morphology.
+        -   Pro - no contrast administered; can analyze plaque
+            morphology.
 
         -   Con - Does not visualize calcium in plaque; overestimates
             the degree of stenosis (False positive for 50-69% to be read
@@ -126,32 +142,36 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
 ## Management
 
-### **Optimal medical therapy**
+### Optimal medical therapy
 
-First line management for asymptomatic patients with carotid stenosis is medical optimisation of risk factors. 
+First line management for asymptomatic patients with carotid stenosis is
+medical optimisation of risk factors.
 
 **Hypertension**
 
--   Blood pressure reduction, with a target of \<140/90 mmHg through lifestyle
-    interventions and anti-hypertensive treatment is recommended in
-    individuals who have hypertension with asymptomatic carotid
-    atherosclerosis or those with TIA or stroke after the hyper-acute
-    period.
+-   Blood pressure reduction, with a target of \<140/90 mmHg through
+    lifestyle interventions and anti-hypertensive treatment is
+    recommended in individuals who have hypertension with asymptomatic
+    carotid atherosclerosis or those with TIA or stroke after the
+    hyper-acute period.
 
 -   Each 10-mm Hg reduction in blood pressure among hypertensive
-    patients decreases the risk of stroke by 33%. (can we reference this?) 
+    patients decreases the risk of stroke by 33%.
+    <!--# Add Reference -->
 
 **Diabetes**
 
--   In diabetic patients glycaemic control to nearly normoglycemic levels (target hemoglobin
-    A1C \<7%) is recommended to reduce
+-   In diabetic patients glycaemic control to nearly normoglycemic
+    levels (target hemoglobin A1C \<7%) is recommended to reduce
     microvascular complications and, with a smaller evidence base,
-    macrovascular complications other than stroke. (ref) 
+    macrovascular complications other than stroke.
+    <!--# Add Reference -->
 
 **Hypercholesterolaemia**
 
 -   Risk of stroke decreased by >15% for every 10% reduction in serum
-    LDL in patients with known coronary or other atherosclerosis. (Ref) 
+    LDL in patients with known coronary or other atherosclerosis.
+    <!--# Add Reference -->
 
 -   Statin agents are recommended targetting LDL of 100 mg/dL, for those
     with coronary heart disease or symptomatic atherosclerotic disease,
@@ -162,48 +182,53 @@ First line management for asymptomatic patients with carotid stenosis is medical
     rates of stroke or cardiovascular events but not overall mortality
     at 5 years. [@karamHighDoseAtorvastatinStroke2008]
 
-**Smoking Cessation** - Encouraging smoking cessation is paramount for these patients. Physician counseling is an important and effective
-intervention that reduces smoking in patients by 10% to 20%. (REF) 
+**Smoking Cessation** - Encouraging smoking cessation is paramount for
+these patients. Physician counseling is an important and effective
+intervention that reduces smoking in patients by 10% to 20%. (REF)
 
-**Antithrombotic therapy** - Aspirin is the only
-antiplatelet agent that has demonstrated improved benefit in
-asymptomatic patients with carotid atherosclerosis. (REF) 
+**Antithrombotic therapy** - Aspirin is the only antiplatelet agent that
+has demonstrated improved benefit in asymptomatic patients with carotid
+atherosclerosis. <!--# Add Reference -->
 
-### **Carotid endarterectomy**
+### Carotid endarterectomy
 
 **Indications for Surgical Intervention**
 
--   Recommendations on when to operate after a TIA/stroke. 
+-   Recommendations on when to operate after a TIA/stroke.
 
     -   Acute stroke with a fixed neurologic deficit of >6h duration -
-        When the patient is medically stable, intervention in 14 days or less after stroke is preferable.
+        When the patient is medically stable, intervention in 14 days or
+        less after stroke is preferable.
         [@rothwellEndarterectomySymptomaticCarotid2004;
         @meershoekTimingCarotidIntervention2018]
 
     -   Consider urgent intervention in a medically stable patient with
         mild-moderate neurologic deficit, if there is a significant area
-        of ischemic penumbra at risk for progression on imaging that is contributing to the patient's presentation.
+        of ischemic penumbra at risk for progression on imaging that is
+        contributing to the patient's presentation.
 
-    -   Stroke in evolution (fluctuating / evolving neurological deficit) or
-        crescendo TIA (repetitive transient ischemia with improvement
-        between events) - If the patient's neurological status is not stabilized by medical
-        intervention then an urgent CEA should be considered. 
+    -   Stroke in evolution (fluctuating / evolving neurological
+        deficit) or crescendo TIA (repetitive transient ischemia with
+        improvement between events) - If the patient's neurological
+        status is not stabilized by medical intervention then an urgent
+        CEA should be considered.
 
-    -   In this clinical context CEA is preferred to CAS based on an increased embolic potential
-        of carotid lesions.
+    -   In this clinical context CEA is preferred to CAS based on an
+        increased embolic potential of carotid lesions.
         [@rantnerEarlyEndarterectomyCarries2017]
 
     -   Management of acute stroke [@powers2018GuidelinesEarly2018]
 
-        -   \<4.5hrs from onset of symptoms - medical thrombolysis with tPA unless
-            contraindicated.
+        -   \<4.5hrs from onset of symptoms - medical thrombolysis with
+            tPA unless contraindicated.
 
-            -   Patient age >80 and diabetes are contraindications to tPA administration after
-                3hrs.
+            -   Patient age >80 and diabetes are contraindications to
+                tPA administration after 3hrs.
 
-            -   Other contraindications include - hypertension, intracranial
-                hemorrhage, recent stroke or cranial trauma, spine/brain
-                surgery within 3 months, GI bleed within 21 days. 
+            -   Other contraindications include - hypertension,
+                intracranial hemorrhage, recent stroke or cranial
+                trauma, spine/brain surgery within 3 months, GI bleed
+                within 21 days.
 
         -   \<6hr from onset of symptoms - catheter directed therapy
 
@@ -218,94 +243,109 @@ asymptomatic patients with carotid atherosclerosis. (REF)
 
     -   Patch angioplasty or eversion endarterectomy are recommended
         over primary arterial closure to reduce early and late
-        complications of CEA (GRADE 1, Level of Evidence A). (REF) 
+        complications of CEA (GRADE 1, Level of Evidence A). \# Add
+        Reference
 
 -   Neuromonitoring/Shunting options during a carotid endarterectomy
 
-    -   Procedure performed under local/regional anesthesia with direct neurological monitoring - the benefit being that the patient is
+    -   Procedure performed under local/regional anesthesia with direct
+        neurological monitoring - the benefit being that the patient is
         awake and moving to command throughout the case. Improved
-        neuromonitoring, however, has not been shown to reduce MI (myocardial infarction?) rate with CEA. (REF) 
+        neuromonitoring, however, has not been shown to reduce MI
+        (myocardial infarction?) rate with CEA. <!--# Add Reference -->
 
-    -   Determining shunt use using stump pressure- Clamp the inflow and place a butterfly attached to
-        a-line tubing into the internal carotid atery. If the stump pressure is >
-        40 mmHg the surgeon can chose to proceed without shunt placement, if \< 40mmHg then a shunt should be placed prior to proceeding. (REF) 
+    -   Determining shunt use using stump pressure- Clamp the inflow and
+        place a butterfly attached to a-line tubing into the internal
+        carotid atery. If the stump pressure is > 40 mmHg the surgeon
+        can chose to proceed without shunt placement, if \< 40mmHg then
+        a shunt should be placed prior to proceeding.
+        <!--# Add Reference -->
 
     -   EEG Neuromonitoring - EEG tech places neuromonitoring, monitored
-        by the technician and neurologist remotely intraoperatively. Generally the surgeon should clamp the ICA
-        for 3 minutes before proceeding, if the patient develops neurological deficit/EEG abnormalities then unclamp, await
-        normalization of EEG, then proceed. 
+        by the technician and neurologist remotely intraoperatively.
+        Generally the surgeon should clamp the ICA for 3 minutes before
+        proceeding, if the patient develops neurological deficit/EEG
+        abnormalities then unclamp, await normalization of EEG, then
+        proceed.
 
-    -   Non-selective shunting - the surgeon uses a shunt for all CEAs as standard practice, this is often done for all CEAs performed under general  anaesthesia. 
+    -   Non-selective shunting - the surgeon uses a shunt for all CEAs
+        as standard practice, this is often done for all CEAs performed
+        under general anaesthesia.
 
 -   Techniques to reach high internal carotid lesions?
 
-    -   A good knowledge of the available imaging while preparing for the procedure is essential when considering the level of the carotid bifurcation.  
+    -   A good knowledge of the available imaging while preparing for
+        the procedure is essential when considering the level of the
+        carotid bifurcation.
 
-    -   Nasotracheal intubation will allow for jaw closure and neck extension to facilitate exposure of
-        higher lesions.
+    -   Nasotracheal intubation will allow for jaw closure and neck
+        extension to facilitate exposure of higher lesions.
 
-    -   Division of the posterior belly of the digastric muscle can be performed to improve exposure of a high bifurcation.
-        Care should be taken to identify and preserve the glossopharyngeal nerve. 
-        
-    -   Styloidectomy.  
+    -   Division of the posterior belly of the digastric muscle can be
+        performed to improve exposure of a high bifurcation. Care should
+        be taken to identify and preserve the glossopharyngeal nerve.
 
-    -   ENT surgeon assisted mandible subluxation with assistance if previous
-        techniques fail.
-        
+    -   Styloidectomy.
 
--   What is the best technique for a patient with an anatomically kinked internal
-    carotid artery?
+    -   ENT surgeon assisted mandible subluxation with assistance if
+        previous techniques fail.
 
-    -   Eversion carotid endarterectomy (only indication for selection for this technique 
-        over patch endarterectomy), transection allows for reduction of redundancy
-         at re-anastamosis. 
+-   What is the best technique for a patient with an anatomically kinked
+    internal carotid artery?
+
+    -   Eversion carotid endarterectomy (only indication for selection
+        for this technique over patch endarterectomy), transection
+        allows for reduction of redundancy at re-anastamosis.
 
     -   Otherwise, no advantage has been shown between eversion or
         patch, both can be shunted.
 
--   Nerve Injuries -- where you would encounter these and, if injured, what
-    deficit would be seen?
+-   Nerve Injuries -- where you would encounter these and, if injured,
+    what deficit would be seen?
 
-    -   Hypoglossal: Most commonly injured. 
-        Usually passes above the bifurcation of the carotid artery.
-        If injured the tongue will deviate toward the side of injury on protrusion.
+    -   Hypoglossal: Most commonly injured. Usually passes above the
+        bifurcation of the carotid artery. If injured the tongue will
+        deviate toward the side of injury on protrusion.
 
-    -   Glossopharyngeal: Commonly injured during high dissections. 
-        Found under the posterior digastric muscle. 
-        Injury can be devastating for patients resulting in difficulty
-        swallowing and high aspiration risk.
+    -   Glossopharyngeal: Commonly injured during high dissections.
+        Found under the posterior digastric muscle. Injury can be
+        devastating for patients resulting in difficulty swallowing and
+        high aspiration risk.
 
-    -   Vagus: Usually found adjacent and lateral to the common carotid. Injury can occur with
-        carotid clamping. Patients develop hoarseness due to innervation of the laryngeal muscles 
-        from the recurrent laryngeal nerve which is a branch of the vagus. 
+    -   Vagus: Usually found adjacent and lateral to the common carotid.
+        Injury can occur with carotid clamping. Patients develop
+        hoarseness due to innervation of the laryngeal muscles from the
+        recurrent laryngeal nerve which is a branch of the vagus.
 
-    -   Marginal Mandibular: Branch of the facial nerve. Runs inferiorly to the angle of the mandible.
-        Commonly a retraction injury during high dissections leading to the corner of the ipsilateral lip
-        drooping, can be confused with a significant neurological deficit following the
-        case. 
+    -   Marginal Mandibular: Branch of the facial nerve. Runs inferiorly
+        to the angle of the mandible. Commonly a retraction injury
+        during high dissections leading to the corner of the ipsilateral
+        lip drooping, can be confused with a significant neurological
+        deficit following the case.
 
 **Postoperative Complications**
 
--   What to do if the patient develops neuro deficits following carotid endarterectomy:
-    Two main concerns- an intimal flap causing thrombosis or an embolic event resulting in a stroke.
-    Perform a thorough neurological exam to confirm in operated corotid territory.
+-   What to do if the patient develops neuro deficits following carotid
+    endarterectomy: Two main concerns- an intimal flap causing
+    thrombosis or an embolic event resulting in a stroke. Perform a
+    thorough neurological exam to confirm in operated corotid territory.
 
     -   If in OR -- perform duplex, if normal open wound and perform a
         cerebral angiogram.
 
-    -   If in Recovery or on the floor -- many would consider CTA first line
-        vs duplex to look for thrombosis.
+    -   If in Recovery or on the floor -- many would consider CTA first
+        line vs duplex to look for thrombosis.
 
 -   Risk factors and how to manage hyperperfusion syndrome?
 
     -   Defined as an ipsilateral headache, hypertension, seizures, and
-        focal neurological deficits likely in distribution of the carotid.
-        Can present 2-3 days post surgery.
+        focal neurological deficits likely in distribution of the
+        carotid. Can present 2-3 days post surgery.
 
     -   Patients with uncontrolled hypertension are at risk for
         hyperperfusion syndrome, clinical practice guidelines from SVS
         recommend strict BP control following CEA, with target pressure
-        being less than 140/80mmHg. 
+        being less than 140/80mmHg.
 
 -   High risk groups
 
@@ -315,21 +355,22 @@ asymptomatic patients with carotid atherosclerosis. (REF)
 
 **Long term complications and follow up**
 
--   Recommend f/u US duplex of bilateral carotids at \</=30 days. 
-    >/= 50% stenosis further imaging is indicated.
+-   Recommend f/u US duplex of bilateral carotids at \</=30 days. >/=
+    50% stenosis further imaging is indicated.
 
 -   Contralateral stenosis:
 
     -   The risk of progression for moderate stenosis at the initial
-        surveillance to severe stenosis in the contralateral artery
-        can be as high as 5 times. 
+        surveillance to severe stenosis in the contralateral artery can
+        be as high as 5 times.
 
     -   Requires post-operative surveillance.
 
 ### Carotid Artery Stenting
 
--   In patients aged >70 the risk of intra- or post procedure stroke was the
-    highest, if undergoing CAS, presumably due to calcified disease in the arch.
+-   In patients aged >70 the risk of intra- or post procedure stroke was
+    the highest, if undergoing CAS, presumably due to calcified disease
+    in the arch.
 
     -   Lesion-specific characteristics are thought to increase the risk
         of cerebral vascular events after CAS and include a "soft"
@@ -337,11 +378,12 @@ asymptomatic patients with carotid atherosclerosis. (REF)
         (15 mm or more) disease, a pre-occlusive lesion, and
         circumferential heavy calcification.
 
-    -   This risk can be reduced, but not eliminated, by using flow-reversal
-        embolic protection rather than distal filter protection.
+    -   This risk can be reduced, but not eliminated, by using
+        flow-reversal embolic protection rather than distal filter
+        protection.
 
--   Limited data is available on CAS in asymptomatic patients - currently is not
-    supported by guidelines or considered reimbursable. 
+-   Limited data is available on CAS in asymptomatic patients -
+    currently is not supported by guidelines or considered reimbursable.
 
 -   Consider CAS in symptomatic patients with >50% stenosis who are poor
     candidates for CEA due to severe uncorrectable medical comorbidities
@@ -359,8 +401,8 @@ asymptomatic patients with carotid atherosclerosis. (REF)
 -   Transfemoral Approach vs Transcarotid approach
 
     -   ROADSTER Trial - single arm study with flow reversal for
-        cerebral protection. Suggested lower rates of post-op stroke 
-        in patients undergoing TCAR.
+        cerebral protection. Suggested lower rates of post-op stroke in
+        patients undergoing TCAR.
 
 -   Post-CAS follow up - Dual-platelet therapy should be continued for 1
     month after the procedure, and aspirin should be continued
@@ -379,16 +421,17 @@ asymptomatic patients with carotid atherosclerosis. (REF)
 
 -   What if an occluded carotid on imaging is still causing TIAs?
 
-    -   External carotid endarterectomy and ligation of the internal carotid. 
+    -   External carotid endarterectomy and ligation of the internal
+        carotid.
 
     -   The addition of oral anticoagulation is likely to reduce the
-        rate of recurrent stroke. 
+        rate of recurrent stroke.
 
 -   What if the patient has severe vertebrobasilar insufficiency and
     carotid artery disease?
 
-    -   Should undergo carotid revascularization first to improve flow. 
-        Then reassess for vertebrobasilar insufficency. 
+    -   Should undergo carotid revascularization first to improve flow.
+        Then reassess for vertebrobasilar insufficency.
     -   Vertebrobasilar insufficiency characterized by dizziness,
         ataxia, nausea, vertigo and bilateral weakness.
         [@limanetoPathophysiologyDiagnosisVertebrobasilar2017]
@@ -470,6 +513,10 @@ asymptomatic patients with carotid atherosclerosis. (REF)
 
         -   ECST = NASCET.
 
+    -   **Take a listen!** [Click hear to listen to Dr. William Jordan
+        discuss this landmark
+        paper!](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/)
+
 3.  Carotid Revascularization Endarterectomy versus Stenting Trial
     (CREST).
 
@@ -509,8 +556,8 @@ asymptomatic patients with carotid atherosclerosis. (REF)
 5.  Trials to look out for in the next few years:
 
     -   CREST-2 - a multicenter, randomized controlled trial underway
-        evaluating revascularization against modern intensive
-        medical management.
+        evaluating revascularization against modern intensive medical
+        management.
 
     -   ACT-1 and ACST-2- the role of intervention in asymptomatic
         patients, designed to compare the early and long-term results of
