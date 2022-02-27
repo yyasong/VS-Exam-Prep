@@ -23,119 +23,125 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_Upper_Extremity_po
 [@illig57UpperExtremity2019; @illig57UpperExtremity2019]
 
 Division of the upper extremity into three zones:
+<!--# Would be great to link to an free open source anatomy text -->
 
-**1.  Intrathoracic Zone:** Inclusive of the aortic arch and its branches, 
-      innominate artery ( dividing into right subclavian and right common
-      carotid), left subclavian artery and left common carotid artery, as 
-      well as the innominate veins, and SVC.
+**1. Intrathoracic Zone:** Inclusive of the aortic arch and its
+branches, innominate artery (dividing into right subclavian and right
+common carotid), left subclavian artery and left common carotid artery,
+as well as the innominate veins, and SVC.
 
-**2.  Thoracic Outlet:** Extends from the base of neck to the axila. 
-      Includes the subclavian, proximal vertebral, and proximal axillary 
-      arteries, as well as the corresponding veins).
+**2. Thoracic Outlet:** Extends from the base of neck to the axila.
+Includes the subclavian, proximal vertebral, and proximal axillary
+arteries, as well as the corresponding veins).
 
-**3.  Axilla to Fingers:** The arm.
+**3. Axilla to Fingers:** The arm.
 
 **What are some common exposures for major upper extremity arteries?**
 
-**Right Subclavian Artery:** For proximal artery exposure a medial sternotomy 
-is required, for the mid/distal artery a right supraclavicular approach is 
-needed. 
+**Right Subclavian Artery:** For proximal artery exposure a medial
+sternotomy is required, for the mid-distal artery a right
+supraclavicular approach is needed.
 
-**Left Subclavian Artery:** An anterolateral thoracotomy is required in 
-emergent settings for proximal left subclavian artery control. For proximal,
-mid and distal exposure is required a "trap door" exposure is used:
-anterolateral thoracotomy, third space sternotomy, and left 
+**Left Subclavian Artery:** An anterolateral thoracotomy is required in
+emergent settings for proximal left subclavian artery control. For
+proximal, mid and distal exposure is required a "trap door" exposure is
+used: anterolateral thoracotomy, third space sternotomy, and left
 supraclavicular incision.
 
-**Supraclavicular Incision:** After division of the platysma and clavicular
-head of the SCM, a fat pat of varying thickness is encourntered which 
-contains the omohyoid muscle. This should be divided and placed supero-laterally. 
-At this point, the anterior scalene muscle is exposed medially with the phrenic
-nerve running in a lateral to medial direction, which should be identfied and 
-preseved. In a carotid/subclavian bypass division of the anterior
-scalene should be performed as close to the first rib as possible. 
-Once divided the subclavian artery is exposed.
+**Supraclavicular Incision:** After division of the platysma and
+clavicular head of the SCM, a fat pat of varying thickness is
+encourntered which contains the omohyoid muscle. This should be divided
+and placed supero-laterally. At this point, the anterior scalene muscle
+is exposed medially with the phrenic nerve running in a lateral to
+medial direction, which should be identfied and preseved. In a
+carotid/subclavian bypass division of the anterior scalene should be
+performed as close to the first rib as possible. Once divided the
+subclavian artery is exposed.
 
-**Axillary Artery:** Exposure is gained through an infraclavicular inicision,
-below the middle third of the clavicle. Pectoralis major is divided and 
-pectoralis minor is freed at the lateral margin of the wound. The axillary
-vein should be identified and followed supero-deeply to identify and expose
-the artery. 
+**Axillary Artery:** Exposure is gained through an infraclavicular
+inicision, below the middle third of the clavicle. Pectoralis major is
+divided and pectoralis minor is freed at the lateral margin of the
+wound. The axillary vein should be identified and followed supero-deeply
+to identify and expose the artery.
 
 Anatomically bound by the first rib proximally and the lateral edge of
 the teres major muscle distally. For exposure of the first part of the
 axillary artery, the ipsilateral arm is abducted approximately 90
-degrees and a horizontal skin incision 2 cm below the middle third of the
-clavicle should be made. The underlying pectoralis major is split by 
-bluntly separating the fibers, exposing the tough clavipectoral fascia. 
-At the lateral wound margin, the pectoralis minor can be freed and 
-laterally retracted. The axillary vein is the first structure to be encountered 
-in the fascia and the artery lies just superior and deep to the vein. Make
- sure to protect the nerves of the brachial plexus which lie deep to the 
-first part of axillary artery and are at risk of injury during blind 
-placement of occluding arterial clamps.
+degrees and a horizontal skin incision 2 cm below the middle third of
+the clavicle should be made. The underlying pectoralis major is split by
+bluntly separating the fibers, exposing the tough clavipectoral fascia.
+At the lateral wound margin, the pectoralis minor can be freed and
+laterally retracted. The axillary vein is the first structure to be
+encountered in the fascia and the artery lies just superior and deep to
+the vein. Make sure to protect the nerves of the brachial plexus which
+lie deep to the first part of axillary artery and are at risk of injury
+during blind placement of occluding arterial clamps.
 [@garygwindAnatomicExposuresVascular2013]
 
-**What steps are involved for brachial, radial and ulnar artery exposure?**
+**What steps are involved for brachial, radial and ulnar artery
+exposure?**
 
-**Brachial Artery, Upper Arm:** The brachial artery's superficial location makes
- it vulnerable to injury and accounts for most vascular injuries of 
-the upper extremities. Brachial artery exposure involves a 5-8 cm 
-longitudinal incision in the groove between the biceps/triceps muscles 
-on the medial aspect of the arm. In the lower half of the arm, take care 
-to avoid basilic vein damage as it runs in the subcutaneous tissue. The 
-neurovascular bundle is exposed by incising the deep fascia at the medial 
-border of the biceps muscle, which then should be retracted anteriorly. 
-The basilic vein should be indetified and retracted into the posterior 
-wound. On opening the brachial sheath the median nerve is the most 
-superficial structure and should be identified, protected and
-retracted. The brachial artery lies deep to the median nerve and is flanked 
-by two brachial veins. Be midful that the ulnar nerve lies posteriorly.
+**Brachial Artery, Upper Arm:** The brachial artery's superficial
+location makes it vulnerable to injury and accounts for most vascular
+injuries of the upper extremities. Brachial artery exposure involves a
+5-8 cm longitudinal incision in the groove between the biceps/triceps
+muscles on the medial aspect of the arm. In the lower half of the arm,
+take care to avoid basilic vein damage as it runs in the subcutaneous
+tissue. The neurovascular bundle is exposed by incising the deep fascia
+at the medial border of the biceps muscle, which then should be
+retracted anteriorly. The basilic vein should be indetified and
+retracted into the posterior wound. On opening the brachial sheath the
+median nerve is the most superficial structure and should be identified,
+protected and retracted. The brachial artery lies deep to the median
+nerve and is flanked by two brachial veins. Be midful that the ulnar
+nerve lies posteriorly.
 
-**Brachial Artery, Antecubital Fossa:** Exposure of the brachial artery in 
-the antecubital fossa requires a transverse skin incision 1 cm distal to
- the midpoint of the antecubital crease. After deepening, mobilize the 
- basilic vein medially to avoid injury. The medial antebrachial cutaneous 
-nerve should be identified and protected. The bicipital aponeurosis should be
-divided to exposure the brachial artery, which is flanked by two deep veins
-crossing tributaries. To isolate the brachial artery ligation and
-division of these tributaries is required.
+**Brachial Artery, Antecubital Fossa:** Exposure of the brachial artery
+in the antecubital fossa requires a transverse skin incision 1 cm distal
+to the midpoint of the antecubital crease. After deepening, mobilize the
+basilic vein medially to avoid injury. The medial antebrachial cutaneous
+nerve should be identified and protected. The bicipital aponeurosis
+should be divided to exposure the brachial artery, which is flanked by
+two deep veins crossing tributaries. To isolate the brachial artery
+ligation and division of these tributaries is required.
 
-The brachial artery bifurcates at the radial tuberosity into its radial 
-and ulnar branches. Immediately after the ulnar artery arises from the 
-bifurcation origin, it gives off a short common interosseous branch, which
-bifurcates at the hiatus in the proximal interosseous membrane.
+The brachial artery bifurcates at the radial tuberosity into its radial
+and ulnar branches. Immediately after the ulnar artery arises from the
+bifurcation origin, it gives off a short common interosseous branch,
+which bifurcates at the hiatus in the proximal interosseous membrane.
 
-**Radial Artery at the Wrist:**  This requires a 2-3 cm longitudinal incision 
-generally between the palpable radial artery and cephalic vein. Incision of the 
-antebrachial fascia medially to the radius should expose the radial artery. Two 
-veins accompany the artery and should be dissected away to isolate the artery. 
-The superficial radial nerve and its medial/lateral branches
-course between the cephalic vein and radial artery in this area.
+**Radial Artery at the Wrist:** This requires a 2-3 cm longitudinal
+incision generally between the palpable radial artery and cephalic vein.
+Incision of the antebrachial fascia medially to the radius should expose
+the radial artery. Two veins accompany the artery and should be
+dissected away to isolate the artery. The superficial radial nerve and
+its medial/lateral branches course between the cephalic vein and radial
+artery in this area.
 
-**Ulnar Artery:** The ulnar artery courses beneath the 
-superficial flexor muscles of the proximal forearm, emerging near the ulnar 
-border at the midpoint between the elbow and the wrist. In the distal
-forearm, the ulnar artery runs just deep to the antebrachial fascia
-and is easily exposed through a longitudinal incision placed radially to
-the flexor carpi ulnaris. The palmar branch of the ulnar nerve courses
-superficially to the antebrachial fascia and should be preserved
-during arterial exposure to avoid injury. 
+**Ulnar Artery:** The ulnar artery courses beneath the superficial
+flexor muscles of the proximal forearm, emerging near the ulnar border
+at the midpoint between the elbow and the wrist. In the distal forearm,
+the ulnar artery runs just deep to the antebrachial fascia and is easily
+exposed through a longitudinal incision placed radially to the flexor
+carpi ulnaris. The palmar branch of the ulnar nerve courses
+superficially to the antebrachial fascia and should be preserved during
+arterial exposure to avoid injury.
 
 **What common aberrant upper extremity/arch anatomy is important to be
 aware of?**
 
--   **Bovine Arch:** Where the inominate and left common carotid arteries share 
-    a common origin. 
+-   **Bovine Arch:** Where the inominate and left common carotid
+    arteries share a common origin.
 
--   **Abberant Vertebral Artery:** Where the vertebral artery arises directly 
-    from the aortic arch. 
+-   **Abberant Vertebral Artery:** Where the vertebral artery arises
+    directly from the aortic arch.
 
--   **Aberrant Right Subclavian Artery:** Where there is no innominate artery and 
-    instead the right common carotid arises directly from the aorta. Confusingly 
-    the right subclavian artery, then orginates from the aortic arch distal to 
-    the left subclavian artery. To supply the right arm it therefore, needs to
-    pass behind the eosophagus. (Dysphagia Lusoria)  
+-   **Aberrant Right Subclavian Artery:** Where there is no innominate
+    artery and instead the right common carotid arises directly from the
+    aorta. Confusingly the right subclavian artery, then orginates from
+    the aortic arch distal to the left subclavian artery. To supply the
+    right arm it therefore, needs to pass behind the eosophagus.
+    (Dysphagia Lusoria)
 
 ## Epidemiology, Etiology, and Diagnostic Evaluation
 
@@ -200,7 +206,7 @@ Diagnostic Evaluation
 
 **What are some indications for carotid-subclavian bypass?**
 
-1.  Atherosclerosis 
+1.  Atherosclerosis
 
 2.  Staged revascularization prior to TEVAR for aneurysmal disease
     requiring coverage of the LSA
@@ -241,7 +247,7 @@ Complications [@voigtOutcomesCarotidsubclavianBypass2019]
 
 4.  Neck hematoma
 
-**When carotid-subclavian bypass compared to transposition?**  
+**When carotid-subclavian bypass compared to transposition?**
 
 1.  Vertebral artery takes origin from the subclavian artery in a very
     proximal position or is dominant over the contralateral side, then
@@ -277,7 +283,7 @@ occlusive disease?**
 
 -   Forearm occlusive disease can be seen in advanced ESRD/DM where
     calcific atherosclerosis of radial/ulnar arteries is present. Less
-    common causes include Beurger disease or Raynaud Phenomenon 
+    common causes include Beurger disease or Raynaud Phenomenon
 
 **How/when is upper extremity occlusive disease treated?**
 
@@ -285,9 +291,9 @@ occlusive disease?**
 
     -   Endovascular with balloon expandable stent via femoral or
         ipsilateral brachial artery.
-        \[@chatterjeeAngioplastyAloneAngioplasty2013;
+        [@chatterjeeAngioplastyAloneAngioplasty2013;
         @bradaricEndovascularTherapyStenoOcclusive2015;
-        @sahaSubclavianArteryDisease2017\] Preferred in:
+        @sahaSubclavianArteryDisease2017] Preferred in:
 
         -   Short segment or ostial disease with adequate distance to
             the vertebral artery origin.
@@ -359,7 +365,7 @@ underlying pathology?**
 -   Segmental pressures with finger systolic blood pressure can
     differentiate purely vasospastic vs occlusive disease. Difference of
     more than 15 mm Hg between fingers or absolute finger pressure \<70
-    mm Hg may indicate occlusive disease 
+    mm Hg may indicate occlusive disease
 
 -   Serologic evaluation (ANA/RF)
 
@@ -458,7 +464,7 @@ Buerger's?**
 1.  Smoking cessation! Only treatment to improve symptoms and reduce
     amputation risk if achieved before onset of gangrene or tissue loss.
     Important to remember following treatments will likely fail without
-    smoking cessation. 
+    smoking cessation.
 
 2.  If smoking cessation does not improve, medical management with
     antiplatelet agents, immunomodulators, vasodilators, anticoagulants 
@@ -478,7 +484,7 @@ Buerger's?**
 **What are common characteristics for patients who are suspected to have
 a large vessel vasculitis?** [@shanmugam137VasculitisOther2019]
 
--   Affect aorta and major branches 
+-   Affect aorta and major branches
 
 -   Present with non-specific heterogenous symptoms making the diagnosis
     challenging. Most commonly, they present with systemic or
@@ -491,9 +497,9 @@ a large vessel vasculitis?** [@shanmugam137VasculitisOther2019]
 **How can you differentiate takayasu arteritis vs giant cell
 arteritis?**
 
-1.  Takayasu arteritis 
+1.  Takayasu arteritis
 
-    1.  Aorta and primary 
+    1.  Aorta and primary
 
     2.  Young patients \<20 years and female in 80-90% of cases, Asian
         populations
@@ -1282,55 +1288,67 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
 ### Rib Resection approaches
 
-+-----------+--------------------------+-----------------------------+
-|           | Advantages               | Disadvantages               |
-+===========+==========================+=============================+
-| Tran      | Cosmetically more        | -   Difficult to visualize  |
-| saxillary | appealing as it has a    |     the anatomy, dependent  |
-|           | limited hidden scar      |     on good assistance      |
-|           |                          |                             |
-|           |                          | -   Risk of injury to T1    |
-|           |                          |     nerve root, phrenic     |
-|           |                          |     nerve, long thoracic,   |
-|           |                          |     brachial plexus ,       |
-|           |                          |     subclavian vein and     |
-|           |                          |     arterial with limited   |
-|           |                          |     exposure to repair      |
-|           |                          |                             |
-|           |                          | -   Not able to approach    |
-|           |                          |     cervical ribs, scalene  |
-|           |                          |     triangle or patch vein. |
-+-----------+--------------------------+-----------------------------+
-| Suprac    | -   Good for scalene     | -   Unable to decompress    |
-| lavicular |     triangle access and  |     venous compression or   |
-|           |     debulking and        |     visualize vein          |
-|           |     cervical rib         |     adequately              |
-|           |     resection            |                             |
-|           |                          | -   Cosmetically less       |
-|           | -   Required for aTOS if |     appealing               |
-|           |     arterial             |                             |
-|           |     reconstruction       |                             |
-|           |     necessary            |                             |
-+-----------+--------------------------+-----------------------------+
-| Infrac    | -   Good access for      | -   Unable to expose        |
-| lavicular |     venous decompression |     subclavian artery or    |
-| [@        |                          |     decompress brachial     |
-| siracuseI | -   Allows for excision  |     plexus.                 |
-| nfraclavi |     of subclavius muscle |                             |
-| cularFirs |     and costoclavicular  | -   Difficult to access     |
-| tRib2015] |     ligament             |     most posterior aspect   |
-|           |                          |     of rib                  |
-|           |                          |                             |
-|           |                          | -   Cosmetically less       |
-|           |                          |     appealing               |
-+-----------+--------------------------+-----------------------------+
-| Parac     | -   Useful if mixed      | -   Requires two incisions  |
-| lavicular |     etiology TOS to      |     one above and below the |
-|           |     adequately           |     clavicle                |
-|           |     decompression all    |                             |
-|           |     neurovascular        |                             |
-|           |     structures           |                             |
-+-----------+--------------------------+-----------------------------+
++----------------+--------------------+-----------------------+
+|                | Advantages         | Disadvantages         |
++================+====================+=======================+
+| Tran saxillary | Cosmetically more  | -   Difficult to      |
+|                | appealing as it    |     visualize the     |
+|                | has a limited      |     anatomy,          |
+|                | hidden scar        |     dependent on good |
+|                |                    |     assistance        |
+|                |                    |                       |
+|                |                    | -   Risk of injury to |
+|                |                    |     T1 nerve root,    |
+|                |                    |     phrenic nerve,    |
+|                |                    |     long thoracic,    |
+|                |                    |     brachial plexus , |
+|                |                    |     subclavian vein   |
+|                |                    |     and arterial with |
+|                |                    |     limited exposure  |
+|                |                    |     to repair         |
+|                |                    |                       |
+|                |                    | -   Not able to       |
+|                |                    |     approach cervical |
+|                |                    |     ribs, scalene     |
+|                |                    |     triangle or patch |
+|                |                    |     vein.             |
++----------------+--------------------+-----------------------+
+| Suprac         | -   Good for       | -   Unable to         |
+| lavicular      |     scalene        |     decompress venous |
+|                |     triangle       |     compression or    |
+|                |     access and     |     visualize vein    |
+|                |     debulking and  |     adequately        |
+|                |     cervical rib   |                       |
+|                |     resection      | -   Cosmetically less |
+|                |                    |     appealing         |
+|                | -   Required for   |                       |
+|                |     aTOS if        |                       |
+|                |     arterial       |                       |
+|                |     reconstruction |                       |
+|                |     necessary      |                       |
++----------------+--------------------+-----------------------+
+| Infrac         | -   Good access    | -   Unable to expose  |
+| lavicular [@   |     for venous     |     subclavian artery |
+| siracuseI      |     decompression  |     or decompress     |
+| nfraclavi      |                    |     brachial plexus.  |
+| cularFirs      | -   Allows for     |                       |
+| tRib2015]      |     excision of    | -   Difficult to      |
+|                |     subclavius     |     access most       |
+|                |     muscle and     |     posterior aspect  |
+|                |                    |     of rib            |
+|                |    costoclavicular |                       |
+|                |     ligament       | -   Cosmetically less |
+|                |                    |     appealing         |
++----------------+--------------------+-----------------------+
+| Parac          | -   Useful if      | -   Requires two      |
+| lavicular      |     mixed etiology |     incisions one     |
+|                |     TOS to         |     above and below   |
+|                |     adequately     |     the clavicle      |
+|                |     decompression  |                       |
+|                |     all            |                       |
+|                |     neurovascular  |                       |
+|                |     structures     |                       |
++----------------+--------------------+-----------------------+
 
 #### Post operative complications
 
@@ -1445,7 +1463,7 @@ retrospective studies. 
     -   Surgical treatment of severe resistant subclavian vein stenosis
         in the setting of vTOS is rib resection by paraclavicular
         approach and vein patch plasty.
-        \[@melbyComprehensiveSurgicalManagement2008\]
+        [@melbyComprehensiveSurgicalManagement2008]
 
     -   Venous occlusion in vTOS may be treated with jugular turn down
         or venous bypass to IJ of SVC if patients remain symptomatic.
