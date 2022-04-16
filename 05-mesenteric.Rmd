@@ -36,6 +36,10 @@ proportion is the classic buzzword, and can be hidden on multiple choice
 tests with a pain score of 10/10 with only mild abdominal tenderness on
 physical exam.
 
+Etiology most often from acute embolism (40-50%), which is often
+secondary to atrial fibrillation or recent
+MI.@wyersmarkcandmartin133AcuteMesenteric2019
+
 Vitals typically normal, possible tachycardia.
 
 Lab evaluation typically unremarkable. Leukocytosis, hemoconcentration,
@@ -450,6 +454,11 @@ median nerve decompression if the patient develops and symptoms in the
 median nerve distribution postoperatively. Also remember that a brachial
 sheath hematoma will not be easily palpable or visible at the skin
 level, so the neurologic exam postoperatively is key.
+
+Single vessel SMA revascularization is widely accepted for chronic
+mesenteric ischemia without necessarily needing to revascularize the
+celiac axis. [@oderich132ChronicMesenteric2019;
+@foleyRevascularizationSuperiorMesenteric2000]
 
 **Any other technical tips for endo intervention on the mesenterics?**
 
