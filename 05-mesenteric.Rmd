@@ -22,6 +22,13 @@ There are also a handful of somewhat related diseases that we'll also
 sprinkle into these discussions, like median arcuate ligament syndrome
 and SMA syndrome, but that's overall where we're headed.
 
+Mesenteric collatorals are important for protecting against mesenteric
+ischemia. The gastroduodenal and pacreaticoduodenal arteries connect the
+celiac and SMA. The meandering artery (arc of riolan) and marginal
+artery of Drummond connect IMA and SMA. Hemorrhoidal branches connect
+internal iliacs and IMA. [@chandraChronicMesentericIschemia2010;
+@vangulikAnastomosisRiolanRevisited2005]
+
 ## Acute Mesenteric Ischemia
 
 ### Presentation and diagnosis
@@ -37,8 +44,8 @@ tests with a pain score of 10/10 with only mild abdominal tenderness on
 physical exam.
 
 Etiology most often from acute embolism (40-50%), which is often
-secondary to atrial fibrillation or recent
-MI.@wyersmarkcandmartin133AcuteMesenteric2019
+secondary to cardiac source (atrial fibrillation or recent
+MI).[@wyersmarkcandmartin133AcuteMesenteric2019]
 
 Vitals typically normal, possible tachycardia.
 
@@ -114,6 +121,9 @@ mesenteric standpoint.
 
 For embolic pathology, the acute angle of the SMA seems to predispose it
 to capture emboli from above, but this is more theoretical than proven.
+The embolism is often lodged distal to middle colic
+vessel.[@wyersmarkcandmartin133AcuteMesenteric2019;
+@kazmersOperativeManagementAcute1998]
 
 **Tell me about the two main pathologies, and how they would differ in
 terms of the anatomy and operative findings.**
@@ -196,6 +206,8 @@ find the SMV first, and the SMA will be just to the left of it. Be sure
 to identify and preserve small jejunal branches during the dissection.
 If needed, careful dissection superiorly, going behind the inferior
 border of the pancreas can get a little more proximal exposure.
+Embolectomy through a transverse arteriotomy in the SMA is the best
+approach.[@kazmersOperativeManagementAcute1998]
 
 Alternatively, you can get to the SMA from a lateral approach,
 specifically from the left side. Begin by dividing the ligament of
@@ -338,14 +350,13 @@ boards.
 **What are some other, more rare etiologies of acute mesenteric
 ischemia?**
 
-Sure, so remember that embolism is the most common etiology of acute
-mesenteric ischemia, approaching half of these patients. The thrombotic
-etiology composes another quarter to a third of these populations. The
-other two etiologies to consider are non-occlusive mesenteric ischemia
-and mesenteric venous thrombosis.
+Embolism is the most common etiology of acute mesenteric ischemia
+(40-50%), and thrombotic etiology composes another quarter to a third of
+these populations. The other two etiologies to consider are
+non-occlusive mesenteric ischemia and mesenteric venous thrombosis.
 
-Perfect, so how does a non-occlusive mesenteric ischemia (or NOMI)
-patient differ from what we've been talking about?
+**Perfect, so how does a non-occlusive mesenteric ischemia (or NOMI)
+patient differ from what we've been talking about?**
 
 So NOMI patients typically do not have a focal lesion like you see with
 embolism or thrombosis. What happens to these patients is that
@@ -355,11 +366,15 @@ hemodynamic event causing sustained hypotension, such as recently
 getting a session of hemodialysis or undergoing cardiopulmonary bypass.
 The presentation is more indolent and less obvious than embolic or
 thrombotic acute mesenteric ischemia, and the imaging findings are more
-consistent with a diffuse vasospasm and hypovolemia picture. Treatment
-is primarily conservative, with the emphasis on resuscitation and
-addressing whatever the underlying etiology is. Adjuncts to this include
-placement of infusion catheters into the affected vessel with infusions
-of vasodilators (most commonly papaverine) or prostaglandin.
+consistent with a diffuse vasospasm and hypovolemia picture.
+
+Treatment is primarily conservative, with the emphasis on resuscitation
+and addressing whatever the underlying etiology is. Adjuncts to this
+include placement of infusion catheters into the affected vessel with
+infusions of vasodilators (most commonly papaverine at 30-60mg/hr) or
+prostaglandin.\[@wyersmarkcandmartin133AcuteMesenteric2019;
+@trompeterNonocclusiveMesentericIschemia2002\] NOMI with portal venous
+gas, pneumatosis and free air often indicate need for laparotomy.
 
 **How about mesenteric venous thrombosis?**
 
@@ -415,7 +430,9 @@ the thresholds in your local lab are!
 In addition to the PSV, you can also use the end diastolic velocity
 (EDV) to predict stenosis. For the EDV values in the celiac and the SMA,
 think approximately 50 cm/s predicts a stenosis of 50% (easy to
-remember, **50-50**).
+remember, **50-50**). This is known as Bowersox criteria, and is
+actually \>45, but 50 is easier to
+remember.[@bowersoxDuplexUltrasonographyDiagnosis1991]
 
 You can also predict a higher degree of stenosis with EDV values. This
 is easy for the SMA, where an EDV of 70 cm/s predicts a stenosis of 70%
@@ -435,7 +452,8 @@ Final thought. When the celiac artery is severely narrowed or occluded,
 often you'll have retrograde flow coming from the SMA via collaterals
 (these are your pancreaticoduodenal arcades via the GDA). You can see
 this as backwards flow in the common hepatic artery, and this has 100%
-specificity for disease in the celiac artery.
+specificity for disease in the celiac
+artery.[@warnckeSuperiorMesentericArtery2019]
 
 ### Management
 
@@ -462,6 +480,9 @@ celiac axis. [@oderich132ChronicMesenteric2019;
 
 **Any other technical tips for endo intervention on the mesenterics?**
 
+The best view for diagnostic angiography in mesenteric ischemia is the
+lateral view.
+
 Most often balloon-expandable stents are selected for the mesenteric
 circulation. The precision of deployment and the increased hoop strength
 of a balloon expandable stent make them more favorable here over the
@@ -470,9 +491,15 @@ end of a balloon-expandable stent into the aorta, making sure that
 you've really treated any ostial disease. Some authors advocate for use
 of embolic protection devices to prevent distal embolism, and other
 authors also advocate for the use of covered stents for the mesenteric
-circulation due to better patency. 
+circulation due to better patency.[@oderichComparisonCoveredStents2013;
+@oderich132ChronicMesenteric2019]
 
 **How about open revascularization?**
+
+In most centers, up to 80% of CMI is treated endovascularly. Open is
+often reserved for those that fail endovascular
+therapy.[@oderichOpenSurgicalTreatment2010;
+@oderich132ChronicMesenteric2019]
 
 So we talked a lot about open revascularization earlier in the acute
 mesenteric ischemia segment. The techniques are broadly similar, with
@@ -482,12 +509,35 @@ approach for this is with a bifurcated graft from the supraceliac aorta,
 taking one limb down to the celiac artery, and the other limb tunneled
 in a retropancreatic fashion to the mid-SMA. Remember that this approach
 requires a supraceliac aortic cross clamp, which your patient may not be
-able to tolerate. Taking a retrograde bypass off of the common iliac
-artery as we previously described may be a better option for these
-patients. A further option that completely avoids a bypass is to go
-right for a trapdoor endarterectomy of the celiac artery and the SMA,
-allowing you to address coral reef or proximal/ostial disease (such as
-flush occlusions) that are difficult to treat endovascularly. 
+able to tolerate. But single revascularization of SMA is often
+acceptable with appropriate collaterals. Taking a retrograde bypass off
+of the common iliac artery as we previously described may be a better
+option for patients with significant comorbidities. A further option
+that completely avoids a bypass is to go right for a trapdoor
+endarterectomy of the celiac artery and the SMA, allowing you to address
+coral reef or proximal/ostial disease (such as flush occlusions) that
+are difficult to treat endovascularly. 
+
+## Mesenteric Aneurysms
+
+### SMA Aneurysm
+
+If symptomatic, most SMA aneurysms are mycotic in nature and require
+treatment. Treat with resection and saphenous vein interposition and 6
+weeks antibiotic therapy based on intraoperative
+cultures.[@leeInfectedMycoticAneurysms2008]
+
+Asymptomatic aneurysms can be observed up to
+2.5cm.[@kwong85SplanchnicArtery; @stoneSuperiorMesentericArtery2002]
+
+### Splenic Aneurysm
+
+Post splenic aneurysm embolization, L flank pain in stable patients
+likely represents splenic infarction. Treat with hydration and
+analgesia. Rates are lower in stented
+patients.[@kwong85SplanchnicArtery;
+@piffarettiSplenicArteryAneurysms2007;
+@zhuEndovascularSurgicalManagement2019]
 
 ## Median Arcuate Ligament Syndrome (MALS)
 
@@ -501,24 +551,27 @@ artery occurs against the median arcuate ligament during respiratory
 variation. The thing you want to visualize here is that during full
 exhalation, the lungs are completely emptied, and the diaphragm moves up
 at a sharper angle. This angulation kinks off the celiac artery more
-severely, so velocities in **exhalation** are **higher** in MALS.
+severely, so velocities in **exhalation** are **higher** in MALS.
 However, these findings are common in asymptomatic patients, and so just
 like chronic mesenteric ischemia, the clinical presentation is key.
 They'll have a similar presentation as chronic mesenteric ischemia
 patients, with post-prandial pain, food fear, and weight loss, but often
 the symptomatology is a little more indolent in these patients. Because
 of this, these patients have frequently gotten the million dollar workup
-for nonspecific GI pain. The treatment of choice for suspected MALS is a
-laparoscopic median arcuate ligament release, frequently performed by a
-MIS/foregut surgeon. A key point here is that you don't want to be
-fooled into putting a stent in these patients before they've gotten
-their median arcuate ligament release, because the dynamic motion of the
-diaphragm is likely to crimp or bend the stent if that hasn't been
-treated yet. It may be that some patients benefit from endovascular
-treatment after release, though, as some think that the chronic damage
-from MALS can result in intimal damage/scarring that persists even after
-the extrinsic compression is treated by the median arcuate ligament
-release.
+for nonspecific GI pain. Duplex ultrasound of shows celiac PSV \>200 and
+EDV \>50, normalizes during deep inspiration, and post-stenotic spectral
+broadening.[@zwolakMesentericCeliacDuplex1998]
+
+The treatment of choice for suspected MALS is a laparoscopic median
+arcuate ligament release, frequently performed by a MIS/foregut surgeon.
+A key point here is that you don't want to be fooled into putting a
+stent in these patients before they've gotten their median arcuate
+ligament release, because the dynamic motion of the diaphragm is likely
+to crimp or bend the stent if that hasn't been treated yet. It may be
+that some patients benefit from endovascular treatment after release,
+though, as some think that the chronic damage from MALS can result in
+intimal damage/scarring that persists even after the extrinsic
+compression is treated by the median arcuate ligament release.
 
 ## SMA Syndrome
 
@@ -528,10 +581,20 @@ So SMA syndrome, also called Wilkie's Syndrome is a rare entity where
 the 3rd portion of the duodenum gets compressed between the SMA and the
 aorta, causing a functional gastric outlet obstruction. Patients are
 typically emaciated, having lost a significant amount of weight before
-their symptom onset. What's happened is they've lost the fat pat that
-normally surrounds the SMA, and so the angle between the SMA and the
-aorta becomes more acute, pinching off the duodenum. The treatment of
-choice here is enteral feeding with a nasojejunal tube or other
-surgically placed tube, because what really will help them here is
-weight gain. It's not really a mesenteric vascular disease, but it
-sometimes shows up on exams as a related entity.
+their symptom onset. What's happened is they've lost the retroperitoneal
+fat pat that normally surrounds the SMA, and so the angle between the
+SMA and the aorta becomes more acute, pinching off the duodenum.
+
+Classic findings in fluoroscopic swallin in SMA syndrome are delayed
+gastric emptying, a dilated duodenum, to and fro peristalsis in the
+proximal duodenum and cutoff in the third portion. EGD can show
+pulsation in the 3rd portion of the
+duodenum.[@warnckeSuperiorMesentericArtery2019]
+
+The treatment of choice here is enteral feeding with a nasojejunal tube
+or other surgically placed tube and TPN, because what really will help
+them here is weight gain. GJ bypass or duodenal mobilization is
+sometimes needed for treatment, but is controversial. It's not really a
+mesenteric vascular disease, but it sometimes shows up on exams as a
+related entity.[@welschRecallingSuperiorMesenteric2007;
+@merrettSuperiorMesentericArtery2009]

@@ -4,7 +4,7 @@ editor_options:
     wrap: 72
 ---
 
-# Abdominal/Iliac/Peripheral Aneurysms
+# Abdominal Aneurysms
 
 **30 Mar 2021:** *Mia Miller, MD and Julie Duke, MD; University of
 Minnesota*
@@ -1061,3 +1061,7 @@ of a ruptured AAA (RAAA) as our last topic of the session?**
         clamp alone. Highest complication rate in urgent setting (10x
         higher mortality).
         [@goudekettingSystematicReviewMetaanalysis2019]
+
+# Iliac/Peripheral Aneurysms
+
+Treatment threshold for CIAA is often accepted at 3.5cm.
