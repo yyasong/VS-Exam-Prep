@@ -1130,62 +1130,65 @@ reports dealing with lower extremity ischemia: revised version. J Vasc
 Surg. 1997;26:517--538. [@rutherfordRecommendedStandardsReports1997]
 
 +---------+---------+---------+---------+---------+---------+
-| -   \   | **Pro   | Sensory | *       | Arte    | Ve nous |
-|     \*  | g       | Loss    | *Muscle | rial Si | Si gnal |
-| Classif | nosis** |         | We      | gnal    |         |
-|     i   |         |         | a       |         |         |
-|         |         |         | kness** |         |         |
-| ca      |         |         |         |         |         |
-| t       |         |         |         |         |         |
-| ion\*\* |         |         |         |         |         |
+| -   \   | **Pro g | S       | -   \*  | Arte    | Ve nous |
+|     \*  | n       | ensory  |         | rial Si | Si gnal |
+|     C   | osis**  | Loss    | Muscle  | gnal    |         |
+|         |         |         | We a    |         |         |
+| lassif  |         |         |         |         |         |
+| i       |         |         | kne     |         |         |
+|         |         |         | ss\*\*  |         |         |
+| ca t i  |         |         |         |         |         |
+| on\*\*  |         |         |         |         |         |
 +=========+=========+=========+=========+=========+=========+
 | I.      | Not imm | None    | None    | ++      | ++      |
-|  Viable | e       |         |         |         |         |
-|         | diately |         |         |         |         |
-|         | th      |         |         |         |         |
-|         | r       |         |         |         |         |
-|         | eatened |         |         |         |         |
+|  Viable | e d     |         |         |         |         |
+|         | iately  |         |         |         |         |
+|         | th r e  |         |         |         |         |
+|         | atened  |         |         |         |         |
 +---------+---------+---------+---------+---------+---------+
 | II\. T  | \       | \       | \       |         |         |
-| h       |         |         |         |         |         |
-| r       |         |         |         |         |         |
-| eatened |         |         |         |         |         |
+| h r e   |         |         |         |         |         |
+| atened  |         |         |         |         |         |
 +---------+---------+---------+---------+---------+---------+
-| a\. M a | Sal     | Minimal | None    | +/-     | \+      |
-| r       | v       | (toes)  |         |         |         |
-| ginally | ageable | or none |         |         |         |
-|         | if      |         |         |         |         |
-|         | p       |         |         |         |         |
-|         | romptly |         |         |         |         |
-|         | treated |         |         |         |         |
+| a\. M a | Sal v a | M       | None    | +/-     | \+      |
+| r g     | geable  | inimal  |         |         |         |
+| inally  | if p r  | (toes)  |         |         |         |
+|         | omptly  | or none |         |         |         |
+|         | t       |         |         |         |         |
+|         | reated  |         |         |         |         |
 +---------+---------+---------+---------+---------+---------+
-| b\. Im  | Sal     | More    | Mild,   | +/-     | \+      |
-| m       | v       | than    | m       |         |         |
-| e       | ageable | toes,   | oderate |         |         |
-| diately | with i  | as      |         |         |         |
-|         | m       | s       |         |         |         |
-|         | mediate | ociated |         |         |         |
+| b\. Im  | Sal v a | More    | Mild, m | +/-     | \+      |
+| m e d   | geable  | than    | o       |         |         |
+| iately  | with i  | toes,   | derate  |         |         |
+|         | m m     | as s o  |         |         |         |
+|         | ediate  | ciated  |         |         |         |
 |         | rev     | with    |         |         |         |
 |         | ascula  | rest    |         |         |         |
-|         | r       | pain    |         |         |         |
-|         | ization |         |         |         |         |
+|         | r i     | pain    |         |         |         |
+|         | zation  |         |         |         |         |
 +---------+---------+---------+---------+---------+---------+
-| III\.   | Major   | P       | P       | \-      | \-      |
-| Irr e   | tissue  | r       | r       |         |         |
-| v       | loss or | ofound, | ofound, |         |         |
-| ersible | p       | an      | p       |         |         |
-|         | e       | e       | a       |         |         |
-|         | rmanent | sthetic | ralysis |         |         |
-|         | nerve   |         | (rigor) |         |         |
-|         | damage  |         |         |         |         |
-|         | ine     |         |         |         |         |
-|         | v       |         |         |         |         |
-|         | itable. |         |         |         |         |
-|         | C       |         |         |         |         |
-|         | yanosis |         |         |         |         |
-|         | may be  |         |         |         |         |
-|         | present |         |         |         |         |
+| III\.   | Major   | P r o   | P r o   | \-      | \-      |
+| Irr e v | tissue  | found,  | found,  |         |         |
+| e       | loss or | an e s  | p a r   |         | |   v   |
+| rsible  | p e r   | thetic  | alysis  |       | |         |
+|         | manent  |         | ()      |         | |       |
+| |       | nerve   |         | rigor)  | |       |         |
+|         | d       |       | | \|      |         |         |
+|     |   | amage\| |       | |         | C \|    |         |
+|         | ine v i |         | |       |         |         |
+|         | itable  | |       |         |         |         |
+|         | \|C y   |         |         |         |         |
+|         |         |         |         |         |         |
+|         |         |       | |         |         |         |
 +---------+---------+---------+---------+---------+---------+
+
+         |yanosis|        |         |       |         |
+
+|        \| may be\| \| \| \| \|
+|        \| p \| \| \| \| \|
+|         \|present \| \| \| \| \|
+
++--------+-------+---------+-------+---------+--------+
 
 **What does the work up for an acute limb entail? How is the diagnosis
 made?**
@@ -1492,9 +1495,11 @@ toward improved limb salvage rates (decreased amputation rate) over
 time, and I think this speaks to wider availability of different limb
 salvage techniques among vascular surgeons across the globe.
 
-## Blue Toe Syndrome
+## Non-atherosclerotic occlusive disease
 
-### Etiology and Presentation
+### Blue Toe Syndrome
+
+#### Etiology and Presentation
 
 Blue toe syndrome is characterized as a painful discolored toe in the
 setting of a normal vascular examination or palpable pulses.
@@ -1503,7 +1508,7 @@ Acute onset of blue toe after MI - consider cholesterol embolization
 from wire manipulation in the aorta.
 [@saricAorticAtherosclerosisEmbolic2012]
 
-### Evaluation
+#### Evaluation
 
 Patients should have a work up for an embolic source. Patients without a
 clear recent source of embolization on history or physical, should
@@ -1514,7 +1519,7 @@ evaluate for an underlying arrhythmias.
 If no obvious source of embolism can be identified, further evaluation
 for underlying cancer may lead to a prothrombotic state.
 
-### Management
+#### Management
 
 Treatment of blue toe from cholesterol embolization best with single
 antiplatelet and statin. Anticoagulation may precipitate further
@@ -1527,4 +1532,19 @@ require stent coverage or, in a young patient, may require thrombectomy.
 [@reyesvaldiviaAnticoagulationAloneAortic2017;
 @jeyabalanEndovascularStrategiesTreatment2014;
 @vermaContemporaryManagementSymptomatic2014]\
-\
+
+### Popliteal entrapment syndrome
+
+#### Etiology and Presentation
+
+Most often seen in young athletes with embryologically abnormal lateral
+attachment of medial head of the gastrocnemius muscle.[@gokkus2014;
+@lejay2014]
+
+#### Evaluation
+
+Physical examination finding will be loss of pedal pulse on active
+plantarflexion or passive dorsiflexion of the foot.[@gokkus2014;
+@lejay2014]
+
+#### Management 
