@@ -125,7 +125,7 @@ renovascular disease is an underlying cause:
 -   Deterioration of kidney function after placement of an endovascular
     aortic stent graft-- IATROGENIC
 
-    -   EVAR with isolated L renal coverage -> splenal renal bypass,
+    -   EVAR with isolated L renal coverage -\> splenal renal bypass,
         ligate splenic artery distally and then perform end-to-end
         anastomosis to renal artery.
         [@benjamin126RenovascularDisease2019]
@@ -267,10 +267,10 @@ hemodynamic limitation to kidney function?**
 -   Doppler ultrasound criteria [@hoffmannRoleDuplexScanning1991;
     @zierlerStrandnessDuplexScanning2016]
 
-    -   Peak systolic velocities above >170 cm/sec with post stenotic
+    -   Peak systolic velocities above \>170 cm/sec with post stenotic
         turbulence to identify less than 60 % luminal stenosis.
 
-    -   Renal aortic ratio >3.5 required to diagnose greater than 60%
+    -   Renal aortic ratio \>3.5 required to diagnose greater than 60%
         stenosis.
 
     -   Elevated velocities can be seen with tortuosity, but this should
@@ -287,8 +287,8 @@ hemodynamic limitation to kidney function?**
     -   Pro - no radiation, good imaging of distal renal arteries, no
         degradation from ostial calcium.
 
-    -   Cons - requires GAD -> interstitial fibrosis in CKD
-        \[@galanNephrogenicSystemicFibrosis\] and degrades with motion
+    -   Cons - requires GAD -\> interstitial fibrosis in CKD
+        $$@galanNephrogenicSystemicFibrosis$$ and degrades with motion
         and respiration
         [@nelsonGadoliniumenhancedBreathholdThreedimensional1999]
 
@@ -307,28 +307,28 @@ usually done).
 
 -   [Improved and validated methods to evaluate the salvageability of
     kidney function in this disorder are greatly needed and are the holy
-    grail of this disease process.]{.ul}
+    grail of this disease process.]{.underline}
 
 **Let's go through some of these:**
 
-[Renal Resistive index:]{.ul}
+[Renal Resistive index:]{.underline}
 
 Some studies indicate that elevated resistive indices in segmental
 vessels (above 0.80) measured by duplex ultrasound denote poor prognosis
 for renal recovery while a low resistive index is a favorable sign.
 
-[Trajectory of kidney function]{.ul}
+[Trajectory of kidney function]{.underline}
 
 The most consistent predictor of good recovery of kidney function after
 revascularization has been a recent deterioration of kidney function
 (ie, in the prior six to twelve months).
 
-[Kidney size]{.ul}
+[Kidney size]{.underline}
 
 Very small kidneys (less than 7 cm in longest diameter) are usually
 considered unlikely to recover after revascularization.
 
-[Kidney biopsy]{.ul}
+[Kidney biopsy]{.underline}
 
 Previous studies suggest that biopsy demonstrating preexisting
 atheroembolic changes and interstitial fibrosis indicate a limited
@@ -336,7 +336,7 @@ potential for recovery.
 
 -   Biopsies are not usually performed.
 
-[Comparison of kidney morphology with kidney function]{.ul}
+[Comparison of kidney morphology with kidney function]{.underline}
 
 Some investigators have recommended assessing morphologic parameters,
 such as renal parenchymal volume and cortical thickness with MRI, and
@@ -373,9 +373,9 @@ as we discussed.
 
 RAS can worsen ACE-I and ARB induced renal dysfunction due to systemic
 hypotension, efferent arterial vasodilation, and reduced glomerular
-hydrostatic pressure, in turn lowering GFR. [\[
+hydrostatic pressure, in turn lowering GFR. [[
 @rickey125RenovascularDisease2019;
-@schoolwerthRenalConsiderationsAngiotensin2001]\]
+@schoolwerthRenalConsiderationsAngiotensin2001]]
 
 **Okay, in other words we can have chronic normalization of the systemic
 pressure that might eventually lead to ischemic atrophy due to the
@@ -454,11 +454,11 @@ that.**
         two criteria:
 
         -   Unilateral or bilateral atherosclerotic renal artery
-            stenosis >60 % if diagnosed with conventional angiography,
-            peak systolic velocity >300 cm/second if diagnosed by duplex
-            Doppler ultrasonography, Luminal narrowing >80 % if
+            stenosis \>60 % if diagnosed with conventional angiography,
+            peak systolic velocity \>300 cm/second if diagnosed by
+            duplex Doppler ultrasonography, Luminal narrowing \>80 % if
             diagnosed with magnetic resonance angiography or
-            computerized tomography angiography (or >70 % with
+            computerized tomography angiography (or \>70 % with
             additional evidence of renal ischemia)
 
         -   Systolic hypertension despite two or more antihypertensive
@@ -487,11 +487,12 @@ that.**
 
 -   Limitations on existing treatment data:
 
-    -   [Considerable selection bias]{.ul} -- For the most part, the
-        patients enrolled in these trials did **not** meet the criteria
-        for selecting patients likely to benefit from intervention (eg,
-        short duration of blood pressure elevation, hypertension
-        resistant to medical therapy, recurrent flash pulmonary edema):
+    -   [Considerable selection bias]{.underline} -- For the most part,
+        the patients enrolled in these trials did **not** meet the
+        criteria for selecting patients likely to benefit from
+        intervention (eg, short duration of blood pressure elevation,
+        hypertension resistant to medical therapy, recurrent flash
+        pulmonary edema):
 
         -   CORAL [@cooperStentingMedicalTherapy2014]
 
@@ -520,7 +521,7 @@ that.**
                 "definitely" needed revascularization.
 
     -   [Results of the trials differ substantially from observational
-        reports of "high-risk" subsets]{.ul}
+        reports of "high-risk" subsets]{.underline}
 
         -   For the most part, patients selected by their treating
             clinicians to undergo revascularization have derived greater
@@ -532,8 +533,8 @@ that.**
 **We've determined our patient is an appropriate candidate for
 intervention, and we don't fully buy into CORAL, what can we do?**
 
--   [Percutaneous renal angioplasty/stenting]{.ul}in addition to medical
-    therapy
+-   [Percutaneous renal angioplasty/stenting]{.underline}in addition to
+    medical therapy
 
     -   Most commonly employed if technically feasible.
 
@@ -683,7 +684,7 @@ intervention, and we don't fully buy into CORAL, what can we do?**
 
 **What about an open operation?**
 
--   [Surgical revascularization]{.ul} used in addition to medical
+-   [Surgical revascularization]{.underline} used in addition to medical
     therapy
 
     -   Less common since the widespread application of effective
@@ -1024,7 +1025,7 @@ the renal arteries?**
 -   All patients with FMD should be placed on antiplatelet therapy (ASA)
     unless otherwise contraindicated
 
--   [Antihypertensive therapy]{.ul}
+-   [Antihypertensive therapy]{.underline}
 
     -   Most patients will require antihypertensive therapy, even if
         they undergo revascularization.
@@ -1034,7 +1035,7 @@ the renal arteries?**
 
 **But what about revascularization?**
 
--   [Revascularization]{.ul} Goal: control of hypertension
+-   [Revascularization]{.underline} Goal: control of hypertension
 
     -   BP can be controlled in most adults with multifocal FMD with a
         mean of two antihypertensive medications
@@ -1120,7 +1121,8 @@ Do we have good results treating FMD with these?
 
 **So how do we perform Percutaneous transluminal angioplasty** for FMD?
 
--   [Without]{.ul} stent placement... unlike PTA for atherosclerotic RAS
+-   [Without]{.underline} stent placement... unlike PTA for
+    atherosclerotic RAS
 
 **Why not place a stent?**
 
@@ -1271,7 +1273,7 @@ renal artery aneurysms**
 -   Renal artery aneurysms are rare - Autopsy studies have revealed an
     incidence of 0.01% to 0.09%.
 
--   Females > males, although females = males with FMD excluded
+-   Females \> males, although females = males with FMD excluded
 
 -   Although arteriosclerotic changes have been identified in most
     aneurysms in patients with multiple lesions, this is not a uniform
@@ -1376,8 +1378,8 @@ imaging. [@asgharRenalVeinThrombosis2007;
 ### Management
 
 -   Renal vein thrombosis initially managed with heparin, then warfarin
-    for 6mo. [\[ @asgharRenalVeinThrombosis2007;
-    @velazquez-ramirez129RenovascularDisease2019]\]
+    for 6mo. [[ @asgharRenalVeinThrombosis2007;
+    @velazquez-ramirez129RenovascularDisease2019]]
 
 -   Thrombectomy or thrombolysis reserved for acutely threatened kidney
     in young patient, complication of AC or thrombosis of solitary
@@ -1414,7 +1416,7 @@ Management
 
     -   Worsening hypertension or renal failure
 
-    -   Persistance at >1yr
+    -   Persistance at \>1yr
 
 -   Treated most often with angiogram, covered stent or highly selective
     micro-coil embolization. [@ginatTranscatheterRenalArtery2009;
