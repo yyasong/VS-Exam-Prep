@@ -58,13 +58,13 @@ mesenteric ischemia.
 
 **How about radiology studies?**
 
-[Plain film:]{.ul}
+[Plain film:]{.underline}
 
 Frequently normal, may show ileus in the early stages. In late stage
 acute mesenteric ischemia, findings on plain film can include bowel wall
 edema (thumbprinting) or pneumatosis.
 
-[CT angio:]{.ul}
+[CT angio:]{.underline}
 
 Probably represents the most common diagnostic modality to diagnose
 acute mesenteric ischemia. CTA has the advantages of speed,
@@ -88,26 +88,26 @@ involvement. For these reasons, mesenteric duplex is considered the gold
 standard for evaluating chronic mesenteric ischemia, but has no real
 role in the evaluation of acute mesenteric ischemia. Can you imagine,
 having a tech mash a transducer into a patient with acute abdominal
-pain?[!]{.ul} 
+pain?[!]{.underline} 
 
 ### Management
 
 **What's your approach to the initial management of the patient?**
 
-1.  [Resuscitation]{.ul}. Fluids, fluids, fluids. These patients are
-    really volume down, and are headed towards a profound distributive
-    shock that will be worsened by your eventual plan for
+1.  [Resuscitation]{.underline}. Fluids, fluids, fluids. These patients
+    are really volume down, and are headed towards a profound
+    distributive shock that will be worsened by your eventual plan for
     revascularization (think ischemia-reperfusion injury). Also look for
     electrolyte imbalances and correct those early.
 
-2.  [Antibiotics]{.ul}. These patients are not usually septic on initial
-    presentation, but are at high-risk, so broad-spectrum antibiotics
-    with gut coverage (Gram negative and anaerobes) are standard of
-    care.
+2.  [Antibiotics]{.underline}. These patients are not usually septic on
+    initial presentation, but are at high-risk, so broad-spectrum
+    antibiotics with gut coverage (Gram negative and anaerobes) are
+    standard of care.
 
-3.  [Heparin]{.ul}. In the absence of a clinical contraindication, these
-    patients should be systemically heparinized, with a bolus, as soon
-    as the diagnosis is made. 
+3.  [Heparin]{.underline}. In the absence of a clinical
+    contraindication, these patients should be systemically heparinized,
+    with a bolus, as soon as the diagnosis is made. 
 
 **Which blood vessel does acute mesenteric ischemia typically involve?**
 
@@ -223,35 +223,36 @@ distal SMA can just be identified in the small bowel mesentery.
 **So for the operative strategy for acute mesenteric ischemia, tell me
 about the general approach to the patient.**
 
-1.  [Resect frankly necrotic bowel and contain gross spillage]{.ul}.
-    Once you revascularize the bowel, compromised-appearing bowel may
-    improve and not need immediate resection. Thus the first step is
-    only damage control, to remove anything completely unsalvageable
-    that is making the patient sick, or anything causing gross
-    contamination of the operative field. The key is you're not doing
-    anything definitive with the bowel as your first step.
+1.  [Resect frankly necrotic bowel and contain gross
+    spillage]{.underline}. Once you revascularize the bowel,
+    compromised-appearing bowel may improve and not need immediate
+    resection. Thus the first step is only damage control, to remove
+    anything completely unsalvageable that is making the patient sick,
+    or anything causing gross contamination of the operative field. The
+    key is you're not doing anything definitive with the bowel as your
+    first step.
 
-2.  [Revascularization]{.ul}. SMA embolectomy is the initial management
-    of choice for embolic disease. Thrombotic disease, on the other
-    hand, may be more challenging to treat by embolectomy alone, and
-    frequently are treated with a bypass. (More to come on these
+2.  [Revascularization]{.underline}. SMA embolectomy is the initial
+    management of choice for embolic disease. Thrombotic disease, on the
+    other hand, may be more challenging to treat by embolectomy alone,
+    and frequently are treated with a bypass. (More to come on these
     procedures).
 
-3.  [Re-assess bowel viability]{.ul}. Clinical status permitting, 20-30
-    minutes should be taken to fully assess the results of the
+3.  [Re-assess bowel viability]{.underline}. Clinical status permitting,
+    20-30 minutes should be taken to fully assess the results of the
     revascularization before proceeding with resection. Perfusion can be
     assessed by many methods, including clinically, by Doppler, pulse
     oximetry (a.k.a. photoplethysmography), fluorescein fluorescence,
     etc. The take home is to give the bowel enough time to be perfused
     before going ahead with resection.
 
-4.  [Proceed with temporizing or definitive bowel repair]{.ul}.
+4.  [Proceed with temporizing or definitive bowel repair]{.underline}.
     Resection, leaving in discontinuity, primary anastomosis, diversion,
     etc. All of these are options on the table, but the key here is that
     all of the previous steps occur before addressing the bowel. 
 
-5.  [Consider second-look laparotomy.]{.ul} Many times, bowel may look
-    questionable even after revascularization and thorough
+5.  [Consider second-look laparotomy.]{.underline} Many times, bowel may
+    look questionable even after revascularization and thorough
     re-assessment. To preserve the most bowel length, it may be
     reasonable to leave borderline bowel alone at the index operation
     and do a "second look" to fully reassess the bowel, especially after
@@ -283,7 +284,7 @@ prosthetic.
 
 **And what are some of my options for constructing a bypass?**
 
-[Short retrograde aorto-SMA bypass:]{.ul}
+[Short retrograde aorto-SMA bypass:]{.underline}
 
 This bypass takes is origin off of the aorta just below the SMA,
 anastomosing typically end-side onto the SMA just below its origin in
@@ -295,7 +296,7 @@ However, this may not always be feasible, as SMA disease often coexists
 with significant aortic disease. Additionally, the other bypasses
 described have better reported patency.
 
-[Long retrograde R iliac-SMA bypass ("C-loop"):]{.ul}
+[Long retrograde R iliac-SMA bypass ("C-loop"):]{.underline}
 
 This bypass originates from the right common iliac artery, which
 presents a number of distinct advantages over an aorto-mesenteric
@@ -312,7 +313,7 @@ depending on the anatomy of the disease. Especially when using
 prosthetic in a contaminated field, you can consider taking an omental
 flap to wrap or cover the prosthetic.
 
-[Antegrade supraceliac aorta-SMA bypass:]{.ul}
+[Antegrade supraceliac aorta-SMA bypass:]{.underline}
 
 This bypass originates from the supraceliac aorta. If revascularization
 of both celiac and SMA is planned, a bifurcated graft can be selected. A
@@ -324,7 +325,7 @@ injury to the SMV.
 **What other options have been described for treatment of acute
 mesenteric ischemia?**
 
-[Retrograde open mesenteric stenting (ROMS)]{.ul}
+[Retrograde open mesenteric stenting (ROMS)]{.underline}
 
 So ROMS is a hybrid procedure involving an upper midline laparotomy that
 is used to evaluate the bowel. Through this incision, SMA exposure is
@@ -335,7 +336,7 @@ back into the aorta. If bowel ischemia is found, the upper midline is
 easily lengthened into a traditional vertical laparotomy incision.
 
 [Endovascular treatment (percutaneous thrombectomy / thrombolysis /
-pharmacomechanical thrombectomy)]{.ul}
+pharmacomechanical thrombectomy)]{.underline}
 
 Some authors have described completely endovascular approaches to
 treatment of acute mesenteric ischemia. However, the major limitation is
@@ -372,8 +373,8 @@ Treatment is primarily conservative, with the emphasis on resuscitation
 and addressing whatever the underlying etiology is. Adjuncts to this
 include placement of infusion catheters into the affected vessel with
 infusions of vasodilators (most commonly papaverine at 30-60mg/hr) or
-prostaglandin.\[@wyersmarkcandmartin133AcuteMesenteric2019;
-@trompeterNonocclusiveMesentericIschemia2002\] NOMI with portal venous
+prostaglandin.$$@wyersmarkcandmartin133AcuteMesenteric2019;
+@trompeterNonocclusiveMesentericIschemia2002$$ NOMI with portal venous
 gas, pneumatosis and free air often indicate need for laparotomy.
 
 **How about mesenteric venous thrombosis?**
@@ -399,7 +400,7 @@ Chronic mesenteric ischemia is characterised by post-prandial abdominal
 pain, typically 30-60 minutes after eating (think after gastric emptying
 time). This pain is usually severe, crampy, and resolves after minutes
 to hours of time. The pain leads to food fear and
-eventual [unintentional]{.ul} weight loss.
+eventual [unintentional]{.underline} weight loss.
 
 The clinical presentation here is key. Chronic mesenteric ischemia is
 pretty unlikely in patients who do not have this constellation of
@@ -585,7 +586,7 @@ their symptom onset. What's happened is they've lost the retroperitoneal
 fat pat that normally surrounds the SMA, and so the angle between the
 SMA and the aorta becomes more acute, pinching off the duodenum.
 
-Classic findings in fluoroscopic swallin in SMA syndrome are delayed
+Classic findings in fluoroscopic swallow in SMA syndrome are delayed
 gastric emptying, a dilated duodenum, to and fro peristalsis in the
 proximal duodenum and cutoff in the third portion. EGD can show
 pulsation in the 3rd portion of the
@@ -598,3 +599,11 @@ sometimes needed for treatment, but is controversial. It's not really a
 mesenteric vascular disease, but it sometimes shows up on exams as a
 related entity.[@welschRecallingSuperiorMesenteric2007;
 @merrettSuperiorMesentericArtery2009]
+
+## Uterine Fibroids
+
+Symptomatic uterine fibroids are now often treated with uterine artery
+embolization. Many patients require bilateral uterine artery
+embolization (UAE), but may only need unilateral if blood supply is
+unilateral. Infarcted tissue can be expelled or become infected even
+years after initial embolization. [@stepniak2018]
