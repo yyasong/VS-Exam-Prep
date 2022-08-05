@@ -606,4 +606,5 @@ Symptomatic uterine fibroids are now often treated with uterine artery
 embolization. Many patients require bilateral uterine artery
 embolization (UAE), but may only need unilateral if blood supply is
 unilateral. Infarcted tissue can be expelled or become infected even
-years after initial embolization. [@stepniak2018]
+years after initial embolization.
+[@stepniakUterineArteryEmbolization2018]

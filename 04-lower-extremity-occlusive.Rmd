@@ -102,7 +102,7 @@ Non Modifiable:
 
     -   Age is identified as a risk factor for PAD regardless of gender.
 
-    -   Prevalence of PAD increases with age: 15% > 70 years of age.
+    -   Prevalence of PAD increases with age: 15% \> 70 years of age.
 
 2.  **Gender**
 
@@ -130,9 +130,9 @@ natural history?**
     cardiovascular health comes from this study.
     [@mahmoodFraminghamHeartStudy2014]
 
-2.  The Rotterdam Study: 1990, Longitudinal Study, >7000 particpants.
+2.  The Rotterdam Study: 1990, Longitudinal Study, \>7000 particpants.
 
-3.  CVHS -- 1989-1999 Longitudinal Study : n>5000 Multicentre Study.
+3.  CVHS -- 1989-1999 Longitudinal Study : n\>5000 Multicentre Study.
 
 4.  MESA -- Cross Sectional analysis 6653 subjects all with ABPI
     assessment revealed a prevalence of PAD (\<0.9) of 4%. Non-Hispanic
@@ -218,15 +218,31 @@ Grading System (1986, Revised 1997)
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-| Grade/Category | Clinical Description                                        |
-|----------------|-------------------------------------------------------------|
-| 0/0            | Asymptomatic -no haemodynamic significant occlusive disease |
-| I/1            | Mild Claudication                                           |
-| I/2            | Moderate Claudication                                       |
-| I/3            | Severe Claudication                                         |
-| II/4           | Ischaemic Rest Pain                                         |
-| III/5          | Minor Tissue Loss                                           |
-| III/6          | Major Tissue Loss                                           |
++---------------+------------------------------------------------------+
+| G             | Clinical Description                                 |
+| rade/Category |                                                      |
++===============+======================================================+
+| 0/0           | Asymptomatic -no haemodynamic significant occlusive  |
+|               | disease                                              |
++---------------+------------------------------------------------------+
+| I/1           | Mild Claudication                                    |
++---------------+------------------------------------------------------+
+| I/2           | Moderate Claudication                                |
++---------------+------------------------------------------------------+
+| I/3           | Severe Claudication                                  |
++---------------+------------------------------------------------------+
+| II/4          | Ischaemic Rest Pain                                  |
++---------------+------------------------------------------------------+
+| III/5         | Minor Tissue Loss                                    |
++---------------+------------------------------------------------------+
+| III/6         | Major Tissue Loss                                    |
++---------------+------------------------------------------------------+
+
+Differentiating neurogenic claudication from vasculogenic claudication
+can be difficult. Vasculogenic claudication is releived by cessation of
+ambulation and mostly affects a unilateral calf. Neurogenic improves
+with postural changes, more often bilateral and affects the thighs.
+[@nadeauReliabilityDifferentiatingNeurogenic2013]
 
 **What is involved in the work up of patients with PAOD/Intermittent
 Claudication?**
@@ -237,7 +253,7 @@ SVS Guidelines:
 
 "We recommend using ABI as the first-line non-invasive test to establish
 a diagnosis of PAD in individuals with symptoms or signs suggestive of
-disease. When the ABI is borderline or normal (>0.9) and symptoms of
+disease. When the ABI is borderline or normal (\>0.9) and symptoms of
 claudication are suggestive, we recommend an exercise ABI."
 
 *Grade 1 Level of Evidence A*
@@ -271,20 +287,45 @@ detecting \>/= 50% stenosis) [@yaoAnkleSystolicPressure2005;
 
 **What is Exercise ABPI studies?**
 
-Constant Load Testing -- (unlike the Graded Test -- Bruce Protocol)
+Constant Load Testing -- (unlike the Graded Test -- Bruce Protocol).
+
+The mechanism for changes in ABPI are related to the fact that exercise
+increases SBP and decreases SVR and therefore will affect flow across a
+stenosis making it more physiologically relevant during exercise.
+[@nicolaiReliabilityTreadmillTesting2009;
+@alqahtaniPredictorsChangeAnkleBrachial2018]
 
 Walking distance has been shown to correlate with level and severity of
 POAD. [@strandnessHemodynamicsSurgeons1975a]
 
+Patients with single level iliac disease may present with buttock/thigh
+claudication with preserved pulses. Exercise treadmill ABI particularly
+useful in determining the severity of disease in these patients.
+[@aboyansGeneralPrognosisPatients2010]
+
 **What is the ultrasound duplex criteria for defining PAOD?**
 
-| Stenosis Category | Peak Systolic Velocity             | Velocity Ratio | Distal Artery Spectral Waveform  |
-|-------------------|------------------------------------|----------------|----------------------------------|
-| Normal            | \<150                              | \<1.5          | Triphasic, Normal PSV            |
-| 30-49%            | 150-200                            | 1.5-2          | Triphasic, Normal PSV            |
-| 50-75%            | 200-400                            | 2-4            | M onophasic, reduced PSV         |
-| \>75%             | \>400                              | \>4            | Damped, m onophasic, reduced PSV |
-| Occlusion         | No Flow -- B -mode, Terminal Thump |                |                                  |
++-------------+--------------------+-------------+-------------------+
+| Stenosis    | Peak Systolic      | Velocity    | Distal Artery     |
+| Category    | Velocity           | Ratio       | Spectral Waveform |
++=============+====================+=============+===================+
+| Normal      | \<150              | \<1.5       | Triphasic, Normal |
+|             |                    |             | PSV               |
++-------------+--------------------+-------------+-------------------+
+| 30-49%      | 150-200            | 1.5-2       | Triphasic, Normal |
+|             |                    |             | PSV               |
++-------------+--------------------+-------------+-------------------+
+| 50-75%      | 200-400            | 2-4         | M onophasic,      |
+|             |                    |             | reduced PSV       |
++-------------+--------------------+-------------+-------------------+
+| \>75%       | \>400              | \>4         | Damped, m         |
+|             |                    |             | onophasic,        |
+|             |                    |             | reduced PSV       |
++-------------+--------------------+-------------+-------------------+
+| Occlusion   | No Flow -- B       |             |                   |
+|             | -mode, Terminal    |             |                   |
+|             | Thump              |             |                   |
++-------------+--------------------+-------------+-------------------+
 
 Adapted from [@stone21VascularLaboratory2019]
 
@@ -333,7 +374,7 @@ on the SVS Guidelines?**
         risk factors Statin therapy benefit unsure.
 
     -   However, the AHA from the Framingham Study does recommend using
-        Statins if 10-year risk based on risk calculators >7.5% (which
+        Statins if 10-year risk based on risk calculators \>7.5% (which
         would be positive if PAD present).
 
 -   Exercise and Limb Function
@@ -355,7 +396,7 @@ Guidelines?**
     (Grade A -- 1)
 
 -   Dyslipidaemia: Statin Therapy Recommended -- most recent evidence on
-    lipid therapy has suggested focussing on reducing 10-year
+    lipid therapy has suggested focusing on reducing 10-year
     cardiovascular event risk rather than specifically reducing lipid
     levels. (Grade 1-A)
 
@@ -368,10 +409,11 @@ Guidelines?**
         (CAPRIE)[@capriesteeringcommitteeRandomisedBlindedTrial1996]--
         replacing Aspirin with Clopidogrel Grade 1-Level B)
 
--   Diabetes Mellitus -- Optimisation of HbA1C \< 7% (Grade 1-Level B)
+-   Diabetes Mellitus -- Optimization of HbA1C \< 7% (Grade 1-Level B)
 
--   Hypertension -- Indicated B-Blockers for hypertension (Grade
-    1-Level B) (there's no evidence that Beta Blockers worsens IC)
+-   Hypertension -- Indicated B-Blockers for hypertension (Grade 1-Level
+
+    B)  (there's no evidence that Beta Blockers worsens IC)
 
 -   Homocysteine -- Recommendation against Folic Acid and Vit B12 (
     Grade 2 -- C)
@@ -416,7 +458,7 @@ Guidelines?**
 -   **Always remember multifactorial causes of immobility --
     particularly in the elderly.**
 
-    -   SVS recommends that invasive therapy for IC have a >50%
+    -   SVS recommends that invasive therapy for IC have a \>50%
         likelihood of sustained clinical improvement for at least 2
         years.
 
@@ -501,15 +543,25 @@ the Trans metatarsal level.
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-| Grade/Category | Clinical Description                                        |
-|----------------|-------------------------------------------------------------|
-| 0/0            | Asymptomatic -no haemodynamic significant occlusive disease |
-| I/1            | Mild Claudication                                           |
-| I/2            | Moderate Claudication                                       |
-| I/3            | Severe Claudication                                         |
-| II/4           | Ischaemic Rest Pain                                         |
-| III/5          | Minor Tissue Loss                                           |
-| III/6          | Major Tissue Loss                                           |
++---------------+------------------------------------------------------+
+| G             | Clinical Description                                 |
+| rade/Category |                                                      |
++===============+======================================================+
+| 0/0           | Asymptomatic -no haemodynamic significant occlusive  |
+|               | disease                                              |
++---------------+------------------------------------------------------+
+| I/1           | Mild Claudication                                    |
++---------------+------------------------------------------------------+
+| I/2           | Moderate Claudication                                |
++---------------+------------------------------------------------------+
+| I/3           | Severe Claudication                                  |
++---------------+------------------------------------------------------+
+| II/4          | Ischaemic Rest Pain                                  |
++---------------+------------------------------------------------------+
+| III/5         | Minor Tissue Loss                                    |
++---------------+------------------------------------------------------+
+| III/6         | Major Tissue Loss                                    |
++---------------+------------------------------------------------------+
 
 **What is Chrinc Limb Threatening Ischemia (CLTI), sometimes previously
 call Critical Limb Ischemia (CLI)?**
@@ -702,7 +754,7 @@ outlined the scope and developed the section briefs of the guideline.
 
 They determined that:
 
-"The term "critical limb ischemia" (CLI) is outdated and fails to
+"The term"critical limb ischemia" (CLI) is outdated and fails to
 encompass the full spectrum of patients who are evaluated and treated
 for limb-threatening ischemia in modern practice."
 
@@ -869,7 +921,7 @@ Recommendation 6.3:
     Level of Evidence C (Low)**
 
 -   Average Surgical Risk: \\\<5% operative mortality and 2-year
-    survival >50%
+    survival \>50%
 
 -   Severe Surgical Risk: \\\>/= 5% operative mortality and 2-year
     survival \</=50%
@@ -937,7 +989,7 @@ Major Findings:
 2.  Intention-To-Treat Analysis of overall follow up showed no
     significant difference in AFS and overall survival.
 
-3.  Amongst patients who survived >2 years, overall survival was better
+3.  Amongst patients who survived \>2 years, overall survival was better
     for those treated with Bypass as a first approach
 
 4.  Analysis to treat: 
@@ -1032,7 +1084,7 @@ can "rupture" leading to an acute occlusion of a chronic lesion.  And
 popliteal) -- these are less likely to rupture, but more likely to
 thrombose and cause an acute limb ischemic event.
 
-### Presentation and Diangosis
+### Presentation and Diagnosis
 
 **What is the patient presentation of ALI? Are there any differences for
 upper vs. lower extremity presentations?**
@@ -1073,41 +1125,67 @@ gauge the chronicity and therefore the urgency of intervention.
 
 **How is ALI classified?**
 
-From Rutherford RB, Baker JD, Ernst C, et al. Recommended standards for
+From Rutherford RB, Baker JD, Ernst C, et  al. Recommended standards for
 reports dealing with lower extremity ischemia: revised version. J Vasc
 Surg. 1997;26:517--538. [@rutherfordRecommendedStandardsReports1997]
 
-+----------------+----------------+----------------+----------------+
-| **Cl           | **Descripti    | **Findings**   | **Doppler      |
-| assification** | on/prognosis** |                | signals**      |
-+================+================+================+================+
-| **Sensory      | **Muscle       | **Arterial**   | **Venous**     |
-| loss**         | weakness**     |                |                |
-+----------------+----------------+----------------+----------------+
-| I. Viable      | Not            | None           | None           |
-|                | immediately    |                |                |
-|                | threatened     |                |                |
-+----------------+----------------+----------------+----------------+
-| II\.           | \              | \              | \              |
-| Threatened     |                |                |                |
-+----------------+----------------+----------------+----------------+
-| a\. Marginally | Salvageable if | Minimal (toes) | None           |
-|                | promptly       | or none        |                |
-|                | treated        |                |                |
-+----------------+----------------+----------------+----------------+
-| b\.            | Salvageable    | More than      | Mild, moderate |
-| Immediately    | with immediate | toes,          |                |
-|                | rev            | associated     |                |
-|                | ascularization | with rest pain |                |
-+----------------+----------------+----------------+----------------+
-| III\.          | Major tissue   | Profound,      | Profound,      |
-| Irreversible   | loss or        | anesthetic     | paralysis      |
-|                | permanent      |                | (rigor)        |
-|                | nerve damage   |                |                |
-|                | inevitable.    |                |                |
-|                | Cyanosis may   |                |                |
-|                | be present     |                |                |
-+----------------+----------------+----------------+----------------+
++---------+---------+---------+---------+---------+---------+
+| -   \   | **Pro   | Sensory | *       | Arte    | Ve nous |
+|     \*  | g       | Loss    | *Muscle | rial Si | Si gnal |
+| Classif | nosis** |         | We      | gnal    |         |
+|     i   |         |         | a       |         |         |
+|         |         |         | kness** |         |         |
+| ca      |         |         |         |         |         |
+| t       |         |         |         |         |         |
+| ion\*\* |         |         |         |         |         |
++=========+=========+=========+=========+=========+=========+
+| I.      | Not imm | None    | None    | ++      | ++      |
+|  Viable | e       |         |         |         |         |
+|         | diately |         |         |         |         |
+|         | th      |         |         |         |         |
+|         | r       |         |         |         |         |
+|         | eatened |         |         |         |         |
++---------+---------+---------+---------+---------+---------+
+| II\. T  | \       | \       | \       |         |         |
+| h       |         |         |         |         |         |
+| r       |         |         |         |         |         |
+| eatened |         |         |         |         |         |
++---------+---------+---------+---------+---------+---------+
+| a\. M a | Sal     | Minimal | None    | +/-     | \+      |
+| r       | v       | (toes)  |         |         |         |
+| ginally | ageable | or none |         |         |         |
+|         | if      |         |         |         |         |
+|         | p       |         |         |         |         |
+|         | romptly |         |         |         |         |
+|         | treated |         |         |         |         |
++---------+---------+---------+---------+---------+---------+
+| b\. Im  | Sal     | More    | Mild,   | +/-     | \+      |
+| m       | v       | than    | m       |         |         |
+| e       | ageable | toes,   | oderate |         |         |
+| diately | with i  | as      |         |         |         |
+|         | m       | s       |         |         |         |
+|         | mediate | ociated |         |         |         |
+|         | rev     | with    |         |         |         |
+|         | ascula  | rest    |         |         |         |
+|         | r       | pain    |         |         |         |
+|         | ization |         |         |         |         |
++---------+---------+---------+---------+---------+---------+
+| III\.   | Major   | P       | P       | \-      | \-      |
+| Irr e   | tissue  | r       | r       |         |         |
+| v       | loss or | ofound, | ofound, |         |         |
+| ersible | p       | an      | p       |         |         |
+|         | e       | e       | a       |         |         |
+|         | rmanent | sthetic | ralysis |         |         |
+|         | nerve   |         | (rigor) |         |         |
+|         | damage  |         |         |         |         |
+|         | ine     |         |         |         |         |
+|         | v       |         |         |         |         |
+|         | itable. |         |         |         |         |
+|         | C       |         |         |         |         |
+|         | yanosis |         |         |         |         |
+|         | may be  |         |         |         |         |
+|         | present |         |         |         |         |
++---------+---------+---------+---------+---------+---------+
 
 **What does the work up for an acute limb entail? How is the diagnosis
 made?**
@@ -1135,6 +1213,9 @@ I'm getting into in the operating room and can have a better plan.
 In patients with severe renal insufficiency, MRA or MR time-of-flight
 can be helpful, but these studies usually take a little longer to obtain
 and may not be quickly available in an acute threatened limb situation.
+Consider going straight to angiography, as to get the most immediate and
+best imaging of the tibial vessels. [@creagerClinicalPracticeAcute2012;
+@earnshaw100AcuteLimb2019]
 
 Bedside ultrasound can also be very helpful even if you're not a
 certified ultrasonographer yourself, if you have access to color flow
@@ -1166,31 +1247,59 @@ normal
 -   Medical primarily with anticoagulation using heparin or a direct Xa
     inhibitor
 
+-   Acute on chronic limb ischemia may be more technically challenging
+    and require more complex reconstruction with a combination of
+    endovascular and open techniques. [@dedonatoAcuteChronicLimb2018;
+    @creagerClinicalPracticeAcute2012]
+
 -   Open
 
     -   Thrombectomy -- balloon catheter based (Fogarty embolectomy
         balloon -- Dr. Fogarty invented this while he was a medical
         student)
 
+        -   Patients with acute limb ischemia, neuro deficit and distal
+            pop embolism may be best treated with popliteal exposure and
+            open thrombectomy. [@darwoodSurgeryThrombolysisInitial2018;
+            @kempeResultsSurgicalManagement2014]
+
     -   Bypass
+
+        -   Patients with aortic occlusion and significant
+            comorbidities, and significant aortoiliac baseline disease
+            may likely benefit from primary axillo-bifemoral bypass.
+            [@mohapatraRiskFactorsPerioperative2018]
 
     -   Endarterectomy -- not usually the go to but might be used for
         the common femoral 
 
 -   Endovascular 
 
-<!-- -->
+    -   Pharmacologic catheter directed thrombolysis
 
--   mechanical thrombolysis vs catheter directed
+        -   Absolute contraindications include active bleeding disorder,
+            CVA (\<6mo), CNS injury or head injury (\<3mo), or GI bleed
+            (\<10d).
 
--   Percutaneous thrombus aspiration -- useful for small fresh thrombi
-    such as after angioplasty, as distal diameter of the catheter tip
-    limits the size of the thrombus that can be removed. 
+        -   Relative contraindications include recent major surgery,
+            uncontrolled hypertension, intracranial tumor, pregnancy,
+            recent eye surgery, hepatic failure, CPR (\<10d), or
+            bacterial endocarditis.
 
--   Mechanical thrombolysis and aspiration are also useful for patients
-    with contraindications for thrombolytic therapy, and also may allow
-    for a lower dose of a thrombolytic agent, but risk damage to the
-    arterial wall
+        -   1-2% risk of hemorrhagic stroke. If neurologic deficit
+            develops during thrombolysis, stop lysis and perform
+            immediate head CT.
+            [@ourielComparisonRecombinantUrokinase1998]
+
+    -   Percutaneous thrombus aspiration -- useful for small fresh
+        thrombi such as after angioplasty, as distal diameter of the
+        catheter tip limits the size of the thrombus that can be
+        removed. 
+
+    -   Mechanical thrombolysis and aspiration are also useful for
+        patients with contraindications for thrombolytic therapy, and
+        also may allow for a lower dose of a thrombolytic agent, but
+        risk damage to the arterial wall
 
 **Who gets which kinds of treatment? Who needs emergent treatment?**
 
@@ -1228,7 +1337,7 @@ normal
         acute arterial occlusion of less than 14 days; this showed no
         difference in mortality or amputation-free survival but higher
         major bleeding in the CDT group.
-        [@ourielComparisonRecombinantUrokinase1998a]
+        [@ourielComparisonRecombinantUrokinase1998]
 
     -   Meta analysis released originally published in 2002 but updated
         in 2013 and 2018 demonstrated no difference in mortality or limb
@@ -1381,5 +1490,41 @@ conditions tend to do worse as you might expect:  baseline CAD, kidney
 disease and smoking are predictive of worse outcomes.  There is a trend
 toward improved limb salvage rates (decreased amputation rate) over
 time, and I think this speaks to wider availability of different limb
-salvage techniques among vascular surgeons across the globe.\
+salvage techniques among vascular surgeons across the globe.
+
+## Blue Toe Syndrome
+
+### Etiology and Presentation
+
+Blue toe syndrome is characterized as a painful discolored toe in the
+setting of a normal vascular examination or palpable pulses.
+
+Acute onset of blue toe after MI - consider cholesterol embolization
+from wire manipulation in the aorta.
+[@saricAorticAtherosclerosisEmbolic2012]
+
+### Evaluation
+
+Patients should have a work up for an embolic source. Patients without a
+clear recent source of embolization on history or physical, should
+undergo CTA of chest/abdomen/pelvis to look for an arterial lesion,
+echocardiogram to identify a cardiac source, and a Holter monitor to
+evaluate for an underlying arrhythmias.
+
+If no obvious source of embolism can be identified, further evaluation
+for underlying cancer may lead to a prothrombotic state.
+
+### Management
+
+Treatment of blue toe from cholesterol embolization best with single
+antiplatelet and statin. Anticoagulation may precipitate further
+embolization. [@ghahramaniPostproceduralBlueToes2016;
+@quinonesCholesterolEmboliSyndrome2013]
+
+Treatment of blue toe from a specific thrombogenic arterial lesion may
+be best with anticoagulation. Recurrent symptoms on anticoagulation may
+require stent coverage or, in a young patient, may require thrombectomy.
+[@reyesvaldiviaAnticoagulationAloneAortic2017;
+@jeyabalanEndovascularStrategiesTreatment2014;
+@vermaContemporaryManagementSymptomatic2014]\
 \
