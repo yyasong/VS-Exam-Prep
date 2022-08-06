@@ -172,6 +172,8 @@ natural history?**
 
     -   Both
 
+-   Foot infection[@bandyk2018; @kayssi2019; @lepäntalo2011]
+
 Given this diverse and confounding pathology the normal progressive
 history of PAD is somewhat different. What's most concerning is the
 neuropathy resulting in initial presentation being ulceration. This
@@ -237,6 +239,10 @@ American Chapter ISCVS:
 +---------------+------------------------------------------------------+
 | III/6         | Major Tissue Loss                                    |
 +---------------+------------------------------------------------------+
+
+Leriche syndrome - Triad of claudication (buttock, thigh, and calf),
+impotence and decreased pulses signifies aortoiliac occlusive disease.
+[@frederick2010; @leriche1948; @setacci2012]
 
 Differentiating neurogenic claudication from vasculogenic claudication
 can be difficult. Vasculogenic claudication is releived by cessation of
@@ -443,6 +449,10 @@ Guidelines?**
 
 **What is the management for patients with Intermittent Claudication?**
 
+-   With appropriate medical management and risk modification, 25% of
+    patients will improve, 50% will remain stable and 25% will progress
+    and requiring intervention. [@conte2015; @norgren2007]
+
 -   **Patient Selection for Intervention:**
 
     -   20-30% of patients with IC who adhere to risk factor
@@ -628,6 +638,10 @@ above) and examination.
         -   Such as Venous, Mixed, infective, autoimmune, inflammatory,
             malignancy or trauma.
 
+-   Foot Infection - Signs of infection, erythema, rubor, cellulitis,
+    tenderness or unexplained hyperglycemia in diabetic patients should
+    prompt urgent referal.[@kalish2010]
+
 **What is the natural history of CLI and what do we know about its
 prognosis?**
 
@@ -639,7 +653,8 @@ to develop CLTI over 5 years.
 However, those that do develop CLTI, have a high risk of limb loss
 (greater than 20% annual risk) and a high mortality (10-15% annual
 risk), the majority of terminal events being related to cardiovascular
-events.
+events. Limb loss or mortality may reach as high as 50% in 1 year.
+[@adam2005; @norgren2007]
 
 **What has changed in the last few decades?**
 
@@ -669,6 +684,10 @@ vessel disease.
 
 There is often an overlap in the pathological processes in patients with
 CLTI or CLI.
+
+Diabetic foot ulcers have a very high rate of recurrence with 40% of
+patients developing a new ulcer within 12 months of healing a previous
+ulcer. [@armstrong2017]
 
 **What is the WIFI Classification?** [@millsSocietyVascularSurgery2014a]
 
@@ -809,7 +828,12 @@ It's been shown that, healing of an ulcer or tissue loss is unlikely if
 a patient's toe pressures are less than 55mmHg. And Toe Pressures have
 been validated in multiple studies to correlate with Amputation free
 survival and wound healing: Amputation Free Survival TP \<30mmHg 2.13 HR
-(1.52-2.98). - (J.E. Wickstrom et al EJVS May 2017).
+(1.52-2.98). [@wickström2017]
+
+Patients with ESRD or DM develop medial calcification and often have
+elevated ABI (\>1.3) - which is associated with an elevated risk of
+cardiovascular mortality. Toe pressures are particularly important in
+this scenario. [@resnick2004; @vitti1994]
 
 **What are the recommendations for patients with CLTI when it comes to
 Medical Therapy and Risk Factor Modification?**
@@ -820,8 +844,9 @@ Medical Therapy and Risk Factor Modification?**
 -   Consider Clopidogrel as the single agent (**Grade 2 Level B**) --
     CAPRIE
 
--   Moderate or High-intensity statin therapy to reduce all-cause and
-    cardiovascular mortality (**Grade 1 Level A**)
+-   High-intensity statin therapy to reduce all-cause and cardiovascular
+    mortality - Atorvastatin 80mg or rosuvastatin 40mg (**Grade 1 Level
+    A**) [@arya2018; @2013acc]
 
 -   Control Hypertension to BP target \<140mm Hg systolic and \<90mm Hg
     diastolic in patients with CLTI (**Grade 1 Level B**)
@@ -829,6 +854,12 @@ Medical Therapy and Risk Factor Modification?**
 -   Offer Smoking Cessation interventions and ask all smokers or former
     smokers about status of tobacco use every visit (**Grade 1 Level
     A**)
+
+-   Diabetic foot wounds wiht signs of infection, erythema, swelling,
+    pain and foul smelling drainage should be treated with IV abx, plain
+    radiography, ESR, CRP and cultures. Signs of systemic sepsis, such
+    as fevers, tachycardia or shock, such as hypotension, should warrent
+    urgent debridement and drainage, regardless of vascular status.
 
 **What imaging assessment is required?**
 
@@ -838,6 +869,12 @@ required, CTA, MRA or eventually digital subtraction angiography. They
 emphasize the importance of obtaining good quality imaging to
 appropriately stage and be able to compare the level and degree of
 disease.
+
+For wounds with concern for underlying osteomyelitis - initial workup is
+with plain radiography, which can identify soft tissue emphysema,
+evidence of osteomyelitis or presence of a foreign body. High suspicion
+of early osteomyelitis with negative x-ray may warrent an MRI to
+detect.[@giurato2017]
 
 **What is the Global Limb Anatomic Staging System (GLASS)?**
 [@conteGlobalVascularGuidelines2019a]
@@ -941,8 +978,9 @@ gangrene. (Good Practice Statement)
 Offer Revascularisation to all "average surgical risk patients" (\\\<5%
 operative mortality and 2-year survival \>50%)  with advanced
 limb-threatening conditions (e.g. WIfI stage 4) and significant
-perfusion deficits (e.g. ischemia grades 2 and 3). **Grade 1 (Strong)
-Level of Evidence C (Low)**
+perfusion deficits (e.g. ischemia grades 2 and 3). Particularly if they
+have good saphenous vein. **Grade 1 (Strong) Level of Evidence C (Low)**
+[@adam2005; @norgren2007]
 
 **What is involved in the Planning of the Anatomic pattern of disease
 and its effects of revascularisation strategy?**
@@ -989,7 +1027,7 @@ Major Findings:
 2.  Intention-To-Treat Analysis of overall follow up showed no
     significant difference in AFS and overall survival.
 
-3.  Amongst patients who survived \>2 years, overall survival was better
+3.  Among patients who survived \>2 years, overall survival was better
     for those treated with Bypass as a first approach
 
 4.  Analysis to treat: 
@@ -1024,6 +1062,29 @@ BEST-CLI:  Open Bypass versus Endovascular Intervention, Primary
 Endpoint: MALE-Free Survival.  Major Above-the-Ankle Amputation, Major
 Bypass or Jump/interposition graft revision or the need for thrombectomy
 or thrombolysis (MALE).
+
+**Some important take aways for unique scenarios in operative planning
+for CLTI based on anatomy and conduit.**
+
+-   Single segment GSV best conduit for infrageniculate bypass.
+    [@arvela2010; @avgerinos2015; @moreira2016]
+
+-   Fem-AK pop bypass with prosthetic may be preferred to contralateral
+    GSV. [@moreira2016]
+
+-   Bilateral external iliac occlusion may be best treated with end to
+    side aorto-bifemoral bypass to allow for continued perfusion of the
+    pelvis. [@jaquinandi2008; @vandenakker1992; @brewster1978]
+
+-   Profunda-popliteal collateral index (Segmental pressures AK-BK/AK)
+    of less than 0.25 may suggest that there is sufficient collateral
+    network between profunda and popliteal that SFA treatment may not be
+    necessary. [@boren1980;@mawatari2000]
+
+-   Mal perforans ulcer over the R first metatarsel head with long
+    occlusion of BK pop, PT and AT with reconstitution of the DP and PT
+    should have an AK pop to DP bypass to perfuse the appropriate
+    angiosome with the shortest bypass.[@hingorani2016; @jongsma2017]
 
 ## Acute Limb Ischemia
 
@@ -1394,17 +1455,33 @@ syndrome?**
     circulation. Irreversible damage occurs when pressures exceed 30mmHg
     in each compartment  
 
+-   Ischemia reperfusion causes increased capillary permeability due to
+    free oxygen radicals, neutrophils and endothelial factors that
+    collect during ischemia. Severity depends on time to reperfusion,
+    muscle mass, and flow pattern (i.e. direct or collateral). Symptoms
+    often develop within 6hr of reperfusion. [@vonkeudell2015]
+
+-   The pathophysiology underlying acute extremity compartment syndrome
+    is related to the arteriovenous pressure gradient theory. Increased
+    compartment pressure reduces the gradient -- reduces arterial
+    pressure and increases venous pressure.[@frink2010; @mcqueen1996;
+    @elliott2003; @papalambros1989]
+
 -   Clinically they can have neurological dysfunction with sensory motor
     deficits, but the most common presentation is a tense extremity with
     pain on passive movement of the muscles in the compartment, which is
-    often dorsiflexion/plantar flection of the ankle. A sensitive
+    often dorsiflexion/plantar flexion of the ankle. A sensitive
     indicator is loss of two point discrimination
 
 **How do you diagnose a compartment syndrome?**
 
 -   Physical exam (tenderness, especially over anterior compartment),
-    paresthesias, especially between first and second toes (anterior
-    compartment:  deep peroneal nerve -- this is a VSITE favorite)
+    paresthesias, especially between first and second toes
+
+    -   Anterior compartment: deep peroneal nerve (this is a VSITE
+        favorite)
+
+    -   Deep posterior compartment: tibial nerve[@velmahos2002]
 
 -   Compartment pressures:  how do you do this?
 
