@@ -220,25 +220,15 @@ Grading System (1986, Revised 1997)
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-+---------------+------------------------------------------------------+
-| G             | Clinical Description                                 |
-| rade/Category |                                                      |
-+===============+======================================================+
-| 0/0           | Asymptomatic -no haemodynamic significant occlusive  |
-|               | disease                                              |
-+---------------+------------------------------------------------------+
-| I/1           | Mild Claudication                                    |
-+---------------+------------------------------------------------------+
-| I/2           | Moderate Claudication                                |
-+---------------+------------------------------------------------------+
-| I/3           | Severe Claudication                                  |
-+---------------+------------------------------------------------------+
-| II/4          | Ischaemic Rest Pain                                  |
-+---------------+------------------------------------------------------+
-| III/5         | Minor Tissue Loss                                    |
-+---------------+------------------------------------------------------+
-| III/6         | Major Tissue Loss                                    |
-+---------------+------------------------------------------------------+
+| G rade/Category | Clinical Description                                        |
+|-----------------|-------------------------------------------------------------|
+| 0/0             | Asymptomatic -no haemodynamic significant occlusive disease |
+| I/1             | Mild Claudication                                           |
+| I/2             | Moderate Claudication                                       |
+| I/3             | Severe Claudication                                         |
+| II/4            | Ischaemic Rest Pain                                         |
+| III/5           | Minor Tissue Loss                                           |
+| III/6           | Major Tissue Loss                                           |
 
 Leriche syndrome - Triad of claudication (buttock, thigh, and calf),
 impotence and decreased pulses signifies aortoiliac occlusive disease.
@@ -311,27 +301,13 @@ useful in determining the severity of disease in these patients.
 
 **What is the ultrasound duplex criteria for defining PAOD?**
 
-+-------------+--------------------+-------------+-------------------+
-| Stenosis    | Peak Systolic      | Velocity    | Distal Artery     |
-| Category    | Velocity           | Ratio       | Spectral Waveform |
-+=============+====================+=============+===================+
-| Normal      | \<150              | \<1.5       | Triphasic, Normal |
-|             |                    |             | PSV               |
-+-------------+--------------------+-------------+-------------------+
-| 30-49%      | 150-200            | 1.5-2       | Triphasic, Normal |
-|             |                    |             | PSV               |
-+-------------+--------------------+-------------+-------------------+
-| 50-75%      | 200-400            | 2-4         | M onophasic,      |
-|             |                    |             | reduced PSV       |
-+-------------+--------------------+-------------+-------------------+
-| \>75%       | \>400              | \>4         | Damped, m         |
-|             |                    |             | onophasic,        |
-|             |                    |             | reduced PSV       |
-+-------------+--------------------+-------------+-------------------+
-| Occlusion   | No Flow -- B       |             |                   |
-|             | -mode, Terminal    |             |                   |
-|             | Thump              |             |                   |
-+-------------+--------------------+-------------+-------------------+
+| Stenosis Category | Peak Systolic Velocity             | Velocity Ratio | Distal Artery Spectral Waveform  |
+|-------------------|------------------------------------|----------------|----------------------------------|
+| Normal            | \<150                              | \<1.5          | Triphasic, Normal PSV            |
+| 30-49%            | 150-200                            | 1.5-2          | Triphasic, Normal PSV            |
+| 50-75%            | 200-400                            | 2-4            | M onophasic, reduced PSV         |
+| \>75%             | \>400                              | \>4            | Damped, m onophasic, reduced PSV |
+| Occlusion         | No Flow -- B -mode, Terminal Thump |                |                                  |
 
 Adapted from [@stone21VascularLaboratory2019]
 
@@ -553,25 +529,15 @@ the Trans metatarsal level.
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-+---------------+------------------------------------------------------+
-| G             | Clinical Description                                 |
-| rade/Category |                                                      |
-+===============+======================================================+
-| 0/0           | Asymptomatic -no haemodynamic significant occlusive  |
-|               | disease                                              |
-+---------------+------------------------------------------------------+
-| I/1           | Mild Claudication                                    |
-+---------------+------------------------------------------------------+
-| I/2           | Moderate Claudication                                |
-+---------------+------------------------------------------------------+
-| I/3           | Severe Claudication                                  |
-+---------------+------------------------------------------------------+
-| II/4          | Ischaemic Rest Pain                                  |
-+---------------+------------------------------------------------------+
-| III/5         | Minor Tissue Loss                                    |
-+---------------+------------------------------------------------------+
-| III/6         | Major Tissue Loss                                    |
-+---------------+------------------------------------------------------+
+| G rade/Category | Clinical Description                                        |
+|-----------------|-------------------------------------------------------------|
+| 0/0             | Asymptomatic -no haemodynamic significant occlusive disease |
+| I/1             | Mild Claudication                                           |
+| I/2             | Moderate Claudication                                       |
+| I/3             | Severe Claudication                                         |
+| II/4            | Ischaemic Rest Pain                                         |
+| III/5           | Minor Tissue Loss                                           |
+| III/6           | Major Tissue Loss                                           |
 
 **What is Chrinc Limb Threatening Ischemia (CLTI), sometimes previously
 call Critical Limb Ischemia (CLI)?**
@@ -1079,7 +1045,7 @@ for CLTI based on anatomy and conduit.**
 -   Profunda-popliteal collateral index (Segmental pressures AK-BK/AK)
     of less than 0.25 may suggest that there is sufficient collateral
     network between profunda and popliteal that SFA treatment may not be
-    necessary. [@boren1980;@mawatari2000]
+    necessary. [@boren1980; @mawatari2000]
 
 -   Mal perforans ulcer over the R first metatarsel head with long
     occlusion of BK pop, PT and AT with reconstitution of the DP and PT
@@ -1190,58 +1156,52 @@ From Rutherford RB, Baker JD, Ernst C, et  al. Recommended standards for
 reports dealing with lower extremity ischemia: revised version. J Vasc
 Surg. 1997;26:517--538. [@rutherfordRecommendedStandardsReports1997]
 
-+---------+---------+---------+---------+---------+---------+
-| -   \   | **Pro g | S       | -   \*  | Arte    | Ve nous |
-|     \*  | n       | ensory  |         | rial Si | Si gnal |
-|     C   | osis**  | Loss    | Muscle  | gnal    |         |
-|         |         |         | We a    |         |         |
-| lassif  |         |         |         |         |         |
-| i       |         |         | kne     |         |         |
-|         |         |         | ss\*\*  |         |         |
-| ca t i  |         |         |         |         |         |
-| on\*\*  |         |         |         |         |         |
-+=========+=========+=========+=========+=========+=========+
-| I.      | Not imm | None    | None    | ++      | ++      |
-|  Viable | e d     |         |         |         |         |
-|         | iately  |         |         |         |         |
-|         | th r e  |         |         |         |         |
-|         | atened  |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| II\. T  | \       | \       | \       |         |         |
-| h r e   |         |         |         |         |         |
-| atened  |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| a\. M a | Sal v a | M       | None    | +/-     | \+      |
-| r g     | geable  | inimal  |         |         |         |
-| inally  | if p r  | (toes)  |         |         |         |
-|         | omptly  | or none |         |         |         |
-|         | t       |         |         |         |         |
-|         | reated  |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| b\. Im  | Sal v a | More    | Mild, m | +/-     | \+      |
-| m e d   | geable  | than    | o       |         |         |
-| iately  | with i  | toes,   | derate  |         |         |
-|         | m m     | as s o  |         |         |         |
-|         | ediate  | ciated  |         |         |         |
-|         | rev     | with    |         |         |         |
-|         | ascula  | rest    |         |         |         |
-|         | r i     | pain    |         |         |         |
-|         | zation  |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| III\.   | Major   | P r o   | P r o   | \-      | \-      |
-| Irr e v | tissue  | found,  | found,  |         |         |
-| e       | loss or | an e s  | p a r   |         | |   v   |
-| rsible  | p e r   | thetic  | alysis  |       | |         |
-|         | manent  |         | ()      |         | |       |
-| |       | nerve   |         | rigor)  | |       |         |
-|         | d       |       | | \|      |         |         |
-|     |   | amage\| |       | |         | C \|    |         |
-|         | ine v i |         | |       |         |         |
-|         | itable  | |       |         |         |         |
-|         | \|C y   |         |         |         |         |
-|         |         |         |         |         |         |
-|         |         |       | |         |         |         |
-+---------+---------+---------+---------+---------+---------+
++----------+----------+----------+----------+----------+----------+
+| -   \    | **Pro g  | S ensory | -   \*   | Arte     | Ve nous  |
+|     \* C | n osis** | Loss     |          | rial Si  | Si gnal  |
+|          |          |          | Muscle   | gnal     |          |
+| lassif i |          |          | We a     |          |          |
+|          |          |          |          |          |          |
+| ca t i   |          |          | kne      |          |          |
+| on\*\*   |          |          | ss\*\*   |          |          |
++==========+==========+==========+==========+==========+==========+
+| I.       | Not imm  | None     | None     | ++       | ++       |
+|   Viable | e d      |          |          |          |          |
+|          | iately   |          |          |          |          |
+|          | th r e   |          |          |          |          |
+|          | atened   |          |          |          |          |
++----------+----------+----------+----------+----------+----------+
+| II\. T h | \        | \        | \        |          |          |
+| r e      |          |          |          |          |          |
+| atened   |          |          |          |          |          |
++----------+----------+----------+----------+----------+----------+
+| a\. M a  | Sal v a  | M inimal | None     | +/-      | \+       |
+| r g      | geable   | (toes)   |          |          |          |
+| inally   | if p r   | or none  |          |          |          |
+|          | omptly t |          |          |          |          |
+|          | reated   |          |          |          |          |
++----------+----------+----------+----------+----------+----------+
+| b\. Im m | Sal v a  | More     | Mild, m  | +/-      | \+       |
+| e d      | geable   | than     | o derate |          |          |
+| iately   | with i m | toes, as |          |          |          |
+|          | m ediate | s o      |          |          |          |
+|          | rev      | ciated   |          |          |          |
+|          | ascula r | with     |          |          |          |
+|          | i zation | rest     |          |          |          |
+|          |          | pain     |          |          |          |
++----------+----------+----------+----------+----------+----------+
+| III\.    | Major    | P r o    | P r o    | \-       | \-       |
+| Irr e v  | tissue   | found,   | found, p |          |          |
+| e rsible | loss or  | an e s   | a r      |       |  | |   v    |
+|          | p e r    | thetic   | alysis   |          |          |
+| |        | manent   |          | ()       | |        | |        |
+|          | nerve d  |       |  | rigor)   |          |          |
+|     |    | amage\|  |       |  | \|       | C \|     |          |
+|          | ine v i  |          |          |          |          |
+|          | itable   | |        | |        |          |          |
+|          | \|C y    |          |          |          |          |
+|          |          |       |  |          |          |          |
++----------+----------+----------+----------+----------+----------+
 
          |yanosis|        |         |       |         |
 
@@ -1624,4 +1584,4 @@ Physical examination finding will be loss of pedal pulse on active
 plantarflexion or passive dorsiflexion of the foot.[@gokkus2014;
 @lejay2014]
 
-#### Management 
+#### Management
