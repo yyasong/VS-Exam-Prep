@@ -220,15 +220,25 @@ Grading System (1986, Revised 1997)
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-| G rade/Category | Clinical Description                                        |
-|-----------------|-------------------------------------------------------------|
-| 0/0             | Asymptomatic -no haemodynamic significant occlusive disease |
-| I/1             | Mild Claudication                                           |
-| I/2             | Moderate Claudication                                       |
-| I/3             | Severe Claudication                                         |
-| II/4            | Ischaemic Rest Pain                                         |
-| III/5           | Minor Tissue Loss                                           |
-| III/6           | Major Tissue Loss                                           |
++---------------+---------------------------------------------------+
+| G             | Clinical Description                              |
+| rade/Category |                                                   |
++===============+===================================================+
+| 0/0           | Asymptomatic -no haemodynamic significant         |
+|               | occlusive disease                                 |
++---------------+---------------------------------------------------+
+| I/1           | Mild Claudication                                 |
++---------------+---------------------------------------------------+
+| I/2           | Moderate Claudication                             |
++---------------+---------------------------------------------------+
+| I/3           | Severe Claudication                               |
++---------------+---------------------------------------------------+
+| II/4          | Ischaemic Rest Pain                               |
++---------------+---------------------------------------------------+
+| III/5         | Minor Tissue Loss                                 |
++---------------+---------------------------------------------------+
+| III/6         | Major Tissue Loss                                 |
++---------------+---------------------------------------------------+
 
 Leriche syndrome - Triad of claudication (buttock, thigh, and calf),
 impotence and decreased pulses signifies aortoiliac occlusive disease.
@@ -301,13 +311,29 @@ useful in determining the severity of disease in these patients.
 
 **What is the ultrasound duplex criteria for defining PAOD?**
 
-| Stenosis Category | Peak Systolic Velocity             | Velocity Ratio | Distal Artery Spectral Waveform  |
-|-------------------|------------------------------------|----------------|----------------------------------|
-| Normal            | \<150                              | \<1.5          | Triphasic, Normal PSV            |
-| 30-49%            | 150-200                            | 1.5-2          | Triphasic, Normal PSV            |
-| 50-75%            | 200-400                            | 2-4            | M onophasic, reduced PSV         |
-| \>75%             | \>400                              | \>4            | Damped, m onophasic, reduced PSV |
-| Occlusion         | No Flow -- B -mode, Terminal Thump |                |                                  |
++---------------+---------------+---------------+---------------+
+| Stenosis      | Peak Systolic | Velocity      | Distal Artery |
+| Category      | Velocity      | Ratio         | Spectral      |
+|               |               |               | Waveform      |
++===============+===============+===============+===============+
+| Normal        | \<150         | \<1.5         | Triphasic,    |
+|               |               |               | Normal PSV    |
++---------------+---------------+---------------+---------------+
+| 30-49%        | 150-200       | 1.5-2         | Triphasic,    |
+|               |               |               | Normal PSV    |
++---------------+---------------+---------------+---------------+
+| 50-75%        | 200-400       | 2-4           | M onophasic,  |
+|               |               |               | reduced PSV   |
++---------------+---------------+---------------+---------------+
+| \>75%         | \>400         | \>4           | Damped, m     |
+|               |               |               | onophasic,    |
+|               |               |               | reduced PSV   |
++---------------+---------------+---------------+---------------+
+| Occlusion     | No Flow -- B  |               |               |
+|               | -mode,        |               |               |
+|               | Terminal      |               |               |
+|               | Thump         |               |               |
++---------------+---------------+---------------+---------------+
 
 Adapted from [@stone21VascularLaboratory2019]
 
@@ -517,6 +543,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part2_postAuphonic.
 
 ```
 
+### Etiology and Presentation
+
 **Since Our previous discussion of PAD how does this pathology then
 progress clinically into the more advanced stages?**
 
@@ -529,15 +557,25 @@ the Trans metatarsal level.
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-| G rade/Category | Clinical Description                                        |
-|-----------------|-------------------------------------------------------------|
-| 0/0             | Asymptomatic -no haemodynamic significant occlusive disease |
-| I/1             | Mild Claudication                                           |
-| I/2             | Moderate Claudication                                       |
-| I/3             | Severe Claudication                                         |
-| II/4            | Ischaemic Rest Pain                                         |
-| III/5           | Minor Tissue Loss                                           |
-| III/6           | Major Tissue Loss                                           |
++---------------+---------------------------------------------------+
+| G             | Clinical Description                              |
+| rade/Category |                                                   |
++===============+===================================================+
+| 0/0           | Asymptomatic -no haemodynamic significant         |
+|               | occlusive disease                                 |
++---------------+---------------------------------------------------+
+| I/1           | Mild Claudication                                 |
++---------------+---------------------------------------------------+
+| I/2           | Moderate Claudication                             |
++---------------+---------------------------------------------------+
+| I/3           | Severe Claudication                               |
++---------------+---------------------------------------------------+
+| II/4          | Ischaemic Rest Pain                               |
++---------------+---------------------------------------------------+
+| III/5         | Minor Tissue Loss                                 |
++---------------+---------------------------------------------------+
+| III/6         | Major Tissue Loss                                 |
++---------------+---------------------------------------------------+
 
 **What is Chrinc Limb Threatening Ischemia (CLTI), sometimes previously
 call Critical Limb Ischemia (CLI)?**
@@ -563,6 +601,8 @@ pendency...brings relief..." [@cranleyIschemicRestPain1969]
 
 Nocturnal Rest Pain: Worse due to horizontal positioning and systolic BP
 drop during sleep.
+
+### Evaluation
 
 **What aspects of the clinical assessment is important?**
 
@@ -794,12 +834,17 @@ It's been shown that, healing of an ulcer or tissue loss is unlikely if
 a patient's toe pressures are less than 55mmHg. And Toe Pressures have
 been validated in multiple studies to correlate with Amputation free
 survival and wound healing: Amputation Free Survival TP \<30mmHg 2.13 HR
-(1.52-2.98). [@wickström2017]
+(1.52-2.98). [@wickström2017; @hicks2018]
 
 Patients with ESRD or DM develop medial calcification and often have
 elevated ABI (\>1.3) - which is associated with an elevated risk of
 cardiovascular mortality. Toe pressures are particularly important in
 this scenario. [@resnick2004; @vitti1994]
+
+Non-invasive assessment for wound healing, tcPO2 greater than 40mmHg has
+the greatest correlation with amputation stump healing.[@malone1987]
+
+### Management
 
 **What are the recommendations for patients with CLTI when it comes to
 Medical Therapy and Risk Factor Modification?**
@@ -929,6 +974,13 @@ Recommendation 6.3:
 -   Severe Surgical Risk: \\\>/= 5% operative mortality and 2-year
     survival \</=50%
 
+Understanding disparities is important when interpreting risk for
+amputation. Observational studies have found certain populations to be
+at higher risk of amputation regardless of disease severity, these
+include African Americans, lowest median income, medicaid insurance,
+uninsured, or those from regions with less access to vascular
+surgeons.[@hughes2019; @ho2005; @eslami2007]
+
 **What is involved and recommended with the Limb Staging and
 recommendation for Management?**
 
@@ -1014,6 +1066,13 @@ Criticism:
 3.  The Technology and Technical Skill with growing operator experience
     in Endovascular has improved.
 
+For isolated tibial disease, first line endovascular treatment of choice
+is transluminal or subintimal angioplasty. Atherectomy, stenting, and
+drug coated balloons are often used, but should not be considered first
+line at this time, but this data is rapidly evolving. Patency is often
+poor but limb salvage is reasonable.[@popplewell2019; @kayssi2016;
+@mustapha2016]
+
 **What is new with the future management guidance for CTLI? What is
 BASIL 2 and 3 and BEST-CLI?**
 
@@ -1029,8 +1088,8 @@ Endpoint: MALE-Free Survival.  Major Above-the-Ankle Amputation, Major
 Bypass or Jump/interposition graft revision or the need for thrombectomy
 or thrombolysis (MALE).
 
-**Some important take aways for unique scenarios in operative planning
-for CLTI based on anatomy and conduit.**
+**Some important take away lessons for unique scenarios in operative
+planning for CLTI based on anatomy and conduit.**
 
 -   Single segment GSV best conduit for infrageniculate bypass.
     [@arvela2010; @avgerinos2015; @moreira2016]
@@ -1051,6 +1110,15 @@ for CLTI based on anatomy and conduit.**
     occlusion of BK pop, PT and AT with reconstitution of the DP and PT
     should have an AK pop to DP bypass to perfuse the appropriate
     angiosome with the shortest bypass.[@hingorani2016; @jongsma2017]
+
+**Some important things to keep in mind when considering amputations**
+
+-   Transmetatersal amputation is performed with transection of the
+    metatarsal bones just distal to the heads. Best to transect in a
+    graduated parabola with the 5th metatarsal most proximal. Patients
+    may benefit from concomitant achilles tendon lengthening to prevent
+    equinous deformity that can result in ulceration of the medial
+    aspect of the TMA.[@eidt2019]
 
 ## Acute Limb Ischemia
 
@@ -1150,66 +1218,94 @@ attending surgeon will always ask the consult resident "how is the motor
 and sensory function" in addition to the pulse exam...this helps us
 gauge the chronicity and therefore the urgency of intervention.
 
+Acute paralysis, mottling of bilateral lower extremities and absent
+femoral pulses should raise concern for aortic occlusion.[@wang2016]
+
 **How is ALI classified?**
 
 From Rutherford RB, Baker JD, Ernst C, et  al. Recommended standards for
 reports dealing with lower extremity ischemia: revised version. J Vasc
 Surg. 1997;26:517--538. [@rutherfordRecommendedStandardsReports1997]
 
-+----------+----------+----------+----------+----------+----------+
-| -   \    | **Pro g  | S ensory | -   \*   | Arte     | Ve nous  |
-|     \* C | n osis** | Loss     |          | rial Si  | Si gnal  |
-|          |          |          | Muscle   | gnal     |          |
-| lassif i |          |          | We a     |          |          |
-|          |          |          |          |          |          |
-| ca t i   |          |          | kne      |          |          |
-| on\*\*   |          |          | ss\*\*   |          |          |
-+==========+==========+==========+==========+==========+==========+
-| I.       | Not imm  | None     | None     | ++       | ++       |
-|   Viable | e d      |          |          |          |          |
-|          | iately   |          |          |          |          |
-|          | th r e   |          |          |          |          |
-|          | atened   |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| II\. T h | \        | \        | \        |          |          |
-| r e      |          |          |          |          |          |
-| atened   |          |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| a\. M a  | Sal v a  | M inimal | None     | +/-      | \+       |
-| r g      | geable   | (toes)   |          |          |          |
-| inally   | if p r   | or none  |          |          |          |
-|          | omptly t |          |          |          |          |
-|          | reated   |          |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| b\. Im m | Sal v a  | More     | Mild, m  | +/-      | \+       |
-| e d      | geable   | than     | o derate |          |          |
-| iately   | with i m | toes, as |          |          |          |
-|          | m ediate | s o      |          |          |          |
-|          | rev      | ciated   |          |          |          |
-|          | ascula r | with     |          |          |          |
-|          | i zation | rest     |          |          |          |
-|          |          | pain     |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-| III\.    | Major    | P r o    | P r o    | \-       | \-       |
-| Irr e v  | tissue   | found,   | found, p |          |          |
-| e rsible | loss or  | an e s   | a r      |       |  | |   v    |
-|          | p e r    | thetic   | alysis   |          |          |
-| |        | manent   |          | ()       | |        | |        |
-|          | nerve d  |       |  | rigor)   |          |          |
-|     |    | amage\|  |       |  | \|       | C \|     |          |
-|          | ine v i  |          |          |          |          |
-|          | itable   | |        | |        |          |          |
-|          | \|C y    |          |          |          |          |
-|          |          |       |  |          |          |          |
-+----------+----------+----------+----------+----------+----------+
-
-         |yanosis|        |         |       |         |
-
-|        \| may be\| \| \| \| \|
-|        \| p \| \| \| \| \|
-|         \|present \| \| \| \| \|
-
-+--------+-------+---------+-------+---------+--------+
++-------+-------+-------+-------+-------+-------+
+| Clas  | **P   | Se    | -     | Arte  | Ve    |
+| sific | rogno | nsory |    \* | rial  | nous  |
+| ation | sis** | Loss  |       | Si    | Si    |
+|       |       |       | M     | gnal  | gnal  |
+|       |       |       | uscle |       |       |
+|       |       |       | We a  |       |       |
+|       |       |       |       |       |       |
+|       |       |       | kne   |       |       |
+|       |       |       | s     |       |       |
+|       |       |       | s\*\* |       |       |
++=======+=======+=======+=======+=======+=======+
+| I.  V | Not   | None  | None  | ++    | ++    |
+| iable | imm e |       |       |       |       |
+|       | d     |       |       |       |       |
+|       | i     |       |       |       |       |
+|       | ately |       |       |       |       |
+|       | th r  |       |       |       |       |
+|       | e     |       |       |       |       |
+|       | a     |       |       |       |       |
+|       | tened |       |       |       |       |
++-------+-------+-------+-------+-------+-------+
+| II\.  | \     | \     | \     |       |       |
+| T h r |       |       |       |       |       |
+| e     |       |       |       |       |       |
+| a     |       |       |       |       |       |
+| tened |       |       |       |       |       |
++-------+-------+-------+-------+-------+-------+
+| a\. M | Sal v | M     | None  | +/-   | \+    |
+| a r g | a     | i     |       |       |       |
+| i     | g     | nimal |       |       |       |
+| nally | eable | (     |       |       |       |
+|       | if p  | toes) |       |       |       |
+|       | r     | or    |       |       |       |
+|       | o     | none  |       |       |       |
+|       | mptly |       |       |       |       |
+|       | t     |       |       |       |       |
+|       | r     |       |       |       |       |
+|       | eated |       |       |       |       |
++-------+-------+-------+-------+-------+-------+
+| b\.   | Sal v | More  | Mild, | +/-   | \+    |
+| Im m  | a     | than  | m o   |       |       |
+| e d   | g     | toes, | d     |       |       |
+| i     | eable | as s  | erate |       |       |
+| ately | with  | o     |       |       |       |
+|       | i m m | c     |       |       |       |
+|       | e     | iated |       |       |       |
+|       | diate | with  |       |       |       |
+|       | rev   | rest  |       |       |       |
+|       | a     | pain  |       |       |       |
+|       | scula |       |       |       |       |
+|       | r i   |       |       |       |       |
+|       | z     |       |       |       |       |
+|       | ation |       |       |       |       |
++-------+-------+-------+-------+-------+-------+
+| III.  | Major | P r o | P r o | \- \| | \-    |
+|       | \|    | \|    | \|    |       |       |
+|       | t     | f     | f     |       | \| v  |
+|    |  | issue | ound, | ound, |     | |       |
+|       | loss  | an e  | p a r |       | \|    |
+|       | or p  | s     | a     | \|    |       |
+|   Irr | e r   | t     | lysis |       |       |
+|       | m     | hetic | ()    | C \|  |       |
+|     e | anent |       | r     |       |       |
+|       | nerve |       | igor) |       |       |
+|     v | d a   |     | | \|    |       |       |
+|       | m     |       |       |       |       |
+|     e | age\| |       | \|    |       |       |
+|       | ine v |     | |       |       |       |
+|     r | i     |       |       |       |       |
+| sible | i     | \|    |       |       |       |
+|       | table |       |       |       |       |
+|       | \|cya |       |       |       |       |
+|       | nosis |     | |       |       |       |
+|       | may   |       |       |       |       |
+|       | be    |       |       |       |       |
+|       | pr    |       |       |       |       |
+|       | esent |       |       |       |       |
++-------+-------+-------+-------+-------+-------+
 
 **What does the work up for an acute limb entail? How is the diagnosis
 made?**
@@ -1532,11 +1628,9 @@ toward improved limb salvage rates (decreased amputation rate) over
 time, and I think this speaks to wider availability of different limb
 salvage techniques among vascular surgeons across the globe.
 
-## Non-atherosclerotic occlusive disease
+## Blue Toe Syndrome
 
-### Blue Toe Syndrome
-
-#### Etiology and Presentation
+### Etiology and Presentation
 
 Blue toe syndrome is characterized as a painful discolored toe in the
 setting of a normal vascular examination or palpable pulses.
@@ -1545,7 +1639,7 @@ Acute onset of blue toe after MI - consider cholesterol embolization
 from wire manipulation in the aorta.
 [@saricAorticAtherosclerosisEmbolic2012]
 
-#### Evaluation
+### Evaluation
 
 Patients should have a work up for an embolic source. Patients without a
 clear recent source of embolization on history or physical, should
@@ -1556,7 +1650,7 @@ evaluate for an underlying arrhythmias.
 If no obvious source of embolism can be identified, further evaluation
 for underlying cancer may lead to a prothrombotic state.
 
-#### Management
+### Management
 
 Treatment of blue toe from cholesterol embolization best with single
 antiplatelet and statin. Anticoagulation may precipitate further
@@ -1568,15 +1662,20 @@ be best with anticoagulation. Recurrent symptoms on anticoagulation may
 require stent coverage or, in a young patient, may require thrombectomy.
 [@reyesvaldiviaAnticoagulationAloneAortic2017;
 @jeyabalanEndovascularStrategiesTreatment2014;
-@vermaContemporaryManagementSymptomatic2014]\
+@vermaContemporaryManagementSymptomatic2014]
 
-### Popliteal entrapment syndrome
+## Non-atheromatous Popliteal Artery Disease
+
+### Popliteal Artery Entrapment Syndrome (PAES)
 
 #### Etiology and Presentation
 
-Most often seen in young athletes with embryologically abnormal lateral
-attachment of medial head of the gastrocnemius muscle.[@gokkus2014;
-@lejay2014]
+Most often seen in young healthy patients (often athletes) who present
+with claudication.
+
+Etiology from embryologically abnormal lateral attachment of medial head
+of the gastrocnemius muscle.[@gokkus2014; @lejay2014] Type IV PAES
+caused by compression with popliteus muscle.
 
 #### Evaluation
 
@@ -1584,4 +1683,34 @@ Physical examination finding will be loss of pedal pulse on active
 plantarflexion or passive dorsiflexion of the foot.[@gokkus2014;
 @lejay2014]
 
+Best diagnosed with axial cross-sectional imaging from the MRA to
+identify the abnormal muscle course and insertion. [@sinha2012;
+@lejay2014]
+
 #### Management
+
+Symptomatic PAES should be treated, even if presenting with mild or
+moderate claudication, due to risk of progression and thrombosis from
+scaring.[@forbes2019]
+
+### Cystic Adventitial Disease
+
+#### Etiology and Presentation
+
+Controversial etiology, often considered related to repeated popliteal
+trauma due to knee flexion, causeing fluid to collect between the
+adventia and media layers of the artery wall. Presentation overlaps with
+atherosclerotic lesions of the popliteal segment, but in patients
+without traditional risk factors.
+
+#### Evaluation
+
+Often diagnosed on duplex ultrasound or CTA.
+
+#### Management
+
+Compression can sometimes be relieved by percutaneous drainage of large
+cystic portion that is causing luminal compression. PTA and stenting
+should be avoided as often poor durability. Operative resection and
+reconstruction with interposition can be effective but is a final
+option.[@li2017]

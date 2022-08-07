@@ -46,6 +46,19 @@ Soft signs of vascular injury by their name or a little more subtle.
 -   Peripheral nerve injuries, as vessels often run in close proximity
     in the neurovascular bundles
 
+    -   Femoral nerve injury - parasthesia to anterior thigh and
+        decreased hip flexion and knee extension.
+
+    -   Sciatic nerve injury - parasthesia to lateral leg, dorsal,
+        lateral and plantar foot and weakness of plantar flexion of the
+        foot.
+
+    -   Tibial nerve injury - parasthesia over heel and weakness of
+        plantar flexion.
+
+    -   Deep peroneal nerve - parasthesia of first digital interspace
+        and foot drop[@bulger2014]
+
 **What are the initial principles of managing a bleeding extremity?**
 
 A lot of times these injuries are, can be very distracting, but I think
@@ -173,161 +186,102 @@ going to be any compromise of the arterial, arterial lumen or tension on
 the repair, then you're better off with an interposition. [@liang2016;
 @fox2012]
 
-\--Edited to here--
+There are some special cases where primary repair might be appropriate.
+Veins are much more compliant and you can often get away with a lateral
+venorrhaphy. Then sometimes the upper extremities, the brachial artery
+has more redundancy. If it's a very focal injury and you can get a
+little stretch, then you will often be able to get brachial artery back
+together primarily.
 
-Uh, I think as you pointed out appropriately, you sort of debris the
-vessel back to make sure you're on. Uninjured vessel. And then, and then
-performing a, an inner position graph most commonly, I mean, that's the,
-uh, most commonly venous injuries. Uh, you know, the veins are more
-compliant and, uh, they're larger if you will, most of the time.
+I suspect in the majority of my experience vascular injuries require an
+interposition graft. Then in regards to conduit, because most of the
+wartime injuries were contaminated and quite dirty, we deferred to
+autologous saphenous vein the vast majority of the time. However, if you
+are in a pinch, can't find vein or don't have time to harvest vein, the
+wound isn't too contaminated and the injury is proximal, axillary or
+subclavian, proximal femoral, or iliac, then I think using a prosthetic,
+either Dacron or expanded PTFE Gore-Tex is also acceptable. Some recent
+civilian literature says PTFE may be better than vein, but that's not
+been our experience in the deployed setting.
 
-And oftentimes you can get away with a lateral venography, uh, you know,
-uh, primarily repairing the veins and then sometimes the upper
-extremities, the brachial artery has more redundancy. If you, if it's a
-[00:25:00] very focal injury, uh, you can get a little stretch if you
-will, and, and, and get those, the brachial artery back together
-primarily.
+**Now that we have covered some basic principles, lets dive in a little
+deeper on each level of kind of peripheral vascular injury. First we're
+going to talk about junctional hemorrhage, which is an injury in the
+junctional area between the torso and extremity, such as the distal
+external iliac/common femoral or subclavian/axillary region. These are
+some our biggest fears and most difficult to deal with. Can you take us
+through a hematoma in the groin or pelvis just above inguinal
+ligament--what are the best ways to get control of this?**
 
-But, uh, you know, I suspect, um, uh, she's 90% or more of a, in my
-experience, uh, these are, they require. You know, an interposition
-graph and then the conduit, um, you know, we, uh, because most of the,
-uh, wartime injuries were contaminated and quite dirty. Uh, we deferred
-to saphenous vein and more than 90% of cases, more than 95% of cases as
-the conduit, we felt like autologous vein was, uh, was, was, was the
-preference.
+For the iliac artery or even just the proximal common femoral, I think a
+retroperitoneal exposure to the lower quadrant of the abdomen. We
+sometimes refer to that as a transplant incision, which is quite
+suitable depending upon the injury pattern.
 
-I think if one's in a, in a pinch, um, and, uh, you can't find a vein.
-Um, you don't have time to harvest vein. The wound is not too
-contaminated. Uh, if it's a proximal, uh, uh, axillary or subclavian,
-[00:26:00] uh, proximal, femoral, or iliac, uh, then I think using a
-prosthetic, either Dacron or expanded PTFE, a Gore-Tex is also
-acceptable.
+As I alluded to before, don't underestimate the exposure you're going to
+need. So, if it truly is a groin hematoma, think that this could be
+common femoral or external iliac and in those cases, either a transplant
+incision in a retroperitoneal fashion to get that controlled up to the
+common iliac, or just doing a laparotomy and finding it through the
+abdomen.
 
-It's it's, uh, uh, acceptable and there's some civilian literature that
-says that a PTFE is actually. Not just acceptable, but is, uh, you know,
-is, is, uh, quite suitable and maybe even better than vain. Uh, that's
-not been our experience, uh, in the deployed setting, but, um, but I
-think, you know, keep all of those things in mind as you're, as you're
-setting up to, to this next phase of the, of the operation.
+**What if you encountered an internal iliac injury kind of deep in the
+pelvis that you weren't able to control, what are the consequences of
+litigating that?**
 
-Well, now that we've covered the principles of managing peripheral
-vascular injuries, we're going to dive in a little deeper on each level
-of kind of peripheral vascular injury. And first we're going to talk
-about junctional hemorrhage, kind of our, one of our biggest fears and
-most difficult to deal with.
+That's real tiger country, in those cases it's really damaged control.
+One of the things we haven't mentioned is the important tenant that
+maybe arguably one of the most important tenants in vascular damage
+control is ligation. We've talked a lot about setting up for a vascular
+repair, but one of the reasons to check with anesthesia and to assess
+the whole of the patient is to recognize that in some scenarios the best
+thing is ligation and then dealing with whatever consequences may result
+from that.
 
-Um, so dress me, take me through you have a hematoma in the groin or
-pelvis kind of at, or above the inguinal ligament. [00:27:00] Uh, what
-are the best ways to get control of this? Yeah, so the, uh, I think for
-the listeners, the junctional injuries, um, as you referred to are those
-injuries that are in the junction areas between the torso and the
-extremities.
+Keeping in mind sort of life over limb and not being too aggressive
+about trying to do some sort of exposure and repair of a vessel that
+takes hours and many, many units of blood. So in that context, I think,
+if you find bleeding from the internal iliac or hypogastric vessels, I
+think ligating those is quite acceptable. There can be instances of
+pelvic ischemia um, but if the contralateral iliac artery is open then
+that's quite rare.
 
-So that'd be the distal, external iliac and common femoral and, uh, in
-the lower portion. And, uh, and then the some Clavey and an axillary in
-the, in the upper extremities, um, for the, for the iliac artery, um, or
-the, or even just the proximal common femoral, um, I think a
-retroperitoneal exposure. Uh, to the, uh, to the, um, you know, the
-lower quadrant of the abdomen, we sometimes refer to that as a
-transplant incision, uh, is, is quite suitable depending upon the injury
-pattern.
+Also, often one is dealing with artery and vein injury because they're
+right there together. And as I mentioned, that's a, that's a real tiger
+country. If that's happening in those situations, the tenants of
+exposure, light, two suctions anddon't use too small of a needle. That's
+where the SH blunt tip needle on a 3-0 or 4-0 prolene needle works well,
+don't try to be too finesse about this because, in the pelvis, you won't
+be able to see your needle.
 
-I think as I alluded to before, uh, try not to ever find yourself having
-underestimated, uh, the, the, the exposure you're going to need.
-[00:28:00] So, uh, if, if it truly is a groin hematoma, um, and you
-think, ah, this, this is a, this could be common femoral or external
-iliac. Uh, then in those cases, uh, either a transplant incision to, uh,
-you know, in a retroperitoneal fashion, Uh, uh, to, uh, to get that
-controlled, um, you know, that will allow one to get up to the common
-iliac, uh, most often, uh, and there's no harm in those cases, uh, to
-just doing a laparotomy and finding it through the abdomen to, um, it
-really depends upon the, the injury, um, and, and the scenario you find
-yourself in.
+**Let's take the same injury and move it now to the external iliac--what
+are the consequences of ligating the the external iliac artery and what
+are some of your options?**
 
-Um, um, but that's, that's sort of how I would, uh, would approach, uh,
-you know, common femoral or district Elliot Carter injury. Great. And,
-um, and so what if you encountered a, um, internal iliac injury kind of
-deep in the pelvis that, uh, you weren't able to control, um, [00:29:00]
-w what are the consequences of, of litigating that?
-
-Well, that is a, you know, that's real tiger country, of course, as, as
-you know, um, uh, sort of internal iliac, uh, vessels, and I think, uh,
-In those cases, uh, it's really damaged control. One of the things we
-haven't mentioned is the important tenant that, uh, as we talk about one
-of the key tenants, maybe arguably one of the most important tenants,
-uh, after hemorrhage control, um, in damage control, vascular is, is
-ligation.
-
-Um, oftentimes, you know, we've talked a lot about setting up for a
-vascular repair, but, uh, but one of the reasons to check with
-anesthesia and to assess the whole of the patient is to recognize that
-in some scenarios, uh, the best thing is legation. And, uh, and then
-dealing with whatever consequences may result from that.
-
-But, uh, keeping in mind sort of life over limb, um, and not being too
-[00:30:00] aggressive about trying to do some sort of exposure and
-repair of, uh, of a vessel that takes hours and many, many units of
-blood. So in that context, I think, uh, Finds bleeding from, from the
-internal, what we call the hypogastric vessels.
-
-I think ligating those, uh, uh, is, is quite acceptable. Um, there can
-be instances of Helvic aschemia um, but if the other, if the
-contralateral iliac artery is, is open, uh, then, uh, that's quite rare,
-I think to, to, to really create pelvic ischemia, uh, litigating one of
-the, uh, the iliac arteries. Um, again, that really is, it depends upon
-what injuries in front of you and how the patient is doing as a whole.
-
-Um, and, and not uncommonly in those situations. One is dealing with
-artery and vein cause they're right there together. And as I mentioned,
-that's a, that's a real tiger country. [00:31:00] Uh, if that's
-happening in those situations, you know, the tenants of exposure, light,
-uh, two suctions. Don't use too small of a needle, you know, that's
-where the sh needle, uh, you know, uh, don't try to be to finesse those
-too much in the, in the pelvis because you won't be able to see your
-needle.
-
-Uh, and, and it's, it's a mess. So the sh needle, for example, um, the,
-the blood tip sh needle is on a three or four O proline is, is really
-nice in those situations because the needle is big enough to actually
-see and work with, uh, in a pool of blood. Let's take that same engine.
-Let's take the same injury and move it now to the external Lex.
-
-Um, so what are the consequences of lagging, the external Lex and what
-are some of your options? Yeah. Now in this situation, the external
-iliac, I think because it's the axial vessel to that extremity, I think.
-I would not like gate that with such impunity. Um, I think in those
-situations, uh, [00:32:00] controlling it and, uh, and making that
-assessment, um, of whether or not to repair it, uh, uh, is, is
-paramount.
-
-I think that should do everything you can. I think that the consequences
-of ligating an external iliac artery, uh, are going to be, you know,
-significant and include, uh, quite proximal, um, you know, extremity,
-ischemia, including thigh, and probably need for, uh, certainly an above
-knee amputation of not, uh, disarticulation of the hip.
+Because it's the axial vessel to that extremity, I would not like gate
+the eternal iliac artery with such impunity. I think in those
+situations, controlling it and making that assessment of whether or not
+to repair it is paramount. I think that the consequences of ligating an
+external iliac artery, are going to be significant and include proximal
+extremity ischemia, including thigh, and probably need for above knee
+amputation if not disarticulation of the hip.
 
 So I think the external iliac needs to be preserved at all costs. One
 can either try that on their own or depending upon how the patient's
-doing or how your casualty flow, your capabilities are also using a
-temporary vascular shunt of some to, uh, as a damage control. Maneuver
-is a, is another option for the external.
+doing or if you are in the field and there are other triage concerns,
+whether you reconstruct immediately or use a temporary vascular shunt as
+a damage control.
 
-Uh, what advice do you have for us on replacing the issue? Because many
-times people have a place [00:33:00] to shut until it's time that they
-need to, and, uh, they can be quite tricky. Do you have any advice for
-our listeners? Well, I think the, um, um, yeah, I think that's a great
-question. Uh, you know, in the, in the proximal vessels of the
-extremity, the, the temporary avascular Sean's are quite useful.
+**Some can find shunts a little tricky, can you give some advice to
+listeners on how to best use temporary vascular shunts for damage
+control?**
 
-I think it's important to know what shunts you have available in a given
-place. So, uh, this. Something to, to stroll through the operating room
-or your stock room wherever you are, uh, when it's not busy and say,
-Hey, what type of Acular shunts do we have here? There are four or five
-different types of shuns, um, from anything from what's referred to as
-the Javid shunt to the Sundt shunt, S U N D T a there's the Argyle
-shunt.
-
-Um, and, and then, you know, there can be makeshift, shuns, uh, such as
+I think it's important to know what shunts you have available before you
+are in this situation. So stroll through the operating room or your
+stock room wherever you are when it's not busy and check out the stock
+of shunts. There are four or five different types of shuns, anything
+from what's referred to as the Javid shunt, Sundt shunt, or there's the
+Argyle shunt. Then, you know, there can be makeshift, shuns, uh, such as
 small caliber chest tubes, um, and really those, uh, those Sean's, um,
 they're basically temp the vascular or they're plastic [00:34:00] tubes
 that can be placed into the injured vessel proximate. Uh, and then
@@ -761,30 +715,6 @@ Rasmussen, MD*
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Abdominal_Trauma_Part_One.mp3")
 
 ```
-
-**Kevin:** [00:00:00] welcome back to another collaboration between
-behind the knife and audible bleeding Today we're going to be covering
-vascular trauma ~~with uh our host Dr. Todd Rasmussen I'm sorry~~ with
-our guest Dr. Todd Rasmussen Dr. Rasmussen is a Colonel the United
-States air force and professor of surgery and Associate Dean of research
-at the uniform services university of health sciences and an attending
-vascular surgeon at Walter Reed national military medical center A
-couple of weeks ago he helped us out with the peripheral vascular trauma
-and today he's going to take us through abdominal vascular trauma \~\~Uh
-\~\~thank you dr recipes for joining us again on this collaborative
-podcast
-
-**Rasmussen:** You bet Thank you for the opportunity and the
-congratulations to you and your team on creating such a useful
-information sharing venue So I'm pleased to be with you[00:01:00]
-
-**Kevin:** ~~Absolutely Um and~~ we also have a ad hum A muesli on the
-podcast He's a chief resident at Cornell and a one of the team members
-of audible bleeding So welcome
-
-Adam
-
-**Adham:** Yeah Thanks I'm excited to be here for this one
 
 **Kevin:** \~\~Um \~\~so for the sake of time we're going to skip the
 preoperative workup and description of anatomy and zones of abdominal
