@@ -423,7 +423,7 @@ vein, then there are reports of external to internal jugular vein
 transposition offering more in line drainage and access
 salvage.[@degiovanni2020]
 
-### Steal Syndrome
+### Steal Syndrome {#sec-steal-syndrome}
 
 **Earlier, you mentioned steal syndrome, can you explain to us what this
 is?**
@@ -474,7 +474,8 @@ access flow and increasing distal arterial flow.
 The most important finding on duplex ultrasound to evaluate for steal
 syndrome is fistula flow rate. High flow rates suggest a primary problem
 with the fistula, low or normal flow suggests underlying PVD and inflow
-insufficiency as etiology.[@alshakarchi2016; @leake2015]
+insufficiency as etiology.[@alshakarchi2016; @leake2015] Approximately
+5% of steal is secondary to inflow stenosis.
 
 **What are your intervention options for resolving steal syndrome?**
 

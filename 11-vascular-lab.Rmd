@@ -23,10 +23,11 @@ changes proximal and distal to flow-limiting stenosis:
 
 ## **Overview**
 
-**Brief overview of ultrasound:** Ultrasonography uses [sound
-waves](https://en.wikipedia.org/wiki/Sound_wave) with [frequencies](https://en.wikipedia.org/wiki/Frequency) higher
-than those audible to humans. Ultrasound images are created by sending
-pulses of ultrasound
+**Brief overview of ultrasound:** Ultrasonography uses [sound
+waves](https://en.wikipedia.org/wiki/Sound_wave) with
+[frequencies](https://en.wikipedia.org/wiki/Frequency) higher than those
+audible to humans. Ultrasound images are created by sending pulses of
+ultrasound
 into [tissue](https://en.wikipedia.org/wiki/Tissue_(biology)) using
 a [probe](https://en.wikipedia.org/wiki/Ultrasound_transducer#Use_in_medicine).
 Reflected pulses are recorded and displayed as an image. There are many
@@ -52,7 +53,7 @@ for the simultaneous presentation of B-mode and doppler data.
 
 **What do normal spectral waveforms look like?**
 
-[Normal spectral waveform:]{.ul}
+[Normal spectral waveform:]{.underline}
 
 Brisk upstroke, sharp peak, rapid downstroke. A spectral window under
 the waveform, that is that black space between the spectral waveform and
@@ -68,7 +69,7 @@ knitr::include_graphics(rep("images/vasc_lab/Slide2.jpeg"))
 
 ```
 
-[Low vs high resistance waveforms:]{.ul}
+[Low vs high resistance waveforms:]{.underline}
 
 Waveform profiles change depending upon the nature of the distal
 vascular bed being supplied. Organs like the brain, kidneys, liver, and
@@ -102,21 +103,21 @@ of the diastolic phase.
 
 **How does flow-limiting stenosis change the waveform?**
 
-First let's define [Stenosis:]{.ul} A hemodynamically significant
+First let's define [Stenosis:]{.underline} A hemodynamically significant
 stenosis (area reduction \>50%) will result in a doubling of velocity
 from the inflow segment to the area of maximal stenosis (velocity ratio
 \> 2).
 
 **Now what do waveforms look like AFTER a flow-limiting stenosis?**
 
-[Tardus et parvus]{.ul} refers to a pattern of Doppler ultrasound
+[Tardus et parvus]{.underline} refers to a pattern of Doppler ultrasound
 spectral waveform resulting from arterial stenosis. The tardus et parvus
 waveform is delayed with prolonged systolic acceleration (tardus) and
 diminished with a small systolic amplitude and rounded systolic peak
 (parvus). This phenomenon is observed downstream from the site of
-stenosis. Tardus parvus in the CFA? Upstream (iliac) stenosis. Tardus
-parvus in the brachial artery? Upstream (subclavian or axillary)
-stenosis.
+stenosis. Tardus parvus in the CFA represents upstream (iliac) stenosis.
+Tardus parvus in the brachial artery likely represents upstream
+(subclavian or axillary) stenosis.[@hwang2017; @pellerito2019]
 
 ```{r echo=FALSE}
 
@@ -126,8 +127,8 @@ knitr::include_graphics(rep("images/vasc_lab/Slide5.jpeg"))
 
 **So what will the waveform look like BEFORE a flow-limiting stenosis?**
 
-[Distal stenosis:]{.ul} Distal occlusive disease will result in a high
-resistance waveform, with absent diastolic flow. (Image 5: Distal
+[Distal stenosis:]{.underline} Distal occlusive disease will result in a
+high resistance waveform, with absent diastolic flow. (Image 5: Distal
 stenosis with absent diastolic flow)
 
 ```{r echo=FALSE}
@@ -141,6 +142,17 @@ high-yield vascular lab studies, findings, and pathologies.We'll start
 with the extracranial evaluation, a highly-tested area of vascular
 ultrasonography.
 
+**Ultrasound compared to other diagnostic modalities**
+
+Duplex is often adequate to visualize any peripheral arterial bed, even
+the aorta and iliacs.[@muelaméndez2018]
+
+CT - limitations include ionizing radiation, iodinated contrast and not
+appropriate in patients with CKD.
+
+MRA - performed with gadolinium-based contrast and not appropriate in
+patients with ESRD.
+
 ## Extracranial
 
 **What does a typical extracranial evaluation involve?**
@@ -149,10 +161,10 @@ Examine CCA (2 views), ICA (2 views), ECA, vertebral arteries
 
 **What are normal ICA and ECA waveforms?**
 
-[Normal ECA vs ICA waveform:]{.ul} The external carotid artery waveform
-reflects a high resistance vascular bed. This means minimal diastolic
-flow. Conversely, the ICA waveform reflects a low resistance vascular
-bed with antegrade diastolic flow.
+[Normal ECA vs ICA waveform:]{.underline} The external carotid artery
+waveform reflects a high resistance vascular bed. This means minimal
+diastolic flow. Conversely, the ICA waveform reflects a low resistance
+vascular bed with antegrade diastolic flow.
 
 ```{r echo=FALSE}
 
@@ -179,8 +191,8 @@ knitr::include_graphics(rep("images/vasc_lab/Slide8.jpeg"))
 
 **Can you talk about diagnostic criteria for ICA stenosis?**
 
-[Parameters for ICA stenosis]{.ul}: These are a few numbers that are
-(unfortunately) essential to memorize for the VSITE and RPVI.
+[Parameters for ICA stenosis]{.underline}: These are a few numbers that
+are (unfortunately) essential to memorize for the VSITE and RPVI.
 
 Although criteria differ between guidelines, the Carotid Consensus
 Criteria, define ICA stenosis \>= 70% as a peak systolic velocity \>=
@@ -196,7 +208,7 @@ knitr::include_graphics(rep("images/vasc_lab/Slide9.jpeg"))
 
 **When is surgery indicated for ICA stenosis?**
 
-[Parameters for when surgery indicated:]{.ul}
+[Parameters for when surgery indicated:]{.underline}
 
 Asymptomatic Carotid Atherosclerosis Study (ACAS) \>60% stenosis
 asymptomatic, NASCET \>50% stenosis symptomatic
@@ -204,16 +216,16 @@ asymptomatic, NASCET \>50% stenosis symptomatic
 **Let's talk about other pathologies that can be visualized on
 extracranial ultrasound:**
 
-[Pathologies:]{.ul} Stenosis (plaque), dissection (flap), aneurysms
-(rare), occlusion (no flow, do not operate), carotid body tumor
-(splaying of ECA/ICA, fed by ECA branches), FMD.
+[Pathologies:]{.underline} Stenosis (plaque), dissection (flap),
+aneurysms (rare), occlusion (no flow, do not operate), carotid body
+tumor (splaying of ECA/ICA, fed by ECA branches), FMD.
 
 FMD is frequently encountered on the VSITE/RPVI. How would this appear
 on the exams?
 
-[Fibromuscular dysplasia]{.ul} of the internal carotid arteries affects
-women more commonly than men. Duplex findings show a "chain of lakes"
-appearance, demonstrative of multiple septa and small aneurysms.
+[Fibromuscular dysplasia]{.underline} of the internal carotid arteries
+affects women more commonly than men. Duplex findings show a "chain of
+lakes" appearance, demonstrative of multiple septa and small aneurysms.
 Velocity elevations and increased turbulence in the waveform patterns is
 typically found on Doppler interrogation.
 
@@ -230,7 +242,7 @@ Aspirin if asymptomatic, POBA if symptomatic.
 **Are there other frequently tested pathologies demonstrated on
 extracranial exam?**
 
-[Subclavian steal:]{.ul} Subclavian steal occurs when a proximal
+[Subclavian steal:]{.underline} Subclavian steal occurs when a proximal
 subclavian stenosis or occlusion leads to reversal of vertebral artery
 flow. This causes "stealing" of  blood from the posterior cerebral
 circulation, and presents as vertebrobasilar insufficiency. How does
@@ -247,8 +259,8 @@ knitr::include_graphics(rep("images/vasc_lab/Slide11.jpeg"))
 
 ```
 
-[Innominate stenosis:]{.ul} A phenomenon that is related to this, is
-innominate stenosis. Here again the patient will present with
+[Innominate stenosis:]{.underline} A phenomenon that is related to this,
+is innominate stenosis. Here again the patient will present with
 vertebrobasilar insufficiency, indicative of diminished vertebral
 antegrade flow, but additionally will experience right hemispheric
 insufficiency secondary to diminished R ICA antegrade flow. The
@@ -258,6 +270,14 @@ waveforms in the common and internal carotid arteries. The common
 denominator for all of these findings is significant disease in the
 innominate artery.
 
+**What other extracranial arteries of the head and neck can be evaluated
+separately?**
+
+[Temporal arteritis]{.underline} - well visualized with high frequency
+transducer (10 MHz or greater). Pathognomonic halo effect of
+anechoic/hypoechoic edemetous tissue surrounding the lumen due to
+concentric inflammation.[@ball2010; @schmidt2014]
+
 ## Intracranial
 
 So that covers extracranial vascular lab evaluation. What about
@@ -265,7 +285,7 @@ intracranial? This is less frequently tested, so we will discuss just a
 brief overview of views and some of the more commonly tested
 pathologies.
 
-[**Intracranial:**]{.ul}
+[**Intracranial:**]{.underline}
 
 -   Three primary views: temporal, foraminal (occipital), orbital views
 
@@ -285,20 +305,20 @@ TCD?**
 
 Indications often tested:
 
--   [MCA spasm (severe PSV>200)]{.ul}: Can be seen in sickle cell
-    disease with studies indicating a strong correlation between mean
-    velocities of >200cm/s and the rate of stroke in children with
+-   [MCA spasm (severe PSV\>200)]{.underline}: Can be seen in sickle
+    cell disease with studies indicating a strong correlation between
+    mean velocities of \>200cm/s and the rate of stroke in children with
     sickle cell disease. With blood transfusions, stroke risk can be
-    reduced from >10% to \<1% per year.
+    reduced from \>10% to \<1% per year.
     [@bulasTranscranialDopplerTCD2000]
 
--   [Cerebral ischemia during CEA:]{.ul} Comparing transcranial Doppler
-    sonography, near-infrared spectroscopy, stump pressure measurement,
-    and somatosensory evoked potentials, cerebral ischemia was most
-    accurately predicted by the percent change in transcranial Doppler
-    detected middle cerebral artery velocity. Detection of a greater
-    than 50% drop in middle cerebral artery velocity using transcranial
-    Doppler is 100% sensitive for detecting cerebral
+-   [Cerebral ischemia during CEA:]{.underline} Comparing transcranial
+    Doppler sonography, near-infrared spectroscopy, stump pressure
+    measurement, and somatosensory evoked potentials, cerebral ischemia
+    was most accurately predicted by the percent change in transcranial
+    Doppler detected middle cerebral artery velocity. Detection of a
+    greater than 50% drop in middle cerebral artery velocity using
+    transcranial Doppler is 100% sensitive for detecting cerebral
     ischemia.[@moritzAccuracyCerebralMonitoring2007]
 
 -   TCD can also demonstrate microemboli (high spikes on spectral
@@ -314,37 +334,37 @@ vasculature.
 **So first, what are characteristics of waveforms in the peripheral
 vasculature?**
 
-[Peripheral]{.ul}: Normal waveforms are indicative of high resistance
-distal beds, so we would expect triphasic waveforms
+[Peripheral]{.underline}: Normal waveforms are indicative of high
+resistance distal beds, so we would expect triphasic waveforms
 
 **What are normal arterial parameters in the upper extremities?**
 
-[Upper Extremity:]{.ul}
+[Upper Extremity:]{.underline}
 
 -   **Normal parameters:** Normal pressure gradient between the right
-    and left brachial pressures is \<20 mmHg. Normal finger pressure
-    is >80% of the ipsilateral brachial systolic pressure. So a normal
-    digital brachial index is >=0.80. A gradient between digits of >15
+    and left brachial pressures is \<20 mmHg. Normal finger pressure is
+    \>80% of the ipsilateral brachial systolic pressure. So a normal
+    digital brachial index is \>=0.80. A gradient between digits of \>15
     mmHg is considered abnormal. 
 
 **Let's talk about some of the most frequently tested pathologies,
 starting with arterial TOS.**
 
-[Arterial TOS:]{.ul} Results from compression of the subclavian artery
-at the level of the first rib within the scalene triangle. Arterial TOS
-testing is done by placing a sensor, most often photoplethysmography
-(PPG), on one finger of each hand, recording the resting waveforms and
-then recording while during maneuvers to evoke arterial compression in
-the thoracic outlet.
+[Arterial TOS:]{.underline} Results from compression of the subclavian
+artery at the level of the first rib within the scalene triangle.
+Arterial TOS testing is done by placing a sensor, most often
+photoplethysmography (PPG), on one finger of each hand, recording the
+resting waveforms and then recording while during maneuvers to evoke
+arterial compression in the thoracic outlet.
 
 **Can you tell us a little more about PPG testing?**
 
-[Photoplethysmography (PPG)]{.ul} uses an infrared light to illuminate
-superficial tissue. The reflection is received by a photosensor, and
-amplitude of the reflected light is proportional to the volume of red
-blood cells in the sample area. A normal digital arterial PPG has a
-brisk upstroke with a narrow systolic peak, and a dicrotic notch on the
-downslope during diastole.
+[Photoplethysmography (PPG)]{.underline} uses an infrared light to
+illuminate superficial tissue. The reflection is received by a
+photosensor, and amplitude of the reflected light is proportional to the
+volume of red blood cells in the sample area. A normal digital arterial
+PPG has a brisk upstroke with a narrow systolic peak, and a dicrotic
+notch on the downslope during diastole.
 
 ```{r echo=FALSE}
 
@@ -364,16 +384,16 @@ degree of subclavian artery compression with positional maneuvers.
 
 **What are other diseases affecting the upper extremity?**
 
-[Raynaud's:]{.ul} Vasospastic disorder characterized by temporary
+[Raynaud's:]{.underline} Vasospastic disorder characterized by temporary
 vasospasm. Diagnosis may be assisted by decrease in digital waveforms
 with immersion of the hand in cold water.
 
-[Thromboangiitis obliterans:]{.ul} Is a segmental non-atherosclerotic
-inflammatory disorder characterized by microthrombosis that primarily
-involves the small- and medium-sized arteries. Ultrasonography may
-demonstrate the classical "corkscrew" collateral development at the
-level of occlusion. TA has a male predominance and first line treatment
-is smoking cessation.
+[Thromboangiitis obliterans:]{.underline} Is a segmental
+non-atherosclerotic inflammatory disorder characterized by
+microthrombosis that primarily involves the small- and medium-sized
+arteries. Ultrasonography may demonstrate the classical "corkscrew"
+collateral development at the level of occlusion. TA has a male
+predominance and first line treatment is smoking cessation.
 
 ### Hemodialysis Access
 
@@ -382,7 +402,7 @@ an entity frequently tested on the VSITE, and that constitutes for many
 vascular surgeons a notable portion of their practice, and that is
 hemodialysis access, and specifically fistulas.
 
-[Fistulas]{.ul}: Ultrasound is one of the key modalities used in
+[Fistulas]{.underline}: Ultrasound is one of the key modalities used in
 identifying suitable anatomy for fistula placement, suitability of a
 fistula for dialysis, and finally complications of fistulas.
 
@@ -390,7 +410,7 @@ fistula for dialysis, and finally complications of fistulas.
 
 The optimal configuration for an AVF is determined on the basis of vein
 mapping and noninvasive studies. Veins should measure \>3 mm in diameter
-(>2.5 mm may be acceptable, as veins are likely to dilate under
+(\>2.5 mm may be acceptable, as veins are likely to dilate under
 anesthesia), and there should be no arterial inflow stenosis or venous
 outflow stenosis. Duplex ultrasound arterial imaging can be performed at
 the same time as vein mapping and can provide important predictors of
@@ -400,34 +420,37 @@ arterial lumen diameter is 2 mm.
 **How can we tell if a fistula is ready to be used for hemodialysis
 access?**
 
-[Assessment for fistula suitability for dialysis:]{.ul} Rule of 6's: At
-six weeks post-creation the diameter of the fistula should be at least 6
-mm and the depth no more than 0.6 cm. The flow rate should be at least
-600mL/min, and the length of the fistula should be 6 cm to allow for a
-successful two-needle dialysis.
+Rule of 6's: At six weeks post-creation the diameter of the fistula
+should be at least 6 mm and the depth no more than 0.6 cm. The flow rate
+should be at least 600mL/min, and the length of the fistula should be 6
+cm to allow for a successful two-needle dialysis.
+
+Brachial artery volume flow rate (VFR) is one of the best measurements
+to identify poor fistula maturation. \>800 ml/min is ideal, but \>600 is
+often sufficient.[@ko2015]
 
 **What do normal fistula spectral waveforms look like?**
 
-[Waveform:]{.ul} The arterial waveform should demonstrate very low
-resistance throughout diastole. End diastolic velocity should be one
+[Waveform:]{.underline} The arterial waveform should demonstrate very
+low resistance throughout diastole. End diastolic velocity should be one
 half to two thirds of peak systolic velocity in a well-functioning
 fistula. As a side note, this is also what one would see in an
 iatrogenic arteriovenous fistula, as between the femoral artery and
-vein.
+vein.[@teodorescu2012]
 
 **Let's discuss commonly encountered complications and pathologies
 identified in association with fistulas:**
 
-[Pseudoaneurysms:]{.ul} Pseudoaneurysms commonly occur when a puncture
-fails to seal and the blood is contained by the surrounding soft tissue.
-As in other locations, pseudoaneurysms are defined on imaging by a
-communicating neck between the arterial vessel and pseudoaneurysmal sac
-with "to-and-fro" waveform at duplex. While small pseudoaneurysms can be
-managed without intervention or surgery, larger pseudoaneurysms,
-pseudoaneurysms associated with infection or overlying skin changes or
-bleeding may require excision and repair.
+[Pseudoaneurysms:]{.underline} Pseudoaneurysms commonly occur when a
+puncture fails to seal and the blood is contained by the surrounding
+soft tissue. As in other locations, pseudoaneurysms are defined on
+imaging by a communicating neck between the arterial vessel and
+pseudoaneurysmal sac with "to-and-fro" waveform at duplex. While small
+pseudoaneurysms can be managed without intervention or surgery, larger
+pseudoaneurysms, pseudoaneurysms associated with infection or overlying
+skin changes or bleeding may require excision and repair.[@bandyk2013]
 
-[Steal syndrome:]{.ul} Hemodialysis-related steal, also known as
+[Steal syndrome:]{.underline} Hemodialysis-related steal, also known as
 access-related hand ischemia, which may occur in over half of all
 patients undergoing access creation. Steal is characterized by
 retrograde diastolic flow distal to the donor artery. Of note, reversal
@@ -437,45 +460,51 @@ represents physiologic steal phenomenon, rather than symptomatic steal
 syndrome. Digital pressures \<60 mm Hg are highly sensitive and specific
 for predicting steal. Patients who have no symptoms (Grade 1
 access-related hand ischemia), may be closely monitored without any
-intervention. How do we treat more severe steal? Flow rate measurements
-of the fistula can help determine the optimal treatment (banding,
-revision using distal inflow, distal revascularization with interval
-ligation, proximalization of arterial inflow or ligation of the
-fistula).
+intervention.
+
+**How do we treat more severe steal?**
+
+Flow rate measurements of the fistula can help determine the optimal
+treatment (banding, revision using distal inflow, distal
+revascularization with interval ligation, proximalization of arterial
+inflow or ligation of the fistula). For more on steal, see
+\@ref(sec-steal-syndrome)
 
 **So steal can occur in the context of high fistula output, can we talk
 a bit about low fistula flow, as from stenosis?**
 
-[Central venous stenosis:]{.ul} Venous outflow stenosis is the most
-common reason for arteriovenous graft failure. A low flow rate results
-in recirculation during the dialysis session. Venous obstruction
+[Central venous stenosis:]{.underline} Venous outflow stenosis is the
+most common reason for arteriovenous graft failure. A low flow rate
+results in recirculation during the dialysis session. Venous obstruction
 manifests as arm swelling, and with central venous stenosis may present
 with collateral development over the upper extremity and chest wall.
 
-[Stenosis of fistula:]{.ul} Arterial and mid-graft stenosis can also
-cause complications, but are less common than venous stenosis. Stenosis
-on imaging will be represented by narrowing of luminal diameter on
-b-mode ultrasound, high-resistance waveform proximal to the stenosis,
-and tardus parvus waveform distal to the stenosis.
+[Stenosis of fistula:]{.underline} Arterial and mid-graft stenosis can
+also cause complications, but are less common than venous stenosis.
+Stenosis on imaging will be represented by narrowing of luminal diameter
+of 50% (which correlates to a 75% reduction in cross-sectional area) on
+b-mode ultrasound, PSV\>400, Vr \>2,5, high-resistance waveform proximal
+to the stenosis, and tardus parvus waveform distal to the
+stenosis.[@bandyk2013]
 
 ## Lower Extremity
 
 **Can you please tell us about some of the diagnostic modalities that
 are used to examine perfusion in the lower extremities?**
 
-[ABIs:]{.ul} Ankle-brachial index measurement requires calculating the
-ratio of the highest ankle systolic pressure (posterior tibial artery or
-dorsalis pedis) over the highest brachial systolic pressure. Regardless
-of whether you're doing the R or L ABI, use the higher arm pressure for
-both ratios. Normal ABI \>0.9, severe disease indicated by ABI\<0.5, and
-CLI by ABI\<0.3. The ankle-brachial index in diabetic patients is
-frequently unreliable due to incompressibility of the tibial vessels at
-the level of the cuff secondary to calcification. Consequently, toe
-pressures are mandatory in all patients with diabetes mellitus. Normal
-TBI>0.7.
+[ABIs:]{.underline} Ankle-brachial index measurement requires
+calculating the ratio of the highest ankle systolic pressure (posterior
+tibial artery or dorsalis pedis) over the highest brachial systolic
+pressure. Regardless of whether you're doing the R or L ABI, use the
+higher arm pressure for both ratios. Normal ABI \>0.9, severe disease
+indicated by ABI\<0.5, and CLI by ABI\<0.3. The ankle-brachial index in
+diabetic patients is frequently unreliable due to incompressibility of
+the tibial vessels at the level of the cuff secondary to calcification.
+Consequently, toe pressures are mandatory in all patients with diabetes
+mellitus. Normal TBI\>0.7.
 
-[TcPO2:]{.ul} When there is significant tissue loss, preventing TBI
-measurement, another option is transcutaneous oximetry
+[TcPO2:]{.underline} When there is significant tissue loss, preventing
+TBI measurement, another option is transcutaneous oximetry
 (TcPO2).  Transcutaneous oximetry is a non-invasive method of measuring
 the tissue partial pressure of oxygen through a heated sensor on the
 skin. A TcPO2 value of 40 mmHg is the critical value below which wound
@@ -484,12 +513,12 @@ healing is impaired and ischemia develops.
 **Are there other non-invasive ways of determining extremity
 perfusion?**
 
-[PVRs:]{.ul} Pulse volume recordings. Normal PVR waveforms have a rapid
-upstroke, sharp peak, prominent dicrotic notch and downslope. Typically
-4 cuffs. High thigh cuff should be 30% greater than brachial pressure,
-hence a thigh-brachial index of 1.3 is normal. However, ABI/PVRs may not
-demonstrate significantly abnormal values/waveforms in individuals with
-single level disease.
+[PVRs:]{.underline} Pulse volume recordings. Normal PVR waveforms have a
+rapid upstroke, sharp peak, prominent dicrotic notch and downslope.
+Typically 4 cuffs. High thigh cuff should be 30% greater than brachial
+pressure, hence a thigh-brachial index of 1.3 is normal. However,
+ABI/PVRs may not demonstrate significantly abnormal values/waveforms in
+individuals with single level disease.
 
 ```{r echo=FALSE}
 
@@ -497,47 +526,78 @@ knitr::include_graphics(rep("images/vasc_lab/Slide13.jpeg"))
 
 ```
 
-[Exercise Test:]{.ul} During exercise testing, patients are placed on a
-treadmill after baseline resting ABIs are measured. The patient is then
-asked to walk for 5 minutes or until physical discomfort requires test
-cessation. The point when a patient stops is defined as the absolute
-claudication distance. Diagnostic criteria for a positive test include a
-drop-in ankle pressure of greater than 20 mmHg from baseline, drop in
-ABI greater than 0.2 from baseline, or inability of ankle pressures to
-return to baseline after 3 minutes.
+[Exercise Test:]{.underline} During exercise testing, patients are
+placed on a treadmill after baseline resting ABIs are measured. The
+patient is then asked to walk for 5 minutes or until physical discomfort
+requires test cessation. The point when a patient stops is defined as
+the absolute claudication distance. Diagnostic criteria for a positive
+test include a drop-in ankle pressure of greater than 20 mmHg from
+baseline, drop in ABI greater than 0.2 from baseline, or inability of
+ankle pressures to return to baseline after 3 minutes.
 
 **So just to briefly summarize, what are parameters associated with poor
 wound healing?**
 
-[Parameters associated with poor wound healing:]{.ul} Considering these
-various testing modalities, what are factors associated with poor
+[Parameters associated with poor wound healing:]{.underline} Considering
+these various testing modalities, what are factors associated with poor
 likelihood of wound healing? An ankle pressure \<50 mmHg, ABI \< 0.40,
 TcPO2 \<20 mmHg, or a toe pressure \<20 mmHg are considered predictive
 of non-healing.
 
+**What is the utility of duplex in diagnosing lower extremity occlusive
+disease?**
+
+Duplex ultrasound is utilized to further delineate the anatomy, level
+and severity of occlusive disease. Increased PSV can identify the site
+of a hemodynamically significant stenosis. Diminished waveforms often
+suggest more proximal disease.
+
+Of note, diffuse narrowing of the SFA can result in tardus et parvus
+waveforms in the popliteal, without necessarily demonstrating any areas
+of high velocity.[@aburahma2022; @pellerito2019]
+
 **Ultrasound is frequently used for graft surveillance. Can you talk
 about graft surveillance parameters?**
 
-[Restenosis/Graft surveillance]{.ul}: Suggested ultrasound surveillance
-bypass graft begins immediately after surgery and then continues at 3,
-6, and 12 months and then every 6 to 12 months thereafter. A velocity
-ratio (Vr) is defined as the peak systolic velocity (PSV) at the site of
-a stenosis divided by the PSV in a normal vessel segment proximal to the
-stenosis. The highest risk for graft thrombosis, and highest cause for
-concern is suggested by PSV \>300 cm/s, Vr \>3.5, a graft flow velocity
-\<45 cm/s or a drop in ABI \>0.15.[@bandykHemodynamicsVeinGraft1988]
+Suggested bypass vein graft surveillance with ABI, clinical exam and
+duplex should begin immediately after surgery and then continues at 3,
+6, and 12 months and then every 6 to 12 months thereafter.[@conte2006;
+@zierler2018] A velocity ratio (Vr) is often utilized in graft
+surveillance and is defined as the peak systolic velocity (PSV) at the
+site of a stenosis divided by the PSV in a normal vessel segment
+proximal to the stenosis.
+
+-   The highest risk for graft thrombosis, and highest cause for concern
+    is suggested by PSV \>300 cm/s, Vr \>3.5, a mid-graft flow velocity
+    \<45 cm/s or a drop in ABI \>0.15.
+    [@bandykHemodynamicsVeinGraft1988]
+
+-   Increased risk grafts have a PSV 180-300 cm/s and a Vr 2.0-3.5.
+
+-   Spectral pulse wave doppler is more sensitive than color doppler to
+    identify low flow states or thrombosed grafts.[@hedrick2005]
+
+Intervention for recurrent vein bypass graft stenosis early after
+angioplasty may be best treated with an open revision and patch
+plasty.[@jongsma2016]
+
+Presenting with new swelling, pain and fluid around a prosthetic graft
+on duplex ultrasound may be a sign of underlying graft infection. PET
+and WBC scans may be positive up to 4mo after implantation, so do not
+provide much utility in the early post-operative period.[@puges2019]
 
 ### Pathologies
 
 **Let's talk about pathologies frequently encountered in the lower
 extremities:**
 
-[Pseudoaneurysms (particularly femoral):]{.ul} Gray-scale
-ultrasonography demonstrates a hypoechoic cystic structure adjacent to
-an arterial supply. Color Doppler typically demonstrates a "yin-yang
-sign" within the pseudoaneurysm sac. The hallmark ultrasound sign is
-identification of a neck between the sac and the feeding artery with a
-"to-and-fro" spectral Doppler waveform measured at the neck. This
+#### Pseudoaneurysms (particularly femoral) {#psa}
+
+Gray-scale ultrasonography demonstrates a hypoechoic cystic structure
+adjacent to an arterial supply. Color Doppler typically demonstrates a
+"yin-yang sign" within the pseudoaneurysm sac. The hallmark ultrasound
+sign is identification of a neck between the sac and the feeding artery
+with a "to-and-fro" spectral Doppler waveform measured at the neck. This
 represents the flow in and out of the PSA during systole and diastole.
 
 ```{r echo=FALSE}
@@ -546,9 +606,19 @@ knitr::include_graphics(rep("images/vasc_lab/Slide14.jpeg"))
 
 ```
 
-[Dissections:]{.ul} Characteristic ultrasound findings on color Doppler
-include a parallel blood-flow channel that separates the true and false
-lumen.
+Anastomotic pseudoaneurysms develop in around 3% of femoral anastomoses
+and can be associated with arterial wall weakness, endarterectomy,
+mismatch between artery/graft, dilation/deterioration of graft material,
+increased/uneven tension of anastamosis, underlying
+infection.[@pellerito2019]
+
+#### Dissections
+
+Characteristic ultrasound findings on color Doppler include a parallel
+blood-flow channel that separates the true and false lumen. Traumatic
+intimal flaps after knee dislocation can have a normal ABI and be
+asymptomatic, but they should be followed as they can
+progress.[@gaitini2008]
 
 ```{r echo=FALSE}
 
@@ -559,16 +629,19 @@ knitr::include_graphics(rep("images/vasc_lab/Slide15.jpeg"))
 Of note, if the false lumen is filled by a thrombus, it may not
 distinguishable from an intramural hematoma or noncalcified plaque
 
-There are several disease pathologies that are frequently tested
-relating to the popliteal fossa. Can you talk briefly about these?
+**There are several disease pathologies that are frequently tested
+relating to the popliteal fossa. Can you talk briefly about these?**
 
-[Adventitial cystic disease:]{.ul} This is a rare (but often tested)
-pathology. Adventitial cystic disease is a nonatherosclerotic etiology
-of claudication, most often affecting the popliteal artery in the lower
-extremity and leading to stenosis or occlusion. Duplex imaging of the
-popliteal artery will demonstrate an anechoic *intraluminal* region with
-a smooth contour and stenosis documented by velocity increase on
-spectral doppler.
+#### **Cystic Adventitial Disease** {#cad}
+
+This is a rare (but often tested) pathology. Adventitial cystic disease
+is a non-atherosclerotic etiology of claudication, most often affecting
+the popliteal artery in the lower extremity and leading to stenosis or
+occlusion. Duplex imaging of the popliteal artery will demonstrate an
+anechoic or hypoechoic *intraluminal* region with a smooth contour and
+stenosis documented by velocity increase on spectral doppler.
+Angiography will often show a classic "scimitar" sign - smooth well
+defined crescent-shaped defect.[@shaw2007; @winn2015]
 
 ```{r echo=FALSE}
 
@@ -576,14 +649,17 @@ knitr::include_graphics(rep("images/vasc_lab/Slide16.jpeg"))
 
 ```
 
-This is not to be confused with a
+For more on adventitial cystic disease, see
+\@ref(cystic-adventitial-disease). This is not to be confused with:
 
-[Bakers Cyst]{.ul}**:** which is a benign, cystic structure found in the
-popliteal fossa and arising from the joint capsule. Flexion of the knee
-may result in compression of the popliteal artery by the cyst. On b-mode
-ultrasound, a well-defined, anechoic  cystic structure with a 'neck'
-extending into the joint space between the semimembranosus tendon and
-the medial head of the gastrocnemius will be identified.
+#### Bakers Cyst
+
+A benign, cystic structure found in the popliteal fossa and arising from
+the joint capsule. Flexion of the knee may result in compression of the
+popliteal artery by the cyst. On b-mode ultrasound, a well-defined,
+anechoic  cystic structure with a 'neck' extending into the joint space
+between the semimembranosus tendon and the medial head of the
+gastrocnemius will be identified.
 
 ```{r echo=FALSE}
 
@@ -591,9 +667,9 @@ knitr::include_graphics(rep("images/vasc_lab/Slide17.jpeg"))
 
 ```
 
-[Popliteal entrapment syndrome:]{.ul} decrease in ABI or loss of distal
-pulses with passive dorsiflexion or active plantar flexion of the foot
-caused by compression of the popliteal artery by the gastrocnemius.
+[Popliteal entrapment syndrome:]{.underline} decrease in ABI or loss of
+distal pulses with passive dorsiflexion or active plantar flexion of the
+foot caused by compression of the popliteal artery by the gastrocnemius.
 
 ## Abdominal
 
@@ -606,29 +682,30 @@ women, measured outer wall to outer wall cross-sectional diameter.
 
 **Can ultrasound be used for graft surveillance s/p EVAR?**
 
-[S/p EVAR:]{.ul} Surveillance color duplex ultrasound is safe if CT
-imaging at 1 year exhibits no sac growth, graft migration, or endoleak
-(or stable type II endoleak). Can detect endoleaks, sac expansion, and
-limb occlusion. Migration difficult to assess given challenge of renal
-arteries visualization in a long axis view of the aorta.
+[S/p EVAR:]{.underline} Surveillance color duplex ultrasound is safe if
+CT imaging at 1 year exhibits no sac growth, graft migration, or
+endoleak (or stable type II endoleak). Can detect endoleaks, sac
+expansion, and limb occlusion. Migration difficult to assess given
+challenge of renal arteries visualization in a long axis view of the
+aorta.
 
 **What other pathologies can be identified on ultrasound evaluation of
 the abdomen?**
 
-[CIA aneurysms:]{.ul} SVS defines CIA aneurysms as any permanent,
+[CIA aneurysms:]{.underline} SVS defines CIA aneurysms as any permanent,
 localized dilatation of the iliac artery \>1.5 cm in diameter (diameter
 1.5x the normal diameter)
 
-[Para-anastomotic pseudoaneurysms:]{.ul} As previously discussed
+[Para-anastomotic pseudoaneurysms:]{.underline} As previously discussed
 (reported in up to 0.5% to 10% of cases)
 
-[Penetrating aortic ulcers:]{.ul} Describes an ulcerating
+[Penetrating aortic ulcers:]{.underline} Describes an ulcerating
 atherosclerotic lesion that penetrates the intima and progresses into
 the media. Associated with atherosclerotic plaque on ultrasound
 
-[Dissections:]{.ul} (as already discussed) a dissection flap is usually
-identified and color flow demonstrates dual channels (true and false
-lumens). Turbulent flow patterns are frequently encountered.
+[Dissections:]{.underline} (as already discussed) a dissection flap is
+usually identified and color flow demonstrates dual channels (true and
+false lumens). Turbulent flow patterns are frequently encountered.
 
 ### Mesenteric Vasculature
 
@@ -652,52 +729,53 @@ spleen).
 **What other mesenteric vessel pathologies may be identified on vascular
 ultrasound?**
 
-[Dissections:]{.ul} Rare without concomitant aortic dissection.
+[Dissections:]{.underline} Rare without concomitant aortic dissection.
 
-[Aneurysms:]{.ul} Rare. Repair \>2 cm celiac, hepatic, SMA aneurysms and
-\>3 cm splenic and renal.
+[Aneurysms:]{.underline} Rare. Repair \>2 cm celiac, hepatic, SMA
+aneurysms and \>3 cm splenic and renal.
 
-[Median arcuate ligament syndrome:]{.ul} MALS can cause significantly
-elevated velocities at the origin of the celiac artery. Testing is for
-reversible mechanical compression, as opposed to a fixed lesion from
-atherosclerotic disease. During deep inspiration or in the upright
-position, celiac velocities should normalize if stenosis is secondary to
-MALS.
+[Median arcuate ligament syndrome:]{.underline} MALS can cause
+significantly elevated velocities at the origin of the celiac artery.
+Testing is for reversible mechanical compression, as opposed to a fixed
+lesion from atherosclerotic disease. During deep inspiration or in the
+upright position, celiac velocities should normalize if stenosis is
+secondary to MALS.
 
 **So I recognize that we are jumping ahead here discussing venous
 circulation, but as this represents another component of a mesenteric
 vascular exam, let's discuss portal venous ultrasonography.**
 
-[Portal vein:]{.ul} Normal portal venous flow is hepatopetal (toward the
-liver), whereas abnormal portal venous flow is hepatofugal (away from
-the liver). (The root "fugua" means to flee, or flight). Flow should be
-in the same direction as the hepatic artery. Other abnormalities that
-may be visualized are portal vein thrombosis (often associated with
-portal venous hypertension in patients with chronic cirrhosis,
-hepatitis, or hepatocellular carcinoma). Acute portal vein thrombosis on
-ultrasound demonstrates dilatation of the portal vein with hypoechoic
-intraluminal thrombus. Chronic portal vein thrombosis is characterized
-by a contracted vein with heterogeneous/hyperechoic echoes and may be
-associated with collateral formation.  Can also assess for hepatic
-artery stenosis/thrombosis and for functioning of TIPS (transjugular
-intrahepatic portosystemic shunt).
+[Portal vein:]{.underline} Normal portal venous flow is hepatopetal
+(toward the liver), whereas abnormal portal venous flow is hepatofugal
+(away from the liver). (The root "fugua" means to flee, or flight). Flow
+should be in the same direction as the hepatic artery. Other
+abnormalities that may be visualized are portal vein thrombosis (often
+associated with portal venous hypertension in patients with chronic
+cirrhosis, hepatitis, or hepatocellular carcinoma). Acute portal vein
+thrombosis on ultrasound demonstrates dilatation of the portal vein with
+hypoechoic intraluminal thrombus. Chronic portal vein thrombosis is
+characterized by a contracted vein with heterogeneous/hyperechoic echoes
+and may be associated with collateral formation.  Can also assess for
+hepatic artery stenosis/thrombosis and for functioning of TIPS
+(transjugular intrahepatic portosystemic shunt).
 
 **Awesome, and so before jumping fully into venous circulation, let's
 complete our discussion of abdominal ultrasound evaluation with a
 discussion of the renal vasculature.**
 
-[Renal Pathologies:]{.ul} ostial (atherosclerotic) vs mid-artery (FMD)
+[Renal Pathologies:]{.underline} ostial (atherosclerotic) vs mid-artery
+(FMD)
 
-[Atherosclerotic stenosis:]{.ul} PSV>200 cm/s predictive of \>60%
-stenosis. Renal artery-to-aortic PSV ratio (RAR) \>3.5 also correlates
-with a \>60% stenosis. The renal resistive index (RRI) is calculated as
-the RA PSV-EDV/PSV. The RRI (>0.8) is an indicator of intrinsic
-parenchymal renal disease.
+[Atherosclerotic stenosis:]{.underline} PSV\>200 cm/s predictive of
+\>60% stenosis. Renal artery-to-aortic PSV ratio (RAR) \>3.5 also
+correlates with a \>60% stenosis. The renal resistive index (RRI) is
+calculated as the RA PSV-EDV/PSV. The RRI (\>0.8) is an indicator of
+intrinsic parenchymal renal disease.
 
-[FMD:]{.ul} As discussed for the carotids, FMD manifests as beaded
-lesions in medium and small arteries, with the renal arteries the most
-commonly affected. Ultrasound demonstrates increased PSV in the mid and
-distal renal artery. Stenoses in the mid and distal renal artery are
+[FMD:]{.underline} As discussed for the carotids, FMD manifests as
+beaded lesions in medium and small arteries, with the renal arteries the
+most commonly affected. Ultrasound demonstrates increased PSV in the mid
+and distal renal artery. Stenoses in the mid and distal renal artery are
 suggestive of FMD, atherosclerotic disease is primarily ostial in
 nature.
 
@@ -719,7 +797,7 @@ on the non weight-bearing leg.
 **We've talked extensively about normal arterial waveforms; what do
 normal venous waveforms look like?**
 
-[Normal venous waveforms:]{.ul} Normal flow patterns of iliac and
+[Normal venous waveforms:]{.underline} Normal flow patterns of iliac and
 femoral veins demonstrate phasicity and should augment with distal
 compression. In the upper extremity central veins, doppler waveforms
 normally demonstrate pulsatility and phasicity.
@@ -769,7 +847,7 @@ knitr::include_graphics(rep("images/vasc_lab/Slide20.jpeg"))
 
 **What are venous pathologies that are commonly tested/encountered?**
 
-[Reflux:]{.ul} Venous reflux due to valvular incompetence is best
+[Reflux:]{.underline} Venous reflux due to valvular incompetence is best
 assessed with duplex scanning in the upright position. Reflux in the
 common femoral vein and the saphenofemoral junction may be elicited with
 a Valsalva maneuver (which increases intra-abdominal pressure), but
@@ -788,7 +866,7 @@ reversed flow (reflux) in the femoral and popliteal veins and of 0.5
 seconds for the great saphenous vein, small saphenous vein, tibial, and
 deep femoral veins.
 
-[Perforator veins:]{.ul} Perforator veins connect the deep and
+[Perforator veins:]{.underline} Perforator veins connect the deep and
 superficial venous systems, penetrating the deep fascia overlying the
 muscle.  Size \>3.5 mm and reflux \>350 ms (deep to superficial) is
 associated with perforator reflux. Pathological perforator = in
@@ -796,15 +874,15 @@ association with a healed or non-healed ulcer.
 
 **What are some other examples of reflux?**
 
-[Ovarian vein reflux:]{.ul} The ultrasound evaluation of pelvic
+[Ovarian vein reflux:]{.underline} The ultrasound evaluation of pelvic
 congestion syndrome is performed in steep reverse Trendelenburg and
 standing positions with a low-frequency probe. Reflux is identified
 during the Valsalva maneuver. There are no validated criteria for the
 duration of reflux. Rather, an ovarian vein diameter \>6 mm is
 considered significant.
 
-[May Thurner]{.ul}**:** Also known as iliac vein compression syndrome,
-refers to a chronic compression of the left [common iliac
+[May Thurner]{.underline}**:** Also known as iliac vein compression
+syndrome, refers to a chronic compression of the left [common iliac
 vein](https://radiopaedia.org/articles/common-iliac-vein?lang=us) by the
 overlying right [common iliac
 artery](https://radiopaedia.org/articles/common-iliac-artery?lang=us) (CIA),
@@ -818,9 +896,9 @@ obstruction/stenosis is severe with continuous flow.
 
 **Ok, let's transition from reflux to thrombosis:**
 
-[Thrombosis:]{.ul} Characteristics of acute thrombus are an echolucent
-and incompressible thrombus in a thin-walled vein with significant
-distension.
+[Thrombosis:]{.underline} Characteristics of acute thrombus are an
+echolucent and incompressible thrombus in a thin-walled vein with
+significant distension.
 
 ```{r echo=FALSE}
 
@@ -836,15 +914,16 @@ collateralization is found in chronic thrombosis.
 **Let's discuss 2 Specific examples of venous thrombosis: VTOS and
 EHIT**
 
-[Venous TOS:]{.ul} Venous thoracic outlet syndrome is thrombosis or
-severe stenosis of the subclavian or axillary veins secondary to chronic
-extrinsic mechanical compression. Repetitive injury to the subclavian
-vein at the level of the costoclavicular space results in chronic injury
-to the veins. Venous duplex may show a dilated, non-compressible vein
-consistent with an acute subclavian vein DVT, or lack of
-pulsatility/phasicity if obstruction/stenosis is more centrally located.
+[Venous TOS:]{.underline} Venous thoracic outlet syndrome is thrombosis
+or severe stenosis of the subclavian or axillary veins secondary to
+chronic extrinsic mechanical compression. Repetitive injury to the
+subclavian vein at the level of the costoclavicular space results in
+chronic injury to the veins. Venous duplex may show a dilated,
+non-compressible vein consistent with an acute subclavian vein DVT, or
+lack of pulsatility/phasicity if obstruction/stenosis is more centrally
+located.
 
-[EHIT or Endovenous Heat Induced Thrombosis:]{.ul} S/p endovenous
+[EHIT or Endovenous Heat Induced Thrombosis:]{.underline} S/p endovenous
 thermal ablations (RFA or laser ablation) of the GSV. 4 Grades: Grade 1
 is thrombus in the GSV up to the level of the CFV. If \< 50% of the CFV
 lumen is involved this is EHIT grade 2. EHIT grade 3 is extension into
@@ -918,6 +997,8 @@ of a needle when it passes from soft tissue into a cystic structure.
 
 **Inappropriate color gain:** Overly gained images will show "speckling"
 in areas in which no flow is present (such as in soft tissue).
+Increasing the gain, increases both the signal and the
+noise.[@kremkau2021]
 
 ```{r echo=FALSE}
 

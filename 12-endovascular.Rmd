@@ -317,6 +317,8 @@ removed over the wire while holding manual pressure and desired sheath
 (usually 5 or 6 Fr) is placed for definitive access. The side port is
 then aspirated for arterial blood and flushed with heparinized saline.
 
+## Complications
+
 **With any invasive procedure, there are risks of complications. What
 are some of the complications of percutaneous vascular access?**
 
@@ -340,7 +342,8 @@ Pseudoaneurysms are an uncommon complication with an incidence of about
 compression or thrombin injection. Thrombin injection requires a narrow
 neck into the pseudoaneurysm. If the pseudoaneurysm is \>2cm, compresses
 surrounding structures, threatens skin integrity, or has failed thrombin
-injection, then surgical repair is required.
+injection, then surgical repair is required.[@morgan2003] For a
+representative image, see \@ref(psa)
 
 Thrombosis of the CFA is a known complication but fortunately is rare
 with an incidence of 0.2%. This can result from manual compression of
