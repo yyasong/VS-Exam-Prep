@@ -22,7 +22,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 -   Defined as a localized dilation of an artery to a diameter greater
     than 50% (1.5x) of its normal diameter. It is generally accepted
-    that >3cm in adults is considered aneurysmal for the abdominal
+    that \>3cm in adults is considered aneurysmal for the abdominal
     aorta.
 
 -   AAAs can be described as:
@@ -53,8 +53,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         associated AAA. [@diwanIncidenceFemoralPopliteal2000]
 
     -   Conversely, if a patient is first found to have a AAA, there is
-        an 11% chance of having associated popliteal artery
-        aneurysms >15mm. [@tuvesonPatientsAbdominalAortic2016]
+        an 11% chance of having associated popliteal artery aneurysms
+        \>15mm. [@tuvesonPatientsAbdominalAortic2016]
 
     -   Another study showed a rate of femoral-popliteal aneurysms in
         AAA patients is approximately 14%.
@@ -128,8 +128,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     -   They reviewed all prescription fills for fluoroquinolones or
         comparative antibiotics from 2005-2017.
 
-    -   This included >27 million US Adults aged 18-64 years old with no
-        history of aneurysms.
+    -   This included \>27 million US Adults aged 18-64 years old with
+        no history of aneurysms.
 
     -   18% of the prescriptions were fluoroquinolones.
 
@@ -159,16 +159,16 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     -   For smaller aneurysms (3-5cm in size), the growth rate is
         approximately 2-3mm/year
 
-    -   For larger aneurysms (>5cm), the growth rate is higher at
+    -   For larger aneurysms (\>5cm), the growth rate is higher at
         3-5mm/year.
 
 -   Rupture risk (historically):
 
-    -   4 - 5.4cm -> 0.5-1%.
+    -   4 - 5.4cm -\> 0.5-1%.
 
-    -   6 - 7cm -> 10%
+    -   6 - 7cm -\> 10%
 
-    -   7 -- 8cm -> 19-35%
+    -   7 -- 8cm -\> 19-35%
 
 -   Newer data suggests the true rupture risk per year is decreasing
     with time.
@@ -182,11 +182,11 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         patients. The cumulative yearly rupture risks identified in this
         study were as follows:
 
-        -   5.5 - 6 cm -> 3.5%
+        -   5.5 - 6 cm -\> 3.5%
 
-        -   6.1 - 7 cm -> 4.1%
+        -   6.1 - 7 cm -\> 4.1%
 
-        -   \>7 cm -> 6.3%
+        -   \>7 cm -\> 6.3%
 
     -   Previously published data with meta-analyses from 1970s-1990s
         reported rupture rates of 3.3%, 9.4% and 24%, respectively,
@@ -194,7 +194,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 -   Factors that increase the risk of rupture other than the size of the
     aneurysm are smoking, COPD, hypertension, transplant recipient, and
-    rapid enlargement (defined as 1 cm/year or more).
+    rapid enlargement (defined as 1 cm/year or more).
 
 ## Evaluation and Diagnosis
 
@@ -257,7 +257,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 -   The current recommendation to repair a fusiform aneurysm is 5.5cm
     for men (Level 1, Grade A evidence), 5.0cm for women as they have a
-    higher risk for rupture, and rapid growth (>5mm over 6 months).
+    higher risk for rupture, and rapid growth (\>5mm over 6 months).
     [@chaikofSocietyVascularSurgery2018a]
 
 -   For saccular aneurysms, the SVS practice guidelines recommend
@@ -307,7 +307,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         cerebrovascular disease and COPD.
 
     -   An important risk factor is also renal function which is
-        delineated by creatinine at 1.5-2 or >2.
+        delineated by creatinine at 1.5-2 or \>2.
 
     -   Each of these risk factors is assigned a point grading.
 
@@ -330,9 +330,9 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
     -   Congestive heart failure with EF \< 25-30%
 
-    -   Serum creatinine level > 3 mg/dL
+    -   Serum creatinine level \> 3 mg/dL
 
-    -   Pulmonary disease manifested by room air PaO2 \< 50 mmHg,
+    -   Pulmonary disease manifested by room air PaO2 \< 50 mmHg,
         elevated PCO2, or both.
 
 -   To help delineate a patient's risk, a preoperative workup is
@@ -346,21 +346,21 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         undergo cardiac evaluation prior to surgery.
 
         -   Unstable angina, decompensated heart failure, severe
-            valvular disease, significant arrythmia -> Cardiology
+            valvular disease, significant arrythmia -\> Cardiology
             consultation (Level 1, Grade B)
 
         -   Significant clinical risk factors such as coronary artery
             disease, congestive heart failure, stroke, diabetes
-            mellitus, and chronic kidney disease -> Stress test (Level
+            mellitus, and chronic kidney disease -\> Stress test (Level
             2, Grade B)
 
-        -   Worsening dyspnea -> Echocardiogram (Level 1, Grade A)
+        -   Worsening dyspnea -\> Echocardiogram (Level 1, Grade A)
 
         -   All patients undergoing EVAR or open repair require EKG
 
         -   In patients capable of moderate physical activities, such as
             climbing two flights of stairs or running a short distance
-            (MET >= 4), there is no benefit in further testing.
+            (MET \>= 4), there is no benefit in further testing.
 
         -   If coronary intervention is required, this takes precedence
             over aneurysm repair.
@@ -369,8 +369,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
         -   Pulmonary function test with ABG (Level 2, Grade C)
 
-        -   Smoking cessation for at least 2 weeks prior (Level 1,
-            Grade C)
+        -   Smoking cessation for at least 2 weeks prior (Level 1, Grade
+            C)
 
         -   Pulmonary bronchodilators at least 2 weeks before aneurysm
             repair (Level 2, Grade C)
@@ -427,10 +427,10 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
             device.[@oderichResultsUnitedStates2014]
 
             -   Z-fen requires diameter 19-31mm, angle \<45deg angle to
-                long axis of aneurysm, ipsilateral iliac fixation >30mm
-                and 9-21mm in diam, contralateral iliac >30mm and 7-21mm
-                diam. Multiple or early branching renal arteries can
-                limit this reapir as well.
+                long axis of aneurysm, ipsilateral iliac fixation \>30mm
+                and 9-21mm in diam, contralateral iliac \>30mm and
+                7-21mm diam. Multiple or early branching renal arteries
+                can limit this reapir as well.
                 [@oderichTechnicalAspectsRepair2014]
 
             -   Parallel grafts for short necks (i.e. snorkel or
@@ -448,7 +448,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
     -   Aortic bifurcation
 
-        -   The aortic bifurcation must be >20mm in size to accommodate
+        -   The aortic bifurcation must be \>20mm in size to accommodate
             the graft opening to full caliber
 
     -   Iliac landing zone
@@ -591,7 +591,7 @@ Defined as persistent blood flow within the aneurysm sac following EVAR.
     -   Typically, type II endoleaks spontaneously thrombose and
         therefore can be observed.
 
-    -   If the leak persists for > 6 months with sac enlargement >5mm,
+    -   If the leak persists for \> 6 months with sac enlargement \>5mm,
         intervention is recommended. Several techniques exist to
         eliminate type II endoleaks, most frequently embolization.
 
@@ -629,7 +629,7 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 -   After thorough preoperative evaluation and clearance, the patient is
     taken back to the operating room. An epidural may be placed
     preoperatively depending on institutional preference. The patient is
-    intubated, and arterial and central venous catheters are placed. 
+    intubated, and arterial and central venous catheters are placed.
     The abdomen is prepped from chest to bilateral thighs.
 
 -   A cell-saver should be available to optimize resuscitation during
@@ -693,7 +693,7 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 
         -   Some physicians prefer to transect the aortic wall as
             opposed to leaving the posterior wall intact for the
-            anastomosis. 
+            anastomosis.
 
     10. Lumbar arteries on the posterior wall are ligated using
         figure-of-eight sutures.
@@ -719,7 +719,7 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 
         -   The graft is flushed forward prior to completion to remove
             any thrombus within the graft. The anastomosis is completed
-            and clamps removed. 
+            and clamps removed.
 
     12. Hypotension may occur at this point from re-perfusion of the
         lower extremities and pelvis. Anesthesia should be notified that
@@ -733,9 +733,9 @@ repair.** [@mooreVascularEndovascularSurgery2019;
             significant hypotension.
 
     13. Next, the IMA must be addressed. The IMA orifice is identified
-        within the aneurysm sac. 
+        within the aneurysm sac.
 
-        -   Chronically occluded or pulsatile back bleeding -> ligate.
+        -   Chronically occluded or pulsatile back bleeding -\> ligate.
 
         -   Anything between occlusion and strong pulsatile back
             bleeding requires further evaluation. This should be
@@ -833,7 +833,7 @@ repair.** [@mooreVascularEndovascularSurgery2019;
     compartment syndrome requiring emergent laparotomy. Unexplained
     oliguria, difficulty maintaining adequate ventilation, and
     hypotension with significant abdominal distension is concerning for
-    abdominal compartment syndrome. A sustained bladder pressure > 20
+    abdominal compartment syndrome. A sustained bladder pressure \> 20
     mmHg with associated organ dysfunction (elevated peak airway
     pressures, new onset acute renal failure) is indicative of abdominal
     compartment syndrome.
@@ -960,7 +960,7 @@ of a ruptured AAA (RAAA) as our last topic of the session?**
 -   When a ruptured AAA is suspected or diagnosed, permissive
     hypotension is key in the initial management before surgery.
 
-    -   Allowing systolic arterial pressures of 50-70 mmHg as long as
+    -   Allowing systolic arterial pressures of 50-70 mmHg as long as
         the patient is mentating appropriately.
 
     -   Limits internal bleeding which further limits loss of platelets

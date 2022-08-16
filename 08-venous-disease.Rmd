@@ -60,455 +60,283 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rouleaux_Club_-_Venous_R
         iliac artery. Transection of iliacs should only be used as a
         last resort if this fails. [@leeIliacVesselInjuries2002]
 
-welcome to another podcast in our joint Bruno club, audible bleeding
-series. My name is Andrew Nickenson. I'm a vascular trainee on the South
-coast in the UK I'm research fellow at the university of Leicester and
-also the Reno club representative for training.
+## Chronic Venous Insufficiency
 
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* My name is Amanda Singh, and I'm
-an academic clinical fellow in vascular surgery at the university of
-Cambridge and a vascular specialty training in the East of England. And
-I'm also the rule of club representative venous disease and the European
-counselor to the European society of vascular surgery.
+### Terminology and Presentation
 
-**andrew_nickinson-denoise:** we're going to be focusing on the topic of
-venous disease over the next two parts we aim to discuss lower
-extremity, superficial venous disease, proximal, deep venous thrombosis,
-and complex deep venous disease. This will be \~\~an, \~\~an
-$$00:01:00$$ FRCs format to aid vascular trainees with their exam
-preparation for this podcast.
+**What is chronic venous insufficiency and how common is it?**
 
-We're both delighted to be joined by Mr. to talk about this subject, Mr.
-is a consultant vascular surgeon at Cambridge university hospital NHS
-foundation trust and is honoring senior electorate and Imperial college
-in London. He's also honorary secretary of the Royal society of
-medicines, venous forum.
-
-He has a special interest in venous disease. And he's well known for his
-work on the landmark Ashkar and ever our studies and more recently was
-co-chair of the writing committee for the European society of vascular
-surgeries, venous thrombosis guidelines. Just to go, thank you for
-joining us on the podcast.
-
-**manj_gohel - denoise:** Thank you very much for inviting me guys. I've
-really enjoyed the previous productions and honored to be invited and
-always happy to talk about veins and venous disease. So thank you.
-
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* ~~Yeah.~~ Thanks Mr. GoHealth. So
-we'll just start off with a bit about yourself, first of all, ~~if
-that's all right. Uh,~~ what sparked your interest in the management and
-research of venous disease? And did you have any particular mentors that
-inspired you?
-
-**manj_gohel - denoise:** ~~Um,~~ $$00:02:00$$ so ~~yeah,~~ what a lot
-of people have. So many, obviously don't realize is that you don't wake
-up one day and say, I want to be a vascular surgeon. I want to be
-somebody who an interest in venous disease thought about windows of
-opportunity. And it's exactly the same for me. So I was very fortunate
-in my sho training in Cheltonham, ~~um,~~ to have an inspirational,
-~~um,~~ mentor, a consultant, the name of Keith
-
-~~Um,~~ he spent most of his career. Researching and trying to develop
-legal services. ~~Um,~~ and it was very difficult not to get caught up
-with his level of passion and enthusiasm. ~~Um,~~ and so really ~~that
-was the,~~ that was the beginning. I got roped into some work with the
-Escar trial at that point. ~~Um,~~ and the rest is history ~~guys,~~ I
-also have to mention, cause then I moved to London and, ~~uh,~~ a really
-powerful mentor for me in London was Alan Davis, a professor at Imperial
-college, massive venous credentials, but really provided the foundation
-and platform for us ~~to,~~ to build on the earlier Venus research.
-
-~~So, um, yeah,~~ those are two names I've mentioned, but lots of really
-helpful people along the way.
-
-**andrew_nickinson-denoise:** \~\~ brilliant. I mean, it's so common
-that people go into topics because of inspiring mentors. And it's so
-great to hear those too. Um, \~\~ let's go back to the basics. What is
-chronic venous insufficiency and how common is it?$$00:03:00$$
-
-**manj_gohel - denoise:** So I thought the first question was going to
-be a nice, easy uncontroversial one ~~guys,~~ and you've landed in the,
-~~with, uh,~~ with CVI. ~~So, so what you've,~~ what you've hit upon is
+So I thought the first question was going to be a nice, easy
+uncontroversial one and you've landed with CVI. What you've hit upon is
 one of the main problems with venous disease, which is terminology. So
-if you type in chronic venous insufficiency into Google, ~~um,~~ you end
-up with, ~~um, uh,~~ this enormous range of descriptions and how you
-used in lots of different ways, by lots of different people.
+if you type in chronic venous insufficiency into Google, you end up
+with, this enormous range of descriptions and how its used in lots of
+different ways, by lots of different people.
 
-~~So. And~~ one of the problems is that this led to a lot of confusion
-amongst people within the space let alone everywhere else. ~~So,~~ so
-really important documents to guide people to is the vain term consensus
-documents published in 2009. ~~I think I'm the author,~~ the lead author
-was BOAC cloth. And this was a document where a whole group of Venus
-experts around the world got together and said, okay, we need to be
-clear and define what all these different terms mean.
+One of the problems is that this led to a lot of confusion among people
+within the space let alone everywhere else. So really important
+documents to guide people to is the VEIN-TERM consensus document
+published in 2009.[@eklof2009] The lead author was Dr. Bo Eklof and this
+was a document where a whole group of venous experts around the world
+got together and said, okay, we need to be clear and define what all
+these different terms mean.
 
 And what are the terms that he found was chronic venous insufficiency.
 And the official definition is it is a venous disease between C3 and C6
 on the CAEP classification. We'll talk about that a bit later, I'm sure.
-But between C3 and C6,$$00:04:00$$ ~~um,~~ in practice, it is used to
-describe the entire spectrum of venous disease ranging from unthread
-veins C1, right?
+But between C3 and C6. In practice, it is used to describe the entire
+spectrum of venous disease ranging from thread veins C1 all the way up
+to venous ulceration. But technically it is C3 to C6. And I would urge
+anybody who is learning about the terminology to look at the vein term
+documents.
 
-The way up to Venus alteration. But technically it is C3 to C6. And I
-would urge anybody who is revising or learning about the terminology to
-look at the vein term documents and silly little things like great
-saphenous, vein, small saphenous vein. ~~Um,~~ I think UK is the only
-place where long sadness is ever used.
+And silly little things like great saphenous vein and small saphenous
+vein--I think UK is the only place where long saphenous is ever used and
+the real problem was LSV in lots of other countries will be the lesser
+saphenous vein, which is the small saphenous vein. So again, I'd urge
+anyone to look at that document.
 
-~~Um,~~ and the real problem was LSV and lots of other countries will be
-the lesser saphenous bean, which is the small saphenous vein. So again,
-~~um, you know,~~ I'd urge anyone to look at that document. ~~Um,~~ how
-common is it very common? \~\~Um, you know, and if you, if you sort of,
-you know, hopefully \~\~with the weather getting a bit nicer, ~~you, you
-know,~~ people wearing shorts, you're spotting, venous disease, ~~you
-know,~~ all over the place.
+**How common is chronic venous insufficiency?**
 
-\~\~Um, \~\~ the studies that have been done indicate that at least a
+Chronic venous disease is very common, with the weather getting a bit
+nicer, people wearing shorts, you're spotting, venous disease all over
+the place. The studies that have been done indicate that at least a
 quarter, probably up to a third of people have C2 to C6 disease. So very
 common problem, lots of people that need treatment.
 
-**andrew_nickinson-denoise:** that takes us on quite nicely to ask about
-the cash of and scoring systems. You mentioned CAEP ~~um,~~ could you
-expand on that?$$00:05:00$$
+**Now we would like to discuss the classification and scoring systems,
+you mentioned CAEP, could you expand on that?**
 
-**manj_gohel - denoise:** Yeah, of course. \~\~So, um, again, really,
-\~\~really important. So seek the critical ecological with an E because
-it's American anatomical pathophysiological classification system was
-introduced, I think in the mid 1990s, again, by, ~~uh,~~ the American,
-~~uh,~~ venous forum and American colleagues. And it's a classification
-system.
+So CEAP\--clinical, etiological (with an E because it's American),
+anatomical, pathophysiological--classification system was introduced, I
+think in the mid 1990s, by the American Venous Forum and American
+colleagues. And it's a classification system.
 
 So if you have a patient that comes into your clinic with a venous
 problem, it's a system to allow you to describe that patient's current
-situation in a very objective, very clear way, what it does not do it
-give you any information about prognostication and what it doesn't do,
-but it isn't useful for is measuring responses to treatment.
+situation in an objective, clear way. What it does not do is give you
+any information about prognostication and it isn't useful for measuring
+responses to treatment.
 
-So it is purely a descriptive classification system. ~~Um,~~ so that
-seat, ~~um,~~ and the most commonly used bit is the clinical bit, which
-is C1 one to C6. And again, CAEP was just recently revived last year, a
-25 year revision, which again, I would urge trainees to have a look at,
-~~um,~~ federal Lurie was the lead author, ~~um,~~ and just some
-useful\~\~ , uh,\~\~ revisions of $$00:06:00$$ CAEP.
+So it is purely a descriptive classification system. And the most
+commonly used bit is the clinical bit, which is C1 one to C6. And again,
+CAEP was just recently revised last year, a 25 year revision, which
+again, I would urge trainees to have a look at, Dr. Fedor Lurie was the
+lead author, and just some useful revisions of CEAP.[@lurie2020]
 
-\~\~Um, \~\~now in response to the limitations of CAEP. \~\~Um, ~~again,
-there was a new~~ , uh,\~\~ clinical\~\~ , um,\~\~ scoring system that
-was created, which was a VCSs of Venus clinical severity score. So this
-is a 10 item scoring system, each item scores between zero and three. So
-you get a maximum score of 30. Now this is designed to be responsive to
-treatment.
+Now in response to the limitations of CAEP, the Venous Clinical Severity
+Score (VCSS) was created. So this is a 10 item scoring system, each item
+scores between zero and three. So you get a maximum score of 30. Now
+this is designed to be responsive to treatment and complimentary to
+CAEP.[@vasquez2010]
 
-And so it's designed to be complimentary to CAEP. \~\~Um, \~\~there are
-lots of other things that have been described, quality of life tools,
-DBS, lots of other things. I would say that those two are the most
-relevant and important ones to know about. \~\~Um, \~\~ but again, the
-number of papers I've reviewed where people have\~\~ , um,\~\~ reported
-CAEP scores as one of the outcome measures in response to treatments.
+There are lots of other things that have been described, quality of life
+tools or VDS, but I would say that those two are the most relevant and
+important ones to know about. But many of the QOL tools are too
+cumbersome to use in day to day practice. We are in dire need of a easy
+to use clinical tool that is validated for assessment of patient
+reported outcomes. And again, the number of papers I've reviewed where
+people have reported CAEP scores as one of the outcome measures in
+response to treatments. That is not what it's designed for, for example,
+you can never get lower than C5. You can never get better than a healed
+ulcer. So again, that's the important distinction.
 
-That is not what it's designed for. \~\~I mean, \~\~for example, you can
-never get lower than C5. You can never get better than a healed ulcer.
-\~\~So, um, \~\~so again, that's the important distinction.
+### Evaluation
 
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* when we do see patients in clinic
-with chronic venous insufficiency, which type of imaging modalities
-should we use to investigate the function and the anatomy of the lower
-limbs?
+**When we do see patients in clinic with chronic venous insufficiency,
+which type of imaging modalities should we use to investigate the
+function and the anatomy of the lower limbs?**
 
-**manj_gohel - denoise:** ~~Um, so really important question, Amanda.
-Um, so~~ if a patient comes to clinic, we can't $$00:07:00$$
-underestimate the importance of the clinical assessment. And when you
-assess these patients, you really looking for two things, you are
-looking for the impact of their venous disease on their quality of life
-and the impact of the venous disease has on their normal function.
+If a patient comes to clinic, we can't underestimate the importance of
+the clinical assessment. And when you assess these patients, you really
+looking for two things, you are looking for the impact of their venous
+disease on their quality of life and the impact of the venous disease
+has on their normal function.
 
 But also you're looking for complications of venous disease. This is a
-clinical assessment. Again, what's your question about the
-investigations? \~\~Um, \~\~You really want to identify underlying
-treatable causes of their venous disease. And \~\~that's the, \~\~that's
-the goal of any investigation. \~\~Um, \~\~and being the stoop legs.
+clinical assessment. But then when ordering investigations, you really
+want to identify underlying treatable causes of their venous disease.
+And that's the goal of any investigation.
 
-Imaging is obviously the first line gold standard that pretty much
-anybody \~\~will, ~~will go to around the world. And what that does is
-essentially gives you information about the flow, both~~ , uh,\~\~ in
-the normal antegrade, but also retrograde or refluxing a flow in
-superficial and deep veins. \~\~Um, \~\~it'll gives you information
-about the anatomy of the beans, which will help you to plan treatment,
-but it also gives you lots of other information as well.
+Venous duplex imaging is obviously the first line, gold standard that
+pretty much anybody will go to around the world. And what that does is
+essentially gives you information about the flow, both in the normal
+antegrade, but also retrograde or refluxing flow in superficial and deep
+veins.
 
-It gives you information about\~\~ , uh,\~\~ in the common femoral vein.
-For example, if there's good phase, this city $$00:08:00$$ of flow, if
-there's no scarring, it helps you to evaluate whether there might be
-some outflow obstruction. \~\~Um, \~\~so duplex imaging is the absolute
-first line gold standards. Now, once you've done the triplex imaging, if
-there's clinical suspicion.
+It'll give you information about the anatomy of the veins , which will
+help you to plan treatment, but it also gives you lots of other
+information as well. It gives you information in the common femoral
+vein, for example, if there's good phasicity of flow or if there's no
+scarring. It helps you to evaluate whether there might be some outflow
+obstruction, so duplex imaging is the absolute first line, gold
+standard. For more on venous duplex scanning, see \@ref(venous).
 
-Then of course we can move on to other investigations. So proximal\~\~ ,
-um,\~\~ CTV, MRV, venography IBAs, all sorts of other weird and
-wonderful things. But clinical assessments and duplex assessment are the
-bedrock of every\~\~ , uh,\~\~ assessment of every Venus patient. So
-that's the foundation.
+Now, once you've done theduplex imaging, if there's clinical suspicion,
+then of course we can move on to other investigations. So proximal CTV,
+MRV, venography, IVUS, all sorts of other weird and wonderful things.
+But clinical assessments and duplex assessment are the bedrock of every
+assessment of every venous patient. So that's the foundation.
 
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* so you mentioned\~\~ , uh,\~\~
-quality of life. A couple of times then is to go hell, we might as well
-discuss that a bit further \~\~in this, \~\~in this section. Clearly the
-spectrum of venous disease can impact a patient's quality of life, quite
-significantly. What tools and methods do we have to be able to assess
-the impact on a patient's quality of life?
+### Treatment
 
-**manj_gohel - denoise:** \~\~So, \~\~so in a research setting, \~\~I
-mean, there's, \~\~there's many validated questionnaires. \~\~Um,
-\~\~but anyone involved in seeing these people and doing the
-evaluations, know how cumbersome they are. \~\~I mean, \~\~you can't sit
-with a patient for 20 minutes and then $$00:09:00$$ NHS clinic and go
-through. An AB VQ or a veins call SIM questionnaire as much as you'd
-like to.
+**Moving on to the treatment of superficial disease. When we talk about
+treatment of superficial venous incompetence, I don't think we can
+really get away from talking about the two major studies, the
+ESCHAR[**@gohel2007] **and the EVRA[**@gohel2018] **studies, which I
+know you've been involved with. Can you review what these studies showed
+and their importance in the care of our patients.**
 
-\~\~Um, \~\~so there are validated tools available. \~\~Um, \~\~I
-suppose what we really need. And again, if somebody wants to, \~\~okay,
-I was going to say, make a million, but you're not going to make a
-million out of this. But if somebody wants to have a, you know, \~\~get
-their name on a few papers, \~\~then ~~then a practical~~ , um,\~\~ easy
-to use clinical tool that is validated for assessment of patient
-reported outcomes is what we need.
+Before I go into the trials, 'm just going to go back a step and just
+talk about the general mindset that's important for these patients. So
+what we're treating with these patients is not superficial venous
+reflux. What we're treating is chronic venous hypertension. So we're
+treating a global pathophysiological entity of which the superficial
+reflux is one correctable factor. And the reason that's important is
+that there may be other correctable factors, such as venous outflow
+obstruction or other sort of mobility related things can be adjusted.
 
-\~\~Um, and, \~\~and I think that the important thing here is that the
-tendency for vascular specialists and Venus specialists is to focus on
-the imaging, then treat a lesion or treat a refluxing vein, or treat us
-the gnosis. We've got to get away from that. We're treating patients and
-~~you know, you,~~ there's no point treating the stenosis and say
-symptomatic.
+But they're also going to be lots of uncorrectable factors, such as poor
+mobility, heart failure, dependency, ankle stiffness. If your ankle is
+stiff, you can't use your calf muscle to pump effectively. You don't
+have that mechanism for clearing the pressure out of your legs. So the
+success of these treatments, particularly for the ulcer population, has
+to be taken in the context of treating venous hypertension as well.
 
-There's no point treating a lesion is not. Going to make a difference to
-the patient. So \~\~that \~\~that clinical correlation is absolutely
-imperative. So it's really just to teach the mindset, \~\~you know,
-\~\~always ask patients, how much does it impact you on a daily basis?
-What is it that your Venus disease stops you from doing?
+Having said that the aim of these trials was really very simple. Most
+patients with venous ulceration have got superficial reflux. So what is
+the role of treating the superficial reflux? That's the simple question
+that was asked by these trials.
 
-\~\~Um, \~\~so those are the sort of questions I think we should all
-ask.
+So the ESCHAR trial recruited between 1999 and 2002, 500 patients with
+healed and open leg ulcers. They either randomized to compression or
+compression and traditional, superficial venous surgery, stripping or
+ligation. And that trial was very clear. It showed that with venous
+stripping there wasn't a benefit for healing, but there was a
+significant and sizable reduction in the risk of ulcer
+recurrence.[@gohel2007]
 
-**andrew_nickinson-denoise:** Yeah. \~\~I mean, \~\~that's, such an
-important point. And I know as a $$00:10:00$$ speaking person who is a
-trainee, we will tend to focus on what we see in front of us and the
-disease rather than how it affects the patient. And that's a really
-excellent point moving on to the treatment of superficial disease. ~~Um,
-I think we're going to go slightly off, off what I've written here, but
-, um, when we talk about,~~ when we talk about treatment of superficial,
-Venus and competence, I don't think we can really get away from talking
-about the two major studies.
+So one of the criticisms of ESCHAR was lots of people didn't have the
+same surgery. Lots of people had just ligation alone, et cetera. We
+don't really do stripping anymore, it's all endovenous. So EVRA really
+aimed to bring the ESCHAR trial up to modern practice. We randomized 450
+patients with open leg ulcers to early endovenous treatments, delivered
+within two weeks versus a more delayed approach. What EVRA showed, again
+is common sense, if you do with the underlying problem, the venous
+ulceration healed significantly quicker.[@gohel2018]
 
-The Ashkar in there for our studies, which I know you've been involved
-with. Mr. Girl, would you mind just \~\~sort of \~\~talking briefly
-about \~\~what, ~~what these~~ , um,\~\~ studies showed and their
-importance \~\~of , uh, \~\~in the care of our patients.
-
-**manj_gohel - denoise:** Yes, of course. \~\~So, \~\~so \~\~just,
-~~just before I go into the trials~~ , um,\~\~ I'm just going to go back
-a step and just talk about the general mindset that's important for
-these patients. ~~So th~~ so what we're treating with these patients is
-not superficial venous reflux. What we're treating is chronic venous
-hypertension.
-
-So we're treating \~\~a, \~\~a global pathophysiological entity of which
-the superficial reflux is one correctable factor. And the reason that's
-important is that there may be other correctable factors, \~\~you know,
-~~venous, outflow, obstruction~~ , um, \~\~other sort of mobility
-related things that \~\~they can, \~\~they can $$00:11:00$$ adjust.
-
-But they're also going to be lots of. Uncorrectable factors\~\~ ,
-um,\~\~ poor mobility\~\~ , um,\~\~ heart failure, dependency, ankle
-stiffness. If your ankle is stiff, you can't use your calf muscle pump
-effectively. You don't have that mechanism for clearing the pressure out
-of your legs. \~\~So, \~\~so these treatments, the success of these
-treatments, particularly for the ulcer population has to be taken in the
-context of treating venous hypertension as well.
-
-Having said that the aim of these trials was to put together was really
-very simple. ~~In~~ most patients with venous ulceration have got
-superficial reflux. So what is the role of treating the superficial
-reflux? ~~But those~~ that's the simple question that was asked by these
-trials. So the Escar trial recruited between 1999 and 2002, 500 patients
-with healed and open.
-
-And they either were under most of compression or compression and ~~kind
-of~~ traditional, superficial venous surgery, stripping or ligation if
-they were on it. And that trial was very clear. It showed that there
-wasn't a benefit for healing, $$00:12:00$$ but there was a significance
-and, \~\~you know, \~\~really sizeable reduction in the risk of Elsa
-recurrence.
-
-If you treat the superficial reflux with stripping, so really important
-findings\~\~ , um, the Everest study.\~\~ So one of the criticisms of
-that scar was lots of people didn't have their surgery. Lots of people
-had just ligation alone, et cetera. We don't really do stripping
-anymore. It's endo Venus. So ~~Escar really aimed to bring~~ everyone
-really, to bring the Escar trial up to modern practice.
-
-And we randomized hundred and 50 patients with open leg ulcers to end
-the Venus treatments early delivered ~~with two~~ within two weeks
-versus a more delayed approach and whatever showed again, \~\~you know,
-\~\~common sense if you do with the underlying problem, the venous
-ulceration healed significantly quicker.
-
-So put them together clear unequivocal argument for treating the
+So put them together clear, unequivocal argument for treating the
 superficial reflux in these patients as quickly as possible.
 
-**andrew_nickinson-denoise:** Can you broadly outline the \~\~different,
-\~\~different treatment options that are available to, or can be offered
-to patients with superficial Phoenix reflex?$$00:13:00$$
+**Can you broadly outline the different treatment options that can be
+offered to patients with superficial venous reflex?**
 
-**manj_gohel - denoise:** Yeah. \~\~So, so, uh, \~\~another presentation
-I've given recently has looked at different treatment options, and I
-have counted about 42 different ways of motoring, a saphenous vein.
-\~\~Um, so, \~\~so ~~I'm gonna,~~ I'm going to actually be slightly
-obstructive and not answer the question. ~~Um, so~~ there are lots of
-different treatment options.
+I have counted about 42 different ways of murdering a saphenous vein.
+Long and short of it, there are lots of different treatment options. Do
+something that you're trained in and proficient with and something
+that's appropriate. Thermal ablation is in the NICE guidance and in lots
+of other international guideline documents has been combined, whether
+it's radiofrequency or laser. Although foam sclerotherapy therapy, when
+studied in randomized trials, has lower technical success rates and
+lower vein closure rates, the clinical success rates in terms of healing
+are just as good. This sort of five, six, even 10% reduction in closing
+the vein, doesn't really seem to translate into a significant drop in
+clinical effectiveness.
 
-What is \~\~much, ~~much, much more important is doing it quickly. And
-getting it done rather than which hot Zack are you going to use~~ ,
-um,\~\~ do something that you're trained through, something that's
-appropriate. I\~\~ I mean, \~\~thermal ablation has in the nice guidance
-and in lots of other international guideline documents has been
-combined, whether it's radiofrequency or laser.
+So I think the most important thing is not necessarily what you use,
+it's doing it quickly and delivering it to the people that need it.
 
-\~\~Um, and, \~\~and I think even folks near a therapy, which has got in
-the randomized studies, lower technical success rates, lower vein
-closure rates in the leg ulcer trials, the clinical success rates in
-terms of also healing are just as good. \~\~So, you know, this, \~\~this
-sort of five, six, even 10% reduction in closing the vein, doesn't
-really seem to translate into a significant drop in clinical
-effectiveness.
+**When we are consenting patients for endovenous intervention, what
+risks should we discuss with the patient and that they need to be aware
+of?**
 
-So I think the most important thing is not $$00:14:00$$ necessarily what
-you use, it's doing it quickly and delivering it to the people that need
-it.
+You can spend an hour doing this, if you're being very diligent. But
+what I say to patients are that there are generic risks of venous
+thromboembolism is the risk of any intervention. And I think that's
+worthy of specific discussion after endovenous procedures, but I quote a
+risk of around one in 200 for most endovenous interventions.
 
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* so when we are consenting patients
-for endovenous intervention, what risks should we discuss with the
-patient and that they need to be aware of?
+There's always a risk of bruising. And if you do phlebectomies, what I
+often tell people is that bruising sometimes looks worse than it feels.
+And with the thermal interventions in particular, I think the risk of
+nerve related complications, so some numbness or some nerve pain, are
+worthy of mentioned, and of course the risk of recurrence.
 
-**manj_gohel - denoise:** \~\~um, \~\~ so you can spend an hour doing
-this \~\~if you, ~~if you're being very diligent about it with the
-recent sort of legal rulings in the UK, et cetera. But what I say to
-patients are that there are generic risks of venous thromboembolism is
-the risk of any intervention. And I think that's worthy of specific
-discussion in a little while after under beans procedures, but I quote a
-risk of around one in 200~~ , uh,\~\~ for most intervenous
-interventions.
+Foam sclerotherapy has a different mechanism of action. It's a detergent
+that's injected into the vein that kills the endothelium. And there are
+some people that have associated foam sclerotherapy with some
+neurological events. So a very large registry that was organized by the
+manufacturers of STS recently looked at 10,000 patients in the UK and
+found very few events-around one in 4-5,000. Some people say that if
+there is a history of migraine, then the risk of these neurological
+events might be a little bit higher.
 
-\~\~Um, \~\~there's always a risk of bruising. And if you didn't,
-phlebectomies what I often tell people is that bruising sometimes looks
-worse than it feels. \~\~Um, ~~and with the third one interventions in
-particular~~ , um,\~\~ I think the risk of. Nerve related complications.
-So some numbness or some nerve pain are worthy of mentioned, and of
-course the risk of recurrence.
+So, a little bit of caution, although in practice, I've treated many
+people with migraines. But if you believe the literature, one in four or
+five, people have got a little ASD and obviously we treated lots of
+those people, so the risks are very low but it's just important to have
+that discussion beforehand.
 
-So these are the main things to mention. Now, a couple of specific
-things. ~~So~~ foam sclerotherapy\~\~ , um, has got some , uh,\~\~
-obviously a different mechanism of action. \~\~It's a, \~\~it's a
-detergent that's injected into the $$00:15:00$$ vein that kills the
-endothelium. And there are some people that have associated foam sort of
-therapy with some neurological events.
+**Are there any techniques that we can use to mitigate some of these
+risks?**
 
-\~\~Um, ~~so the very large registry~~ , um,\~\~ that was organized by
-the manufacturers of fiber vein recently looked at 10,000 patients in
-the UK. \~\~Very \~\~very few events. So handful events and event rates
-of around one in four, one in 5,000. \~\~Um, \~\~and some people say
-that who've got a history of migraine, then the risk of these
-neurological events might be a little bit higher.
+So I think VTE is something that is really worth specifically
+discussing. I t's a very rare event after superficial venous
+interventions, but it's potentially catastrophic. It's newspaper worthy,
+if young people end up having a very bad outcome. What we've got to
+realize is that the rate of VTE events is very low, there are almost
+certainly some people that have got a higher risk. And so what we've got
+to get slightly smarter about is identifying the people that have a
+higher risk of VTE and maybe giving them prolonged course of
+thromboprophylaxis, as well as appropriate counseling and mitigation as
+well.
 
-\~\~So, \~\~so again, a little bit of caution, although in practice,
-I've treated many people with migraines. \~\~Um, you know, \~\~if you
-believe the literature, \~\~one in sort of, you know, \~\~one in four or
-five, people have got a little ASD and, \~\~you know, \~\~obviously we
-treated lots of those people, so the risks are \~\~very, \~\~very low.
-
-\~\~Um, \~\~but it's just important to have that discussion beforehand.
-
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* are there any techniques that we
-can use to mitigate some of these risks?
-
-**manj_gohel - denoise:** Okay. So I think VT is something that is
-really worth specifically discussing. \~\~So, um, \~\~it's a very rare
-event after superficial venous interventions, but it's potentially
-catastrophic. It's \~\~sort of, you know, \~\~newspaper worthy. If
-\~\~you know, ~~young people~~ , um,\~\~ end up having a very bad
-outcome and $$00:16:00$$ we've seen headlines and ~~poor~~ colleagues
-that have been dragged through the mud over this.
-
-And I think what we've got to realize is that, although \~\~the rate,
-~~the rate of these~~ , uh,\~\~ VTE events is \~\~very, \~\~very low.
-There are almost certainly some people that have got a higher risk. And
-so what we've got to get slightly smarter about is identifying the
-people that put a higher risk of VTE. And maybe giving them \~\~a, \~\~a
-prolonged course of thromboprophylaxis as well as appropriate counseling
-and mitigation as well.
-
-So it's about getting smarter about risk assessment. The kind of risk
+So it's about getting smarter about risk assessment. The current risk
 assessment tools are not really fit for purpose when it comes to
-superficial venous intervention. So the department of health where the
+superficial venous intervention. So the department of health or the
 Caprini tools don't really take into account some of the really
-important factors that I think do impact on VT risk after superficial
+important factors that I think do impact on VTE risk after superficial
 venous interventions.
 
-\~\~Um, \~\~so again, ~~what we have, so if~~ there's nothing validated,
-there's nothing widely available. \~\~Um, ~~Isaac name meet she's a
-vascular surgeon and Worcester has done a lot of work on this over many
-years, but what we have in Cambridge is a~~ , uh,\~\~ local\~\~ , um,
-~~specific risk assessment approach~~ $$00:17:00$$ to , uh,\~\~ patients
-having superficial venous interventions.
+There's nothing validated, there's nothing widely available, but we have
+a local, specific risk assessment for patients having superficial venous
+interventions. There are major risk factors we look out for, such as
+previous ipsilateral VTE, active malignancy, but also significant
+chronic inflammatory conditions (i.e. inflammatory bowel disease), these
+patients have a much higher risk of VTE than we previously recognized.
+There are also minor factors, superficial vein thrombosis, obesity,
+comorbidities. All of these things are put together and we come out with
+a score. For patients above a certain threshold, they get offered
+extended rivaroxaban or low molecular weight heparin. So then we can get
+smarter.
 
-There are major risk factors we look out for, which has specifically
-things like previous ipsilateral VTE, active malignancy, but also
-significant chronic inflammatory conditions. There's somebody who's got
-inflammatory bowel disease. Actually, these patients have a much higher
-risk of VTE that we previously recognized.
+In addition, it is important to implement mitigation. So traditionally
+things like a contraceptive pill, HRT and Tamoxifen, we wouldn't usually
+stop them for a local anesthetic procedure, but being on an estrogen
+containing pill doubles or triples your risk of VTE. It's an easily
+reversible thing in the short term that can be done. So for my patients,
+I would normally recommend that we stop the pill a full cycle before,
+and similarly a month before and after the procedure.
 
-\~\~Um, \~\~and they're also minor factors, of course, superficial vein
-thrombosis, obesity co-morbidities \~\~um, ~~so all of these things then
-get put together. We come out with a school and then for patients above
-a certain threshold, they get offered extended~~ , uh,\~\~ rivaroxaban
-all over like the, it happened. \~\~Um, \~\~so then we can get smarter.
+**You mentioned it an extended course of anticoagulation for those
+patients with risk factors. Is there a specific timescale locally that
+you use for this?**
 
-\~\~Um, \~\~and also mitigation. \~\~I mean, uh, \~\~so traditionally
-things like lapel and HRT and Tamoxifen, \~\~you know, \~\~we've not
-stopped them \~\~traditionally \~\~because it's, \~\~you know, \~\~it's
-just a local anesthetic procedure, \~\~you know, \~\~why do we need to
-stop them? ~~And I think it's, it's an ease. So I haven't~~ been on an
-estrogen containing\~\~ , um,\~\~ pale doubles or trebles your risk of
-ETA.
-
-So it's an easily reversible thing in the short term \~\~that can be,
-\~\~that can be done. So for my patients, I would normally recommend
-that we do that. So we stop it, \~\~you know, ~~full cycle~~ , uh,\~\~
-$$00:18:00$$ before for the pill. \~\~Um, \~\~and similarly a month
-before and after penny Johnson,
-
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* you mentioned it an extended
-course of anticoagulation for those patients with risk factors, ~~Mr.
-Goldhill,~~ is there a specific timescale locally that you use for this.
-
-**manj_gohel - denoise:** \~\~So, uh, again, so the, \~\~ the venous
-forum\~\~ , um,\~\~ actually produced\~\~ , um,\~\~ some guidance
-\~\~last year to help actually even \~\~the year before last ~~now sort
-of erase the whole of last year from my memory, unfortunately. So, um,
-so produce some guidance , um,~~ in exactly this area. \~\~Um, ~~and we
-use about a week or 10 days~~ , uh,\~\~ for a lot of these patients, but
-if there's a, if there's an ongoing, persistent risk factor, then
-actually the VT risk persists for four to six weeks, which is an
-argument for up to six weeks to carry on for particularly high risk
+The venous forum produced some guidance the year before last in exactly
+this area. We often only do about a week or 10 days for a lot of these
+patients. However, if there's an ongoing, persistent risk factor, then
+actually the VTE risk persists for four to six weeks, and thus there may
+be an argument for up to six weeks of therapy in particularly high risk
 patients.
 
-I think if at that high risk, you've really got to question whether a
-superficial venous intervention is needed\~\~ , um,\~\~ balancing the
-risks and the benefits. \~\~Um, \~\~but it is interesting. So after
-these procedures, we know that the VTE risk ~~proceeds~~ is there for at
-least another six weeks afterwards. \~\~So, \~\~so for the really high
-risk patients, don't stop it too soon.
+However, if they are really that high risk, you've really got to
+question whether a superficial venous intervention is needed, balancing
+the risks and the benefits. But since for some patients the high risk
+period persists for at least another six weeks afterwards, be careful
+not to stop prophylaxis too soon.
 
-**andrew_nickinson-denoise:** ~~Um, okay. Uh, so~~ moving on to a
-specific question about treatment, ~~but~~ what is the role for treating
-and competent perforator veins in these patients?
+**Moving on to a more specific question about treatment, what is the
+role for treating and competent perforator veins in these patients?**
 
 **manj_gohel - denoise:** So the facetious answer is $$00:19:00$$ it
 depends on how much you're being reimbursed for them. But \~\~the, ~~the

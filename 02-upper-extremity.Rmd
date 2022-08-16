@@ -25,44 +25,44 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_Upper_Extremity_po
 Division of the upper extremity into three zones:
 <!--# Would be great to link to an free open source anatomy text -->
 
-**1. Intrathoracic Zone:** Inclusive of the aortic arch and its
-branches, innominate artery (dividing into right subclavian and right
-common carotid), left subclavian artery and left common carotid artery,
-as well as the innominate veins, and SVC.
+1.  Intrathoracic Zone: Inclusive of the aortic arch and its branches,
+    innominate artery (dividing into right subclavian and right common
+    carotid), left subclavian artery and left common carotid artery, as
+    well as the innominate veins, and SVC.
 
-**2. Thoracic Outlet:** Extends from the base of neck to the axila.
-Includes the subclavian, proximal vertebral, and proximal axillary
-arteries, as well as the corresponding veins).
+2.  Thoracic Outlet: Extends from the base of neck to the axila.
+    Includes the subclavian, proximal vertebral, and proximal axillary
+    arteries, as well as the corresponding veins).
 
-**3. Axilla to Fingers:** The arm.
+3.  Axilla to Fingers: The arm.
 
 **What are some common exposures for major upper extremity arteries?**
 
-**Right Subclavian Artery:** For proximal artery exposure a medial
-sternotomy is required, for the mid-distal artery a right
-supraclavicular approach is needed.
+1.  Right Subclavian Artery: For proximal artery exposure a medial
+    sternotomy is required, for the mid-distal artery a right
+    supraclavicular approach is needed.
 
-**Left Subclavian Artery:** An anterolateral thoracotomy is required in
-emergent settings for proximal left subclavian artery control. For
-proximal, mid and distal exposure is required a "trap door" exposure is
-used: anterolateral thoracotomy, third space sternotomy, and left
-supraclavicular incision.
+2.  Left Subclavian Artery: An anterolateral thoracotomy is required in
+    emergent settings for proximal left subclavian artery control. For
+    proximal, mid and distal exposure is required a "trap door" exposure
+    is used: anterolateral thoracotomy, third space sternotomy, and left
+    supraclavicular incision.
 
-**Supraclavicular Incision:** After division of the platysma and
-clavicular head of the SCM, a fat pat of varying thickness is
-encourntered which contains the omohyoid muscle. This should be divided
-and placed supero-laterally. At this point, the anterior scalene muscle
-is exposed medially with the phrenic nerve running in a lateral to
-medial direction, which should be identfied and preseved. In a
-carotid/subclavian bypass division of the anterior scalene should be
-performed as close to the first rib as possible. Once divided the
-subclavian artery is exposed.
+3.  Supraclavicular Incision: After division of the platysma and
+    clavicular head of the SCM, a fat pat of varying thickness is
+    encourntered which contains the omohyoid muscle. This should be
+    divided and placed supero-laterally. At this point, the anterior
+    scalene muscle is exposed medially with the phrenic nerve running in
+    a lateral to medial direction, which should be identfied and
+    preseved. In a carotid/subclavian bypass division of the anterior
+    scalene should be performed as close to the first rib as possible.
+    Once divided the subclavian artery is exposed.
 
-**Axillary Artery:** Exposure is gained through an infraclavicular
-inicision, below the middle third of the clavicle. Pectoralis major is
-divided and pectoralis minor is freed at the lateral margin of the
-wound. The axillary vein should be identified and followed supero-deeply
-to identify and expose the artery.
+4.  Axillary Artery: Exposure is gained through an infraclavicular
+    inicision, below the middle third of the clavicle. Pectoralis major
+    is divided and pectoralis minor is freed at the lateral margin of
+    the wound. The axillary vein should be identified and followed
+    supero-deeply to identify and expose the artery.
 
 Anatomically bound by the first rib proximally and the lateral edge of
 the teres major muscle distally. For exposure of the first part of the
@@ -179,7 +179,7 @@ Diagnostic Evaluation
 
 2.  Brachial/forearm blood pressures and if suspected claudication,
     measured at rest and 2-5 minutes after exercise. Look for a gradient
-    of >20 mmHg is considered significant
+    of \>20 mmHg is considered significant
 
 3.  Some or all of 6 P's of acute limb ischemia with symptoms occurring
     within 14 days are deemed acute
@@ -225,7 +225,7 @@ Exposure (Transposition vs Bypass)
     (bypass IJ is mobilized medially to expose CCA and care must be
     taken to avoid phrenic nerve in more lateral approach)
 
--   CCA is reflected medially with vagus nerve 
+-   CCA is reflected medially with vagus nerve
 
 -   On the left side, the thoracic duct is identifiable and divided
     followed by dividing the vertebral vein
@@ -265,9 +265,9 @@ Complications [@voigtOutcomesCarotidsubclavianBypass2019]
 occlusive disease?** [@jacklcronenwettVascularDecisionMaking2020]
 
 -   Etiology: Atherosclerosis is the most common cause of
-    subclavian/axillary occlusive disease. Left SCA > Right involvement.
-    Less common causes include Takayasu disease, giant cell arteritis,
-    or arterial TOS
+    subclavian/axillary occlusive disease. Left SCA \> Right
+    involvement. Less common causes include Takayasu disease, giant cell
+    arteritis, or arterial TOS
 
 -   Symptoms: Upper extremity arm/hand ischemia or neurologic symptoms
     due to subclavian-vertebral steal. Because significant collaterals,
@@ -279,7 +279,7 @@ occlusive disease?**
 -   Etiology: MCC of brachial artery occlusion is cardiac origin
     embolus. Atherosclerosis RARELY affects the brachial artery. Distal
     axillary/proximal brachial stenosis can be from repetitive trauma
-    from crutch use. 
+    from crutch use.
 
 -   Forearm occlusive disease can be seen in advanced ESRD/DM where
     calcific atherosclerosis of radial/ulnar arteries is present. Less
@@ -302,25 +302,25 @@ occlusive disease?**
 
     -   Surgery:
 
-        -   Bypass from aortic arch through median sternotomy 
+        -   Bypass from aortic arch through median sternotomy
 
         -   Ipsilateral CCA to subclavian artery (bypass or
-            transposition) 
+            transposition)
 
         -   Contralateral CCA (anterior or retropharyngeal)
 
--   Brachial/forearm Occlusive disease 
+-   Brachial/forearm Occlusive disease
 
     -   Endovascular: PTA evidence is anecdotal with stents for lesions
-        unresponsive to PTA or dissection following angioplasty 
+        unresponsive to PTA or dissection following angioplasty
 
-    -   Surgery: 
+    -   Surgery:
 
         -   GSV vein bypass remains standard for revascularization with
             bypasses to superficial or deep palmar arch have good
             patency rates. Tunneling is subcutaneous if to distal ulnar
             or superficial palmar arch whereas anatomical to distal
-            radial artery over the anatomic snuffbox 
+            radial artery over the anatomic snuffbox
 
 ## Vasospastic Disorders
 
@@ -353,13 +353,13 @@ underlying pathology?**
 
 **What are diagnostic criteria for Raynaud's?**
 
--   Clinical (Progression of ischemia with white -> blue -> red finger
+-   Clinical (Progression of ischemia with white -\> blue -\> red finger
     discoloration. Episodes can be self-limited and may last from less
-    than a minute, but generally not longer than 10-20 minutes 
+    than a minute, but generally not longer than 10-20 minutes
 
 -   Qualitative testing for severity of cold sensitivity in Raynaud's
     syndrome can be useful. Most basic test is cold sensitivity and
-    recovery after ice water immersion. >10 minutes return to baseline
+    recovery after ice water immersion. \>10 minutes return to baseline
     pressure concerning for Raynaud's
 
 -   Segmental pressures with finger systolic blood pressure can
@@ -375,24 +375,24 @@ underlying pathology?**
     has been the most effective and losartan has also been beneficial.
     Fluoxetine (SSRI). Other drugs include alpha blocker, sildenafil,
     reserpine, cilostazol, captopril. NOT GOOD OUTCOMES IN PATIENTS WITH
-    ARTERIAL OBSTRUCTION 
+    ARTERIAL OBSTRUCTION
 
 2.  Surgical-thoracic sympathectomy (used for treatment of digital
     artery vasospasm/digital ischemic ulceration). For vasospasm,
     thoracic sympathetcomy is initially successful, but symptoms return
-    generally within 3-6 months. 
+    generally within 3-6 months.
 
 3.  Immunosuppression/immunomodulation for connective tissue disorders
     associated with secondary Raynaud phenomenon
 
-### **Ergotism**
+### Ergotism
 
 **What is Ergotism?** [@jamescstanleyCurrentTherapyVascular2014]
 
 -   Etiology: Ergot is a parasitic fungal disease that has a particular
     prevalence for infecting rye plants and ergot alkaloids have been
     linked to epidemic poisonings that manifested as ergotism from
-    consumption of rye 
+    consumption of rye
 
 -   Modern day is rare
 
@@ -402,31 +402,31 @@ underlying pathology?**
     and when applied clinically, it behaves as an agonist to
     alpha-adrenergic, sertoninergic, and dopaminergic receptors. Despite
     limited bioavailability, vasocontrictive effects have been reported
-    to last for 24 hours or longer 
+    to last for 24 hours or longer
 
--   Gangrenous-mild limb pain followed by burning pain/shooting and 
+-   Gangrenous-mild limb pain followed by burning pain/shooting and
 
 -   Convulsive-heaviness in limbs and head associated with diarrhea.
-    Could result in tonic-clonic spasms 
+    Could result in tonic-clonic spasms
 
 **How can you diagnose Ergotism and what is the process for treating
 this disease?**
 
 Upper extremity ischemia (i.e. digital ulceration) in the setting of
-ergot alkaloid use (typically for migraines) 
+ergot alkaloid use (typically for migraines)
 
-Treatment: 
+Treatment:
 
--   Volume expansion and IV heparin as anticoagulation 
+-   Volume expansion and IV heparin as anticoagulation
 
 -   IV infusion of nitroprusside, nitroglycerin, ilioprost or
     combination
 
--   Infusion of Ca 2+ channel blockers 
+-   Infusion of Ca 2+ channel blockers
 
--   Surgical: for thrombosis, consider thrombolysis 
+-   Surgical: for thrombosis, consider thrombolysis
 
-### **Buerger's Disease**
+### Buerger's Disease
 
 **How is Buerger's disease categorized?**
 [@jacklcronenwettVascularDecisionMaking2020]
@@ -467,19 +467,19 @@ Buerger's?**
     smoking cessation.
 
 2.  If smoking cessation does not improve, medical management with
-    antiplatelet agents, immunomodulators, vasodilators, anticoagulants 
+    antiplatelet agents, immunomodulators, vasodilators, anticoagulants
 
 3.  Endovascular-distal small vessel intervention
 
 4.  Surgical-upper extremity autogenous vein bypass-limited success due
-    to poor outflow 
+    to poor outflow
 
 5.  Sometimes can consider upper extremity sympathectomy, but unproven
-    benefit 
+    benefit
 
-6.  Amputation-reported in 30-40% who are followed longer than 5 years 
+6.  Amputation-reported in 30-40% who are followed longer than 5 years
 
-### **Large Artery Vasculitis**
+### Large Artery Vasculitis
 
 **What are common characteristics for patients who are suspected to have
 a large vessel vasculitis?** [@shanmugam137VasculitisOther2019]
@@ -508,9 +508,9 @@ arteritis?**
 
         1.  Onset \<40 years
 
-        2.  Claudication of an extremity 
+        2.  Claudication of an extremity
 
-        3.  Decreased brachial pulse 
+        3.  Decreased brachial pulse
 
         4.  \>10 mmHg SBP between arms
 
@@ -520,20 +520,20 @@ arteritis?**
             aorta/primary branches/or large upper/lower extremity
             arteries
 
-2.  Giant cell arteritis 
+2.  Giant cell arteritis
 
     1.  Aorta and main branches, but pre-dilection for carotid artery
         branches
 
-    2.  Diagnosis: 
+    2.  Diagnosis:
 
-        1.  Age at disease onset > 50 years 
+        1.  Age at disease onset \> 50 years
 
         2.  New headache
 
-        3.  Temporal artery abnormality 
+        3.  Temporal artery abnormality
 
-        4.  Elevated ESR (>50) 
+        4.  Elevated ESR (\>50)
 
         5.  Abnormal artery biopsy (gold standard test)
 
@@ -541,7 +541,7 @@ arteritis?**
         changes
 
     4.  Associated with Polymyalgia rheumatic, characterized by morning
-        stiffness in shoulders/hips occurring in 40-50% of patients 
+        stiffness in shoulders/hips occurring in 40-50% of patients
 
     5.  Arteriography/MRA/CTA/PET may be used to assess large vessel
         involvement
@@ -563,11 +563,11 @@ surgical treatment?**
     large vessel vasculitis refractory to glucocorticoid therapy alone,
     patients will trial immunomodulators or cytotoxic truxs (ie
     methotrexate, azathioprine, mycophenolate, tocilizumab, or
-    leflunomide) 
+    leflunomide)
 
 -   Intervention-once remission, treatment of symptomatic arterial
     lesions should be considered and as many as 50-70% with large vessel
-    vasculitis will require intervention. 
+    vasculitis will require intervention.
 
     -   Endovascular-angioplasty/stent/stent graft for large vessel
         vasculitis have all been described, however higher restenosis in
@@ -581,7 +581,7 @@ surgical treatment?**
         -   Upper extremity bypass with autogenous vein to the brachial
             artery
 
-        -   Aortic aneurysms should be managed with open surgery 
+        -   Aortic aneurysms should be managed with open surgery
 
 ## Aneurysmal Disease
 
@@ -595,7 +595,7 @@ Etiology/Pathology:
     diverticulum")
 
 -   Traumatic (blunt, penetrating, iatrogenic with attempted catheter
-    placement) 
+    placement)
 
 -   Thoracic outlet obstruction
 
@@ -616,23 +616,23 @@ aneurysms?**
 -   CXR-mediastinal mass may suggest neoplasm
 
 -   MRA/CTA important to delineate extent of aneurysm and proximity to
-    ipsilateral vertebral artery 
+    ipsilateral vertebral artery
 
-Treatment: 
+Treatment:
 
 -   Open Repair-resection/endoaneurysmorrhaphy with end to end (small
-    aneurysms) or interposition prosthetic graft 
+    aneurysms) or interposition prosthetic graft
 
     -   Proximal-median sternotomy with supraclavicular fossa extension
         for adequate proximal control for right side, however
         supraclavicular with left anterolateral thoracotomy for left
-        subclavian aneurysm 
+        subclavian aneurysm
 
     -   Mid-Distal-supraclavicular/infraclavicular generally adequate
-        for control where again resection of the clavicle may be needed 
+        for control where again resection of the clavicle may be needed
 
 -   Endovascular Repair-transbrachial/transfemoral approach with covered
-    stent 
+    stent
 
     -   Must consider vertebral artery origin. Can cover vertebral
         artery if contralateral vertebral artery is patent and of
@@ -654,16 +654,16 @@ Treatment: 
 
 **How are axillary aneurysms caused and how can they present?**
 
-Etiology/Pathology: 
+Etiology/Pathology:
 
 -   Blunt/penetrating trauma
 
 -   Congenital (infrequently reported)
 
 -   Post-traumatic axillary aneurysms (repeated abduction/external
-    rotation downward toward humeral head in baseball pitchers) 
+    rotation downward toward humeral head in baseball pitchers)
 
-Presentation: 
+Presentation:
 
 -   Exam-pulsatile supraclavicular mass or bruit, absent/diminished
     pulses, signs of microembolization ("blue finger")
@@ -671,16 +671,16 @@ Presentation: 
 **What are diagnostic studies and treatment modalities for axillary
 aneurysms?**
 
-Diagnosis: 
+Diagnosis:
 
 -   Ultrasound
 
 -   CTA/MRA of upper extremity
 
-Treatment: 
+Treatment:
 
 -   Open Repair-resection with interposition vein grafting or prosthetic
-    if inadequate vein is present. 
+    if inadequate vein is present.
 
 -   Endovascular repair-covered stent graft can be placed with
     occasional embolization with micro coils to isolate sac and prevent
@@ -688,19 +688,19 @@ Treatment: 
 
 **How are brachial aneurysms caused and how can they present?**
 
-Etiology/Pathology: 
+Etiology/Pathology:
 
 -   False aneurysms secondary to repetitive trauma
 
--   Iatrogenic complications 
+-   Iatrogenic complications
 
--   IV drug abuse (infected pseudoaneurysms in antecubital fossa) 
+-   IV drug abuse (infected pseudoaneurysms in antecubital fossa)
 
 -   Connective tissue disorders (ex. type IV Ehlers danlos)
 
-Presentation: 
+Presentation:
 
--   Exam: pulsatile mass 
+-   Exam: pulsatile mass
 
 -   Local pain or symptoms of median nerve compressions
 
@@ -709,17 +709,17 @@ Presentation: 
 **What are diagnostic studies and treatment modalities for brachial
 aneurysms?**
 
-Diagnosis: 
+Diagnosis:
 
 -   Duplex Ultrasound
 
 -   CTA/MRA of upper extremity may be needed to delineate extent of
-    aneurysm 
+    aneurysm
 
-Treatment: 
+Treatment:
 
 -   Open Repair (preferred)-resection with patch or interposition vein
-    grafting  
+    grafting
 
 -   Endovascular repair-rare and generally in a traumatic setting
 
@@ -727,7 +727,7 @@ Treatment: 
     small/asymptomatic pseudoaneurysms that are likely to thrombose
     spontaneously. Direct suture repair with evacuation of hematoma is
     possible. Thrombin injection is less favorable due to location and
-    short neck. 
+    short neck.
 
 ## Occupational Vascular Disease
 
@@ -737,33 +737,33 @@ hypothenar hammer are of particular importance. Can you talk to us about
 the key information from these syndromes?**
 [@eskandari185ConditionsArising2020]
 
-### Hand-Arm Vibration Syndrome 
+### Hand-Arm Vibration Syndrome
 
 Etiology:
 
 -   Vibrating handheld machines (eg pneumatic hammers and drills,
-    grinders, and chain saws) 
+    grinders, and chain saws)
 
 -   Linear relationship between exposure over years and onset of this
-    syndrome 
+    syndrome
 
 -   Exact mechanism unknown, but thought that endothelial damage with
-    sympathetic hyperactivity -> finger blanching attack 
+    sympathetic hyperactivity -\> finger blanching attack
 
 Presentation:
 
 -   Various stages seen where early results in slight tingling/numbness
     and lateral, the tips of one or more fingers experience attacks of
-    blanching that is usually precipitated by cold 
+    blanching that is usually precipitated by cold
 
 -   Blanching typically lasts 1 hour and terminates with reactive
     hyperemia, but prolonged exposure can cause bluish black cyanosis of
-    fingers 
+    fingers
 
-Diagnosis 
+Diagnosis
 
 -   Detailed history with use of vibrating tools/symptoms of Raynaud
-    phenomenon 
+    phenomenon
 
 -   Objectively: cold induced ischemia with recording time until digital
     temperature recovers
@@ -775,47 +775,47 @@ Treatment
 
 -   Avoidance of vibratory tools
 
--   Nifedipine (Ca2+ channel blocker) in advanced cases 
+-   Nifedipine (Ca2+ channel blocker) in advanced cases
 
--   IV prostanoid (ie prostacyclin) for digital gangrene 
+-   IV prostanoid (ie prostacyclin) for digital gangrene
 
 -   Surgery-cervical sympathetectomy or digital sympathectomy rarely
     needed\
 
 ### Hypothenar hammer syndrome
 
-Etiology: 
+Etiology:
 
 -   Repetitive use of palm of hand in activities that involve pushing,
     pounding, twisting
 
 -   Name comes from reports of mechanics, factory workers, carpenters or
     laborers who habitually use there hands as a hammer are ad risk for
-    disease 
+    disease
 
 -   Repetitive trauma leads to thrombotic occlusion, aneurysm formation
     or both
 
-Presentation: 
+Presentation:
 
 -   Asymmetrical distribution involving dominant upper extremity where
     cyanosis and pallor can occur and digits affected are ulnar
-    distribution in nature 
+    distribution in nature
 
 -   Cool/mottled digits or severe cases with ischemic ulcers
 
-Diagnosis: 
+Diagnosis:
 
--   Duplex ultrasound 
+-   Duplex ultrasound
 
--   CTA or MRA 
+-   CTA or MRA
 
 -   Arteriography (gold standard) with corkscrew pattern typically in
     affected vessels
 
-Treatment 
+Treatment
 
--   Conservative-smoking cessation/hand protection/cold avoidance 
+-   Conservative-smoking cessation/hand protection/cold avoidance
 
 -   Medical-calcium channel blockers/antiplatelet
 
@@ -830,24 +830,24 @@ ischemia?**
 Acrosteolysis
 
 -   Exposure to polyvinyl chloride can result in ischemic hand symptoms
-    similar to those of Raynaud syndrome 
+    similar to those of Raynaud syndrome
 
 -   Angiography-damage to digital arteries with multiple
     stenosis/occlusions or hyper vascularity adjacent to areas of bone
-    resorption 
+    resorption
 
 -   Treatment-supportive
 
 Electrical burns
 
 -   \<1000 V cause injuries limited to immediate skin/soft tissue,
-    however >1000 V cause damage from entry to exit point 
+    however \>1000 V cause damage from entry to exit point
 
 -   Results in arterial necrosis with thrombus or bleeding and gangrene
-    of digits develop 
+    of digits develop
 
 -   Initially can be occlusion/thrombosis or spasm, however later damage
-    can cause aneurysmal degeneration 
+    can cause aneurysmal degeneration
 
 -   Treatment-dependent on soft tissue/bone injuries as well. Can have
     reconstruction with free flap due to local vascular damage or
@@ -861,7 +861,7 @@ Extreme thermal injuries
 -   Raynaud syndrome symptoms due to vasomotor disturbances in the hands
     when exposed to extreme chronic thermal trauma
 
--   Treatment-Supportive 
+-   Treatment-Supportive
 
 ### Sports Medicine
 
@@ -877,39 +877,36 @@ Overview
 
 ## Vascular Trauma-Upper Extremity
 
-**This is discussed in detail here:** \@ref(vascular-trauma), **so we
-will go over some important specifics for upper extremity vascular
-injury.** [@kauvar184VascularTrauma2020]
+**This is discussed in detail here:** \@ref(peripheral), **so we will go over some important specifics for upper extremity vascular injury.**
+[@kauvar184VascularTrauma2020]
 
-**What is the mechanism and management of upper extremity axillary
-artery trauma?**
+**What is the mechanism and management of upper extremity axillary artery trauma?**
 
 Mechanism and Pattern
 
 -   Predominantly in penetrating trauma with equal incidence in
-    proximal/middle/distal divisions and brachial plexus injury
-    in >1/3rd of arterial injury
+    proximal/middle/distal divisions and brachial plexus injury in
+    \>1/3rd of arterial injury
 
 Diagnostic Considerations
 
 -   Physical exam with deficiencies in upper extremity pulses/ischemic
     changes, but may not be present given collateral flow from axillary
-    artery to upper extremity 
+    artery to upper extremity
 
 -   High index of suspicion with location of injury proximity to course
     of axillary artery
 
 -   Upper extremity Doppler or CTA if patient is stable for diagnosis
 
-Surgical Considerations 
+Surgical Considerations
 
--   Primary repair or treated with interposition graft 
+-   Primary repair or treated with interposition graft
 
 -   If hemodynamically stable, can consider covered stent based on
     location to thoracic outlet via femoral/brachial approach
 
-**What is the mechanism and management of upper extremity brachial
-artery trauma?**
+**What is the mechanism and management of upper extremity brachial artery trauma?**
 
 Mechanism and Pattern
 
@@ -919,11 +916,11 @@ Mechanism and Pattern
 
 Diagnostic Considerations
 
--   Pulse deficit in majority (>75% of cases)
+-   Pulse deficit in majority (\>75% of cases)
 
 -   Upper extremity Doppler of CTA
 
-Surgical Considerations 
+Surgical Considerations
 
 -   Given course, can be extensively mobilized and repaired in
     end-to-end fashion in 50% of cases. Otherwise, treatment with an
@@ -938,28 +935,28 @@ Mechanism and Pattern
 
 Diagnostic Considerations
 
--   Pulse deficit in >80% of patients 
+-   Pulse deficit in \>80% of patients
 
 -   Doppler based Allen test-confirm radial/ulnar contribution to palmar
     arch
 
-Surgical Considerations 
+Surgical Considerations
 
 -   If Allen test reveals a patent palmar arch, the injured artery can
-    be ligated 
+    be ligated
 
 -   If palmar arch is not patent in the absence of contribution of the
     injured artery, it should be repaired
 
 -   If both are damaged, preference to ulnar artery as dominant
-    contribution to hand 
+    contribution to hand
 
 -   Generally, repair can be done in an end to end fashion given
     mobility of the vessel
 
 ## Compression Syndromes
 
-**The** **main syndromes are quadrilateral space syndrome and humeral
+**The main syndromes are quadrilateral space syndrome and humeral
 compression of the axillary artery. What important information here do
 our listeners need to know?**
 
@@ -975,13 +972,13 @@ Anatomy:
 Pathophysiology
 
 -   Compression of posterior humeral circumflex occurs with
-    abduction/external rotation 
+    abduction/external rotation
 
 -   Typically seen with chronic overhand motion athletes
     (pitchers/volleyball players)
 
 -   Vascular-repetitive mechanical trauma to posterior circumflex
-    humeral artery 
+    humeral artery
 
 -   Neurogenic-fixed structural impaction of quadrilateral space by
     fibrous bands or space-occupying lesions
@@ -997,7 +994,7 @@ Treatment
     activities
 
 -   Surgery: decompression with neurolysis/excision of fibrous bands or
-    other space occupying lesions 
+    other space occupying lesions
 
 ### Humeral head compression of axillary artery
 
@@ -1046,13 +1043,13 @@ relating to the compression of the neurovascular structures that occurs
 as these structures travel between the thoracic aperture and the upper
 limb.
 
-Types: Neurogenic, Venous and Arterial 
+Types: Neurogenic, Venous and Arterial
 
 -   vTOS -- 2-3%
 
 -   aTOS -- 1%
 
--   nTOS --  >95% [@humphries124ThoracicOutlet2019]
+-   nTOS -- \>95% [@humphries124ThoracicOutlet2019]
 
 ### Anatomy
 
@@ -1076,11 +1073,11 @@ Anatomy from anterior to posterior
 Three spaces where the neurovascular structures are at risk of
 compression:
 
-1.  Interscalene Triangle 
+1.  Interscalene Triangle
 
-2.  Costoclavicular Passage [@garygwindAnatomicExposuresVascular2013]
+2.  Costoclavicular Passage[@garygwindAnatomicExposuresVascular2013]
 
-3.  Subcoracoid Space [@garygwindAnatomicExposuresVascular2013]
+3.  Subcoracoid Space[@garygwindAnatomicExposuresVascular2013]
 
 **Interscalene Triangle:**
 
@@ -1105,18 +1102,18 @@ subclavian groove of the first rib. [@mcminnLastAnatomyRegional2019]
 -   Long thoracic nerve runs along middle scalene muscle and injury can
     cause winged scapula.
 
-**The First Rib:** 
+**The First Rib:**
 
--   The broadest and flattest of the ribs and is an 'Atypical Rib'. 
+-   The broadest and flattest of the ribs and is an 'Atypical Rib'.
 
 -   The upper surface of the first rib has the scalene and quadrangular
     tubercles for attachments of the anterior and middle scalene muscles
     respectively. There are also three grooves for the Subclavian Vein,
-    artery and the Lower Trunk of the Brachial Plexus. 
+    artery and the Lower Trunk of the Brachial Plexus.
 
 -   The Inferior Surface is smooth and inferior and medially has an
     attachment for the suprapleural membrane, Sibson's fascia AKA
-    scalenus minimus, which is tethered to the C7 vertebrae. 
+    scalenus minimus, which is tethered to the C7 vertebrae.
 
 -   This is the passage of the subclavian vein largely as it emerges
     through the tight space created by the clavicle, the subclavius
@@ -1140,7 +1137,7 @@ subclavian groove of the first rib. [@mcminnLastAnatomyRegional2019]
 
     -   The Clavipectoral Fascia
 
-**The Coracoid Process:** 
+**The Coracoid Process:**
 
 -   Arising from the Scapula as a 'process', this broad-based bony
     landmark offers attachment to muscles and ligaments.
@@ -1153,14 +1150,14 @@ subclavian groove of the first rib. [@mcminnLastAnatomyRegional2019]
 **Pectoralis Minor Muscle:**
 
 Attached to the bone of the third, fourth and fifth ribs AND the medial
-border of the coracoid process. 
+border of the coracoid process.
 
 **Clavipectoral Fascia:**
 
 A sheet of fascial membrane that fills the space between the clavicle
 and pectoralis minor splitting and encompassing the subclavius muscle.
 Its superior portion is what can be thickened and become a tight band
-referred to as the costocoracoid ligament. 
+referred to as the costocoracoid ligament.
 
 **Phrenic Nerve Anomaly:**
 
@@ -1174,12 +1171,12 @@ Cervical Rib and anomalous first ribs or a congenital band attaching to
 the first rib.
 
 -   Incidence of anomalous first ribs and cervical ribs is 0.76% and
-    0.75% respectively. 
+    0.75% respectively.
 
 -   Incidence of bands are as high as 63% in the general population.
     [@humphries124ThoracicOutlet2019]
 
-nTOS  
+nTOS
 
 -   Scalene Triangle compression -- most common cause of brachial plexus
     and neurogenic TOS
@@ -1216,7 +1213,7 @@ vTOS
     Upper Limb DVT
 
 -   Patients with aTOS need to be investigated and assessed urgently
-    given risk of ischemia. 
+    given risk of ischemia.
 
 #### Clinical Examination
 
@@ -1237,7 +1234,7 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 **Roos Test / EAST test**
 
 -   Patient seated and both arms abducted 90 degrees and externally
-    rotated and elbows flexed at 90 degrees. 
+    rotated and elbows flexed at 90 degrees.
 
 -   Open and close hands for 3 minutes or until pain or paraesthesia
     sets in.
@@ -1260,7 +1257,7 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
 -   Arterial Duplex
 
--   Venous Duplex 
+-   Venous Duplex
 
 -   CT -- CTV commonly performed in acute upper limb DVT and suspicion
     of vTOS
@@ -1288,67 +1285,71 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
 ### Rib Resection approaches
 
-+----------------+--------------------+-----------------------+
-|                | Advantages         | Disadvantages         |
-+================+====================+=======================+
-| Tran saxillary | Cosmetically more  | -   Difficult to      |
-|                | appealing as it    |     visualize the     |
-|                | has a limited      |     anatomy,          |
-|                | hidden scar        |     dependent on good |
-|                |                    |     assistance        |
-|                |                    |                       |
-|                |                    | -   Risk of injury to |
-|                |                    |     T1 nerve root,    |
-|                |                    |     phrenic nerve,    |
-|                |                    |     long thoracic,    |
-|                |                    |     brachial plexus , |
-|                |                    |     subclavian vein   |
-|                |                    |     and arterial with |
-|                |                    |     limited exposure  |
-|                |                    |     to repair         |
-|                |                    |                       |
-|                |                    | -   Not able to       |
-|                |                    |     approach cervical |
-|                |                    |     ribs, scalene     |
-|                |                    |     triangle or patch |
-|                |                    |     vein.             |
-+----------------+--------------------+-----------------------+
-| Suprac         | -   Good for       | -   Unable to         |
-| lavicular      |     scalene        |     decompress venous |
-|                |     triangle       |     compression or    |
-|                |     access and     |     visualize vein    |
-|                |     debulking and  |     adequately        |
-|                |     cervical rib   |                       |
-|                |     resection      | -   Cosmetically less |
-|                |                    |     appealing         |
-|                | -   Required for   |                       |
-|                |     aTOS if        |                       |
-|                |     arterial       |                       |
-|                |     reconstruction |                       |
-|                |     necessary      |                       |
-+----------------+--------------------+-----------------------+
-| Infrac         | -   Good access    | -   Unable to expose  |
-| lavicular [@   |     for venous     |     subclavian artery |
-| siracuseI      |     decompression  |     or decompress     |
-| nfraclavi      |                    |     brachial plexus.  |
-| cularFirs      | -   Allows for     |                       |
-| tRib2015]      |     excision of    | -   Difficult to      |
-|                |     subclavius     |     access most       |
-|                |     muscle and     |     posterior aspect  |
-|                |                    |     of rib            |
-|                |    costoclavicular |                       |
-|                |     ligament       | -   Cosmetically less |
-|                |                    |     appealing         |
-+----------------+--------------------+-----------------------+
-| Parac          | -   Useful if      | -   Requires two      |
-| lavicular      |     mixed etiology |     incisions one     |
-|                |     TOS to         |     above and below   |
-|                |     adequately     |     the clavicle      |
-|                |     decompression  |                       |
-|                |     all            |                       |
-|                |     neurovascular  |                       |
-|                |     structures     |                       |
-+----------------+--------------------+-----------------------+
++----------------+-------------------+----------------------+
+|                | Advantages        | Disadvantages        |
++================+===================+======================+
+| Tran saxillary | Cosmetically more | -   Difficult to     |
+|                | appealing as it   |     visualize the    |
+|                | has a limited     |     anatomy,         |
+|                | hidden scar       |     dependent on     |
+|                |                   |     good assistance  |
+|                |                   |                      |
+|                |                   | -   Risk of injury   |
+|                |                   |     to T1 nerve      |
+|                |                   |     root, phrenic    |
+|                |                   |     nerve, long      |
+|                |                   |     thoracic,        |
+|                |                   |     brachial plexus  |
+|                |                   |     , subclavian     |
+|                |                   |     vein and         |
+|                |                   |     arterial with    |
+|                |                   |     limited exposure |
+|                |                   |     to repair        |
+|                |                   |                      |
+|                |                   | -   Not able to      |
+|                |                   |     approach         |
+|                |                   |     cervical ribs,   |
+|                |                   |     scalene triangle |
+|                |                   |     or patch vein.   |
++----------------+-------------------+----------------------+
+| Suprac         | -   Good for      | -   Unable to        |
+| lavicular      |     scalene       |     decompress       |
+|                |     triangle      |     venous           |
+|                |     access and    |     compression or   |
+|                |     debulking and |     visualize vein   |
+|                |     cervical rib  |     adequately       |
+|                |     resection     |                      |
+|                |                   | -   Cosmetically     |
+|                | -   Required for  |     less appealing   |
+|                |     aTOS if       |                      |
+|                |     arterial      |                      |
+|                |                   |                      |
+|                |    reconstruction |                      |
+|                |     necessary     |                      |
++----------------+-------------------+----------------------+
+| Infrac         | -   Good access   | -   Unable to expose |
+| lavicular [\@  |     for venous    |     subclavian       |
+| siracuseI      |     decompression |     artery or        |
+| nfraclavi      |                   |     decompress       |
+| cularFirs      | -   Allows for    |     brachial plexus. |
+| tRib2015]      |     excision of   |                      |
+|                |     subclavius    | -   Difficult to     |
+|                |     muscle and    |     access most      |
+|                |                   |     posterior aspect |
+|                | costoclavicular   |     of rib           |
+|                | ligament          |                      |
+|                |                   | -   Cosmetically     |
+|                |                   |     less appealing   |
++----------------+-------------------+----------------------+
+| Parac          | -   Useful if     | -   Requires two     |
+| lavicular      |     mixed         |     incisions one    |
+|                |     etiology TOS  |     above and below  |
+|                |     to adequately |     the clavicle     |
+|                |     decompression |                      |
+|                |     all           |                      |
+|                |     neurovascular |                      |
+|                |     structures    |                      |
++----------------+-------------------+----------------------+
 
 #### Post operative complications
 
@@ -1368,7 +1369,7 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 -   Age: 18 years to 30 years
     [@illigComprehensiveReviewPagetSchroetter2010]
 
--   M>F
+-   M\>F
 
 #### Presentation
 
@@ -1400,16 +1401,16 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
         -   Pectoralis Minor Hypertrophy.
 
--   Exclude Pulmonary Embolism 
+-   Exclude Pulmonary Embolism
 
 -   Exclude Venous Gangrene and Phlegmasia of the upper limb
 
 #### Goals of therapy for vTOS
 
 Limited evidence due to lack of RCT's. Majority of evidence based on
-retrospective studies. 
+retrospective studies.
 
--   Prevent immediate risk 
+-   Prevent immediate risk
 
 -   Return patient to unrestricted use of the affected extremity
 
@@ -1511,10 +1512,10 @@ retrospective studies. 
         p\<0.0001
 
     3.  Results showed superior patency with FRR and PLASTY and FRR
-        compared to anticoagulation alone. 
+        compared to anticoagulation alone.
 
     4.  Conclusion was that patients are more likely to experience
-        greater long-term results with FRR compared to no FRR. 
+        greater long-term results with FRR compared to no FRR.
 
 2.  Sajid MS et al -- Upper limb vein thrombosis: a literature review to
     streamline the protocol for management. Acta Haematology 2007
@@ -1542,7 +1543,7 @@ retrospective studies. 
     supraclavicular mass [@boll122ThoracicOutlet2019]
 
 -   Less common: Exertional pain, unilateral Raynaud's Phenomena,
-    retrograde embolisation and neurological symptoms 
+    retrograde embolisation and neurological symptoms
 
 -   Clinical Examination
 
@@ -1619,7 +1620,7 @@ for diagnosis. [@vemuriClinicalPresentationManagement2017;
 -   Subclavian artery repair is necessary in Scher Stages 2 and 3 and in
     some cases 1. Arterial repair with conduit either GSV, Femoral Vein
     or prosthetic have been described. Ringed PTFE offers good patency
-    and resistance to kinking in this functional anatomical location. 
+    and resistance to kinking in this functional anatomical location.
 
 ### nTOS
 
@@ -1627,9 +1628,9 @@ for diagnosis. [@vemuriClinicalPresentationManagement2017;
 
 Neurogenic TOS is largely a clinical diagnosis with symptoms and signs
 pertaining to nerve compression most commonly the lower trunk of the
-brachial plexus. 
+brachial plexus.
 
--   F>M -- 70% Female
+-   F\>M -- 70% Female
 
 -   Ages 20-40
 
@@ -1670,7 +1671,7 @@ brachial plexus. 
 
     -   Drop-off in athletic performance
 
-    -   Inability to carry out activities of daily living 
+    -   Inability to carry out activities of daily living
 
 #### The role of the Vascular Surgeon with nTOS
 

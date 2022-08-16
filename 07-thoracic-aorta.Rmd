@@ -300,161 +300,78 @@ Resources
 
 -   [\<https://www.vascularsociety.org.uk/\>](https://www.vascularsociety.org.uk/ "https://www.vascularsociety.org.uk/")
 
-**Barkat:** [00:00:00] Welcome to another ruler club podcast in
-association with audible bleeding. Today's guest is Mr. Michael Jenkins,
-a consultant Pasco surgeon, a summit, his hospital in Peter college,
-healthcare NHS trust in London, Mr. Jenkins, Trent at the Middlesex
-hospital, London and a qualified in 1989. He trained in surgery at
-Charing cross university college.
+### Anatomy and Demographics
 
-The Royal prompting, the Royal free hospital and was awarded the gold
-medal at the FRCs exam. He was appointed as a Bhaskar consultant to
-submit his and Chelsea and Westminster hospital in 2001, he was the
-director of AAA screening in north west London from [00:01:00] 2011,
-till 2018. He is currently the president of the vascular society of
-great Britain and Ireland.
+**Can you take us through the Crawford classification to start off?**
 
-And he was chair of the circulation foundation between 2016 and 18. he
-was the past president of the British society of endovascular therapy.
-he was the director of the major trauma center as submit his hospital
-between 2010 and 2016. He developed both a local and national tertiary
-referral practice for thoracoabdominal Arctic aneurism and died.
+**T**he Crawford classification is relatively recent, to be honest it
+was 1986. And I think it was really important because it's very
+practical classification, depending on body cavity and how to get to an
+aneurysm. It's a bit old in terms of anatomy because they don't really
+follow a pattern one would expect going one to four would be getting
+either more extensive or less extensive. And it's not quite like that.
 
-My name is Hamad Barkat. I am a BASCA surgical trainee currently working
-at Manchester of center. I am the Bosco society. I feel yet
-representative of the rule of club.
+So type one is from the left subclavian down to just below the
+diaphragm. And that's crucial because that distinguishes it from a
+thoracic aneurysm, which you can get to just from the chest and from a
+practical surgical approach. That's a very important differentiating
+marker, but you have to go into a second cavity.
 
-**Greaves:** And my name is Nick grieves. I'm a year two consultants at
-Manchester Royal infirmary, and I've got a specialist interest in open
-aortic aneurysm repair. So this is particularly pertinent for me.
-\~\~Um, \~\~thank you for joining us on this podcast, Mr. Jenkins, a
-very kind of you to share your time with this.
+Type two is the biggie. So this is from the left subclavian all the way
+down to your bifurcation. So both abdominal and thoracic exposure, all
+the visceral, renal arteries and a lot of intercostal and lumbers. So
+big impact for cord supply, et cetera.
 
-Good evening. During this episode, we hope to discuss the [00:02:00]
-topic of thoracoabdominal aortic aneurysms with a view to providing
-information that is relevant to those sitting, post-graduate exams, such
-as the FRCs in the UK and V sites in the U S so we just want to break
-this down into different areas, because it's a big topic.
+So three is for mid chest down to and involving the viscera renals and
+bifurcation. And that's the one, which really is I suppose, the
+differentiator between whether you go for the full support that's needed
+in a type two, or whether you can risk a clamp and go approach.
 
-firstly, just to kick us off a bit of sort of general background, you
-tell us about your experience with thoracoabdominal aneurysms and how
-you got into it? Any mentors you may have had.
+And type four is characterized by being in most patients accessible from
+the abdomen. I say in most patients, because there are some anatomical
+situations with body habitus, which means that going into the left chest
+is useful even for type four aneurysm.
 
-**Jenkins:** So, as a trainee, I did do some work at the Brompton,\~\~
-um,\~\~ which was mainly tack. And I realized actually the majority of
-cardiac surgeons, certainly in the UK are divided into coronary surgeons
-and valve surgeons or thoracic, and very few. And she took on a Arctic
-work.\~\~ Um,\~\~ during my training, then I was worked at all
-three,\~\~ uh,\~\~ with George Hamilton and we did do some small cup
-Donal aneurysms there.
+Then type five. It was an additional classification that came in later,
+which is a bit like a type three at the top of the type one at the
+bottom effectively, but not everyone uses that.
 
-And it was really only when I got appointed,\~\~ um,\~\~ I went to
-Mary's because of the referral practice to Mary's and my interest and
-[00:03:00] John Wolf was an established consultant there.\~\~ Um,\~\~
-and through referrals coming to the hospital, I just got involved and
-took more and more along. And I think it's,\~\~ um, you know,\~\~ part
-of your referral practice comes from people.
+**There appears to have been an increase in the incidence of
+thoracoabdominal aneurysms. Do you think it's a true increase or does
+this relate to having scans for other reasons picked up by accident and
+then going on from that? What sort of many referrals do you get in a
+year and what's your turn down?** **How many numbers are you actually
+doing in your practice year on year?**
 
-If you send the patients back alive, they send you more. So it's paying
-attention to details, try and give a good outcome for
+So that's interesting because the overall incidence of infrarenal
+atherosclerotic aneurysms is going down every year in the national UK
+vascular registry. And I suppose that is a legacy of the end of smoking
+for a big group of patients. I think thoracoabdominal aneurysms are
+going up partly because we are now imaging more and more people. and
+therefore we are imaging the chest and seeing them, which perhaps wasn't
+the case, previously. So that's an artificial increase in incidence, but
+also the rate of aortic dissection is on the rise, s chronic post
+dissection aneurysms are increasing. I think it's a small group, but
+there is more knowledge about connective tissue disease and genetic
+studies and family screening, which perhaps is also a small part of
+annual increase. So over the next, 10, 20 years, certainly aneurysms are
+not going to go away. And that group of patients that have been affected
+are still around and there is a huge number now within the national UK
+screening program under surveillance for small animism, so it will come
+to fruition.
 
-patients. And then I did go out to
+**You've just touched on a bit of difference in the etiology between
+thoracoabdominal aneurysms and abdominal aortic aneurysm. So is there a
+huge difference in the etiology between these two type of aneurysm from
+your experience?**
 
-Houston to, Visit has him Saffy for awhile. And has he is that Diane of
-folk abdominal aneurysms. And it was very interesting and enlightening
-to see how the system worked at Houston.
-
-And we bought back some of those,\~\~ um,\~\~ skills and methods back to
-Mary's after going out with one of our needs tests and you can't
-underestimate the importance of a specialist in these statistics with
-this work, which I'm sure we'll get to
-
-later.
-
-**Greaves:** Sydney.
-
-**Barkat:** Mr. Drinkers, let's start with some of the basics. Can you
-take us through the Crawford classification [00:04:00] of truck off?
-Don't overthink.
-
-**Jenkins:** Yeah, so the COVID classification is relatively recent, to
-be honest it was 1986. And I think it was really important because it's
-very practical,\~\~ um,\~\~ classification really, depending on,\~\~
-uh,\~\~ cavity and how to get to an aneurysm.\~\~ Um,\~\~ it's a bit old
-in terms of a terminology because they don't really follow a pattern\~\~
-of, uh,\~\~ one would expect\~\~ sort of\~\~ going one to four would be
-getting either more extensive or less extensive.
-
-And it's not quite like that. So type one is from the left subclavian
-down to just below the diaphragm. And that's crucial because that
-distinguishes it from a thoracic aneurysm, which you can get to just
-from the chest and from a practical surgical approach. That's a very
-important differentiating marker, but you have to go into a second
-cavity,\~\~ um,\~\~ type two is the biggie.
-
-So this is from the left sub clave all the way down to your tic
-[00:05:00] bifurcation. So both dominal and so ACIC exposure, all the
-visceral and Whelan, all trees and a lot of intercostal and numbers. So
-big impact for cord supply, et cetera. So three is for mid chest down to
-and involving the viscera renals and Dante or bifurcation.
-
-And that's the one, which really is I suppose, the differentiator
-between whether you go\~\~ for,\~\~ for the full support that's needed
-in a type two, or whether you can whisk a clamp and go approach.\~\~
-Um,\~\~ and type four is characterized by being in most patients
-accessible from the abdomen. I say in most patients, because there are
-some anatomical, uh, situations with body habitus, which means that
-going into the left chest is useful even for type four aneurism and then
-type five. It w it was an additional classification that came in later,
-which is a bit like a type three at the [00:06:00] top of the type one
-at the bottom effectively.\~\~ Um,\~\~ but not everyone uses that.
-
-**Greaves:** Okay. there appears to have been an increase in the
-incidence of thoracoabdominal aneurysms. I mean, do you think it's a
-true increase or does this relate to having scans for other reasons
-picked up by accident and then going on from that? Just sort of many
-referrals do you get in a year and what's your turn down?
-
-Right? How many numbers are you actually doing in your practice year on
-year?
-
-**Jenkins:** So that's interesting because,\~\~ um,\~\~ the overall
-instance of infrarenal atherosclerotic squat, again, isms is going down
-and pre COVID every year in the national vascular registry, there was a
-slight reduction in numbers. And I suppose that is a legacy of the end
-of smoking for a big group of patients.\~\~ Um,\~\~ I think folk
-abdominals are going up partly because we all now imaging more and more
-people. and therefore we are imaging the chest and seeing them, which
-perhaps wasn't the case. previously. So that's an [00:07:00] artificial
-increase in instance, but also the weight of aortic dissection is on the
-why's. So chronic,\~\~ uh,\~\~ post dissection aneurysms are
-
-increasing.\~\~ Um,\~\~ and I think it's a small group, but there is
-more knowledge about connective tissue disease and genetic studies and
-family screening.\~\~ Um,\~\~ and that perhaps is also a small part of
-Andover or increase. So over the next,\~\~ you know,\~\~ 10, 20 years,
-certainly aneurysms are not going to go away.\~\~ Um,\~\~ and that group
-of patients that have been affected are still around and there is a huge
-number now within the NASP screening program under surveillance,\~\~
-um,\~\~ for small animism.
-
-So it will come to fruition.
-
-**Barkat:** you've just touched on a bit of difference in the geology
-between thoracoabdominal aneurysms and abdominal aortic aneurysm.
-
-So is there's a huge difference in the ecology between these two type of
-aneurysm from your extreme.
-
-**Jenkins:** \~\~Um, ~~I don't think it's a huge difference. I think
-[00:08:00] in terms of,~~ um,\~\~ presentation,\~\~ um,\~\~ effectively,
-the majority of aneurysms are asymptomatic. So they're found
-incidentally. It is. rare that you get a symptomatic aneurysm? Yes. Some
-can get tender as they perhaps approach a time when the wall perhaps is
-going to breach pre rupture.\~\~ Um,\~\~ I think thoracoabdominal
-aneurysms perhaps tend to be a bit more symptomatic and infrarenal. And
-these are ones that perhaps affect go into the arch and past present
-with hoarseness tension. Some of them can cause long kill
+On presentation, the majority of aneurysms are asymptomatic. So they're
+found incidentally. It is. rare that you get a symptomatic aneurysm?
+Yes. Some can get tender as they perhaps approach a time when the wall
+perhaps is going to breach pre rupture.\~\~ Um,\~\~ I think
+thoracoabdominal aneurysms perhaps tend to be a bit more symptomatic and
+infrarenal. And these are ones that perhaps affect go into the arch and
+past present with hoarseness tension. Some of them can cause long kill
 compression.\~\~ Um,\~\~ and there is a group that caused dark station
 of the cross.
 
@@ -1601,33 +1518,6 @@ referral pathways and patients really don't get a good deal.
 
 And [01:12:00] the people are left ringing around patients for hours and
 hours, trying to get them in somewhere.
-
-**Barkat:** I think we've come to the end of this episode of the
-podcast. Thank you so much, Mr. Jenkins\~\~ for comprehensive cover over
-the years and with us today.\~\~ for your time and thank you for sharing
-this.
-
-**Greaves:** Thank you both. Thanks Mr.
-
-Jenkins.
-
-**Jenkins:** Thanks very much. Indeed. Thanks good questions.
-
-**ellozy:** this episode was edited by Leanna rattay, Rachel Forsyth and
-Sharif Loz
-
-If you'd like to learn more about thoracoabdominal aneurysms, please
-take a listen to the September 28th episode of the Yale vascular review.
-
-This
-
-new
-
-**ellozy:** podcast is a collaboration between the Yale integrated
-vascular residency and ,
-
-the Yale school of medicine, vascular and endovascular surgery, student
-interest group,
 
 -   [Yale Vascular Review Podcast Episode 1: Thoracoabdominal
     Aneurysms](https://podcasts.apple.com/us/podcast/yale-vascular-review/id1587352652 "https://podcasts.apple.com/us/podcast/yale-vascular-review/id1587352652")
