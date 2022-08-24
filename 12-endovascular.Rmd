@@ -242,12 +242,17 @@ straightforward using compression. In the rare setting of radial
 occlusion, the hand rarely becomes ischemic because most people are
 ulnar dominant. It can accommodate sheaths up to 6 French.
 
+-   The best way to reduce vasospasm and injury to the radial artery is
+    utilizing a radial artery cocktail - calcium channel blocker,
+    vasodilator, and anticoagulation.[@mason2018; @cauley2019]
+
 The brachial artery can be accessed percutaneously over the olecranon
-process with the arm supinated. Ultrasound guidance allows for
-visualization of the brachial bifurcation. It can accommodate 6-7 Fr
-sheaths. Hemostasis is critically important as bleeding can result in a
-hematoma that results in median nerve compression, which is a surgical
-emergency.
+process with the arm supinated.[@alvarez-tostado2009] Ultrasound
+guidance allows for visualization of the brachial bifurcation. It can
+accommodate 6-7 Fr sheaths. Hemostasis is critically important as
+bleeding can result in a hematoma that results in median nerve
+compression, which is a surgical emergency. Cut down after brachial
+access has been shown to reduce complications.[@kret2016]
 
 **Let's not forget about venous access. What are some of the most
 commonly accessed veins?**
