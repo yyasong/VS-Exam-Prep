@@ -53,15 +53,11 @@ for the simultaneous presentation of B-mode and doppler data.
 
 **What do normal spectral waveforms look like?**
 
-[Normal spectral waveform:]{.underline}
-
-Brisk upstroke, sharp peak, rapid downstroke. A spectral window under
-the waveform, that is that black space between the spectral waveform and
-the 0 velocity axis, represents the absence of lower velocities. This
-is indicative of laminar flow within the vessel (Image 1: normal
-spectrum waveform)
-
-How can we differentiate high vs low resistance waveforms?
+[Normal spectral waveforms]{.underline} have a brisk upstroke, sharp
+peak, rapid downstroke. A "spectral window" under the waveform, that is
+that black space between the spectral waveform and the 0 velocity axis,
+represents the absence of lower velocities-indicative of laminar flow
+within the vessel (Image 1: normal spectrum waveform)
 
 ```{r echo=FALSE}
 
@@ -69,15 +65,16 @@ knitr::include_graphics(rep("images/vasc_lab/Slide2.jpeg"))
 
 ```
 
-[Low vs high resistance waveforms:]{.underline}
+**How can we differentiate low vs high resistance waveforms?**
 
 Waveform profiles change depending upon the nature of the distal
-vascular bed being supplied. Organs like the brain, kidneys, liver, and
-spleen have constant high metabolic demand, and are therefore low
-resistance vascular beds. Waveforms for arteries supplying these organs
-demonstrate constant forward flow throughout the cardiac cycle because
-the distal bed being supplied has low resistance leading to high
-end-diastolic flow.
+vascular bed being supplied. Organs like the brain, kidneys, liver,
+spleen, peripheral muscle during exercise, and postprandial SMA have
+constant high metabolic demand, and are therefore low resistance
+vascular beds. [Low resistance waveforms]{.underline} for arteries
+supplying these organs demonstrate constant forward flow throughout the
+cardiac cycle because the distal bed being supplied has low resistance
+leading to high end-diastolic flow.
 
 ```{r echo=FALSE}
 
@@ -85,11 +82,13 @@ knitr::include_graphics(rep("images/vasc_lab/Slide3.jpeg"))
 
 ```
 
-This would also be seen in the postprandial SMA. In contrast, high
-resistance waveforms are seen for arteries supplying resting peripheral
-muscles, fasted mesenteric beds (such as the fasting SMA), and the
-External carotid artery. High resistance waveforms are characterized by
-triphasic morphology (preprandial  SMA or ECA).
+In contrast, [high resistance waveforms]{.underline} are seen for
+arteries supplying resting peripheral muscles, fasted mesenteric beds
+(such as the fasting SMA), and the external carotid artery. High
+resistance waveforms are characterized by triphasic morphology, with a
+sharp peak, early diastolic flow reversal, brief forward flow (elastic
+recoil of the artery, and then no flow during the remainder of the
+diastolic phase.
 
 ```{r echo=FALSE}
 
@@ -97,20 +96,16 @@ knitr::include_graphics(rep("images/vasc_lab/Slide4.jpeg"))
 
 ```
 
-That is, sharp peaks, early diastolic flow reversal, brief forward flow
-from elastic recoil of the artery, and then no flow during the remainder
-of the diastolic phase.
-
 **How does flow-limiting stenosis change the waveform?**
 
-First let's define [Stenosis:]{.underline} A hemodynamically significant
+First let's define [Stenosis:]{.underline} A hemodynamically significant
 stenosis (area reduction \>50%) will result in a doubling of velocity
 from the inflow segment to the area of maximal stenosis (velocity ratio
 \> 2).
 
 **Now what do waveforms look like AFTER a flow-limiting stenosis?**
 
-[Tardus et parvus]{.underline} refers to a pattern of Doppler ultrasound
+[Tardus et parvus]{.underline} refers to a pattern of Doppler ultrasound
 spectral waveform resulting from arterial stenosis. The tardus et parvus
 waveform is delayed with prolonged systolic acceleration (tardus) and
 diminished with a small systolic amplitude and rounded systolic peak
@@ -147,11 +142,11 @@ ultrasonography.
 Duplex is often adequate to visualize any peripheral arterial bed, even
 the aorta and iliacs.[@muelaméndez2018]
 
-CT - limitations include ionizing radiation, iodinated contrast and not
-appropriate in patients with CKD.
+-   CT - limitations include ionizing radiation, iodinated contrast and
+    not appropriate in patients with CKD.
 
-MRA - performed with gadolinium-based contrast and not appropriate in
-patients with ESRD.
+-   MRA - performed with gadolinium-based contrast and not appropriate
+    in patients with ESRD.
 
 ## Extracranial
 
@@ -339,13 +334,13 @@ resistance distal beds, so we would expect triphasic waveforms
 
 **What are normal arterial parameters in the upper extremities?**
 
-[Upper Extremity:]{.underline}
-
--   **Normal parameters:** Normal pressure gradient between the right
-    and left brachial pressures is \<20 mmHg. Normal finger pressure is
-    \>80% of the ipsilateral brachial systolic pressure. So a normal
-    digital brachial index is \>=0.80. A gradient between digits of \>15
-    mmHg is considered abnormal. 
+Normal pressure gradient between the right and left brachial pressures
+is \<20 mmHg. Normal finger pressure is \>80% of the ipsilateral
+brachial systolic pressure. Digital brachial index \<0.8 is abnormal and
+\<0.5 is diagnostic of ischemia. Absolute digital pressure \<70mmHg is
+abnomal and \<60mmHg is diagnostic for ischemia. A gradient between
+digits of \>15 mmHg is considered abnormal. These criteria are used in
+occlusive disease and steal syndrome.[@chloros2008; @sen2016]
 
 **Let's talk about some of the most frequently tested pathologies,
 starting with arterial TOS.**
@@ -355,7 +350,7 @@ artery at the level of the first rib within the scalene triangle.
 Arterial TOS testing is done by placing a sensor, most often
 photoplethysmography (PPG), on one finger of each hand, recording the
 resting waveforms and then recording while during maneuvers to evoke
-arterial compression in the thoracic outlet.
+arterial compression in the thoracic outlet.[@size2013]
 
 **Can you tell us a little more about PPG testing?**
 
@@ -364,7 +359,7 @@ illuminate superficial tissue. The reflection is received by a
 photosensor, and amplitude of the reflected light is proportional to the
 volume of red blood cells in the sample area. A normal digital arterial
 PPG has a brisk upstroke with a narrow systolic peak, and a dicrotic
-notch on the downslope during diastole.
+notch on the downslope during diastole.[@carter2001]
 
 ```{r echo=FALSE}
 
@@ -445,10 +440,11 @@ identified in association with fistulas:**
 puncture fails to seal and the blood is contained by the surrounding
 soft tissue. As in other locations, pseudoaneurysms are defined on
 imaging by a communicating neck between the arterial vessel and
-pseudoaneurysmal sac with "to-and-fro" waveform at duplex. While small
-pseudoaneurysms can be managed without intervention or surgery, larger
-pseudoaneurysms, pseudoaneurysms associated with infection or overlying
-skin changes or bleeding may require excision and repair.[@bandyk2013]
+pseudoaneurysmal sac with "to-and-fro" waveform at duplex.[@mahmoud2015]
+While small pseudoaneurysms can be managed without intervention or
+surgery, larger pseudoaneurysms, pseudoaneurysms associated with
+infection or overlying skin changes or bleeding may require excision and
+repair.[@bandyk2013]
 
 [Steal syndrome:]{.underline} Hemodialysis-related steal, also known as
 access-related hand ischemia, which may occur in over half of all
@@ -497,18 +493,24 @@ calculating the ratio of the highest ankle systolic pressure (posterior
 tibial artery or dorsalis pedis) over the highest brachial systolic
 pressure. Regardless of whether you're doing the R or L ABI, use the
 higher arm pressure for both ratios. Normal ABI \>0.9, severe disease
-indicated by ABI\<0.5, and CLI by ABI\<0.3. The ankle-brachial index in
-diabetic patients is frequently unreliable due to incompressibility of
-the tibial vessels at the level of the cuff secondary to calcification.
-Consequently, toe pressures are mandatory in all patients with diabetes
-mellitus. Normal TBI\>0.7.
+indicated by ABI\<0.5, and CLI by ABI\<0.3.
+
+The ankle-brachial index in diabetic patients is frequently unreliable
+due to incompressibility of the tibial vessels at the level of the cuff
+secondary to calcification. Consequently, toe pressures are mandatory in
+all patients with diabetes mellitus. Normal TBI\>0.7.
+
+Of note, monophasic waveforms in the brachial artery likely represent
+proximal occlusive disease in the upper extremity and therefore make the
+ABI non-diagnostic because the upper extremity blood pressure is not
+likely not representative of central blood pressure.[@chen2014]
 
 [TcPO2:]{.underline} When there is significant tissue loss, preventing
 TBI measurement, another option is transcutaneous oximetry
-(TcPO2).  Transcutaneous oximetry is a non-invasive method of measuring
-the tissue partial pressure of oxygen through a heated sensor on the
-skin. A TcPO2 value of 40 mmHg is the critical value below which wound
-healing is impaired and ischemia develops.
+(TcPO2).[@mills2014] Transcutaneous oximetry is a non-invasive method of
+measuring the tissue partial pressure of oxygen through a heated sensor
+on the skin. A TcPO2 value of 40 mmHg is the critical value below which
+wound healing is impaired and ischemia develops.
 
 **Are there other non-invasive ways of determining extremity
 perfusion?**
@@ -529,11 +531,13 @@ knitr::include_graphics(rep("images/vasc_lab/Slide13.jpeg"))
 [Exercise Test:]{.underline} During exercise testing, patients are
 placed on a treadmill after baseline resting ABIs are measured. The
 patient is then asked to walk for 5 minutes or until physical discomfort
-requires test cessation. The point when a patient stops is defined as
-the absolute claudication distance. Diagnostic criteria for a positive
-test include a drop-in ankle pressure of greater than 20 mmHg from
-baseline, drop in ABI greater than 0.2 from baseline, or inability of
-ankle pressures to return to baseline after 3 minutes.
+requires test cessation. The point when patient reports pain starts is
+the initial claudication distance and the point where the patient stops
+is defined as the absolute claudication distance. Diagnostic criteria
+for a positive test include a drop-in ankle pressure of greater than 20
+mmHg from baseline, drop in ABI greater than 0.2 from baseline, or
+inability of ankle pressures to return to baseline after 3
+minutes.[@strandness1964]
 
 **So just to briefly summarize, what are parameters associated with poor
 wound healing?**
@@ -586,6 +590,22 @@ on duplex ultrasound may be a sign of underlying graft infection. PET
 and WBC scans may be positive up to 4mo after implantation, so do not
 provide much utility in the early post-operative period.[@puges2019]
 
+**Are there any considerations we need to understand when assessing a
+stented vessel with ultrasound?**
+
+Stenting decreases vessel compliance and increases observed velocities.
+There is no defined consensus, but [in-stent restenosis]{.underline} is
+classified by some as follows:
+
+-   \>50% - Vr \>1.5 or PSV \>200
+
+-   \>80% - Vr \> 3.5 or PSV \>275
+
+It should be noted that restenosis of stents vs vein grafts will have
+higher velocity for the same percentage of stenosis. Tardus et parvus
+waveforms distal to a stent should raise concern that stenosis is
+hemodynamically significant.[@baril2009; @kawarada2013]
+
 ### Pathologies
 
 **Let's talk about pathologies frequently encountered in the lower
@@ -615,10 +635,13 @@ infection.[@pellerito2019]
 #### Dissections
 
 Characteristic ultrasound findings on color Doppler include a parallel
-blood-flow channel that separates the true and false lumen. Traumatic
+blood-flow channel that separates the true and false lumen, with
+diminished blood flow distally.[@ge2015; @kobayashi2018] Traumatic
 intimal flaps after knee dislocation can have a normal ABI and be
 asymptomatic, but they should be followed as they can
-progress.[@gaitini2008]
+progress.[@gaitini2008] Of note, if the false lumen is filled by a
+thrombus, it may not distinguishable from an intramural hematoma or
+noncalcified plaque
 
 ```{r echo=FALSE}
 
@@ -626,8 +649,13 @@ knitr::include_graphics(rep("images/vasc_lab/Slide15.jpeg"))
 
 ```
 
-Of note, if the false lumen is filled by a thrombus, it may not
-distinguishable from an intramural hematoma or noncalcified plaque
+#### Buerger's Disease {#buerger}
+
+Rare disease, but with characteristic findings on ultrasound of
+serpiginous/corkscrew collaterals, occlusion of distal calf/pedal
+arteries, and normal proximal arteries.[@busch2011; @fujii2011]
+
+For more see \@ref(buergers-disease)
 
 **There are several disease pathologies that are frequently tested
 relating to the popliteal fossa. Can you talk briefly about these?**

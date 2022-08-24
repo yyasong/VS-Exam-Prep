@@ -30,6 +30,12 @@ Division of the upper extremity into three zones:
     carotid), left subclavian artery and left common carotid artery, as
     well as the innominate veins, and SVC.
 
+    -   Arch classification helps determine difficulty of accessing the
+        right innominate from a femoral approach. Type 1 innominate does
+        not break the plane of the outer curve, Type 2 it is between the
+        outer curve and inner curve and Type 3 it falls below the inner
+        curve of the aortic arch.
+
 2.  Thoracic Outlet: Extends from the base of neck to the axila.
     Includes the subclavian, proximal vertebral, and proximal axillary
     arteries, as well as the corresponding veins).
@@ -130,18 +136,22 @@ arterial exposure to avoid injury.
 **What common aberrant upper extremity/arch anatomy is important to be
 aware of?**
 
--   **Bovine Arch:** Where the inominate and left common carotid
-    arteries share a common origin.
+-   **Bovine Arch:** Where the innominate and left common carotid
+    arteries share a common origin.[@layton2006]
 
--   **Abberant Vertebral Artery:** Where the vertebral artery arises
+-   **Aberrant Vertebral Artery:** Where the vertebral artery arises
     directly from the aortic arch.
 
 -   **Aberrant Right Subclavian Artery:** Where there is no innominate
     artery and instead the right common carotid arises directly from the
-    aorta. Confusingly the right subclavian artery, then orginates from
+    aorta. Confusingly the right subclavian artery, then originates from
     the aortic arch distal to the left subclavian artery. To supply the
-    right arm it therefore, needs to pass behind the eosophagus.
+    right arm it therefore, needs to pass behind the esophagus.
     (Dysphagia Lusoria)
+
+-   Thoracic aortic disease is associated with aberrant anatomy, with
+    high rates of bovine arch (25%), isolated L vertebral (6-8%), and
+    aberrant R subclavian (1-2%).[@dumfarth2015]
 
 ## Epidemiology, Etiology, and Diagnostic Evaluation
 
@@ -302,10 +312,26 @@ occlusive disease?**
 
     -   Surgery:
 
-        -   Bypass from aortic arch through median sternotomy
+        -   Bypass from aortic arch through median sternotomy - Most
+            durable option, particularly for dense R innominate disease,
+            so preferred in patients who can tolerate. Endarterectomy
+            not appropriate if disease involves the origin.[@aiello2011;
+            @mansukhani2018; @berguer1998; @daniel2014; @reul1991;
+            @berguer1999; @byrne2007]
+
+            -   Complications include compression of the graft on
+                sternal closure, so proximal anastomosis should be
+                placed to the side of the aorta.
 
         -   Ipsilateral CCA to subclavian artery (bypass or
-            transposition)
+            transposition) - Recent NSQIP study showed no difference in
+            stroke and death for CS bypass vs transposition, therefore
+            procedure should be determined by anatomic
+            constraints.[@cinà2002; @vandervliet1995] Small studies and
+            systematic reviews have shown that patency of carotid
+            subclavian bypass is better with synthetic graft than with
+            autologous vein.[@aburahma2000; @illuminati2018;
+            @ziomek1986]
 
         -   Contralateral CCA (anterior or retropharyngeal)
 
@@ -457,7 +483,9 @@ Buerger's?**
 
 -   DBI\<0.6 and flat/reduced digital waveforms
 
--   CTA/MRA/DSA-characteristic corkscrew collateral
+-   CTA/MRA/DSA or duplex - characteristic findings of
+    serpiginous/corkscrew collaterals, occlusion of distal calf/pedal
+    arteries, and normal proximal arteries.[@busch2011; @fujii2011]
 
 **What is the mainstay treatment in Buerger's disease?**
 
@@ -877,10 +905,12 @@ Overview
 
 ## Vascular Trauma-Upper Extremity
 
-**This is discussed in detail here:** \@ref(peripheral), **so we will go over some important specifics for upper extremity vascular injury.**
+**This is discussed in detail here:** \@ref(peripheral), **so we will go
+over some important specifics for upper extremity vascular injury.**
 [@kauvar184VascularTrauma2020]
 
-**What is the mechanism and management of upper extremity axillary artery trauma?**
+**What is the mechanism and management of upper extremity axillary
+artery trauma?**
 
 Mechanism and Pattern
 
@@ -906,7 +936,8 @@ Surgical Considerations
 -   If hemodynamically stable, can consider covered stent based on
     location to thoracic outlet via femoral/brachial approach
 
-**What is the mechanism and management of upper extremity brachial artery trauma?**
+**What is the mechanism and management of upper extremity brachial
+artery trauma?**
 
 Mechanism and Pattern
 
@@ -1285,71 +1316,68 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
 ### Rib Resection approaches
 
-+----------------+-------------------+----------------------+
-|                | Advantages        | Disadvantages        |
-+================+===================+======================+
-| Tran saxillary | Cosmetically more | -   Difficult to     |
-|                | appealing as it   |     visualize the    |
-|                | has a limited     |     anatomy,         |
-|                | hidden scar       |     dependent on     |
-|                |                   |     good assistance  |
-|                |                   |                      |
-|                |                   | -   Risk of injury   |
-|                |                   |     to T1 nerve      |
-|                |                   |     root, phrenic    |
-|                |                   |     nerve, long      |
-|                |                   |     thoracic,        |
-|                |                   |     brachial plexus  |
-|                |                   |     , subclavian     |
-|                |                   |     vein and         |
-|                |                   |     arterial with    |
-|                |                   |     limited exposure |
-|                |                   |     to repair        |
-|                |                   |                      |
-|                |                   | -   Not able to      |
-|                |                   |     approach         |
-|                |                   |     cervical ribs,   |
-|                |                   |     scalene triangle |
-|                |                   |     or patch vein.   |
-+----------------+-------------------+----------------------+
-| Suprac         | -   Good for      | -   Unable to        |
-| lavicular      |     scalene       |     decompress       |
-|                |     triangle      |     venous           |
-|                |     access and    |     compression or   |
-|                |     debulking and |     visualize vein   |
-|                |     cervical rib  |     adequately       |
-|                |     resection     |                      |
-|                |                   | -   Cosmetically     |
-|                | -   Required for  |     less appealing   |
-|                |     aTOS if       |                      |
-|                |     arterial      |                      |
-|                |                   |                      |
-|                |    reconstruction |                      |
-|                |     necessary     |                      |
-+----------------+-------------------+----------------------+
-| Infrac         | -   Good access   | -   Unable to expose |
-| lavicular [\@  |     for venous    |     subclavian       |
-| siracuseI      |     decompression |     artery or        |
-| nfraclavi      |                   |     decompress       |
-| cularFirs      | -   Allows for    |     brachial plexus. |
-| tRib2015]      |     excision of   |                      |
-|                |     subclavius    | -   Difficult to     |
-|                |     muscle and    |     access most      |
-|                |                   |     posterior aspect |
-|                | costoclavicular   |     of rib           |
-|                | ligament          |                      |
-|                |                   | -   Cosmetically     |
-|                |                   |     less appealing   |
-+----------------+-------------------+----------------------+
-| Parac          | -   Useful if     | -   Requires two     |
-| lavicular      |     mixed         |     incisions one    |
-|                |     etiology TOS  |     above and below  |
-|                |     to adequately |     the clavicle     |
-|                |     decompression |                      |
-|                |     all           |                      |
-|                |     neurovascular |                      |
-|                |     structures    |                      |
-+----------------+-------------------+----------------------+
++----------------------+----------------------+----------------------+
+|                      | Advantages           | Disadvantages        |
++======================+======================+======================+
+| Tran saxillary       | Cosmetically more    | -   Difficult to     |
+|                      | appealing as it has  |     visualize the    |
+|                      | a limited hidden     |     anatomy,         |
+|                      | scar                 |     dependent on     |
+|                      |                      |     good assistance  |
+|                      |                      |                      |
+|                      |                      | -   Risk of injury   |
+|                      |                      |     to T1 nerve      |
+|                      |                      |     root, phrenic    |
+|                      |                      |     nerve, long      |
+|                      |                      |     thoracic,        |
+|                      |                      |     brachial plexus  |
+|                      |                      |     , subclavian     |
+|                      |                      |     vein and         |
+|                      |                      |     arterial with    |
+|                      |                      |     limited exposure |
+|                      |                      |     to repair        |
+|                      |                      |                      |
+|                      |                      | -   Not able to      |
+|                      |                      |     approach         |
+|                      |                      |     cervical ribs,   |
+|                      |                      |     scalene triangle |
+|                      |                      |     or patch vein.   |
++----------------------+----------------------+----------------------+
+| Suprac lavicular     | -   Good for scalene | -   Unable to        |
+|                      |     triangle access  |     decompress       |
+|                      |     and debulking    |     venous           |
+|                      |     and cervical rib |     compression or   |
+|                      |     resection        |     visualize vein   |
+|                      |                      |     adequately       |
+|                      | -   Required for     |                      |
+|                      |     aTOS if arterial | -   Cosmetically     |
+|                      |                      |     less appealing   |
+|                      | reconstruction       |                      |
+|                      | necessary            |                      |
++----------------------+----------------------+----------------------+
+| Infrac lavicular [\@ | -   Good access for  | -   Unable to expose |
+| siracuseI nfraclavi  |     venous           |     subclavian       |
+| cularFirs tRib2015]  |                      |     artery or        |
+|                      | decompression        |     decompress       |
+|                      |                      |     brachial plexus. |
+|                      | -   Allows for       |                      |
+|                      |     excision of      | -   Difficult to     |
+|                      |     subclavius       |     access most      |
+|                      |     muscle and       |     posterior aspect |
+|                      |                      |     of rib           |
+|                      | c ostoclavicular     |                      |
+|                      | ligament             | -   Cosmetically     |
+|                      |                      |     less appealing   |
++----------------------+----------------------+----------------------+
+| Parac lavicular      | -   Useful if mixed  | -   Requires two     |
+|                      |     etiology TOS to  |     incisions one    |
+|                      |     adequately       |     above and below  |
+|                      |                      |     the clavicle     |
+|                      | decompression all    |                      |
+|                      |                      |                      |
+|                      | neurovascular        |                      |
+|                      | structures           |                      |
++----------------------+----------------------+----------------------+
 
 #### Post operative complications
 

@@ -57,7 +57,7 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
     -   Evidence of clinically significant peripheral vascular disease
         regardless of age
 
-    -   Patients aged >65 years with a history of one or more of the
+    -   Patients aged \>65 years with a history of one or more of the
         following atherosclerotic risk factors:
 
         -   CAD
@@ -95,11 +95,12 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
     -   70-99% stenosis of ICA- Typically on scanning:
 
-        -   PSV >/= 230 cm/sec
+        -   PSV \>/= 230 cm/sec
 
-        -   EDV >100 (EDV > 140 cm/sec most sensitive for stenosis >80%)
+        -   EDV \>100 (EDV \> 140 cm/sec most sensitive for stenosis
+            \>80%)
 
-        -   Internal/Common Carotid PSV Ratio > 4
+        -   Internal/Common Carotid PSV Ratio \> 4
 
     -   Velocity-based estimation of carotid artery stenosis may need to
         be adjusted in certain circumstances:
@@ -129,7 +130,7 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
         -   Con - Does not visualize calcium in plaque; overestimates
             the degree of stenosis (False positive for 50-69% to be read
-            as >70%).
+            as \>70%).
 
     -   Catheter-based digital subtraction imaging (DSA)
 
@@ -169,7 +170,7 @@ medical optimisation of risk factors.
 
 **Hypercholesterolaemia**
 
--   Risk of stroke decreased by >15% for every 10% reduction in serum
+-   Risk of stroke decreased by \>15% for every 10% reduction in serum
     LDL in patients with known coronary or other atherosclerosis.
     <!--# Add Reference -->
 
@@ -196,7 +197,7 @@ atherosclerosis. <!--# Add Reference -->
 
 -   Recommendations on when to operate after a TIA/stroke.
 
-    -   Acute stroke with a fixed neurologic deficit of >6h duration -
+    -   Acute stroke with a fixed neurologic deficit of \>6h duration -
         When the patient is medically stable, intervention in 14 days or
         less after stroke is preferable.
         [@rothwellEndarterectomySymptomaticCarotid2004;
@@ -222,7 +223,7 @@ atherosclerosis. <!--# Add Reference -->
         -   \<4.5hrs from onset of symptoms - medical thrombolysis with
             tPA unless contraindicated.
 
-            -   Patient age >80 and diabetes are contraindications to
+            -   Patient age \>80 and diabetes are contraindications to
                 tPA administration after 3hrs.
 
             -   Other contraindications include - hypertension,
@@ -246,33 +247,40 @@ atherosclerosis. <!--# Add Reference -->
         complications of CEA (GRADE 1, Level of Evidence A). \# Add
         Reference
 
--   Neuromonitoring/Shunting options during a carotid endarterectomy
+-   Neuromonitoring/Shunting options during a carotid
+    endarterectomy[@chongruksut2014; @wiske2018]
 
-    -   Procedure performed under local/regional anesthesia with direct
-        neurological monitoring - the benefit being that the patient is
-        awake and moving to command throughout the case. Improved
-        neuromonitoring, however, has not been shown to reduce MI
-        (myocardial infarction?) rate with CEA. <!--# Add Reference -->
+    -   Local/regional anesthesia with direct neurological monitoring -
+        the benefit being that the patient is awake and moving to
+        command throughout the case. Indications for shunting include
+        lateralizeing deficits, seizure, lack of consciousness and
+        severe anxiety. Improved neuromonitoring, however, has not been
+        shown to reduce MI (myocardial infarction?) rate with CEA.
 
-    -   Determining shunt use using stump pressure- Clamp the inflow and
-        place a butterfly attached to a-line tubing into the internal
-        carotid atery. If the stump pressure is > 40 mmHg the surgeon
-        can chose to proceed without shunt placement, if \< 40mmHg then
-        a shunt should be placed prior to proceeding.
-        <!--# Add Reference -->
+    -   Stump pressure- Clamp the inflow and place a butterfly attached
+        to a-line tubing into the internal carotid atery. If the stump
+        pressure is \> 50 mmHg the surgeon can chose to proceed without
+        shunt placement, if \< 50mmHg then a shunt should be placed
+        prior to proceeding.
 
     -   EEG Neuromonitoring - EEG tech places neuromonitoring, monitored
         by the technician and neurologist remotely intraoperatively.
         Generally the surgeon should clamp the ICA for 3 minutes before
         proceeding, if the patient develops neurological deficit/EEG
-        abnormalities then unclamp, await normalization of EEG, then
-        proceed.
+        abnormalities with slowing and decreased alpha and beta waves,
+        then unclamp, await normalization of EEG, then proceed.
+
+    -   Cerebral Oximetry - 15% decrease in either hemisphere should be
+        shunted.
+
+    -   Transcranial Doppler (TCD) - severe slowing in the middle
+        cerebral artery.
 
     -   Non-selective shunting - the surgeon uses a shunt for all CEAs
         as standard practice, this is often done for all CEAs performed
-        under general anaesthesia.
+        under general anesthesia
 
--   Techniques to reach high internal carotid lesions?
+-   Techniques to reach high internal carotid lesions?[@beretta2006]
 
     -   A good knowledge of the available imaging while preparing for
         the procedure is essential when considering the level of the
@@ -281,11 +289,14 @@ atherosclerosis. <!--# Add Reference -->
     -   Nasotracheal intubation will allow for jaw closure and neck
         extension to facilitate exposure of higher lesions.
 
-    -   Division of the posterior belly of the digastric muscle can be
-        performed to improve exposure of a high bifurcation. Care should
-        be taken to identify and preserve the glossopharyngeal nerve.
+    -   Division of the posterior belly of the digastric muscle,
+        stylopharyngeal muscle, styloglossus muscle, stylomandibular
+        ligament or the styloid process. Care should be taken to
+        identify and preserve the glossopharyngeal nerve.
 
-    -   Styloidectomy.
+    -   Division of the occipital artery.
+
+    -   Dissection along the posterior parotid gland.
 
     -   ENT surgeon assisted mandible subluxation with assistance if
         previous techniques fail.
@@ -299,6 +310,11 @@ atherosclerosis. <!--# Add Reference -->
 
     -   Otherwise, no advantage has been shown between eversion or
         patch, both can be shunted.
+
+-   Patched repair vs primary closure has been associated with a
+    decrease in ipsilateral stroke, perioperative carotid occlusion,
+    return to the operating room, restenosis and 1-year stroke
+    rates.[@goodney2010; @rerkasem2009]
 
 -   Nerve Injuries -- where you would encounter these and, if injured,
     what deficit would be seen?
@@ -328,24 +344,29 @@ atherosclerosis. <!--# Add Reference -->
 -   What to do if the patient develops neuro deficits following carotid
     endarterectomy: Two main concerns- an intimal flap causing
     thrombosis or an embolic event resulting in a stroke. Perform a
-    thorough neurological exam to confirm in operated corotid territory.
+    thorough neurological exam to confirm in operated carotid territory.
 
-    -   If in OR -- perform duplex, if normal open wound and perform a
-        cerebral angiogram.
+    -   If in OR -- perform duplex, very low threshold to re-explore and
+        confirm patency of ICA with duplex or doppler. If ICA open and
+        concerned for distal embolization, then perform a cerebral
+        angiogram and proceed with thrombolysis or
+        thrombectomy.[@fletcher2016]
 
     -   If in Recovery or on the floor -- many would consider CTA first
         line vs duplex to look for thrombosis.
 
 -   Risk factors and how to manage hyperperfusion syndrome?
 
-    -   Defined as an ipsilateral headache, hypertension, seizures, and
-        focal neurological deficits likely in distribution of the
-        carotid. Can present 2-3 days post surgery.
+    -   Defined as an ipsilateral headache, hypertension, neurological
+        deficits likely in distribution of the carotid which can
+        progress to seizures and intracranial hemorrhage (75-100%
+        mortality). Can present 2-3 days post surgery.[@kaku2004]
 
     -   Patients with uncontrolled hypertension are at risk for
         hyperperfusion syndrome, clinical practice guidelines from SVS
         recommend strict BP control following CEA, with target pressure
-        being less than 140/80mmHg.
+        being less than 140/80mmHg or 20mmHg from preoperative
+        baseline.[@abou-chebl2004]
 
 -   High risk groups
 
@@ -355,8 +376,18 @@ atherosclerosis. <!--# Add Reference -->
 
 **Long term complications and follow up**
 
--   Recommend f/u US duplex of bilateral carotids at \</=30 days. >/=
+-   Recommend f/u US duplex of bilateral carotids at \</=30 days. \>/=
     50% stenosis further imaging is indicated.
+
+-   Ipsilateral stenosis
+
+    -   0-3mo likely due to inadequate endarterectomy or clamp
+        injury.[@kang2014]
+
+    -   1-3y likely neointimal hyperplasia, smooth and regular. If \<80%
+        stenosis and asymptomatic, then duplex surveillance and
+        antiplatelet. If progresses, then often endo treatment
+        first.[@garzon-muvdi2016]
 
 -   Contralateral stenosis:
 
@@ -366,11 +397,19 @@ atherosclerosis. <!--# Add Reference -->
 
     -   Requires post-operative surveillance.
 
+-   Carotid artery patch infections
+
+    -   Rare complication (\<1%) presenting as phlegmon, pseudoaneurysm,
+        sinus tract or carotid cutaneous fistula.[@stone2011]
+
+    -   Treatment is excision and replacement with autologous
+        tissue.[@fatima2019]
+
 ### Carotid Artery Stenting
 
--   In patients aged >70 the risk of intra- or post procedure stroke was
-    the highest, if undergoing CAS, presumably due to calcified disease
-    in the arch.
+-   In patients aged \>70 the risk of intra- or post procedure stroke
+    was the highest, if undergoing CAS, presumably due to calcified
+    disease in the arch.
 
     -   Lesion-specific characteristics are thought to increase the risk
         of cerebral vascular events after CAS and include a "soft"
@@ -385,9 +424,9 @@ atherosclerosis. <!--# Add Reference -->
 -   Limited data is available on CAS in asymptomatic patients -
     currently is not supported by guidelines or considered reimbursable.
 
--   Consider CAS in symptomatic patients with >50% stenosis who are poor
-    candidates for CEA due to severe uncorrectable medical comorbidities
-    and/or anatomic considerations:
+-   Consider CAS in symptomatic patients with \>50% stenosis who are
+    poor candidates for CEA due to severe uncorrectable medical
+    comorbidities and/or anatomic considerations:
 
     -   Ipsilateral neck dissection or XRT - equivalent periprocedural
         stroke rate to CEA, but increased later stroke rate. CEA higher
@@ -403,15 +442,35 @@ atherosclerosis. <!--# Add Reference -->
     -   ROADSTER Trial - single arm study with flow reversal for
         cerebral protection. Suggested lower rates of post-op stroke in
         patients undergoing TCAR.
+    -   TCAR contraindications include previous CCA intervention, CCA
+        disease at entry site, \<5cm CCA (clavicle to bifurcation) for
+        sheath, CCA \< 6mm, contralateral recurrent laryngeal or vagus
+        nerve injury.[@kwolek2015]
+    -   Patient needs to be preloaded with dual antiplatelet medications
+        for at least 5-7d, should delay procedure if has not been
+        appropriately loaded with antiplatelets.[@brott2010;
+        @kwolek2015; @valls2017]
+
+-   Complications
+
+    -   Post stenting ICA thrombosis should first be treated with
+        abciximab and catheter directed thrombolysis, followed by
+        endo-salvage with suction thrombectomy, repeat angioplasty or
+        stenting. May require eventual conversion to CEA.[@coelho2019;
+        @naylor2018]
 
 -   Post-CAS follow up - Dual-platelet therapy should be continued for 1
     month after the procedure, and aspirin should be continued
     indefinitely.
 
-    -   In stent restenosis (>50%) - repeat angioplasty or stent have
-        low incidence of periprocedural stroke but failed to improve
-        long term stroke/death/MI or patency rates.
-        [@chungPercutaneousInterventionCarotid2016a]
+    -   In stent restenosis (\>50%) - 4-times higher rate of stroke than
+        no recurrence of disease, but more benign than de novo
+        disease.[@clavel2019] Stenosis should be confirmed with CTA.  No
+        clear difference between treatments in literature - PBA,
+        Cutting, DBA, stenting, open conversion.[@arhuidese2017] Repeat
+        angioplasty or stent have low incidence of periprocedural stroke
+        but failed to improve long term stroke/death/MI or patency
+        rates.[@chungPercutaneousInterventionCarotid2016a]
 
 ### Management of Uncommon Disease Presentations
 
@@ -421,8 +480,11 @@ atherosclerosis. <!--# Add Reference -->
 
 -   What if an occluded carotid on imaging is still causing TIAs?
 
-    -   External carotid endarterectomy and ligation of the internal
-        carotid.
+    -   Ongoing symptoms in the setting of carotid occlusion is known as
+        carotid artery stump syndrome. Symptoms are likely due to emboli
+        from friable intima of the internal carotid or from the external
+        carotid through collaterals. Treatment is external carotid
+        endarterectomy and ligation of the internal carotid.[@hrbác2012]
 
     -   The addition of oral anticoagulation is likely to reduce the
         rate of recurrent stroke.
@@ -434,13 +496,36 @@ atherosclerosis. <!--# Add Reference -->
         Then reassess for vertebrobasilar insufficency.
     -   Vertebrobasilar insufficiency characterized by dizziness,
         ataxia, nausea, vertigo and bilateral weakness.
-        [@limanetoPathophysiologyDiagnosisVertebrobasilar2017]
+        [@limanetoPathophysiologyDiagnosisVertebrobasilar2017;
+        @nouh2014]
+
+-   How do you treat isolated vertebral disease?
+
+    -   Symptomatic primary vertebral disease with \>60% stenosis should
+        be treated. Vertebral divided into segments. V1 preforaminal
+        (lower than C6), V2 foraminal (C6-C2), V3 (C2-dura), V4
+        (intracranial).[@morasch2019; @berguer1998]
+    -   Disease of V1 should be treated with vertebral transposition of
+        bypass with vein.[@rangel-castilla2015]
+        -   Most common complication is Horner's Syndrome due to
+            disruption of the sympathetic chain (20%), next is TIA
+            (1-3%).[@coleman2013; @ramirez2012]
+    -   Disease of V2 is most difficult to access and should be treated
+        with bypass from ICA to V3.[@berguer1985]
+        -   RCT of BMT vs endo treatment did not show superiority of
+            endo treatment, recurrent symptoms most common,
+            periprocedural stroke was rare.[@antoniou2012; @coward2007]
 
 -   What about tandem lesions in the carotid in a symptomatic patient,
     carotid bulb and carotid siphon lesion (high ICA)? How should you
     treat this?
 
-    -   Treat carotid bulb first, likely to be the embolic source.
+    -   Treat carotid bulb and extracranial disease first, likely to be
+        the embolic source.
+    -   Treatment of intracranial disease has been shown to increase
+        rates of stroke and death.[@chimowitz2011]. Extracranial to
+        intracranial bypass has increased risk of stroke over
+        BMT.[@ec/icbypassstudygroup1985]
 
 -   Carotid artery dissection
 
@@ -474,12 +559,36 @@ atherosclerosis. <!--# Add Reference -->
     -   Patients undergoing simultaneous CEA/CABG demonstrate highest
         mortality. [@naylorSystematicReviewOutcomes2003]
 
+-   Internal Carotid Artery Aneurysms
+
+    -   Defined as dilation of the bulb 200% of the internal carotid
+        artery or 150% of the common carotid artery. Like popliteal
+        aneurysms the major risk is thromboembolization.[@bush2019]
+
+    -   Treatment is resection with primary repair or interposition.
+        Distorted anatomy increased the risk for cranial nerve injury
+        (12%).[@welleweerd2015]
+
+-   Redundant ICA - should be repaired if patient symptomatic due to
+    kinking. Treated with resection and primary repair with shortening
+    and straightening.[@ballotta2005]
+
+-   Fibromuscular Dysplasia (FMD) - for more, see
+    \@ref(fibromuscular-dysplasia-fmd)
+
+    -   Asymptomatic disease can often be treated with antiplatelets
+        alone.
+
+    -   Associated with intracranial aneurysms (13%), therefore may be
+        reasonable to also pursue brain imaging if identified. However,
+        no formal guidelines exist.[@lather2017]
+
 ## Prospective Trials - MUST READS
 
 1.  Asymptomatic Carotid Atherosclerosis Study (ACAS)
 
     -   Compared medical management with CEA in asymptomatic patients
-        with > 60% stenosis.
+        with \> 60% stenosis.
 
     -   5-year stroke and death rate was 5.1% vs 11%.
 
@@ -492,16 +601,16 @@ atherosclerosis. <!--# Add Reference -->
     [@northamericansymptomaticcarotidendarterectomytrialcollaboratorsBeneficialEffectCarotid1991]
 
     -   Compared medical management vs CEA for symptomatic patients with
-        moderate (50-69%) and severe stenosis (>70%)
+        moderate (50-69%) and severe stenosis (\>70%)
 
     -   Only moderate impact for patients with moderate stenosis
         (50-69%)
 
-    -   Symptomatic patients with >70 % stenosis benefited from CEA, at
+    -   Symptomatic patients with \>70 % stenosis benefited from CEA, at
         18 months 7% major stroke in surgical arm, and a 24% stroke rate
         in medical arm. 29% reduction in 5-year risk of stroke or death.
 
-        -   Patients with severe >70% stenosis had such a dramatic
+        -   Patients with severe \>70% stenosis had such a dramatic
             effect the trial was stopped early for this subset and all
             referred for endarterectomy.
 
@@ -518,7 +627,7 @@ atherosclerosis. <!--# Add Reference -->
         paper!](https://www.audiblebleeding.com/2021/09/29/landmark-papers-nascet/)
 
 3.  Carotid Revascularization Endarterectomy versus Stenting Trial
-    (CREST).
+    (CREST).[@silver2011]
 
     -   Compared CEA vs. CAS in both symptomatic and asymptomatic
         patients.
@@ -533,8 +642,10 @@ atherosclerosis. <!--# Add Reference -->
             composite stroke/MI/death but increased rate of stroke/death
             in stented patients likely attributable to increased
             periprocedural stroke. [@brottLongTermResultsStenting2016b]
+        -   CAS patients with stroke had a higher impact on QOL than CEA
+            patients with MI.[@brott2010; @redfern2011; @mantese2010]
 
-    -   Subanalyses identified that older patients (>70y) had better
+    -   Subanalyses identified that older patients (\>70y) had better
         outcomes after CEA than CAS, the QOL impact of stroke was more
         significant than that of MI, and anatomic characteristics of
         carotid lesions (longer, sequential, remote) were predictive of
@@ -543,7 +654,7 @@ atherosclerosis. <!--# Add Reference -->
     -   Unfortunately, this study provides a benchmark to strive for,
         but no other large trials have achieved these results.
 
-4.  ROADSTER
+4.  ROADSTER[@kwolek2015]
 
     -   Single arm feasibility trial of transcarotid carotid stenting.
 
@@ -551,7 +662,7 @@ atherosclerosis. <!--# Add Reference -->
         the ENROUTE Transcarotid NPS is safe and effective at preventing
         stroke during CAS. The overall stroke rate of 1.4% is the lowest
         reported to date for any prospective, multicenter clinical trial
-        of CAS.
+        of CAS (i.e. CREST). No direct comparison.
 
 5.  Trials to look out for in the next few years:
 
@@ -564,3 +675,27 @@ atherosclerosis. <!--# Add Reference -->
         CEA vs CAS and best medical management.
 
     -   ROADSTER-2 - TCAR.
+
+## Carotid Body Tumors (CBT)
+
+Shamblin criteria utilized to determine difficulty of resection and is
+associated with rates of carotid reconstruction or cranial nerve injury.
+
+Embolization helps reduce risk of perioperative blood loss not
+associated with reduced cranial nerve injury.  Resection 24-36hrs after
+embolization.[@power2012]
+
+One quarter (25%) are associated with a germline mutation or familial
+history. Genetic testing recommended in patients with multi-focal
+tumors, associated paraganglioma, pheo or family history.  SDHD gene
+mutation is most common associated with familial
+paraganglioma.[@davila2016; @kruger2010]
+
+Evaluating for carotid body ligation - When involved with a CBT or other
+skull base tumors, cerebral perfusion should be thoroughly evaluated
+prior to surgical resection to determine whether a patient will tolerate
+carotid ligation. Evaluation includes balloon occlusion testing with
+xenon-enhanced SPECT imaging. Low risk for ligation if no neurologic
+deficits (after 30min and hypotensive challenge) and normal diffusion of
+SPECT (ratio of \>0.9).  Angiography with contralateral occlusion
+evaluates collaterals.[@sugawara; @tansavatdi2015]

@@ -370,7 +370,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         -   Pulmonary function test with ABG (Level 2, Grade C)
 
         -   Smoking cessation for at least 2 weeks prior (Level 1, Grade
-            C)
+
+            C)  
 
         -   Pulmonary bronchodilators at least 2 weeks before aneurysm
             repair (Level 2, Grade C)
@@ -629,8 +630,8 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 -   After thorough preoperative evaluation and clearance, the patient is
     taken back to the operating room. An epidural may be placed
     preoperatively depending on institutional preference. The patient is
-    intubated, and arterial and central venous catheters are placed.
-    The abdomen is prepped from chest to bilateral thighs.
+    intubated, and arterial and central venous catheters are placed. The
+    abdomen is prepped from chest to bilateral thighs.
 
 -   A cell-saver should be available to optimize resuscitation during
     the procedure due to expected large amounts of blood loss. Balanced
@@ -1062,6 +1063,6 @@ of a ruptured AAA (RAAA) as our last topic of the session?**
         higher mortality).
         [@goudekettingSystematicReviewMetaanalysis2019]
 
-# Iliac/Peripheral Aneurysms
+## Iliac/Peripheral Aneurysms
 
 Treatment threshold for CIAA is often accepted at 3.5cm.

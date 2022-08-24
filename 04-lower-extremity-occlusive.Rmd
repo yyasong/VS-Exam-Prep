@@ -220,25 +220,25 @@ Grading System (1986, Revised 1997)
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-+---------------+-----------------------------------------------+
-| G             | Clinical Description                          |
-| rade/Category |                                               |
-+===============+===============================================+
-| 0/0           | Asymptomatic -no haemodynamic significant     |
-|               | occlusive disease                             |
-+---------------+-----------------------------------------------+
-| I/1           | Mild Claudication                             |
-+---------------+-----------------------------------------------+
-| I/2           | Moderate Claudication                         |
-+---------------+-----------------------------------------------+
-| I/3           | Severe Claudication                           |
-+---------------+-----------------------------------------------+
-| II/4          | Ischaemic Rest Pain                           |
-+---------------+-----------------------------------------------+
-| III/5         | Minor Tissue Loss                             |
-+---------------+-----------------------------------------------+
-| III/6         | Major Tissue Loss                             |
-+---------------+-----------------------------------------------+
++---------------+---------------------------------------------+
+| G             | Clinical Description                        |
+| rade/Category |                                             |
++===============+=============================================+
+| 0/0           | Asymptomatic -no haemodynamic significant   |
+|               | occlusive disease                           |
++---------------+---------------------------------------------+
+| I/1           | Mild Claudication                           |
++---------------+---------------------------------------------+
+| I/2           | Moderate Claudication                       |
++---------------+---------------------------------------------+
+| I/3           | Severe Claudication                         |
++---------------+---------------------------------------------+
+| II/4          | Ischaemic Rest Pain                         |
++---------------+---------------------------------------------+
+| III/5         | Minor Tissue Loss                           |
++---------------+---------------------------------------------+
+| III/6         | Major Tissue Loss                           |
++---------------+---------------------------------------------+
 
 Leriche syndrome - Triad of claudication (buttock, thigh, and calf),
 impotence and decreased pulses signifies aortoiliac occlusive disease.
@@ -309,33 +309,37 @@ claudication with preserved pulses. Exercise treadmill ABI particularly
 useful in determining the severity of disease in these patients.
 [@aboyansGeneralPrognosisPatients2010]
 
+For more on exercise testing see \@ref(lower-extremity).
+
 **What is the ultrasound duplex criteria for defining PAOD?**
 
-+-------------+-------------+-------------+-------------+
-| Stenosis    | Peak        | Velocity    | Distal      |
-| Category    | Systolic    | Ratio       | Artery      |
-|             | Velocity    |             | Spectral    |
-|             |             |             | Waveform    |
-+=============+=============+=============+=============+
-| Normal      | \<150       | \<1.5       | Triphasic,  |
-|             |             |             | Normal PSV  |
-+-------------+-------------+-------------+-------------+
-| 30-49%      | 150-200     | 1.5-2       | Triphasic,  |
-|             |             |             | Normal PSV  |
-+-------------+-------------+-------------+-------------+
-| 50-75%      | 200-400     | 2-4         | M           |
-|             |             |             | onophasic,  |
-|             |             |             | reduced PSV |
-+-------------+-------------+-------------+-------------+
-| \>75%       | \>400       | \>4         | Damped, m   |
-|             |             |             | onophasic,  |
-|             |             |             | reduced PSV |
-+-------------+-------------+-------------+-------------+
-| Occlusion   | No Flow --  |             |             |
-|             | B -mode,    |             |             |
-|             | Terminal    |             |             |
-|             | Thump       |             |             |
-+-------------+-------------+-------------+-------------+
++------------+------------+------------+------------+
+| Stenosis   | Peak       | Velocity   | Distal     |
+| Category   | Systolic   | Ratio      | Artery     |
+|            | Velocity   |            | Spectral   |
+|            |            |            | Waveform   |
++============+============+============+============+
+| Normal     | \<150      | \<1.5      | Triphasic, |
+|            |            |            | Normal PSV |
++------------+------------+------------+------------+
+| 30-49%     | 150-200    | 1.5-2      | Triphasic, |
+|            |            |            | Normal PSV |
++------------+------------+------------+------------+
+| 50-75%     | 200-400    | 2-4        | M          |
+|            |            |            | onophasic, |
+|            |            |            | reduced    |
+|            |            |            | PSV        |
++------------+------------+------------+------------+
+| \>75%      | \>400      | \>4        | Damped, m  |
+|            |            |            | onophasic, |
+|            |            |            | reduced    |
+|            |            |            | PSV        |
++------------+------------+------------+------------+
+| Occlusion  | No Flow -- |            |            |
+|            | B -mode,   |            |            |
+|            | Terminal   |            |            |
+|            | Thump      |            |            |
++------------+------------+------------+------------+
 
 Adapted from [@stone21VascularLaboratory2019]
 
@@ -559,25 +563,25 @@ the Trans metatarsal level.
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-+---------------+-----------------------------------------------+
-| G             | Clinical Description                          |
-| rade/Category |                                               |
-+===============+===============================================+
-| 0/0           | Asymptomatic -no haemodynamic significant     |
-|               | occlusive disease                             |
-+---------------+-----------------------------------------------+
-| I/1           | Mild Claudication                             |
-+---------------+-----------------------------------------------+
-| I/2           | Moderate Claudication                         |
-+---------------+-----------------------------------------------+
-| I/3           | Severe Claudication                           |
-+---------------+-----------------------------------------------+
-| II/4          | Ischaemic Rest Pain                           |
-+---------------+-----------------------------------------------+
-| III/5         | Minor Tissue Loss                             |
-+---------------+-----------------------------------------------+
-| III/6         | Major Tissue Loss                             |
-+---------------+-----------------------------------------------+
++---------------+---------------------------------------------+
+| G             | Clinical Description                        |
+| rade/Category |                                             |
++===============+=============================================+
+| 0/0           | Asymptomatic -no haemodynamic significant   |
+|               | occlusive disease                           |
++---------------+---------------------------------------------+
+| I/1           | Mild Claudication                           |
++---------------+---------------------------------------------+
+| I/2           | Moderate Claudication                       |
++---------------+---------------------------------------------+
+| I/3           | Severe Claudication                         |
++---------------+---------------------------------------------+
+| II/4          | Ischaemic Rest Pain                         |
++---------------+---------------------------------------------+
+| III/5         | Minor Tissue Loss                           |
++---------------+---------------------------------------------+
+| III/6         | Major Tissue Loss                           |
++---------------+---------------------------------------------+
 
 **What is Chrinc Limb Threatening Ischemia (CLTI), sometimes previously
 call Critical Limb Ischemia (CLI)?**
@@ -650,7 +654,7 @@ above) and examination.
     tenderness or unexplained hyperglycemia in diabetic patients should
     prompt urgent referal.[@kalish2010]
 
-**What is the natural history of CLI and what do we know about its
+**What is the natural history of CLTI and what do we know about its
 prognosis?**
 
 Fortunately, only a small portion of patients with Intermittent
@@ -663,6 +667,10 @@ However, those that do develop CLTI, have a high risk of limb loss
 risk), the majority of terminal events being related to cardiovascular
 events. Limb loss or mortality may reach as high as 50% in 1 year.
 [@adam2005; @norgren2007]
+
+CLTI measurements most predictive of non-healing are ankle pressure
+\<50mmHg, ABI \<0.4, TcPO2 \<20mmHg, and TP
+\<20mmHg.[@gerhard-herman2017; @wickström2017]
 
 **What has changed in the last few decades?**
 
@@ -750,7 +758,8 @@ situ thrombosis in the lower limb arterial system.
 
 Other causes of ischemic pain include:
 
--   Buergers Disease, or Thromboangiitis obliterans
+-   Buergers Disease, or Thromboangiitis obliterans  - for more see
+    \@ref(buergers-disease)
 
 -   Scleroderma
 
@@ -1075,6 +1084,11 @@ line at this time, but this data is rapidly evolving. Patency is often
 poor but limb salvage is reasonable.[@popplewell2019; @kayssi2016;
 @mustapha2016]
 
+Optimal followup for endovascular interventinos of the lower extremity
+have not been established, but should at least include a pulse exam, ABI
+and duplex to establish a new baseline after intervention.[@zierler2018;
+@mohler2012]
+
 **What is new with the future management guidance for CTLI? What is
 BASIL 2 and 3 and BEST-CLI?**
 
@@ -1229,116 +1243,175 @@ From Rutherford RB, Baker JD, Ernst C, et  al. Recommended standards for
 reports dealing with lower extremity ischemia: revised version. J Vasc
 Surg. 1997;26:517--538. [@rutherfordRecommendedStandardsReports1997]
 
-+-----+-----+-----+-----+-----+-----+
-| C   | **P | Se  | -   | A   | Ve  |
-| las | r   | n   |  \* | rte | n   |
-| s   | o   | s   |     | r   | ous |
-| i   | gno | ory | M u | ial | Si  |
-| fic | s   | L   | s   | Si  | g   |
-| a   | i   | oss | cle | g   | nal |
-| t   | s** |     | We  | nal |     |
-| ion |     |     | a   |     |     |
-|     |     |     |     |     |     |
-|     |     |     | kne |     |     |
-|     |     |     | s s |     |     |
-|     |     |     | \   |     |     |
-|     |     |     | *\* |     |     |
-+=====+=====+=====+=====+=====+=====+
-| I . | Not | N   | N   | ++  | ++  |
-| V   | imm | one | one |     |     |
-|     | e d |     |     |     |     |
-| i   | i a |     |     |     |     |
-| a   | t   |     |     |     |     |
-| ble | ely |     |     |     |     |
-|     | th  |     |     |     |     |
-|     | r e |     |     |     |     |
-|     | a t |     |     |     |     |
-|     | e   |     |     |     |     |
-|     | ned |     |     |     |     |
-+-----+-----+-----+-----+-----+-----+
-| I   | \   | \   | \   |     |     |
-| I\. |     |     |     |     |     |
-| T h |     |     |     |     |     |
-| r e |     |     |     |     |     |
-| a t |     |     |     |     |     |
-| e   |     |     |     |     |     |
-| ned |     |     |     |     |     |
-+-----+-----+-----+-----+-----+-----+
-| a\. | Sal | M i | N   | +/- | \+  |
-| M a | v a | n   | one |     |     |
-| r g | g e | i   |     |     |     |
-| i n | a   | mal |     |     |     |
-| a   | ble | ( t |     |     |     |
-| lly | if  | o   |     |     |     |
-|     | p r | es) |     |     |     |
-|     | o m | or  |     |     |     |
-|     | p   | n   |     |     |     |
-|     | tly | one |     |     |     |
-|     | t r |     |     |     |     |
-|     | e   |     |     |     |     |
-|     | a   |     |     |     |     |
-|     | ted |     |     |     |     |
-+-----+-----+-----+-----+-----+-----+
-| b\. | Sal | M   | M   | +/- | \+  |
-| Im  | v a | ore | i   |     |     |
-| m e | g e | t   | ld, |     |     |
-| d i | a   | han | m o |     |     |
-| a   | ble | t   | d e |     |     |
-| t   | w   | o   | r   |     |     |
-| ely | ith | es, | ate |     |     |
-|     | i m | as  |     |     |     |
-|     | m e | s o |     |     |     |
-|     | d   | c i |     |     |     |
-|     | i   | a   |     |     |     |
-|     | ate | ted |     |     |     |
-|     | rev | w   |     |     |     |
-|     | a s | ith |     |     |     |
-|     | c   | r   |     |     |     |
-|     | ula | est |     |     |     |
-|     | r i | p   |     |     |     |
-|     | z a | ain |     |     |     |
-|     | t   |     |     |     |     |
-|     | ion |     |     |     |     |
-+-----+-----+-----+-----+-----+-----+
-| I   | M   | P r | P r | \-  | \-  |
-| II. | a   | o   | o   | \|  |     |
-|     | jor | \|  | \|  |     | \|  |
-| \|  | \|  | f o | f o | \|  | v   |
-|     | t i | u   | u   |     |     |
-| Irr | s   | nd, | nd, | \|  | \|  |
-|     | sue | an  | p a |     |     |
-| e   | l   | e s | r a | C   |     |
-|     | oss | t h | l   | \|  |     |
-| v   | or  | e   | y   |     |     |
-|     | p e | tic | sis |     |     |
-| e   | r m |     | ()  |     |     |
-|     | a   | \|  | r i |     |     |
-| r   | n   |     | g   |     |     |
-|     | ent | \|  | or) |     |     |
-| s   | n   |     | \|  |     |     |
-| i   | e   | \|  |     |     |     |
-| ble | rve |     | \|  |     |     |
-|     | d a | \|  |     |     |     |
-|     | m a |     |     |     |     |
-|     | g   |     |     |     |     |
-|     | e\| |     |     |     |     |
-|     | ine |     |     |     |     |
-|     | v i |     |     |     |     |
-|     | i t |     |     |     |     |
-|     | ab  |     |     |     |     |
-|     | le\ |     |     |     |     |
-|     | \|  |     |     |     |     |
-|     | cya |     |     |     |     |
-|     | n   |     |     |     |     |
-|     | o   |     |     |     |     |
-|     | sis |     |     |     |     |
-|     | may |     |     |     |     |
-|     | be  |     |     |     |     |
-|     | pr  |     |     |     |     |
-|     | e   |     |     |     |     |
-|     | s   |     |     |     |     |
-|     | ent |     |     |     |     |
-+-----+-----+-----+-----+-----+-----+
++----+----+----+----+----+----+
+| C  | *  | Se | -  | A  | Ve |
+| l  | *P | n  |    | r  | n  |
+| as | r  | s  | \* | te | o  |
+| s  | o  | o  |    | r  | us |
+| i  | g  | ry | M  | i  | Si |
+| f  | no | L  | u  | al | g  |
+| ic | s  | o  | s  | Si | n  |
+| a  | i  | ss | c  | g  | al |
+| t  | s  |    | le | n  |    |
+| i  | ** |    | We | al |    |
+| on |    |    | a  |    |    |
+|    |    |    |    |    |    |
+|    |    |    | k  |    |    |
+|    |    |    | ne |    |    |
+|    |    |    | s  |    |    |
+|    |    |    | s\ |    |    |
+|    |    |    | \* |    |    |
+|    |    |    | \* |    |    |
++====+====+====+====+====+====+
+| I  | N  | N  | N  | ++ | ++ |
+| .  | ot | o  | o  |    |    |
+| V  | i  | ne | ne |    |    |
+|    | mm |    |    |    |    |
+| i  | e  |    |    |    |    |
+| a  | d  |    |    |    |    |
+| b  | i  |    |    |    |    |
+| le | a  |    |    |    |    |
+|    | t  |    |    |    |    |
+|    | e  |    |    |    |    |
+|    | ly |    |    |    |    |
+|    | th |    |    |    |    |
+|    | r  |    |    |    |    |
+|    | e  |    |    |    |    |
+|    | a  |    |    |    |    |
+|    | t  |    |    |    |    |
+|    | e  |    |    |    |    |
+|    | n  |    |    |    |    |
+|    | ed |    |    |    |    |
++----+----+----+----+----+----+
+| I  | \  | \  | \  |    |    |
+| I. |    |    |    |    |    |
+| T  |    |    |    |    |    |
+| h  |    |    |    |    |    |
+| r  |    |    |    |    |    |
+| e  |    |    |    |    |    |
+| a  |    |    |    |    |    |
+| t  |    |    |    |    |    |
+| e  |    |    |    |    |    |
+| n  |    |    |    |    |    |
+| ed |    |    |    |    |    |
++----+----+----+----+----+----+
+| a  | S  | M  | N  | +  | \+ |
+| \. | al | i  | o  | /- |    |
+| M  | v  | n  | ne |    |    |
+| a  | a  | i  |    |    |    |
+| r  | g  | m  |    |    |    |
+| g  | e  | al |    |    |    |
+| i  | a  | (  |    |    |    |
+| n  | b  | t  |    |    |    |
+| a  | le | o  |    |    |    |
+| l  | if | e  |    |    |    |
+| ly | p  | s) |    |    |    |
+|    | r  | or |    |    |    |
+|    | o  | n  |    |    |    |
+|    | m  | o  |    |    |    |
+|    | p  | ne |    |    |    |
+|    | t  |    |    |    |    |
+|    | ly |    |    |    |    |
+|    | t  |    |    |    |    |
+|    | r  |    |    |    |    |
+|    | e  |    |    |    |    |
+|    | a  |    |    |    |    |
+|    | t  |    |    |    |    |
+|    | ed |    |    |    |    |
++----+----+----+----+----+----+
+| b  | S  | M  | M  | +  | \+ |
+| \. | al | o  | i  | /- |    |
+| Im | v  | re | l  |    |    |
+| m  | a  | t  | d, |    |    |
+| e  | g  | h  | m  |    |    |
+| d  | e  | an | o  |    |    |
+| i  | a  | t  | d  |    |    |
+| a  | b  | o  | e  |    |    |
+| t  | le | e  | r  |    |    |
+| e  | w  | s, | a  |    |    |
+| ly | i  | as | te |    |    |
+|    | th | s  |    |    |    |
+|    | i  | o  |    |    |    |
+|    | m  | c  |    |    |    |
+|    | m  | i  |    |    |    |
+|    | e  | a  |    |    |    |
+|    | d  | t  |    |    |    |
+|    | i  | ed |    |    |    |
+|    | a  | w  |    |    |    |
+|    | te | i  |    |    |    |
+|    | r  | th |    |    |    |
+|    | ev | r  |    |    |    |
+|    | a  | e  |    |    |    |
+|    | s  | st |    |    |    |
+|    | c  | p  |    |    |    |
+|    | u  | a  |    |    |    |
+|    | la | in |    |    |    |
+|    | r  |    |    |    |    |
+|    | i  |    |    |    |    |
+|    | z  |    |    |    |    |
+|    | a  |    |    |    |    |
+|    | t  |    |    |    |    |
+|    | i  |    |    |    |    |
+|    | on |    |    |    |    |
++----+----+----+----+----+----+
+| I  | M  | P  | P  | \- | \- |
+| I  | a  | r  | r  | \| |    |
+| I. | j  | o  | o  |    | \| |
+|    | or | \| | \| | \| | v  |
+| \| | \| | f  | f  |    |    |
+|    | t  | o  | o  | \| | \| |
+| I  | i  | u  | u  |    |    |
+| rr | s  | n  | n  | C  |    |
+|    | s  | d, | d, | \| |    |
+| e  | ue | an | p  |    |    |
+|    | l  | e  | a  |    |    |
+| v  | o  | s  | r  |    |    |
+|    | ss | t  | a  |    |    |
+| e  | or | h  | l  |    |    |
+|    | p  | e  | y  |    |    |
+| r  | e  | t  | s  |    |    |
+|    | r  | ic | is |    |    |
+| s  | m  |    | () |    |    |
+| i  | a  | \| | r  |    |    |
+| b  | n  |    | i  |    |    |
+| le | e  | \| | g  |    |    |
+|    | nt |    | o  |    |    |
+|    | n  | \| | r) |    |    |
+|    | e  |    | \| |    |    |
+|    | r  | \| |    |    |    |
+|    | ve |    | \| |    |    |
+|    | d  |    |    |    |    |
+|    | a  |    |    |    |    |
+|    | m  |    |    |    |    |
+|    | a  |    |    |    |    |
+|    | g  |    |    |    |    |
+|    | e  |    |    |    |    |
+|    | \| |    |    |    |    |
+|    | i  |    |    |    |    |
+|    | ne |    |    |    |    |
+|    | v  |    |    |    |    |
+|    | i  |    |    |    |    |
+|    | i  |    |    |    |    |
+|    | t  |    |    |    |    |
+|    | ab |    |    |    |    |
+|    | l  |    |    |    |    |
+|    | e\ |    |    |    |    |
+|    | \| |    |    |    |    |
+|    | c  |    |    |    |    |
+|    | ya |    |    |    |    |
+|    | n  |    |    |    |    |
+|    | o  |    |    |    |    |
+|    | s  |    |    |    |    |
+|    | is |    |    |    |    |
+|    | m  |    |    |    |    |
+|    | ay |    |    |    |    |
+|    | be |    |    |    |    |
+|    | pr |    |    |    |    |
+|    | e  |    |    |    |    |
+|    | s  |    |    |    |    |
+|    | e  |    |    |    |    |
+|    | nt |    |    |    |    |
++----+----+----+----+----+----+
 
 **What does the work up for an acute limb entail? How is the diagnosis
 made?**
