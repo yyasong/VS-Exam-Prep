@@ -761,7 +761,7 @@ more about that...**
 
 Fibromuscular dysplasia (FMD) is a noninflammatory, nonatherosclerotic
 disorder that leads to arterial stenosis, occlusion, aneurysm,
-dissection, and arterial tortuosity.
+dissection, and arterial tortuosity.[@olin2011]
 
 -   Virtually always diagnosed radiographically -- formerly
     pathologically, but rarely sent for specimen in modern diagnosis or

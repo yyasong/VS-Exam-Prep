@@ -46,7 +46,7 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
     risk.
 
     Traditionally, the clinical sign associated with carotid stenosis is
-    the prescence of a neck bruit on auscultation. Focal ipsilateral
+    the presence of a neck bruit on auscultation. Focal ipsilateral
     carotid bruits in symptomatic patients has a sensitivity of 63% and
     a specificity of 61% for high-grade carotid stenosis (range,
     70%-99%). As these figures suggest the absence of carotid bruit does
@@ -67,7 +67,9 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
         -   Hypercholesterolemia
 
     -   In general, the more risk factors present, the higher the yield
-        of screening for the patient.
+        of screening for the patient. Presence of a carotid bruit, AAA
+        or family history of disease alone is not sufficient to warrant
+        imaging.[@aburahma2022]
 
     -   The benefit of prophylactic treatment of high grade stenosis is
         estimated at a 1-2% stroke reduction risk per year.
@@ -82,7 +84,8 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 3.  **Ultrasound Imaging**
 
     -   US is considered the best, least invasive, and cost effective
-        method for detecting carotid stenosis on screening.
+        method for detecting carotid stenosis on
+        screening.[@shaalan2008] For more see \@ref(extracranial).
 
     -   50-69% stenosis of ICA - US has a low sensitivity for 50-69%
         stenosis. A negative ultrasound in symptomatic patients
@@ -501,6 +504,8 @@ atherosclerosis. <!--# Add Reference -->
 
 -   How do you treat isolated vertebral disease?
 
+    -   Most common etiology is atherosclerosis, but can also be caused
+        by embolism, dissection or migraines.[@limaneto2017]
     -   Symptomatic primary vertebral disease with \>60% stenosis should
         be treated. Vertebral divided into segments. V1 preforaminal
         (lower than C6), V2 foraminal (C6-C2), V3 (C2-dura), V4
@@ -563,7 +568,8 @@ atherosclerosis. <!--# Add Reference -->
 
     -   Defined as dilation of the bulb 200% of the internal carotid
         artery or 150% of the common carotid artery. Like popliteal
-        aneurysms the major risk is thromboembolization.[@bush2019]
+        aneurysms the major risk is thromboembolization.[@bush2019;
+        @fankhauser2015; @pourier2018]
 
     -   Treatment is resection with primary repair or interposition.
         Distorted anatomy increased the risk for cranial nerve injury
@@ -573,11 +579,14 @@ atherosclerosis. <!--# Add Reference -->
     kinking. Treated with resection and primary repair with shortening
     and straightening.[@ballotta2005]
 
--   Fibromuscular Dysplasia (FMD) - for more, see
+-   Fibromuscular Dysplasia (FMD)[@olin2011] - for more, see
     \@ref(fibromuscular-dysplasia-fmd)
 
     -   Asymptomatic disease can often be treated with antiplatelets
         alone.
+
+    -   Duplex ultrasound demonstrates classic "chain of lakes"
+        appearance. For more see \@ref(extracranial)
 
     -   Associated with intracranial aneurysms (13%), therefore may be
         reasonable to also pursue brain imaging if identified. However,
@@ -681,13 +690,14 @@ atherosclerosis. <!--# Add Reference -->
 Shamblin criteria utilized to determine difficulty of resection and is
 associated with rates of carotid reconstruction or cranial nerve injury.
 
-Embolization helps reduce risk of perioperative blood loss not
-associated with reduced cranial nerve injury.  Resection 24-36hrs after
-embolization.[@power2012]
+Blood supply primarily from the external carotid artery.[@robertson2019;
+@davila2016] Embolization helps reduce risk of perioperative blood loss
+not associated with reduced cranial nerve injury.  Resection 24-36hrs
+after embolization.[@power2012]
 
 One quarter (25%) are associated with a germline mutation or familial
-history. Genetic testing recommended in patients with multi-focal
-tumors, associated paraganglioma, pheo or family history.  SDHD gene
+history. Genetic testing recommended in patients with multifocal tumors,
+associated paraganglioma, pheochromocytoma or family history.  SDHD gene
 mutation is most common associated with familial
 paraganglioma.[@davila2016; @kruger2010]
 

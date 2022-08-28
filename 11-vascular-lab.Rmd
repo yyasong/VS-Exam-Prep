@@ -137,6 +137,30 @@ high-yield vascular lab studies, findings, and pathologies.We'll start
 with the extracranial evaluation, a highly-tested area of vascular
 ultrasonography.
 
+**Are there any considerations we need to understand when assessing a
+stented vessel with ultrasound?**
+
+Stenting decreases vessel compliance and increases observed velocities.
+There is no defined consensus, but [in-stent restenosis]{.underline} is
+classified by some as follows:
+
+-   \>50%
+
+    -   SFA - Vr \>1.5 or PSV \>200 [@baril2009; @kawarada2013]
+
+    -   ICA - ICA/CCA \>2.7 and PSV \>220.[@lal2008]
+
+-   \>80%
+
+    -   SFA - Vr \> 3.5 or PSV \>275 [@baril2009; @kawarada2013]
+
+    -   ICA - ICA/CCA \> 4.15 and PSV \> 340.[@lal2008]
+
+It should be noted that restenosis of stents vs vein grafts in the lower
+extremity will have higher velocity for the same percentage of stenosis.
+Tardus et parvus waveforms distal to a stent should raise concern that
+stenosis is hemodynamically significant.[@baril2009; @kawarada2013]
+
 **Ultrasound compared to other diagnostic modalities**
 
 Duplex is often adequate to visualize any peripheral arterial bed, even
@@ -176,7 +200,8 @@ resistance influence of the ECA.
 Another way of differentiating the external and internal carotid
 arteries is the "temporal tap". Tapping on the superficial temporal
 artery (a branch of the ECA) will be transmitted as small pulsations in
-the diastolic component of the external carotid artery.
+the diastolic component of the external carotid artery.[@pellerito2019;
+@size2013]
 
 ```{r echo=FALSE}
 
@@ -208,6 +233,8 @@ knitr::include_graphics(rep("images/vasc_lab/Slide9.jpeg"))
 Asymptomatic Carotid Atherosclerosis Study (ACAS) \>60% stenosis
 asymptomatic, NASCET \>50% stenosis symptomatic
 
+For more see \@ref(cerebrovascular).
+
 **Let's talk about other pathologies that can be visualized on
 extracranial ultrasound:**
 
@@ -222,13 +249,17 @@ on the exams?
 affects women more commonly than men. Duplex findings show a "chain of
 lakes" appearance, demonstrative of multiple septa and small aneurysms.
 Velocity elevations and increased turbulence in the waveform patterns is
-typically found on Doppler interrogation.
+typically found on Doppler interrogation.[@olin2012]
 
 ```{r echo=FALSE}
 
 knitr::include_graphics(rep("images/vasc_lab/Slide10.jpeg"))
 
 ```
+
+[Aortic stenosis:]{.underline} Tardus parvus waveforms in both common
+carotid arteries can be a sign of more proximal disease of the aortic
+valve or global myocardial dysfunction.
 
 **How to treat?**
 
@@ -239,14 +270,18 @@ extracranial exam?**
 
 [Subclavian steal:]{.underline} Subclavian steal occurs when a proximal
 subclavian stenosis or occlusion leads to reversal of vertebral artery
-flow. This causes "stealing" of  blood from the posterior cerebral
-circulation, and presents as vertebrobasilar insufficiency. How does
-this look on duplex? Normal vertebral flow looks very similar to ICA:
-antegrade low resistance waveforms with constant forward flow throughout
-the cardiac cycle. As subclavian stenosis progresses, one can see
-mid-systolic velocity decelerations ('bunny ears") , and with severe
-steal, there is a complete reversal of flow in the vertebral artery
-towards the arm rather than towards the brain.
+flow. This causes "stealing" of blood from the posterior cerebral
+circulation, and presents as vertebrobasilar insufficiency.
+
+**How does this look on duplex?**
+
+Normal vertebral flow looks very similar to ICA: antegrade low
+resistance waveforms with constant forward flow throughout the cardiac
+cycle. As subclavian stenosis progresses, one can see mid-systolic
+velocity deceleration ('bunny ears") , with mild stenosis bidirectional
+flow can signify "pre-steal" phenomena, and with severe steal, there is
+a complete reversal of flow in the vertebral artery towards the arm
+rather than towards the brain.[@kalaria2005; @mousa2017]
 
 ```{r echo=FALSE}
 
@@ -276,9 +311,11 @@ concentric inflammation.[@ball2010; @schmidt2014]
 ## Intracranial
 
 So that covers extracranial vascular lab evaluation. What about
-intracranial? This is less frequently tested, so we will discuss just a
-brief overview of views and some of the more commonly tested
-pathologies.
+intracranial?
+
+This is less frequently tested, so we will discuss just a brief overview
+of views and some of the more commonly tested pathologies related to
+transcranial doppler (TCD).
 
 [**Intracranial:**]{.underline}
 
@@ -307,7 +344,16 @@ Indications often tested:
     reduced from \>10% to \<1% per year.
     [@bulasTranscranialDopplerTCD2000]
 
--   [Cerebral ischemia during CEA:]{.underline} Comparing transcranial
+    -   Lindegrad ratio is the MCA velocity divided by the distal ICA
+        velocity and can also be used to assess MCA spasm.
+
+        -   Ratio of 3-6 is indicative of mild-mod vasospasm.
+
+        -   \>6 is severe vasospasm.
+
+        -   \<3 is a sign of hyperemia.[@kirsch2013]
+
+-   [Cerebral ischemia during CEA:]{.underline} Comparing transcranial
     Doppler sonography, near-infrared spectroscopy, stump pressure
     measurement, and somatosensory evoked potentials, cerebral ischemia
     was most accurately predicted by the percent change in transcranial
@@ -317,7 +363,29 @@ Indications often tested:
     ischemia.[@moritzAccuracyCerebralMonitoring2007]
 
 -   TCD can also demonstrate microemboli (high spikes on spectral
-    doppler) during CEA
+    doppler) during CEA.
+
+-   A shower of bubbles in both cerebral hemispheres upon injection with
+    agitated saline is consistent with a R to L cardiac shunt and patent
+    foramen ovale.[@zito2009]
+
+-   Elevated contralateral ICA velocities can demonstrate compensatory
+    flow and collateralizaiton and can be a sign of persistent MCA
+    occlusion.
+
+-   Mechanical Compression of the vertebral arteries: TCD will show
+    normal posterior circulation velocities at rest, disappearance of
+    waveform on provocative maneuvers, and increase in velocity once
+    back in a neutral position representing a reactive
+    hyperemia.[@vilela2005]
+
+-   Vasomotor activity can be evaluated as well with TCD. Hypercapnia or
+    breath-hodling should result in vasodilation and increased flow.
+    Hypocapnia in decreased flow. No change in response to hyper or
+    hypocapnia can show poor cerebral autoregulation.[@müller1995]
+
+-   Reversal of flow in the ophthalmic artery can be a sign of
+    ipsilateral ICA occlusion.[@guan2013]
 
 ## Upper Extremity
 
@@ -589,22 +657,6 @@ Presenting with new swelling, pain and fluid around a prosthetic graft
 on duplex ultrasound may be a sign of underlying graft infection. PET
 and WBC scans may be positive up to 4mo after implantation, so do not
 provide much utility in the early post-operative period.[@puges2019]
-
-**Are there any considerations we need to understand when assessing a
-stented vessel with ultrasound?**
-
-Stenting decreases vessel compliance and increases observed velocities.
-There is no defined consensus, but [in-stent restenosis]{.underline} is
-classified by some as follows:
-
--   \>50% - Vr \>1.5 or PSV \>200
-
--   \>80% - Vr \> 3.5 or PSV \>275
-
-It should be noted that restenosis of stents vs vein grafts will have
-higher velocity for the same percentage of stenosis. Tardus et parvus
-waveforms distal to a stent should raise concern that stenosis is
-hemodynamically significant.[@baril2009; @kawarada2013]
 
 ### Pathologies
 

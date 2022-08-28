@@ -1433,74 +1433,68 @@ the scope of a vascular surgeon's assessment and diagnosis of nTOS.
 
 ### Rib Resection approaches
 
-+---------------------+---------------------+---------------------+
-|                     | Advantages          | Disadvantages       |
-+=====================+=====================+=====================+
-| Tran saxillary      | Cosmetically more   | -   Difficult to    |
-|                     | appealing as it has |     visualize the   |
-|                     | a limited hidden    |     anatomy,        |
-|                     | scar                |     dependent on    |
-|                     |                     |     good assistance |
-|                     |                     |                     |
-|                     |                     | -   Risk of injury  |
-|                     |                     |     to T1 nerve     |
-|                     |                     |     root, phrenic   |
-|                     |                     |     nerve, long     |
-|                     |                     |     thoracic,       |
-|                     |                     |     brachial plexus |
-|                     |                     |     , subclavian    |
-|                     |                     |     vein and        |
-|                     |                     |     arterial with   |
-|                     |                     |     limited         |
-|                     |                     |     exposure to     |
-|                     |                     |     repair          |
-|                     |                     |                     |
-|                     |                     | -   Not able to     |
-|                     |                     |     approach        |
-|                     |                     |     cervical ribs,  |
-|                     |                     |     scalene         |
-|                     |                     |     triangle or     |
-|                     |                     |     patch vein.     |
-+---------------------+---------------------+---------------------+
-| Suprac lavicular    | -   Good for        | -   Unable to       |
-|                     |     scalene         |     decompress      |
-|                     |     triangle access |     venous          |
-|                     |     and debulking   |     compression or  |
-|                     |     and cervical    |     visualize vein  |
-|                     |     rib resection   |     adequately      |
-|                     |                     |                     |
-|                     | -   Required for    | -   Cosmetically    |
-|                     |     aTOS if         |     less appealing  |
-|                     |     arterial        |                     |
-|                     |                     |                     |
-|                     | reconstruction      |                     |
-|                     | necessary           |                     |
-+---------------------+---------------------+---------------------+
-| Infrac lavicular    | -   Good access for | -   Unable to       |
-| [\@ siracuseI       |     venous          |     expose          |
-| nfraclavi cularFirs |                     |     subclavian      |
-| tRib2015]           | decompression       |     artery or       |
-|                     |                     |     decompress      |
-|                     | -   Allows for      |     brachial        |
-|                     |     excision of     |     plexus.         |
-|                     |     subclavius      |                     |
-|                     |     muscle and      | -   Difficult to    |
-|                     |                     |     access most     |
-|                     | c ostoclavicular    |     posterior       |
-|                     | ligament            |     aspect of rib   |
-|                     |                     |                     |
-|                     |                     | -   Cosmetically    |
-|                     |                     |     less appealing  |
-+---------------------+---------------------+---------------------+
-| Parac lavicular     | -   Useful if mixed | -   Requires two    |
-|                     |     etiology TOS to |     incisions one   |
-|                     |     adequately      |     above and below |
-|                     |                     |     the clavicle    |
-|                     | decompression all   |                     |
-|                     |                     |                     |
-|                     | neurovascular       |                     |
-|                     | structures          |                     |
-+---------------------+---------------------+---------------------+
++----------------------+----------------------+----------------------+
+|                      | Advantages           | Disadvantages        |
++======================+======================+======================+
+| Tran saxillary       | Cosmetically more    | -   Difficult to     |
+|                      | appealing as it has  |     visualize the    |
+|                      | a limited hidden     |     anatomy,         |
+|                      | scar                 |     dependent on     |
+|                      |                      |     good assistance  |
+|                      |                      |                      |
+|                      |                      | -   Risk of injury   |
+|                      |                      |     to T1 nerve      |
+|                      |                      |     root, phrenic    |
+|                      |                      |     nerve, long      |
+|                      |                      |     thoracic,        |
+|                      |                      |     brachial plexus  |
+|                      |                      |     , subclavian     |
+|                      |                      |     vein and         |
+|                      |                      |     arterial with    |
+|                      |                      |     limited exposure |
+|                      |                      |     to repair        |
+|                      |                      |                      |
+|                      |                      | -   Not able to      |
+|                      |                      |     approach         |
+|                      |                      |     cervical ribs,   |
+|                      |                      |     scalene triangle |
+|                      |                      |     or patch vein.   |
++----------------------+----------------------+----------------------+
+| Suprac lavicular     | -   Good for scalene | -   Unable to        |
+|                      |     triangle access  |     decompress       |
+|                      |     and debulking    |     venous           |
+|                      |     and cervical rib |     compression or   |
+|                      |     resection        |     visualize vein   |
+|                      |                      |     adequately       |
+|                      | -   Required for     |                      |
+|                      |     aTOS if arterial | -   Cosmetically     |
+|                      |                      |     less appealing   |
+|                      | reconstruction       |                      |
+|                      | necessary            |                      |
++----------------------+----------------------+----------------------+
+| Infrac lavicular [\@ | -   Good access for  | -   Unable to expose |
+| siracuseI nfraclavi  |     venous           |     subclavian       |
+| cularFirs tRib2015]  |                      |     artery or        |
+|                      | decompression        |     decompress       |
+|                      |                      |     brachial plexus. |
+|                      | -   Allows for       |                      |
+|                      |     excision of      | -   Difficult to     |
+|                      |     subclavius       |     access most      |
+|                      |     muscle and       |     posterior aspect |
+|                      |                      |     of rib           |
+|                      | c ostoclavicular     |                      |
+|                      | ligament             | -   Cosmetically     |
+|                      |                      |     less appealing   |
++----------------------+----------------------+----------------------+
+| Parac lavicular      | -   Useful if mixed  | -   Requires two     |
+|                      |     etiology TOS to  |     incisions one    |
+|                      |     adequately       |     above and below  |
+|                      |                      |     the clavicle     |
+|                      | decompression all    |                      |
+|                      |                      |                      |
+|                      | neurovascular        |                      |
+|                      | structures           |                      |
++----------------------+----------------------+----------------------+
 
 #### Post operative complications
 
