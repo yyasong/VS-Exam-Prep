@@ -41,13 +41,20 @@ impedance](https://en.wikipedia.org/wiki/Acoustic_impedance)s.
 **Doppler mode** uses the Doppler effect to measure and visualize blood
 flow.
 
-**Spectral Doppler** converts frequency shifts from moving blood to
+**Spectral Doppler** converts frequency shifts from moving blood to
 velocities using the Doppler equation, and displays a "spectrum" of
 these frequencies as Doppler waveforms.
 
-**Color Doppler** presents velocity information as a color-coded overlay
+**Color Doppler** presents velocity information as a color-coded overlay
 on top of a B-mode image. Duplex ultrasonography is a term commonly used
 for the simultaneous presentation of B-mode and doppler data.
+
+**Power Doppler** is less frequently use, but is based solely on
+amplitude of the doppler signal without giving information on direction.
+This is particularly useful to detect certain low or abnormal flow
+states, such as testicular/ovarian torsion, carotid string sign, slow
+intrarenal flow, supporting occlusion seen on B-mode or
+color.[@pellerito2019]
 
 ### Waveforms
 
@@ -362,8 +369,8 @@ Indications often tested:
     transcranial Doppler is 100% sensitive for detecting cerebral
     ischemia.[@moritzAccuracyCerebralMonitoring2007]
 
--   TCD can also demonstrate microemboli (high spikes on spectral
-    doppler) during CEA.
+    -   TCD can also demonstrate microemboli (high spikes of white
+        vertical lines on spectral doppler) during CEA.
 
 -   A shower of bubbles in both cerebral hemispheres upon injection with
     agitated saline is consistent with a R to L cardiac shunt and patent
@@ -386,6 +393,10 @@ Indications often tested:
 
 -   Reversal of flow in the ophthalmic artery can be a sign of
     ipsilateral ICA occlusion.[@guan2013]
+
+-   Brain death determination - In patients with cerebral arrest (brain
+    death) TCD will demonstrate a low amplitude, high resistance
+    waveform with to and fro flow with a zero net flow.
 
 ## Upper Extremity
 
@@ -1127,3 +1138,44 @@ increase in the color scale. Of note, if asked to determine the
 direction of blood flow in a vessel demonstrating aliasing, one should
 assess the flow in low-velocity areas of blood flow, as seen along
 vessel walls.
+
+## Accreditation and Credentialling
+
+**Intersocietal Accreditation Commission (IAC) Accreditation** -
+voluntary, not linked to reimbursement but may be required by some
+payers, medical director must have a certain training/experience,
+including RPVI as one way, technical director must have credentials
+through ARDMS, CCI or ACR with recredentialing every three
+years.[@iac2021]
+
+-   Physician accreditation with RPVI requires recertification every 3
+    years with 30 hours of CME specifically in the area of vascular
+    ultrasound.
+
+Regulations for a completed vascular exam report[@iac2021]
+
+-   Patient identifier
+
+-   Date of exam
+
+-   Sign/symptom as indication - medical necessity should no just
+    include "rule out"
+
+-   Reasons for any limitations to the examination
+
+-   Comparisons to any previous related studies
+
+-   Reported by medical staff within 2 working days and final report
+    verified within 4 working days.
+
+Troubleshooting examinations
+
+-   Any concerning acute findings, such as mobile intra-arterial
+    material concerning for embolism, should be reported to the
+    supervising/reading physician immediately before completing the
+    examination.[@societyofdiagnosticmedicalsonography2015]
+
+-   Some modifications to tests can be made if the patient is unable to
+    tolerate, such as standing or tolerating a valsalva
+    maneuver.[@societyofdiagnosticmedicalsonography2015]
+

@@ -207,7 +207,8 @@ to identify and preserve small jejunal branches during the dissection.
 If needed, careful dissection superiorly, going behind the inferior
 border of the pancreas can get a little more proximal exposure.
 Embolectomy through a transverse arteriotomy in the SMA is the best
-approach.[@kazmersOperativeManagementAcute1998]
+approach.[@wyersmarkcandmartin2019;
+@kazmersOperativeManagementAcute1998]
 
 Alternatively, you can get to the SMA from a lateral approach,
 specifically from the left side. Begin by dividing the ligament of
@@ -257,6 +258,10 @@ about the general approach to the patient.**
     reasonable to leave borderline bowel alone at the index operation
     and do a "second look" to fully reassess the bowel, especially after
     the patient has benefitted from aggressive resuscitation in the ICU.
+
+Endovascular approaches to acute mesenteric ischemia have been described
+but data is limited. Exploratory laparotomy and embolectomy should be
+preferred management.[@wyersmarkcandmartin2019]
 
 **Let's talk a little about the steps for an SMA embolectomy.**
 
@@ -346,7 +351,7 @@ but the rates of laparotomy and bowel resection after these treatments
 have been described at over 20%. Probably not your first answer for oral
 boards.
 
-### Rare Etiologies
+### Other Etiologies
 
 **What are some other, more rare etiologies of acute mesenteric
 ischemia?**
@@ -373,8 +378,8 @@ Treatment is primarily conservative, with the emphasis on resuscitation
 and addressing whatever the underlying etiology is. Adjuncts to this
 include placement of infusion catheters into the affected vessel with
 infusions of vasodilators (most commonly papaverine at 30-60mg/hr) or
-prostaglandin.$$@wyersmarkcandmartin133AcuteMesenteric2019;
-@trompeterNonocclusiveMesentericIschemia2002$$ NOMI with portal venous
+prostaglandin [@wyersmarkcandmartin133AcuteMesenteric2019;
+@trompeterNonocclusiveMesentericIschemia2002] NOMI with portal venous
 gas, pneumatosis and free air often indicate need for laparotomy.
 
 **How about mesenteric venous thrombosis?**
@@ -385,10 +390,11 @@ a wide variety of causes that have been reported, and any of the things
 that contribute to Virchow's triad have been reported (thrombophilia
 from coagulopathy or malignancy, venous stasis from abdominal
 hypertension or obesity, direct injury from trauma, surgery, or
-inflammation). The diagnostic test of choice is a CT venogram, which
-most commonly identifies thrombosis in the superior mesenteric vein (but
-can also involve the IMV, portal vein, or splenic vein). The treatment
-of choice is therapeutic anticoagulation.
+inflammation). The diagnostic test of choice is a CT with portal vein
+contrast, which most commonly identifies thrombosis in the superior
+mesenteric vein (but can also involve the IMV, portal vein, or splenic
+vein). The treatment of choice is therapeutic
+anticoagulation.[@acosta2019]
 
 ## Chronic Mesenteric Ischemia
 
@@ -539,6 +545,10 @@ analgesia. Rates are lower in stented
 patients.[@kwong85SplanchnicArtery;
 @piffarettiSplenicArteryAneurysms2007;
 @zhuEndovascularSurgicalManagement2019]
+
+Splenic artery embolization also an effective way to treat
+thrombocytopenia, particularly chemo induced, when splenectomy is too
+high risk.[@bhatia2015]
 
 ## Median Arcuate Ligament Syndrome (MALS)
 

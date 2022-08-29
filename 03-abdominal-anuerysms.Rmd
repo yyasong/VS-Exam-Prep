@@ -91,6 +91,14 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     inflammation and aortic wall hypoxia which all increase the rate of
     AAA growth.
 
+-   Infective aoritis is a rare but highly morbid cause for aortic
+    aneurysm formation. Treatment in this setting should be more
+    aggressive with the addition of antibiotic therapy and open surgical
+    repair with rifampin soaked graft whenever feasible.[@gornik2008;
+    @paravastu2009; @rasmussen1997]
+
+-   For more about other aortitis, see \@ref(large-vasculitis).
+
 **What are the risk factors for AAA occurrence and growth?**
 [@mooreVascularEndovascularSurgery2019]
 
@@ -118,7 +126,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     -   Women have same outcomes from endo repair, higher complications
         from open repair due to poorly managemend CV risk factors.
 
--   Fluoroquinolones
+-   Fluoroquinolones[@lee2015; @lee2018; @lemaire2018; @pasternak2018]
 
     -   In a recent study just published in JAMA Surgery this January,
         the group at UNC showed an increased short-term risk of
@@ -294,7 +302,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 -   The VSGNE or Vascular Study Group of New England developed a risk
     prediction model for mortality which can assist in your decision
     making. This is endorsed by both SVS and the Vascular Quality
-    Initiative.
+    Initiative.[@chaikof2018; @eslami2015]
 
     -   This risk model looks at open vs endovascular repair and further
         delineates infrarenal vs suprarenal clamps
@@ -466,6 +474,15 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
             assist in maintaining perfusion into the hypogastric
             arteries.
 
+Special considerations
+
+-   Aortocaval fistula - sometimes aneurysms can be complicated by
+    fistula with the IVC. This can occur with primary fistula, rupture
+    and after repair. This is rare, 1% in elective AAA and 6% in
+    rupture.[@brightwell2013; @schmidt1994] High risk of persistent
+    endoleak due to ongoing flow into IVC. Open repair often
+    best.[@orion2016]
+
 ### EVAR
 
 **Can you briefly go over the steps of an EVAR?**
@@ -566,6 +583,11 @@ EVAR and the management?** [@mooreVascularEndovascularSurgery2019]
     events may occur from thrombus-laden aortic necks with wire and
     device manipulation to the renal arteries as well.
 
+-   Emergent conversion from EVAR to open are associated with
+    significant increase in morbidity and mortality. Risk factors
+    include aneurysm diameter, young age, female gender and nonwhite
+    race.[@ultee2016]
+
 #### Endoleaks
 
 Defined as persistent blood flow within the aneurysm sac following EVAR.
@@ -579,6 +601,10 @@ Defined as persistent blood flow within the aneurysm sac following EVAR.
         attention with further balloon angioplasty, proximal or distal
         extension, or endoanchors.
 
+        -   Use of endoanchors in thrombus and calcium-laden aorta is
+            not recommended.[@jordan2014] Outcomes are similar with or
+            without suprarenal fixation.
+
     -   If seen in follow up surveillance, intervention is necessary.
 
 2.  Type II
@@ -587,17 +613,23 @@ Defined as persistent blood flow within the aneurysm sac following EVAR.
         off of the aneurysm sac such as a lumbar artery or the IMA
 
     -   If identified intraoperatively, this typically does not need to
-        be addressed in the OR.
+        be addressed in the OR. Typically, type II endoleaks
+        spontaneously thrombose and therefore can be observed.
 
-    -   Typically, type II endoleaks spontaneously thrombose and
-        therefore can be observed.
+    -   It is common to continue monitoring even if there is persistent
+        flow as long as there is no aneurysm sac growth. Type II
+        endoleaks persist in 5-25% of patients. Risk factors for
+        persistent endoleak include hypogastric coil embolization,
+        distal graft extension, absense of COPD, age \>80yrs, and graft
+        type. Risk of rupture is 1.5-3%.[@lo2016; @abularrage2010;
+        @timaran2004; @shalaby2016; @sarac2012; @jones2007]
 
     -   If the leak persists for \> 6 months with sac enlargement \>5mm,
         intervention is recommended. Several techniques exist to
-        eliminate type II endoleaks, most frequently embolization.
-
-    -   It is common to continue monitoring even if there is persistent
-        flow as long as there is no aneurysm sac growth.
+        eliminate type II endoleaks, most frequently embolization. After
+        multiple attempts at repair and if continued sac growth with
+        impending Type I leak, then consider open
+        conversion.[@kelso2009; @mohapatra2019]
 
 3.  Type III
 
@@ -831,21 +863,28 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 
 -   Abdominal compartment syndrome secondary to coagulopathic bleeding
     postoperatively or third spacing of fluids can cause abdominal
-    compartment syndrome requiring emergent laparotomy. Unexplained
-    oliguria, difficulty maintaining adequate ventilation, and
-    hypotension with significant abdominal distension is concerning for
-    abdominal compartment syndrome. A sustained bladder pressure \> 20
-    mmHg with associated organ dysfunction (elevated peak airway
-    pressures, new onset acute renal failure) is indicative of abdominal
-    compartment syndrome.
+    compartment syndrome requiring emergent laparotomy.[@cheatham2007;
+    @mehta2005; @rasmussen1997]
+
+    -   Signs include unexplained oliguria, difficulty maintaining
+        adequate ventilation--elevated peak inspiratory pressure, and
+        hypotension with significant abdominal distension is concerning
+        for abdominal compartment syndrome. A sustained bladder pressure
+        \> 25 mmHg with associated organ dysfunction (elevated peak
+        airway pressures, new onset acute renal failure) is indicative
+        of abdominal compartment syndrome.
 
     -   Abdominal compartment syndrome can still occur after EVAR during
-        an aortic rupture, therefore, one must keep a heightened
-        suspicion for this in the post-operative period.
+        an aortic rupture in up to 10-20% of patients, therefore, one
+        must keep a heightened suspicion for this in the post-operative
+        period.[@veith2009]
 
     -   It is important to note that a patient with a soft abdominal
         exam can still have abdominal compartment syndrome particularly
         with an enlarged body habitus.
+
+    -   Laparotomy may initially worsen hypotension and hemodynamic
+        instability due to reperfusion injury.
 
 -   Renal failure can occur due to suprarenal aortic clamping,
     atheromatous embolization or hypotension causing acute tubular
@@ -855,11 +894,10 @@ repair.** [@mooreVascularEndovascularSurgery2019;
     of the ligament of Treitz can mimic a gastric outlet obstruction.
 
 -   Ischemic colitis of the left colon and rectum is the most serious
-    gastrointestinal complication, and the incidence ranges from 0.2 -
-    10%.
+    gastrointestinal complication.[@moghadamyeghaneh2016]
 
-    -   3-4x more common after operations for occlusive disease than
-        aneurysmal disease.
+    -   Incidence ranges from 0.2 - 10%, 3-4x more common after
+        operations for occlusive disease than aneurysmal disease.
 
     -   It is important to study the collateral pathways on the
         preoperative CT scan and the patient's history to assist in
@@ -869,7 +907,7 @@ repair.** [@mooreVascularEndovascularSurgery2019;
 
         -   Previous colectomy
 
-        -   Hypogastric artery occlusion
+        -   IMA or Hypogastric artery occlusion
 
     -   Earliest manifestation is postoperative diarrhea, especially
         bloody diarrhea.
@@ -893,7 +931,8 @@ repair.** [@mooreVascularEndovascularSurgery2019;
     foot".
 
 -   Infection is rare but can be associated with graft-enteric fistula
-    which is another highly tested topic.
+    which is another highly tested topic.[@fatima2013; @oderich2011;
+    @smeds2016]
 
 #### Postoperative Surveillance
 
@@ -1065,4 +1104,50 @@ of a ruptured AAA (RAAA) as our last topic of the session?**
 
 ## Iliac/Peripheral Aneurysms
 
-Treatment threshold for CIAA is often accepted at 3.5cm.
+### Presentation
+
+Often found incidentally, but carries risk of rupture and distal
+embolization.
+
+-   Distal embolization is rare, but when it occurs patient should
+    undergo embolectomy and treatment of aneurysm thought to be the
+    embolic source.[@bacharach2008; @ferreira2010; @nachbur1991]
+
+### Management
+
+Treatment threshold for CIAA is often accepted at 3.5cm.[@dix2005;
+@laine2017]
+
+Treatment options include
+
+-   Open repair
+
+    -   If open repair involves aneurysm or occlusive disease of
+        internal iliac arteries, should attempt to revascularize at
+        least one IIA via a jump graft.[@krupski1998; @huang2008]
+
+-   Iliac branched device to preserve hypogastric. Minimum size
+    requirements include:
+
+    -   CIA 17mm in diameter
+
+    -   EIA 6.5-25mm in diameter, 10mm seal zone
+
+    -   IIA 6.5-13.5mm in diameter, 10mm seal zone[@schneider2017]
+
+-   Extension of EVAR into external iliac and coil of internal iliac
+    artery
+
+    -   If internal iliac arteries also aneurysmal, ensure that outflow
+        vessels are all coiled. Posterior branch gives rise to the
+        superior gluteal artery, which is high risk for retrograde
+        filling.[@ryer2012]
+
+    -   Coil embolization can result in ipsilateral buttock claudication
+        in 12-22% of patients. Treatment is with medical therapy and
+        walking regimen, resolution usually occurs at 6
+        months.[@papazoglou2012; @stokmans2013]
+
+    -   If the IMA is chronically occluded, then coverage of the IIA may
+        compromise colonic blood flow and increase risk of
+        ischemia.[@angiletta2011; @karch2000]

@@ -277,7 +277,12 @@ atherosclerosis. <!--# Add Reference -->
         shunted.
 
     -   Transcranial Doppler (TCD) - severe slowing in the middle
-        cerebral artery.
+        cerebral artery. An RCT demonstrated that TCD and cerebral
+        oximetry changes most accurately predicted cerebral ischemia.
+        Detection of a greater than 50% drop in middle cerebral artery
+        velocity using transcranial Doppler is 100% sensitive for
+        detecting cerebral ischemia. [@moritz2007] For more see
+        \@ref(intracranial).
 
     -   Non-selective shunting - the surgeon uses a shunt for all CEAs
         as standard practice, this is often done for all CEAs performed
@@ -341,6 +346,28 @@ atherosclerosis. <!--# Add Reference -->
         during high dissections leading to the corner of the ipsilateral
         lip drooping, can be confused with a significant neurological
         deficit following the case.
+
+-   Completion duplex for CEA
+
+    -   Can identify technical issues with carotid endarterectomy such
+        as clamp site injury, thrombosis, intimal flap or dissection, or
+        missed disease.[@lipski1996]
+
+        -   Acute thrombus may be hypoechoic and difficult to see on
+            B-mode, color flow necessary to determine luminal narrowing
+            or occlusion. For more see \@ref(extracranial).
+
+    -   Revision required if residual plaque identified with severe
+        velocity elevation.[@weinstein2015]
+
+        -   Elevated velocities can be seen for many reasons that do not
+            require revision, including incorrect technique (compression
+            with probe), tortuosity, size discrepancy, ICA
+            spasm.[@ricco2013; @weinstein2015]
+
+    -   One study demonstrated that 2.3% of carotids required revision
+        for concerning findings on completion duplex
+        ultrasound.[@ascher2004]
 
 **Postoperative Complications**
 
@@ -453,6 +480,9 @@ atherosclerosis. <!--# Add Reference -->
         for at least 5-7d, should delay procedure if has not been
         appropriately loaded with antiplatelets.[@brott2010;
         @kwolek2015; @valls2017]
+    -   Studies with TCD have shown that there may be reduced
+        embolization rates with TCAR over transfemoral
+        stenting.[@plessers2016]
 
 -   Complications
 

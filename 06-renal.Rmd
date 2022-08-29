@@ -29,7 +29,7 @@ Hypertension as a result of progressive renal artery stenosis
 
 Decreased renal function and/or chronic kidney disease that results from
 atherosclerotic renal artery stenosis due to a reduction in glomerular
-filtration rate (GFR) and rise in creatine produced by any cause of
+filtration rate (GFR) and rise in creatinine produced by any cause of
 diminished renal blood flow. Primary mechanism is chronic hypoperfusion.
 [@rickey125RenovascularDisease2019]
 
@@ -288,7 +288,7 @@ hemodynamic limitation to kidney function?**
         degradation from ostial calcium.
 
     -   Cons - requires GAD -\> interstitial fibrosis in CKD
-        $$@galanNephrogenicSystemicFibrosis$$ and degrades with motion
+        [\@galanNephrogenicSystemicFibrosis] and degrades with motion
         and respiration
         [@nelsonGadoliniumenhancedBreathholdThreedimensional1999]
 
@@ -321,11 +321,12 @@ for renal recovery while a low resistive index is a favorable sign.
 
 The most consistent predictor of good recovery of kidney function after
 revascularization has been a recent deterioration of kidney function
-(ie, in the prior six to twelve months).
+(ie, in the prior six to twelve months). Similarly recent progression of
+hypertension is a sign of likely good recovery.
 
 [Kidney size]{.underline}
 
-Very small kidneys (less than 7 cm in longest diameter) are usually
+Very small kidneys (less than 8 cm in longest diameter) are usually
 considered unlikely to recover after revascularization.
 
 [Kidney biopsy]{.underline}
