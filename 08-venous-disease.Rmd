@@ -183,9 +183,9 @@ assessment of every venous patient. So that's the foundation.
 **Moving on to the treatment of superficial disease. When we talk about
 treatment of superficial venous incompetence, I don't think we can
 really get away from talking about the two major studies, the
-ESCHAR[**@gohel2007] **and the EVRA[**@gohel2018] **studies, which I
-know you've been involved with. Can you review what these studies showed
-and their importance in the care of our patients.**
+ESCHAR[\@gohel2007]** and the EVRA[@gohel2018] **studies, which I know
+you've been involved with. Can you review what these studies showed and
+their importance in the care of our patients.**
 
 Before I go into the trials, 'm just going to go back a step and just
 talk about the general mindset that's important for these patients. So
@@ -227,6 +227,8 @@ ulceration healed significantly quicker.[@gohel2018]
 
 So put them together clear, unequivocal argument for treating the
 superficial reflux in these patients as quickly as possible.
+
+#### Endovenous
 
 **Can you broadly outline the different treatment options that can be
 offered to patients with superficial venous reflex?**
@@ -338,299 +340,157 @@ not to stop prophylaxis too soon.
 **Moving on to a more specific question about treatment, what is the
 role for treating and competent perforator veins in these patients?**
 
-So the facetious answer is it depends on how much you're being
-reimbursed for them. But \~\~the, ~~the clinical answer is~~ , um,\~\~
-relatively little ~~in,~~ in my practice and ~~in,~~ in most sensible
-practices. ~~Um, so, so look, if we scan, so~~ the more advanced the
-venous disease, the more likely you are for the disease to be recurrent,
-the more likely there is to be deep venous disease or posts from the
-disease.
+In most sensible practices, the more advanced the venous disease, the
+more likely you are for the disease to be recurrent, the more likely
+there is to be deep venous disease or posts thrombotic disease, and the
+more likely you are to finding competent perforators. If you imagine
+these patients with venous ulcer, it is very common to find perforators,
+and if you take a sort of super aggressive role saying you've got to
+obliterate every single bit of reflux you can find, then you'd be doing
+a couple of perforators in every single patient, and that is the
+approach of a number of centers around the world.
 
-And the more likely you are to finding competent perforators. So the
-more advanced the venous disease, all of these things are more likely.
-So ~~if you manage these,~~ if you imagine these patients with being ,
-it is very common to find perforators. \~\~Um, ~~and if you take a sort
-of super aggressive role saying you've got to obliterate every single
-bit of reflux you can find~~ , well,\~\~ then you'd be doing a couple of
-perforators and every single patient.
+The pragmatic reality is, number one, if you ablate the superficial
+reflux, we know that a lot of these perforators actually become
+competent because we've got rid of the outflow or you've changed the
+dynamics in some other way, and they've become competent. Number two,
+even if they've stayed incompetent, the clinical benefit is still there
+and is usually still pretty durable.
 
-\~\~Um, \~\~and that is the approach of a number of centers around the
-world. \~\~Um, \~\~the pragmatic reality is number one, if you ablate
-the superficial reflux, we know that a lot of these perforators actually
-become competent because we've got rid of the outflow or you've changed
-the dynamics in some other way. And they've become
-competent.$$00:20:00$$
+Now, of course, there may be some people that develop recurrent problems
+and then there can be a more targeted approach to the perforator. The
+ESCHAR and EVRA studies did not target perforators at all and the
+outcomes in the EVRA study was the best healing rate of any published
+prospective leg ulcer study. So, putting all that together, it's
+difficult to make a case for aggressive treatment of perforators first
+up. Having said that for some people with recurrent disease, it's not
+uncommon to have a big mid thigh **Huntarian perforator or Cocher's**
+perforator lower down on the medial side. So, I do treat perforators,
+but almost always it's in recurrent disease with recurrence or
+deteriorating symptoms.
 
-Even if they've stayed in competence, the clinical benefit is still
-there and is usually still pretty durable. Now, of course, there may be
-some people that develop recurrent problems and then there can be a more
-targeted approach to the perforator. ~~So I personally, and~~ the ESCO
-and Everest studies did not target perforators at all.
+#### Open Surgery
 
-And the outcomes in the Everest study was the best healing rate of any
-published prospective Lego study. \~\~So, \~\~so putting all that
-together, it's difficult to make a case for aggressive treatment of
-perforators first up. \~\~Um, \~\~having said that for some people with
-recurrent disease, it's not uncommon to have a big mid thigh Ontarian
-perforator, or, \~\~you know, \~\~big cockpits perforated, lower Pronto
-down on the medial side.
+**So we've discussed quite a bit about endovenous intervention. Is there
+a rule for open surgery in some patients?**
 
-\~\~So, uh, you know, \~\~I do treat perforators, but almost always it's
-in recurrent disease with recurrence or deteriorating symptoms.
-
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* so we've discussed quite a bit
-about endo venous intervention. \~\~Um, \~\~is there a rule for open
-surgery in some patients?
-
-**manj_gohel - denoise:** ~~So~~ interesting. ~~So~~ open surgery
-remains the most commonly used superficial venous intervention around
-the world. And there are still lots of centers in the UK that
-$$00:21:00$$ primarily offer open surgery\~\~ , um,\~\~ and\~\~ ,
-um,\~\~ being balanced. It's a very effective treatments if you do it
-well, if you use\~\~ , uh,\~\~ modern approaches tumescent anesthesia
-ultrasound guidance, then actually some of the traditional issues with
-open surgery, which are often technical and complication related, don't
-really apply.
+Open surgery remains the most commonly used superficial venous
+intervention around the world, and there are still lots of centers in
+the UK that primarily offer open surgery. Being balanced, it's a very
+effective treatments if you do it well and if you use modern approaches
+tumescent anesthesia ultrasound guidance, then actually some of the
+traditional issues with open surgery, which are often technical and
+complication related, don't really apply.
 
 Having said that all the randomized trials have shown the same thing
 while the effectiveness may be as good in open surgery done well, the
-recovery is much better after intravenous ablation. So it's difficult to
-make the case for open surgery when you've got something that is so
-well-established and the competition was just so low.
+recovery is much better after endovenous ablation. So it's difficult to
+make the case for open surgery when you've got something that is so well
+established and the complications just so low, and it's cheaper when you
+look at their theater capacity, et cetera.
 
-And it's cheaper when you look at their theater capacity, et cetera.
-\~\~So, \~\~so \~\~I think, \~\~I think there has to be a steady drift
-towards endovenous, but there are lots of things stopping this. \~\~I
-mean, \~\~in Germany, for example, the reimbursement is greatest rope
-and surgery. So surprise, surprise. There are still lots and lots of
-open varicose vein operations.
+So, I think there has to be a steady drift towards endovenous, but there
+are lots of things stopping this. In Germany, for example, the
+reimbursement is greatest for open surgery. So surprise, surprise, there
+are still lots and lots of open varicose vein operations. And again, for
+you guys, if you're going to change practice, the single biggest driver
+for change in practice is reimbursement. If you can, you can change
+where the money goes. You can change whatever you like. So, the final
+thing is I've treated maybe three patients with open surgery in the last
+five years. One was a GP, who I had treated the other leg with open
+surgery a few years earlier, and she said, "I want the same operation,
+please." So I did struggle to argue with that. The other two were big
+three, four, five centimeters saphenovarices in the groin. So specific
+indications, but not really for most patients,
 
-And again, for you guys, if you're going to change practice, the single
-biggest $$00:22:00$$ driver for change in practice is reimbursement.
-\~\~Um, \~\~you know, if you can, you can change where the money goes.
-You can change whatever you like. \~\~Um, so, you know, \~\~and the
-final thing is \~\~I've, \~\~I've treated maybe three in the last five
-years.
+#### Medical Therapy
 
-I've three patients with open surgery. One was a GP who I had treated
-the other leg with open surgery a few years earlier, and she said, I
-want the same operation, please. So I did struggle to argue with that.
-The other two were big saffron, the viruses in the groin, \~\~you know,
-\~\~three, four, five centimeters suffered at mercy.
+**So we've talked about endovenous and surgical treatment, but are there
+any pharmacological therapies that can be used in patients with chronic
+venous insufficiency?**
 
-So specific indications. But not really for most patients,
+So we're pretty skeptical in the UK, when it comes to venoactive or
+pharmacological treatments. If you go to Europe, they love them. They
+sell like hot cakes. They're over the counter in a lot of pharmacies.
+The drug with probably the most evidence is something called Daflon,
+micronized purified flavonoid fraction.
 
-**andrew_nickinson-denoise:** I suppose that comes on to training as
-well the UK. If Australia's, aren't doing as much open surgery, then,
-\~\~you know, ~~conceivably over time that we're going to lose those
-skills of being able to do~~ , uh, \~\~sadness, cutdown or stripping.
+So flavonoids are naturally occurring, venoactive compounds. There are a
+whole variety of effects, only some of which we understand. But a lot of
+studies have shown improvements in edema and heaviness. Daflon is
+marketed by a French company and it's got good evidence, but they do not
+see places like the UK as a big enough market because of our inherent
+skepticism over these sort of things, to make it worth their while to go
+through the marketing and the regulatory stuff. So it's not available.
+But patients that have gone to France and picked it up over the counter
+and have said it works well. So there may be a rolling and
+pentoxyphyllin and these other things---there's some good evidence that
+it accelerates healing of leg ulcers.
 
-**manj_gohel - denoise:** \~\~it's such a shame, Andrew, \~\~it's such a
-shame. \~\~It's, \~\~it's the operation that I learned how to operate
-with. \~\~You know, it's, it's, it's, \~\~it's a beautiful anatomical
-operation. \~\~Um, \~\~and you learn so much, \~\~you know, \~\~respect
-for tissues and handling blood vessels. And it's great preparation.
-\~\~So, \~\~so it's with a heavy heart that I'm \~\~sort \~\~telling
-trainees that, \~\~you know, \~\~you shouldn't be doing this cause it's
-such a great training operation.
+But I don't think we're very receptive in the UK in general, not in the
+vascular surgery communit to prescribe pharmacological or herbal type
+remedies.
 
-**andrew_nickinson-denoise:** \~\~Um, \~\~ so we've talked about
-$$00:23:00$$ intravenous and surgical treatment. \~\~Um, ~~but are there
-any pharmacological therapies that can be used~~ , um,\~\~ in patients
-with chronic venous insufficiency?
+**What are the healthcare costs associated with the lower extremity
+venous disease?**
 
-**manj_gohel - denoise:** ~~We are , um,~~ we're pretty skeptical in the
-UK. \~\~Um, ~~when it comes to Vino active or pharmacological
-treatments~~ , uh,\~\~ if you go to Europe\~\~ , um, \~\~they love them.
-\~\~They, \~\~they sell like hot cakes. They're over the counter in a
-lot of pharmacies. \~\~Um, \~\~and it's interesting. So \~\~the, ~~the
-drug with probably the most evidence is something called Naflon~~ ,
-um,\~\~ law and micronized purified flavonoid fraction.
+The educated guesstimates in the UK, NHS, is around 2 billion pounds a
+year. The UK NHS budget is about a 120 billion. So, up to about 2% of
+the budget, and that's just C6 disease. We're not even going into all of
+the other diseases, the associated cellulitis, but also not only the
+healthcare costs, but the societal costs, the time off work, the other
+things. And then of course the superficial vein thrombosis, VTE and
+other associated diseases, it's a massive underestimate
 
-So flavonoids on naturally occurring\~\~ , um,\~\~ Vino active
-compounds. Are there a whole variety of, because effects\~\~ , um,\~\~
-only some of which we understand, but a lot of studies have shown
-improvements in Adima improvement in heaviness. \~\~Um, \~\~and Def lawn
-is marketed by a French company and it's got good evidence, but they do
-not see places like the UK as a big enough market because of our
-inherent skepticism over these sort of things.
+## Other Complications of Superficial Venous Disease
 
-To make it worth their while to go through the\~\~ , um,\~\~ the
-marketing and the regulatory stuff. So it's not available. \~\~So, um,
-~~but patients that have~~ $$00:24:00$$ gone to France and picked it up
-over the counter , um,\~\~ have said it works well. So there may be a
-rolling and pen toxifying and these other things. So that there's some
-good evidence \~\~that, \~\~that accelerates healing of leg ulcers.
+### Superficial Vein Thrombosis
 
-\~\~Um, \~\~I don't think we're very receptive in the UK in general. So
-not in the vascular surgery community ~~to , um,~~ to be \~\~sort of
-\~\~pharmacological or herbal time remedies.
+**You mentioned superficial vein thrombosis, also known as superficial
+thrombophlebitis. What is it and how do you manage it?**
 
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* nice recommends that we should
-undertake\~\~ , uh,\~\~ treatment for varicose veins to improve a
-patient's quality of life. But currently within the NHS and not all\~\~
-, uh,\~\~ CCGs will actually fund this.
+I'm very pleased you used both terms because I'm going to take the
+opportunity to encourage robustly the use of superficial vein thrombosis
+rather than thrombophlebitis. The problem with thrombophlebitis is it is
+too closely associated with an infective etiology. And I can only
+imagine how many useless courses of antibiotics have been prescribed for
+the treatment of what has been presumed to be an infection. Of course,
+there's no infection, it's a thrombus in a superficial vein. I think
+what's really important is that traditionally it's been seen as just a
+bit of a nuisance and let's not worry about it, treat with analgesia and
+antiinflammatories, and you'll be fine.
 
-What's your views on this particular subject?
+It's a really sinister pathology and an important cause of VTE. And
+again, if you think about it, think of how many thousands, millions of
+people that have varicose veins. They don't all get clots in their
+varicose veins. They've all got stasis to a certain extent but they
+don't get clots. So it's more than just the flow dynamics is going on
+here. These people are thrombogenic. They have a thrombogenic innate
+quality that leads to this. That's shown out in the study, some really
+good work in some French studies. They identified patients who were
+scanned with superficial vein thrombosis, and a quarter of them on their
+first duplex scan had a DVT. A lot of these DVTs were remotes from the
+superficial vein thrombosis. So they're not all extending into the deep
+vein---they were remote---confirming this idea that actually a
+thrombogenic problem is going on here.
 
-**manj_gohel - denoise:** \~\~So, um, \~\~ I'll try and answer the
-question without swearing. ~~Um, it it's, it , uh,~~ over the years I've
-had so many frustrating interactions with CCGs. ~~Um, so~~ the
-commissioners that fund varicose vein treatment, ~~so~~ the whole point
-of nice is to give centralized guidance. So there can be some
-consistency of care and provision across the country.
+So in the latest ESVS guidelines, there is quite a lot of stuff about
+SVT treatment algorithms. I would urge people to have a look at that,
+and it's important to risk stratify people. The closer you are to the
+junction, the higher VTE risk, and actually for anyone other than just a
+bit of clotting in a varicosity, anticoagulation is the treatment of
+choice to reduce progression to VTE.
 
-\~\~Um, \~\~but again, the problem is with the funding and the CCGs hold
-the budgets and they have differing rules and in general, There has been
-a tendency over many years to try and resist $$00:25:00$$ funding,
-varicose vein treatments. \~\~Um, ~~so my view is that CCGs should
-follow the nice guidance~~ , uh,\~\~ and a lot of these patients should
-be offered treatment.
+So look at the guidelines, it's very clear what we should be doing with
+these people, evidence-based, Once the anticoagulation is done, they
+need to be rescanned and that residual incompetent, scarred
+thrombogenic, saphenous vein needs to be ablated, otherwise they'll
+recur. So a real change in mindset and level of aggression.
 
-\~\~Um, ~~the other comments I'd make is that even the CCGs are, do
-offer treatment~~ , um,\~\~ there is still \~\~a, \~\~a big ~~missing,~~
-missing piece, which is \~\~the, \~\~the treatment mindset and the
-pathway. So it's no good having a document that says, yes, if you have a
-venous leg ulcer, you can have varicose vein treatment. If the pathways
-don't encourage referral, if the education level of the primary care
-nurses and the GPS isn't there.
+### Bleeding
 
-\~\~Um, \~\~if \~\~the, \~\~the hospital is providing the treatments,
-provides a resistance to seeing and assessing these patients and all of
-these things are happening across the country. \~\~So, um, \~\~I think,
-\~\~you know, you, ~~you look at arterial disease~~ , um,\~\~ and.
-There's so much controversy over a lot of the treatments that we're
-providing.
-
-\~\~You know, \~\~you look at \~\~the, the, \~\~the debate and the
-challenge of aortic aneurism treatments recently, et cetera. \~\~I mean,
-\~\~the treatment of Erika Spain disease is unquestionable indisputed
-\~\~it was it's \~\~it's clearly evidence-based, it's low hanging fruit.
-~~It~~ not only is it cost $$00:26:00$$ effective, it saves money. So
-it's very frustrating that there's not more pathways.
-
-And I think \~\~this is, \~\~this is part of \~\~the, ~~the ongoing work
-that we all have to do both people at your level, but also obviously
-enthusiasts like me and other advocates to try and just keep the message
-going and keep it going then. And final, quick comment I'd make is about
-COVID and~~ , um,\~\~ the associated challenges to funding.
-
-\~\~Um, \~\~so at the moment there's a bit of a blank check approach to
-healthcare. It's not going to last ~~guys, it's going to,~~ there's
-going to be a time when ~~some~~ somebody in government says, okay, so
-we need to now start trying to balance the books. I can already tell you
-now that one of the first things that's going to get attacked is
-superficial venous treatments and varicose veins.
-
-\~\~So, \~\~so we've just got to get our arguments ready and be prepared
-for this ongoing battle that's been there for as long as I've been
-adopted.
-
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* What are the healthcare costs
-associated with the lower extremity venous disease?
-
-**manj_gohel - denoise:** \~\~um, \~\~honest answers. We don't know.
-\~\~Um, \~\~there have been a number of studies that have looked at
-venous ulceration and the impact of $$00:27:00$$ venous ulceration, and
-there's \~\~sort of \~\~guesstimates that people have put together
-educated guesstimates in the UK. NHS is around 2 billion pounds a year.
-So UK NHS, budget's about a hundred, 120 billion.
-
-\~\~So, you know, \~\~up to about 2% of the budget, \~\~you know, big
-bucks, \~\~big bucks, and that's just C6 disease. ~~You know, we
-haven't,~~ we're not even going into all of the other diseases, the
-associated cellulitis, but also not only the healthcare costs, but the
-societal costs, \~\~you know, \~\~the time off work, the other things.
-
-And then of course the superficial vein thrombosis and the VTE and
-August other associates, it's a massive underestimate
-
-**andrew_nickinson-denoise:** you mentioned superficial vein thrombosis.
-They're also known as superficial thrombophlebitis. \~\~Um, \~\~just a
-few words on it. What is it and how do you manage it?
-
-**manj_gohel - denoise:** I'm very easy to use both terms because I'm
-going to take the opportunity to encourage robustly the use of
-superficial vein thrombosis rather than thrombophlebitis. The problem
-with thrombophlebitis is it is too closely associated with an effective
-etiology and effective pathology. And I can only imagine how
-$$00:28:00$$ many useless courses of antibiotics have been prescribed.
-
-For the treatment of what has been presumed to be an infected properly.
-Of course, there's no infection, \~\~it's a, \~\~it's a thrombus in the
-superficial vein. \~\~Um, \~\~and I think what's really important is
-that traditionally it's been seen as just a bit of a nuisance and let's
-not worry about it and, \~\~you know, \~\~analgesia and
-anti-inflammatories, and you'll be fine.
-
-\~\~Um, \~\~it's a \~\~really, \~\~really sinister pathology. It's an
-important cause of VTE. \~\~And, \~\~and again, if you think about it,
-think of how many thousands, millions of people that are with varicose
-veins. \~\~Um, \~\~they don't all get clots in their varicose veins.
-~~You know, this is these people,~~ they've all got stasis to a certain
-extent.
-
-They don't get clots. So ~~it's~~ more than just the flow dynamics is
-going on here. These people are thrombogenic. They have a thrombogenic
-innate quality that leads to this\~\~ , um,\~\~ and that's shown out in
-the study. \~\~So, um, ~~some really good work in some French studies~~
-, um,\~\~ where they identified patients who were scanned with
-superficial vein thrombosis, And a quarter of them on their first duplex
-scan had a DVT, so supervision for most of the quarterly
-DVT.$$00:29:00$$
-
-And a lot of these DBTs were remotes from superficial vein thrombosis.
-So they're all extending into the deep vein they were remote. And again,
-\~\~you know, \~\~confirming this idea that actually a thrombogenic
-problem is going on here. ~~Um, and so what we~~ send the latest CSPs
-guidelines, there is quite a lot of stuff about SVT treatment
-algorithms.
-
-And again, I would urge people to have a look at that, and it's
-important to risk stratify people. The closer you are to the junction,
-the higher VTE risk, and actually for anyone other than just a bit of
-clotting of Erik hostility, anticoagulation is the treatment of choice
-to reduce progression to BTU.
-
-So again, I won't go into lots and lots of detail, but look at the
-guidelines. It's very clear what we should be doing with these people.
-Evidence-based and then once the anticoagulation is done, They needs to
-be rescanned and that residual incompetent, scarred thrombogenic\~\~ ,
-uh,\~\~ Safa Spain needs to be ablated.
-
-Otherwise they'll recur. So a real change in mindset and level of
-$$00:30:00$$ aggression.
-
-**andrew_nickinson-denoise:** ~~Right. So, um, So in terms of questions,
-we've sort of exhausted our, what we'd already written about superficial
-venous disease. I suppose the question now is, do we talk, do we move on
-to talk about deep venous thrombosis? Um, it depends on timing for
-yourself, Mr. Goa.~~
-
-**manj_gohel - denoise:** ~~so I'm, I'm happy to guys, I'm happy to just
-carry on. Um, and, and then I'll leave it to you guys to work out what
-you want to do. Um, whether you want to do a sort of a best of both and
-combining it into one, or whether the split to, I mean, I'll leave that
-honestly, up to you guys. Um, I don't, I don't, I don't want to be too
-greedy and have two different sort of.~~
-
-~~Things just with me talking, but I'll be, I'll be guided by you.
-Whatever's going to be most useful.~~
-
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* ~~Yeah, I think the thing that
-feeling is probably two podcasts would be the best way to do this. Um,
-do you think we should talk about bleeding, varicose veins as well as
-part of this,~~
-
-~~because it's something which you do see, I think this is something
-which we do see , uh, and it's just maybe putting a bit of
-evidence-based behind how we should be treating that.~~
-
-**manj_gohel - denoise:** ~~Yeah, absolutely. Um, so ask me a question,
-Amanda.~~
-
-\*\*aminder-2021-4-18\_\_17-8-43:\*\* ~~yeah.~~ What's your approach to
-managing patients with bleeding, varicose veins, Mr. Google.
+**What's your approach to managing patients with bleeding varicose
+veins?**
 
 **manj_gohel - denoise:** Really important question. It is a vascular
 emergency. ~~Um, so~~ there are several depressing reports of patients

@@ -28,31 +28,43 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
 1.  **What is the definition of crescendo TIAs?**
 
-    Frequent repetitive neurological attacks without complete resolution
-    of the deficit between the episodes, usually over a 24 hour period.
-    The result of which is the same neurological deficit. If the patient
-    exhibits progressive deterioration in neurological function between
-    TIA episodes this is classified as a stroke in evolution not a
-    crescendo TIA. <!--# Add Reference -->
+    The presenting symptoms of extracranial carotid disease is of the
+    utmost importance to understand. Focal neurologic symptoms that
+    occur suddenly and then resolve within 24 hours are called a
+    transient ischemic attach (TIA). If the deficit persists beyond 24
+    hours, then it is considered a stroke. Strokes are then graded
+    according to the National Institute of Health Stroke Scale
+    (NIHSS).[@fischer2010]
+
+    A particularly confusing distinction is between a crescendo TIA and
+    a stroke in evolution. A crescendo frequent repetitive neurological
+    attacks without complete resolution of the deficit between the
+    episodes, usually over a 24 hour period. The result of which is the
+    same neurological deficit. If the patient exhibits progressive
+    deterioration in neurological function between TIA episodes this is
+    classified as a stroke in evolution not a crescendo TIA.[@ricotta]
+    These are both particularly concerning findings and may be an
+    indication for an emergent intervention.
 
 2.  **Who needs to be screened for carotid disease?**
 
     Not everyone should be screened for carotid disease, however, as
     only 15% of patients who have a stroke experience a warning TIA
     prior to their event, there is merit in screening high risk
-    patients. The purpose of carotid bifurcation imaging is to detect
-    "stroke-prone" carotid bifurcation plaque and identify a high-risk
-    patient likely to benefit from therapy designed to reduce stroke
-    risk.
+    patients.[@rockman2019] The purpose of carotid bifurcation imaging
+    is to detect "stroke-prone" carotid bifurcation plaque and identify
+    a high-risk patient likely to benefit from therapy designed to
+    reduce stroke risk.
 
-    Traditionally, the clinical sign associated with carotid stenosis is
-    the presence of a neck bruit on auscultation. Focal ipsilateral
-    carotid bruits in symptomatic patients has a sensitivity of 63% and
-    a specificity of 61% for high-grade carotid stenosis (range,
-    70%-99%). As these figures suggest the absence of carotid bruit does
-    not absolutely exclude the presence of a significant carotid
-    bifurcation lesion, therefore additional criteria are used to
-    determine which patients would benefit from screening:
+    Traditionally, the clinical sign associated with asymptomatic
+    carotid stenosis is the presence of a neck bruit on auscultation.
+    Focal ipsilateral carotid bruits in symptomatic patients has a
+    sensitivity of 63% and a specificity of 61% for high-grade carotid
+    stenosis (range, 70%-99%). As these figures suggest the absence of
+    carotid bruit does not absolutely exclude the presence of a
+    significant carotid bifurcation lesion, therefore additional
+    criteria are used to determine which patients would benefit from
+    screening:
 
     -   Evidence of clinically significant peripheral vascular disease
         regardless of age
@@ -66,20 +78,10 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
         -   Hypercholesterolemia
 
-    -   In general, the more risk factors present, the higher the yield
-        of screening for the patient. Presence of a carotid bruit, AAA
-        or family history of disease alone is not sufficient to warrant
-        imaging.[@aburahma2022]
-
-    -   The benefit of prophylactic treatment of high grade stenosis is
-        estimated at a 1-2% stroke reduction risk per year.
-        [@naylorWhyManagementAsymptomatic2015]
-
-    -   Keep in mind that intervention (CEA/CAS) has only demonstrated a
-        benefit in asymptomatic patient with life expectancy greater
-        than 3 years. [@bulbuliaAsymptomaticCarotidSurgery2017;
-        @halliday10yearStrokePrevention2010;
-        @rosenfieldRandomizedTrialStent2016]
+    In general, the more risk factors present, the higher the yield of
+    screening for the patient. Presence of a carotid bruit, AAA or
+    family history of disease alone is not sufficient to warrant
+    imaging.[@aburahma2022]
 
 3.  **Ultrasound Imaging**
 
@@ -146,10 +148,18 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
 
 ## Management
 
-### Optimal medical therapy
+### Medical Management - Asymptomatic Patients
 
 First line management for asymptomatic patients with carotid stenosis is
-medical optimisation of risk factors.
+medical optimization of risk factors. The benefit of prophylactic
+intervention (CEA/CAS) of even high grade stenosis is estimated at a
+1-2% stroke reduction risk per year.
+[@naylorWhyManagementAsymptomatic2015] In addition, keep in mind that
+intervention (CEA/CAS) has only demonstrated a benefit in asymptomatic
+patient with life expectancy greater than 3 years.
+[@bulbuliaAsymptomaticCarotidSurgery2017;
+@halliday10yearStrokePrevention2010;
+@rosenfieldRandomizedTrialStent2016]
 
 **Hypertension**
 
@@ -160,24 +170,19 @@ medical optimisation of risk factors.
     hyper-acute period.
 
 -   Each 10-mm Hg reduction in blood pressure among hypertensive
-    patients decreases the risk of stroke by 33%.
-    <!--# Add Reference -->
+    patients decreases the risk of stroke by 33% in patients aged
+    60-79.[@aiyagari2009]
 
 **Diabetes**
 
 -   In diabetic patients glycaemic control to nearly normoglycemic
     levels (target hemoglobin A1C \<7%) is recommended to reduce
     microvascular complications and, with a smaller evidence base,
-    macrovascular complications other than stroke.
-    <!--# Add Reference -->
+    macrovascular complications other than stroke.[@ricotta]
 
 **Hypercholesterolaemia**
 
--   Risk of stroke decreased by \>15% for every 10% reduction in serum
-    LDL in patients with known coronary or other atherosclerosis.
-    <!--# Add Reference -->
-
--   Statin agents are recommended targetting LDL of 100 mg/dL, for those
+-   Statin agents are recommended targeting LDL of 100 mg/dL, for those
     with coronary heart disease or symptomatic atherosclerotic disease,
     and LDL of 70 mg/dL for very high-risk persons with multiple risk
     factors.
@@ -187,14 +192,44 @@ medical optimisation of risk factors.
     at 5 years. [@karamHighDoseAtorvastatinStroke2008]
 
 **Smoking Cessation** - Encouraging smoking cessation is paramount for
-these patients. Physician counseling is an important and effective
-intervention that reduces smoking in patients by 10% to 20%. (REF)
+these patients. Smoking and carotid disease have been found to have a
+dose dependent relationship based on pack-years. Risk of stroke has been
+shown to reduce to baseline within 2-4 years of smoking
+cessation.[@hicks2015; @kawachi1993; @petrik1995; @wilson1997]
 
-**Antithrombotic therapy** - Aspirin is the only antiplatelet agent that
-has demonstrated improved benefit in asymptomatic patients with carotid
-atherosclerosis. <!--# Add Reference -->
+**Antiplatelet therapy** - Single agent antiplatelet therapy, most often
+aspirin, is often all that is needed, but this should be weighted with
+other cardiovascular risk factors. A number of trials have showed
+limited benefit of adding an additional antiplatelet or routinely
+testing for clopidogrel resistance.[@ricotta]
 
-### Carotid endarterectomy
+### Medical Management - Symptomatic Patients
+
+Patients who present with a TIA should be placed on dual antiplatelet
+therapy, often aspirin and clopidogrel, which are continued through the
+workup and treatment of carotid disease. Patients often also have their
+blood pressure medications reduced to allow permissive hypertension and
+maximize perfusion to at risk cerebral tissue.
+
+While we are not often directly involved in the management of acute
+stroke, vascular surgeons should be aware of best practices in this
+area. Management of acute stroke currently follow these
+timelines[@powers2018GuidelinesEarly2018]
+
+-   \< 4.5 hours from onset of symptoms - medical thrombolysis with tPA
+    unless contraindicated.
+
+    -   Patient age \>80 and diabetes are contraindications to tPA
+        administration after 3hrs.
+    -   Other contraindications include - hypertension, intracranial
+        hemorrhage, recent stroke or cranial trauma, spine/brain surgery
+        within 3 months, GI bleed within 21 days.
+
+-   \<6 hours from onset of symptoms - catheter directed therapy
+
+-   After 6 hours, there is limited benefit to thrombolytic therapy.
+
+### Surgery - Carotid Endarterectomy
 
 **Indications for Surgical Intervention**
 
@@ -221,21 +256,6 @@ atherosclerosis. <!--# Add Reference -->
         increased embolic potential of carotid lesions.
         [@rantnerEarlyEndarterectomyCarries2017]
 
-    -   Management of acute stroke [@powers2018GuidelinesEarly2018]
-
-        -   \<4.5hrs from onset of symptoms - medical thrombolysis with
-            tPA unless contraindicated.
-
-            -   Patient age \>80 and diabetes are contraindications to
-                tPA administration after 3hrs.
-
-            -   Other contraindications include - hypertension,
-                intracranial hemorrhage, recent stroke or cranial
-                trauma, spine/brain surgery within 3 months, GI bleed
-                within 21 days.
-
-        -   \<6hr from onset of symptoms - catheter directed therapy
-
 -   What is the only emergent indication for CEA?
 
     -   Crescendo TIAs or a stroke in evolution with a surgically
@@ -246,9 +266,12 @@ atherosclerosis. <!--# Add Reference -->
 -   General concepts
 
     -   Patch angioplasty or eversion endarterectomy are recommended
-        over primary arterial closure to reduce early and late
-        complications of CEA (GRADE 1, Level of Evidence A). \# Add
-        Reference
+        over primary arterial closure due to decreased ipsilateral
+        stroke, perioperative carotid occlusion, return to the operating
+        room, restenosis and 1-year stroke rates.[@goodney2010;
+        @rerkasem2009] Patch repair is considered the standard of care
+        surgical management for most extracranial carotid
+        lesions.[@arnold2019]
 
 -   Neuromonitoring/Shunting options during a carotid
     endarterectomy[@chongruksut2014; @wiske2018]
@@ -256,12 +279,12 @@ atherosclerosis. <!--# Add Reference -->
     -   Local/regional anesthesia with direct neurological monitoring -
         the benefit being that the patient is awake and moving to
         command throughout the case. Indications for shunting include
-        lateralizeing deficits, seizure, lack of consciousness and
-        severe anxiety. Improved neuromonitoring, however, has not been
-        shown to reduce MI (myocardial infarction?) rate with CEA.
+        lateralizing deficits, seizure, lack of consciousness and severe
+        anxiety. Improved neuromonitoring, however, has not been shown
+        to reduce myocardial infarction rate with CEA.
 
     -   Stump pressure- Clamp the inflow and place a butterfly attached
-        to a-line tubing into the internal carotid atery. If the stump
+        to a-line tubing into the internal carotid artery. If the stump
         pressure is \> 50 mmHg the surgeon can chose to proceed without
         shunt placement, if \< 50mmHg then a shunt should be placed
         prior to proceeding.
@@ -318,11 +341,6 @@ atherosclerosis. <!--# Add Reference -->
 
     -   Otherwise, no advantage has been shown between eversion or
         patch, both can be shunted.
-
--   Patched repair vs primary closure has been associated with a
-    decrease in ipsilateral stroke, perioperative carotid occlusion,
-    return to the operating room, restenosis and 1-year stroke
-    rates.[@goodney2010; @rerkasem2009]
 
 -   Nerve Injuries -- where you would encounter these and, if injured,
     what deficit would be seen?
@@ -435,7 +453,7 @@ atherosclerosis. <!--# Add Reference -->
     -   Treatment is excision and replacement with autologous
         tissue.[@fatima2019]
 
-### Carotid Artery Stenting
+### Endovascular - Carotid Artery Stenting
 
 -   In patients aged \>70 the risk of intra- or post procedure stroke
     was the highest, if undergoing CAS, presumably due to calcified
@@ -498,131 +516,14 @@ atherosclerosis. <!--# Add Reference -->
 
     -   In stent restenosis (\>50%) - 4-times higher rate of stroke than
         no recurrence of disease, but more benign than de novo
-        disease.[@clavel2019] Stenosis should be confirmed with CTA.  No
+        disease.[@clavel2019] Stenosis should be confirmed with CTA. No
         clear difference between treatments in literature - PBA,
         Cutting, DBA, stenting, open conversion.[@arhuidese2017] Repeat
         angioplasty or stent have low incidence of periprocedural stroke
         but failed to improve long term stroke/death/MI or patency
         rates.[@chungPercutaneousInterventionCarotid2016a]
 
-### Management of Uncommon Disease Presentations
-
--   Occluded Carotid: What is the management of an occluded carotid?
-
-    -   Leave it alone.
-
--   What if an occluded carotid on imaging is still causing TIAs?
-
-    -   Ongoing symptoms in the setting of carotid occlusion is known as
-        carotid artery stump syndrome. Symptoms are likely due to emboli
-        from friable intima of the internal carotid or from the external
-        carotid through collaterals. Treatment is external carotid
-        endarterectomy and ligation of the internal carotid.[@hrbác2012]
-
-    -   The addition of oral anticoagulation is likely to reduce the
-        rate of recurrent stroke.
-
--   What if the patient has severe vertebrobasilar insufficiency and
-    carotid artery disease?
-
-    -   Should undergo carotid revascularization first to improve flow.
-        Then reassess for vertebrobasilar insufficency.
-    -   Vertebrobasilar insufficiency characterized by dizziness,
-        ataxia, nausea, vertigo and bilateral weakness.
-        [@limanetoPathophysiologyDiagnosisVertebrobasilar2017;
-        @nouh2014]
-
--   How do you treat isolated vertebral disease?
-
-    -   Most common etiology is atherosclerosis, but can also be caused
-        by embolism, dissection or migraines.[@limaneto2017]
-    -   Symptomatic primary vertebral disease with \>60% stenosis should
-        be treated. Vertebral divided into segments. V1 preforaminal
-        (lower than C6), V2 foraminal (C6-C2), V3 (C2-dura), V4
-        (intracranial).[@morasch2019; @berguer1998]
-    -   Disease of V1 should be treated with vertebral transposition of
-        bypass with vein.[@rangel-castilla2015]
-        -   Most common complication is Horner's Syndrome due to
-            disruption of the sympathetic chain (20%), next is TIA
-            (1-3%).[@coleman2013; @ramirez2012]
-    -   Disease of V2 is most difficult to access and should be treated
-        with bypass from ICA to V3.[@berguer1985]
-        -   RCT of BMT vs endo treatment did not show superiority of
-            endo treatment, recurrent symptoms most common,
-            periprocedural stroke was rare.[@antoniou2012; @coward2007]
-
--   What about tandem lesions in the carotid in a symptomatic patient,
-    carotid bulb and carotid siphon lesion (high ICA)? How should you
-    treat this?
-
-    -   Treat carotid bulb and extracranial disease first, likely to be
-        the embolic source.
-    -   Treatment of intracranial disease has been shown to increase
-        rates of stroke and death.[@chimowitz2011]. Extracranial to
-        intracranial bypass has increased risk of stroke over
-        BMT.[@ec/icbypassstudygroup1985]
-
--   Carotid artery dissection
-
-    -   Patients with carotid dissection should be initially treated
-        with antithrombotic therapy (antiplatelet agents or
-        anticoagulation) (GRADE 1, Level of Evidence C).
-
-    -   Indications for endovascular treatment of carotid artery
-        dissection [@cohenSinglecenterExperienceEndovascular2012;
-        @markusAntiplateletTherapyVs2019a;
-        @phamEndovascularStentingExtracranial2011]
-
-        -   Ongoing symptoms on best medical therapy
-
-        -   Contraindication to antithrombotics
-
-        -   Pseudoaneurysm
-
--   Simultaneous coronary and carotid disease
-
-    -   Patients with symptomatic carotid stenosis will benefit from CEA
-        before or concomitant with CABG. The timing of the intervention
-        depends on the clinical presentation and institutional
-        experience (GRADE 1, Level of Evidence B).
-
-    -   Patients with severe bilateral asymptomatic carotid stenosis,
-        including stenosis and contralateral occlusion, should be
-        considered for CEA before or concomitant with CABG (GRADE 2,
-        Level of Evidence B).
-
-    -   Patients undergoing simultaneous CEA/CABG demonstrate highest
-        mortality. [@naylorSystematicReviewOutcomes2003]
-
--   Internal Carotid Artery Aneurysms
-
-    -   Defined as dilation of the bulb 200% of the internal carotid
-        artery or 150% of the common carotid artery. Like popliteal
-        aneurysms the major risk is thromboembolization.[@bush2019;
-        @fankhauser2015; @pourier2018]
-
-    -   Treatment is resection with primary repair or interposition.
-        Distorted anatomy increased the risk for cranial nerve injury
-        (12%).[@welleweerd2015]
-
--   Redundant ICA - should be repaired if patient symptomatic due to
-    kinking. Treated with resection and primary repair with shortening
-    and straightening.[@ballotta2005]
-
--   Fibromuscular Dysplasia (FMD)[@olin2011] - for more, see
-    \@ref(fibromuscular-dysplasia-fmd)
-
-    -   Asymptomatic disease can often be treated with antiplatelets
-        alone.
-
-    -   Duplex ultrasound demonstrates classic "chain of lakes"
-        appearance. For more see \@ref(extracranial)
-
-    -   Associated with intracranial aneurysms (13%), therefore may be
-        reasonable to also pursue brain imaging if identified. However,
-        no formal guidelines exist.[@lather2017]
-
-## Prospective Trials - MUST READS
+### Summary of Prospective Trials
 
 1.  Asymptomatic Carotid Atherosclerosis Study (ACAS)
 
@@ -715,7 +616,126 @@ atherosclerosis. <!--# Add Reference -->
 
     -   ROADSTER-2 - TCAR.
 
-## Carotid Body Tumors (CBT)
+## Uncommon Carotid Disease
+
+### Complicated Extracranial Occlusive Disease
+
+-   Occluded Carotid: What is the management of an occluded carotid?
+
+    -   Leave it alone.
+
+-   What if an occluded carotid on imaging is still causing TIAs?
+
+    -   Ongoing symptoms in the setting of carotid occlusion is known as
+        carotid artery stump syndrome. Symptoms are likely due to emboli
+        from friable intima of the internal carotid or from the external
+        carotid through collaterals. Treatment is external carotid
+        endarterectomy and ligation of the internal carotid.[@hrbác2012]
+
+    -   The addition of oral anticoagulation is likely to reduce the
+        rate of recurrent stroke.
+
+-   Simultaneous coronary and carotid disease
+
+    -   Patients with symptomatic carotid stenosis will benefit from CEA
+        before or concomitant with CABG. The timing of the intervention
+        depends on the clinical presentation and institutional
+        experience (GRADE 1, Level of Evidence B).
+
+    -   Patients with severe bilateral asymptomatic carotid stenosis,
+        including stenosis and contralateral occlusion, should be
+        considered for CEA before or concomitant with CABG (GRADE 2,
+        Level of Evidence B).
+
+    -   Patients undergoing simultaneous CEA/CABG demonstrate highest
+        mortality. [@naylorSystematicReviewOutcomes2003]
+
+-   What about tandem lesions in the carotid in a symptomatic patient,
+    carotid bulb and carotid siphon lesion (high ICA)? How should you
+    treat this?
+
+    -   Treat carotid bulb and extracranial disease first, likely to be
+        the embolic source.
+    -   Treatment of intracranial disease has been shown to increase
+        rates of stroke and death.[@chimowitz2011]. Extracranial to
+        intracranial bypass has increased risk of stroke over
+        BMT.[@ec/icbypassstudygroup1985]
+
+-   What if the patient has severe vertebrobasilar insufficiency and
+    carotid artery disease?
+
+    -   Should undergo carotid revascularization first to improve flow.
+        Then reassess for vertebrobasilar insufficiency.
+    -   Vertebrobasilar insufficiency characterized by dizziness,
+        ataxia, nausea, vertigo and bilateral weakness.
+        [@limanetoPathophysiologyDiagnosisVertebrobasilar2017;
+        @nouh2014]
+
+### Vertebrobasilar Disease
+
+-   How do you treat isolated vertebral disease?
+
+    -   Most common etiology is atherosclerosis, but can also be caused
+        by embolism, dissection or migraines.[@limaneto2017]
+    -   Symptomatic primary vertebral disease with \>60% stenosis should
+        be treated. Vertebral divided into segments. V1 preforaminal
+        (lower than C6), V2 foraminal (C6-C2), V3 (C2-dura), V4
+        (intracranial).[@morasch2019; @berguer1998]
+    -   Disease of V1 should be treated with vertebral transposition of
+        bypass with vein.[@rangel-castilla2015]
+        -   Most common complication is Horner's Syndrome due to
+            disruption of the sympathetic chain (20%), next is TIA
+            (1-3%).[@coleman2013; @ramirez2012]
+    -   Disease of V2 is most difficult to access and should be treated
+        with bypass from ICA to V3.[@berguer1985]
+    -   RCT of BMT vs endo treatment did not show superiority of endo
+        treatment, recurrent symptoms most common, periprocedural stroke
+        was rare.[@antoniou2012; @coward2007]
+
+### Carotid artery dissection
+
+-   Patients with carotid dissection should be initially treated with
+    antithrombotic therapy (antiplatelet agents or anticoagulation)
+    (GRADE 1, Level of Evidence C).
+-   Indications for endovascular treatment of carotid artery dissection
+    [@cohenSinglecenterExperienceEndovascular2012;
+    @markusAntiplateletTherapyVs2019a;
+    @phamEndovascularStentingExtracranial2011]
+    -   Ongoing symptoms on best medical therapy
+
+    -   Contraindication to antithrombotics
+
+    -   Pseudoaneurysm
+
+### Internal Carotid Artery Aneurysms
+
+-   Defined as dilation of the bulb 200% of the internal carotid artery
+    or 150% of the common carotid artery. Like popliteal aneurysms the
+    major risk is thromboembolization.[@bush2019; @fankhauser2015;
+    @pourier2018]
+
+-   Treatment is resection with primary repair or interposition.
+    Distorted anatomy increased the risk for cranial nerve injury
+    (12%).[@welleweerd2015]
+
+-   Redundant ICA - should be repaired if patient symptomatic due to
+    kinking. Treated with resection and primary repair with shortening
+    and straightening.[@ballotta2005]
+
+-   Fibromuscular Dysplasia (FMD)[@olin2011] - for more, see
+    \@ref(fibromuscular-dysplasia-fmd)
+
+    -   Asymptomatic disease can often be treated with antiplatelets
+        alone.
+
+    -   Duplex ultrasound demonstrates classic "chain of lakes"
+        appearance. For more see \@ref(extracranial)
+
+    -   Associated with intracranial aneurysms (13%), therefore may be
+        reasonable to also pursue brain imaging if identified. However,
+        no formal guidelines exist.[@lather2017]
+
+### Carotid Body Tumors (CBT)
 
 Shamblin criteria utilized to determine difficulty of resection and is
 associated with rates of carotid reconstruction or cranial nerve injury.
