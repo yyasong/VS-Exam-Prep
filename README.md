@@ -9,4 +9,4 @@ This e-book is not intended to be a comprehensive board review revision guide, b
 
 ## Preview
 
-The text can be found here: https://adam-mdmph.github.io/VS-Board-Review/
+The text can be found here: https://adam-mdmph.github.io/VS-Exam-Prep/

@@ -35,7 +35,7 @@ This e-book is not intended to be a comprehensive board review guide, but instea
 
 ## Comments, Questions or Contributions
 
-Please visit our [github page](https://github.com/adam-mdmph/VS-Board-Review) or [send us an email](mailto:audiblebleeding@vascularsociety.org).
+Please visit our [github page](https://github.com/adam-mdmph/VS-Exam-Prep) or [send us an email](mailto:audiblebleeding@vascularsociety.org).
 
 
 ```{r include=FALSE}
