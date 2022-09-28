@@ -6,11 +6,11 @@ output: pdf_document
 documentclass: book
 bibliography: [references.bib, packages.bib]
 csl: apa-numeric-superscript-brackets.csl
-url: https://adam-mdmph.github.io/VS-Board-Review/
+url: https://adam-mdmph.github.io/VS-Exam-Prep/
 description: |
   This is an ebook version of exam preparation content produced for Audible Bleeding: The Vascular Surgery Podcast, powered by the Society for Vascular Surgery
 link-citations: yes
-github-repo: https://github.com/adam-mdmph/VS-Board-Review
+github-repo: https://github.com/adam-mdmph/VS-Exam-Prep
 site: bookdown::bookdown_site
 apple-touch-icon: "images/apple_icon.png"
 ---
