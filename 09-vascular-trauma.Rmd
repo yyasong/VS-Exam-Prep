@@ -59,16 +59,14 @@ Soft signs of vascular injury by their name or a little more subtle.
     -   Deep peroneal nerve - parasthesia of first digital interspace
         and foot drop[@bulger2014]
 
-**What are the initial principles of managing a bleeding extremity?**
+**Initial principles of managing a bleeding extremity**
 
-A lot of times these injuries are, can be very distracting, but I think
-the key thing to remember is that these are often poly-trauma patients
-likely with other injuries. Certainly the first thing to do is hold
-pressure and stop the bleeding, with manual pressure, even placing a
-finger into a wound or applying/tightening/adding a tourniquet. Once you
-have an effective tourniquet on a bleeding extremity, you can
-temporarily kind of forget about it, resuscitate the patient, and
-identify other life threatening injuries.
+* DO NOT GET DISTRACTED
+  + These patients are often poly-trauma patients with likely other injuries 
+  + Follow ABCDEs of the primary survey
+      - Identify bleed and hold pressure to stop the bleeding
+      - Pressure can be manual pressure, such as placing a finger in the wound, or applying a tourniquet
+      - Once bleeding is effectively controlled, RESUSCITATE and continue the primary survey to address other life threatening injuries
 
 **In Rich's Vascular Trauma Book, they described the injury extremity
 index. Could you explain this concept?**
