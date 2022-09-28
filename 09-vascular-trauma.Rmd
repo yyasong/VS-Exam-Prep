@@ -21,27 +21,29 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/Rasmussen_Final_Final.mp
 Hard signs of a peripheral vascular injury:
 
 -   Obvious bleeding (arterial or venous)
-    
+
     -   can be pulsatile or even history of bleeding in the field
-        
+
 -   Expanding hematoma
-    
+
     -   underneath a closed wound/injury
 
 -   Profound ischemia of the extremity
-    
-    -   determined by the absence of a palpable pulse or dopplerable signal beyond the area of injury
+
+    -   determined by the absence of a palpable pulse or dopplerable
+        signal beyond the area of injury
 
 -   Presence of an audible bruit or palpable thrill near site of injury
-    
+
     -   concern for an arterial-venous fistula, often high flow
 
 Soft signs of a peripheral vascular injury:
 
--   Injury pattern often associated with a vascular injury (i.e. posterior knee dislocation)
+-   Injury pattern often associated with a vascular injury (i.e.
+    posterior knee dislocation)
 
 -   Diminished blood flow to extremity
-    
+
     -   weak, but audible arterial doppler signal
 
 -   Penetrating wound in proximity to a major axial vessel
@@ -51,27 +53,28 @@ Soft signs of a peripheral vascular injury:
     -   Femoral nerve injury
         -   parasthesia to anterior thigh
         -   decreased hip flexion and knee extension
- 
     -   Sciatic nerve injury
         -   parasthesia to lateral leg and dorsal/lateral/plantar foot
         -   weakness of foot plantar flexion
-
     -   Tibial nerve injury
         -   parasthesia over heel
         -   weakness of plantar flexion
- 
     -   Deep peroneal nerve injury
         -   parasthesia of first digital interspace
         -   foot drop[@bulger2014]
 
 **Initial principles of managing a bleeding extremity**
 
-* DO NOT GET DISTRACTED
-  + These patients are often poly-trauma patients with likely other injuries 
-  + Follow ABCDEs of the primary survey
-      - Identify bleed and hold pressure to stop the bleeding
-      - Pressure can be manual pressure, such as placing a finger in the wound, or applying a tourniquet
-      - Once bleeding is effectively controlled, RESUSCITATE and continue the primary survey to address other life threatening injuries
+-   DO NOT GET DISTRACTED
+    -   These patients are often poly-trauma patients with likely other
+        injuries
+    -   Follow ABCDEs of the primary survey
+        -   Identify bleed and hold pressure to stop the bleeding
+        -   Pressure can be manual pressure, such as placing a finger in
+            the wound, or applying a tourniquet
+        -   Once bleeding is effectively controlled, RESUSCITATE and
+            continue the primary survey to address other life
+            threatening injuries
 
 **In Rich's Vascular Trauma Book, they described the injury extremity
 index. Could you explain this concept?**
