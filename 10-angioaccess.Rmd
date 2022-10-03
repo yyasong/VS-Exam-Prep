@@ -6,15 +6,19 @@ editor_options:
 
 # Angioaccess
 
+**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
+
 **28 Mar 2020**: *Young Lee, MD and Matthew Smeds, MD*
 
 ```{r echo=FALSE}
+
+library(embedr)
 
 embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_Revew_-_HD_Access_post_auphonic.mp3")
 
 ```
 
-## Planning and selecting access site
+## Planning access creation
 
 Management of Dialysis access is an important topic of discussion, not
 only because it is a significant part of board examinations, but also
@@ -24,7 +28,8 @@ to use of dialysis catheters and frequent hospitalizations for
 arteriovenous access failures and related procedures.
 
 The National Kidney Foundation-Dialysis Outcomes Quality Initiative
-(NKF-KDOQI) and SVS has provided guidelines in the follow areas:
+(NKF-KDOQI) and SVS has provided guidelines in the follow
+areas:[@nationalkidneyfoundation2015; @sidawy2008]
 
 -   Timing of referral to access surgeons
 
@@ -70,11 +75,16 @@ proximal arm for future accesses.
 **What are some important considerations in a patient's history when
 planning a dialysis access?**
 
-It is important to find out recent history of peripheral IV lines, sites
-of any indwelling catheters including pacemakers and defibrillators, as
-well as placement of previous catheters. Any previous access procedures
-should be identified. In additions, any history of trauma or surgery to
-the upper extremities is important to identify.
+It is important to find out recent history of:
+
+-   Previous access procedures
+
+-   Peripheral IV lines
+
+-   Sites of any existing or previous indwelling catheters including
+    pacemakers and defibrillators
+
+-   Trauma or surgery to the upper extremities
 
 Moreover, you also want to consider the patient's quality of life, thus,
 noting which extremity is dominant is important. If possible, you want
@@ -84,8 +94,9 @@ use their dominant arm during their dialysis sessions.
 
 However, placing a fistula with lowest rate of failure is preferred to
 using non-dominant hand. Therefore, placement of access on the patients
-dominant side would be preferred over placement on the side of an
-implantable cardiac device.[@sgroi2019]
+dominant side would be preferred over placement of access with high risk
+of failure (i.e. on the side of an implantable cardiac
+device).[@sgroi2019]
 
 **As with any preoperative planning, physical examination is extremely
 important. Central venous stenosis can cause problems such as prolonged
@@ -95,9 +106,10 @@ signs of central venous stenosis?**
 Unilateral arm swelling or edema and prominent venous collaterals are
 signs of central venous stenosis. Central venous stenosis can lead to
 venous hypertension which affects access patency and function, and also
-causes disabling edema.  Beyond signs of central venous stenosis, when
-examining a patient, an Allen's test should always be performed to
-evaluate palmer arch patency.
+causes disabling edema.
+
+Beyond signs of central venous stenosis, when examining a patient, an
+Allen's test should always be performed to evaluate palmer arch patency.
 
 **Preoperative planning should also include arterial and venous
 assessments. What are your size requirements for the artery and the vein
@@ -107,8 +119,8 @@ First, you want equal pressure gradients in bilateral upper extremities.
 If there is a pressure differential \>20mmHg or pulses are non-palpable
 then patients should undergo a duplex ultrasound to evaluate for
 arterial insufficiency and and the artery should be greater than or
-equal to 2mm. Segmental pressures have limited applicability and
-patients with correctable lesions may consider undergoing angiography
+equal to 2mm. Segmental pressures have limited applicability. Patients
+with correctable lesions on duplex may consider undergoing angiography
 and intervention to optimize inflow.[@sidawy2008]
 
 A venous duplex should also be done to evaluate for diameter,
@@ -125,16 +137,17 @@ accesses?**
 
 The first and best option would be direct arteriovenous anastomosis.
 However, if that is not possible, then venous transposition should be
-considered next follow by venous translocation. Venous transposition is
-for deeper veins such as the basilic vein, which is transposed so the
-vein lies just below the skin for easier access for puncture during
-dialysis sessions. Transpositions are generally a 2-stage procedure in
-which the direct arteriovenous anastomosis is created during the first
-stage and once the vein has arterialized 4-6 weeks later, the second
-stage of transposition is done when the vein is easier to mobilize.
-Translocation procedures include harvesting the femoral or saphenous
-vein and using it as a conduit for AV access creation in the upper
-extremity.
+considered next follow by venous translocation.
+
+Venous transposition is for deeper veins such as the basilic vein, which
+is transposed so the vein lies just below the skin for easier access for
+puncture during dialysis sessions. Transpositions are generally a
+2-stage procedure in which the direct arteriovenous anastomosis is
+created during the first stage and once the vein has arterialized 4-6
+weeks later, the second stage of transposition is done when the vein is
+easier to mobilize. Translocation procedures include harvesting the
+femoral or saphenous vein and using it as a conduit for AV access
+creation in the upper extremity.
 
 **When can a venous transposition be done in a one stage procedure?**
 
@@ -154,16 +167,12 @@ distally as possible on the extremity. What are some of the most distal
 locations?**
 
 The snuffbox fistula, which is the posterior radial branch to cephalic
-direct access and Brescia-cimino-appel fistula which is the
-radial-cephalic wrist direct access are two of the most distal fistulas
-that can be created. Overall, these have comparable patency and ischemia
-risk. While snuff box fistulas carry a 10% failrue rate at 1mo, the
-majority are able to be converted to RC fistulas.[@siracuse2019]
-
-Although radiocephalic fistulas are the more distal option,
-brachiocephalic fistulas have a few advantages, including higher
-maturation rates, decreased time to maturity, higher patency and
-functional primary patency.[@nguyen2007]
+direct access and Brescia-Cimino-Appel (often shortened to just Cimino)
+fistula which is the radial-cephalic wrist direct access are two of the
+most distal fistulas that can be created. Overall, these have comparable
+patency and ischemia risk. While snuff box fistulas carry a 10% failure
+rate at 1mo, the majority are able to be converted to RC
+fistulas.[@siracuse2019]
 
 **What are your arterial and venous options in the upper extremity?**
 
@@ -181,24 +190,27 @@ proximal include:
 
 3.  Basilic transposition in forearm
 
-4.  Brachiocephalic fistula
+4.  Brachiocephalic fistula - these have a few advantages over more
+    distal fistulas, including higher maturation rates, decreased time
+    to maturity, higher patency and functional primary
+    patency.[@nguyen2007]
 
 5.  Brachiobasilic fistula[@gilmore2006]
 
-Femoral vein transposition can be used for upper extremity dialysis
-access in patients with previous upper extremity access complicated by
-infection, thus not a candidate for prosthetic, but no central stenosis.
-There is a high rate of hand ischemia due to larger conduit (up to
-43%).[@huber2004]
+6.  Vein transposition from a remote site - Femoral vein transposition
+    can be used for upper extremity dialysis access in patients with
+    previous upper extremity access complicated by infection, thus not a
+    candidate for prosthetic, but no central stenosis. There is a high
+    rate of hand ischemia due to larger conduit (up to 43%).[@huber2004]
 
 **If you need to use a prosthetic graft, what would you use?**
 
 PTFE is the most common, they make tapered 4-7mm grafts to ensure the
 size of your arterial anastomosis isn't too large to minimize chances of
-steal. However, recent publications that there is no difference between
-tapered and non-tapered grafts in terms of primary patency, steal
-syndrome, complication rates or need for reintervention.[@roberts2019;
-@han2017]
+steal. However, recent publications found that there is no difference
+between tapered and non-tapered grafts in terms of primary patency,
+steal syndrome, complication rates or need for
+reintervention.[@roberts2019; @han2017]
 
 Overall AVG have benefit of earlier cannulation, discussed later,
 however they have lower patency rates and higher infection rates. There
@@ -211,7 +223,8 @@ another alternative upper extremity access creation?**
 Two overall strategies for managing patients with severe central venous
 stenosis or occlusion are lower extremity AV access of hybrid
 catheter/grafts. Patency of femoral vein transposition is better than
-hybrid catheter/graft placement.[@brownie2016; @glickman2011]
+hybrid catheter/graft placement.[@brownie2016; @glickman2011] We will
+cover specifics of these techniques later.
 
 For lower extremity AV access, femoral vein transposition has been shown
 to have the best outcomes, followed by saphenous vein transposition and
@@ -219,26 +232,21 @@ graft placement. Lower extremity access should be avoided in patients
 with peripheral vascular disease or lower extremity ischemic
 symptoms--when in doubt perform duplex and segmental pressures to fully
 evaluate. Veins should also be evaluated to ensure patency more
-proximally.[@parekh2016] Synthetic grafts have high infection rates (as
-high as 22% in some series) and only a 50% patency at 6
-months.[@antoniou2009; @lazarides2018; @pike2019] Risk of lower
-extremity ischemia increased with burden of PVD, AV fistula vs graft,
-distal arterial inflow, and large femoral vein mismatch, but can be
-tempered by banding/narrowing of femoral vein at the time of
-surgery.[@antoniou2009; @bourquelot2012; @gradman2005]
+proximally.[@parekh2016]
 
 For patients where lower extremity access may not be appropriate, the
-hemodialysis reliable outflow (HeRO) device can come to the rescue. This
-device is composed of 2 components: a graft which is made of 6mm PTFE
-with a titanium coupler at one end, and a venous outflow component of a
-19 Fr silicone catheter reinforced with a nitinol braid to prevent
-kinking. The graft portion is anastomosed to an artery, usually
-brachial, and is tunneled subcutaneously and the venous component is
-percutaneously placed into the right atrium via the IJ or subclavian
-vein. The two components are connected with a titanium coupler at the
-deltopectoral groove. If you need more immediate dialysis, the super
-HeRO comes to the rescue in which the graft portion is the early
-cannulation graft.
+hemodialysis reliable outflow (HeRO) device can come to the rescue.
+These devices may not have been encountered in your training, so we will
+go into detail here. This device is composed of 2 components: a graft
+which is made of 6mm PTFE with a titanium coupler at one end, and a
+venous outflow component of a 19 Fr silicone catheter reinforced with a
+nitinol braid to prevent kinking. The graft portion is anastomosed to an
+artery, usually brachial, and is tunneled subcutaneously and the venous
+component is percutaneously placed into the right atrium via the IJ or
+subclavian vein. The two components are connected with a titanium
+coupler at the deltopectoral groove. If you need more immediate
+dialysis, the super HeRO comes to the rescue in which the graft portion
+is the early cannulation graft.
 
 Hybrid catheter/grafts are good alternatives in patients with previous
 line infections, central stenosis, peripheral vascular disease and no
@@ -249,10 +257,10 @@ include donor artery \<3mm, inability to dilate outflow vein to 19f,
 allergy to device materials (ePTFE, silicone, titanium, nitinol), and
 current active infection.[@meritmedical]
 
-## Techniques for fistula creation
+## Techniques for access creation
 
-**The techniques of arteriovenous fistula creation are standard. Can you
-go through the techniques?**
+**The techniques of arteriovenous fistula creation are common across
+access sites. Can you go through the techniques?**
 
 First the vein is identified and the distal end is transected and
 flushed with heparin. By flushing with the heparin, you are able to
@@ -272,15 +280,19 @@ the upper extremity?**
 
 Autogenous accesses can also be created in the lower extremity. Femoral
 artery to femoral vein or saphenous vein anastomosis can be created.
-Both veins have to be transposed. However, one must ensure that the ABI
-is normal because limb ischemia can be a devastating consequence.
-Furthermore, for morbidly obese patients, the excess pannus can hinder
-access in the groin region.
+Both veins have to be transposed. Synthetic grafts have high infection
+rates (as high as 22% in some series) and only a 50% patency at 6
+months.[@antoniou2009; @lazarides2018; @pike2019] Risk of lower
+extremity ischemia increased with burden of PVD, AV fistula vs graft,
+distal arterial inflow, and large femoral vein mismatch, but can be
+tempered by banding/narrowing of femoral vein at the time of
+surgery.[@antoniou2009; @bourquelot2012; @gradman2005]
 
 Access creation in the chest wall or cervical region is also possible
 with axillary artery to ipsilateral axillary vein loop access, axillary
 artery to contralateral axillary or jugular vein straight access (ie
 necklace access) and brachial artery to jugular vein straight access.
+Keep in mind that for these fistulas, the central veins must be patent.
 
 **Are there benefits to different anesthetic techniques used during
 access placement, such as regional anesthesia?**
@@ -290,6 +302,13 @@ perioerative flow and lower rates of vasospasm resulting in higher rates
 of short term patency. Regional anesthesia has not been associated with
 perioperative rates of major morbidity or mortality.[@aitken2016;
 @siracuse2014]
+
+**What is the role for endovascular creation of AV fistula?**
+
+New methods are now available to perform an upper extremity AVF
+endovascularly, although many patients would be suitable candidates, as
+of now the usability of these fistulas have not matched that of
+surgically placed AVF.[@lok2017]
 
 **When is the newly created dialysis access ready for use?**
 
@@ -302,13 +321,6 @@ If you use the 3-layer early cannulation grafts, the access can be used
 as early as 24 hours after access creation. This is great because it
 offers the potential for avoidance of dialysis catheters in patients who
 need dialysis immediately.[@glickman2015]
-
-**What is the role for endovascular creation of AV fistula?**
-
-New methods are now available to perform an upper extremity AVF
-endovascularly, although many patients would be suitable candidates, as
-of now the usability of these fistulas have not matched that of
-surgically placed AVF.[@lok2017]
 
 ## Maintenance and complications
 
@@ -357,12 +369,6 @@ the dialysis puncture sites. This is often the first sign of elevated
 venous pressures. These patients should undergo a fistulogram to
 evaluate for underlying outflow stenosis.[@caromonroig2018]
 
-Finally, even in patients with normal physical exam can have issues
-while on the hemodialysis circuit, such as recirculation. When in doubt,
-if there are issues recurrent with hemodialysis, the patient should
-undergo a fistulogram to evaluate for occult venous outflow stenosis
-that may be missed on other diagnostic modalities.[@sidawy2008]
-
 The most common cause of graft failure in upper extremity fistulas is
 venous outflow stenosis and in grafts is venous anastomotic intimal
 hyperplasia.[@berman2001; @padberg2008] Diagnostic fistulogram is a very
@@ -371,6 +377,12 @@ Diagnostic fistulogram is often performed with proximal access of the
 fistula a few centimeters distal to the anastomosis. Compression of
 venous outflow is necessary to evaluate for inflow and anastomotic
 issues.[@bountouris2018]
+
+Finally, even patients with normal physical exam can have issues while
+on the hemodialysis circuit, such as recirculation. When in doubt, if
+there are recurrent issues with hemodialysis, the patient should undergo
+a fistulogram to evaluate for occult venous outflow stenosis that may be
+missed on other diagnostic modalities.[@sidawy2008]
 
 **What are some endovascular interventions for a failing access?**
 
@@ -384,10 +396,10 @@ pressure dilation. Stenting is also an option to treat residual stenosis
 or dissections after balloon angioplasty. Covered stents have shown good
 patency results.
 
-Recurrent cephalic arch stenosis may be best treated with bare metal
-stenting.[@shemesh2008] Proximal occlusions (i.e. subclavian) may be
-best treated primarily with a covered stent.[@agarwal2015;
-@anaya-ayala2011]
+Some unique situations include, recurrent cephalic arch stenosis which
+may be best treated with bare metal stenting.[@shemesh2008] Proximal
+occlusions (i.e. subclavian) may be best treated primarily with a
+covered stent.[@agarwal2015; @anaya-ayala2011]
 
 **If endovascular interventions fail, what are some open options for
 managing a failing access?**
@@ -438,7 +450,7 @@ peripheral arteries to meet the increased demand. Diseased vessels do
 not dilate and stenosis of arteries leads to decreased distal perfusion
 pressure. Furthermore, hypotension during dialysis further decreases
 perfusion causing symptoms. Steal can be limb threatening and is graded
-as follows
+as follows:
 
 -   Grade 0 - asymptomatic, no flow augmentation or steal
 
@@ -519,32 +531,32 @@ follows:[@leake2015; @gupta2011]
     reversal of flow in the palmar arch. However, the ulnar artery
     patency needs to evaluated first.
 
-**Steal syndrome is not the only complication of AV access creation.
-What are some other nonthrombotic complications?**
+### Neuropathy and Neuropraxia
 
-Other nonthrombotic complications include pseudoaneurysms which is a
-result of trauma due to repeated punctures or poor technique and true
-aneurysms which is a result of hemodynamically significant stenosis.
-Both can lead to cannulation difficulties, increased risk of thrombosis,
-pain, bleeding and cosmetic deformities.
+**What complication often presents like steal syndrome, but with easily
+palpable distal pulses?**
 
-Prosthetic grafts can results in seroma from ultrafiltration of the
-graft and most resolve without intervention.
+Access creation can result in neuropathy. It is important to note that
+over 2/3s of the patients have preexisting peripheral neuropathy.
+Neuropathy is also graded:
 
-Most interestingly, access creation can result in neuropathy. It is
-important to note that over 2/3s of the patients have preexisting
-peripheral neuropathy. Neuropathy is also graded from 0-3, with 0 as
-asymptomatic, 1 as mild intermittent changes (pain, paresthesia,
-numbness with sensory deficit), 2 as moderate persistent sensory
-changes, and 3 as severe sensory changes with progressive motor loss
-(motion, strength, muscle wasting). Ischemic monomelic neuropathy is
-rare but occurs acutely after AV access creation. Within hours of
-surgery, patients develop acute pain, weakness, or paralysis of hand and
-forearm muscles with prominent sensory loss. However, the hand is warm
-with palpable pulse or audible signal in distal radial and ulnar
-arteries. It is important to note that pain out of proportion is what
-differentiates IMN from ARHI. Treatment is access ligation or emergent
-augmentation of flow.
+-   Grade 0 - asymptomatic
+
+-   Grade 1 - mild intermittent changes (pain, paresthesia, numbness
+    with sensory deficit)
+
+-   Grade 2 - moderate persistent sensory changes
+
+-   Grade 3 - severe sensory changes with progressive motor loss
+    (motion, strength, muscle wasting).
+
+Ischemic monomelic neuropathy is rare but occurs acutely after AV access
+creation. Within hours of surgery, patients develop acute pain,
+weakness, or paralysis of hand and forearm muscles with prominent
+sensory loss. However, the hand is warm with palpable pulse or audible
+signal in distal radial and ulnar arteries. It is important to note that
+pain out of proportion is what differentiates IMN from ARHI. Treatment
+is access ligation or emergent augmentation of flow.
 
 ### Perioperative neuropraxia
 
@@ -561,6 +573,9 @@ median nerve compression mandate immediate operative brachial sheath
 evacuation or the neurologic deficits may become
 permanent.[@padberg2008]
 
+Prosthetic grafts can results in seroma from ultrafiltration of the
+graft and most resolve without intervention.
+
 ### Bleeding and Aneurysm
 
 **What presentations require urgent revision?**
@@ -575,20 +590,30 @@ line.[@galbusera2009]
 **Many fistulas develop aneurysms over time. When do fistula aneurysms
 require revision?**
 
-AV aneurysms should be revised if they develop skin thinning, ulceration
-or bleeding. Early skin changes can be observed. Intervention often
-requires revision with open plication/excision or ligation. When
-isolated to a short segment, attempts should be made to salvage the
-fistula.[@al-jaishi2017; @al-thani2017; @pasklinsky2011]
+-   Pseudoaneurysms often result from trauma due to repeated punctures
+    or poor technique
+
+-   True aneurysms result from long standing hemodynamically significant
+    outflow stenosis.
+
+Both can lead to cannulation difficulties, increased risk of thrombosis,
+pain, bleeding and cosmetic deformities. AV aneurysms should be revised
+if they develop skin thinning, ulceration or bleeding. Early skin
+changes can be observed. Intervention often requires revision with open
+plication/excision or ligation. When isolated to a short segment,
+attempts should be made to salvage the fistula.[@al-jaishi2017;
+@al-thani2017; @pasklinsky2011]
 
 ## Dialysis Catheters
 
-**Speaking of dialysis catheters, what is the difference between an
-acute and chronic hemodialysis catheter?**
+**While ideally every patient would have surgically placed access, many
+patients still receive dialysis through catheters. What is the
+difference between an acute and chronic hemodialysis catheter?**
 
 Chronic catheters have a subcutaneous cuff at the exit site and tunneled
-to the vein. This decreased infection rates and is less likely to become
-dislodged. Tunneled hemodialysis catheters can be used up to 12 months.
+to the vein. This decreases infection rates and makes them less likely
+to become dislodged. Tunneled hemodialysis catheters can be used up to
+12 months.
 
 **If catheters cause so much problems such as infection and central
 venous stenosis, what would be an indication for them?**
@@ -596,7 +621,7 @@ venous stenosis, what would be an indication for them?**
 The most common indication would be for urgent hemodialysis. But other
 indications include patient who are not operative candidates due to
 advanced comorbidities, or patients who are unable to have an AVF or AVG
-due to anatomic feasibility.  Temporary dialysis access may also be
+due to anatomic feasibility. Temporary dialysis access may also be
 needed in patients who have just had a peritoneal dialysis catheter
 placement or in chronic peritoneal dialysis catheter patients requiring
 abdominal or inguinal surgery.
@@ -626,9 +651,10 @@ pressure dressing applied.
 
 **How do you manage infected hemodialysis lines?**
 
-Infected hemodialysis lines should be removed. Ideally should avoid
-placing any lines, particularly subsequent permanant lines, until blood
-cultures have been negative for 48hrs.[@vascularaccess2006workgroup2006]
+Infected hemodialysis lines should be removed. Ideally you should avoid
+replacing any lines until blood cultures have been negative for 48hrs,
+particularly subsequent permanent
+lines[@vascularaccess2006workgroup2006]
 
 ## Peritoneal Dialysis
 

@@ -6,6 +6,8 @@ editor_options:
 
 # Lower Extremity Occlusive Disease
 
+**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
+
 ## Pathophysiology
 
 24 Aug 2020: Nedal Katib and Danielle Bajakian

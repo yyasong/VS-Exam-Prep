@@ -6,6 +6,8 @@ editor_options:
 
 # Thoracic Aorta
 
+**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
+
 ## Aortic Dissection
 
 **01 Nov 2021:** *Matt Spreadbury, MD; Adham Elmously, MD; Einar Brevik,

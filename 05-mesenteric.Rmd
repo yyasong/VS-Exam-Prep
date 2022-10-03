@@ -6,6 +6,8 @@ editor_options:
 
 # Mesenteric Disease
 
+**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
+
 **09 Apr 2020**: *Matt Chia, MD and Nick Mouawad, MD*
 
 ```{r echo=FALSE}

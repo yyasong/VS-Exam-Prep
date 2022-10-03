@@ -6,6 +6,8 @@ editor_options:
 
 # Endovascular
 
+**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
+
 ## Vascular Access
 
 **29 Apr 2020**: *Sammy Siada, MD and Rafael Malgor, MD*

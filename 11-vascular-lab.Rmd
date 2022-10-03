@@ -6,6 +6,8 @@ editor_options:
 
 # Vascular Lab
 
+**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
+
 **06 Jan 2022**: *Alaska Pendleton, MD and Aahita Dua, MD*
 
 *Acknowledgements: A special thanks to Drena Root, Technical Director at
