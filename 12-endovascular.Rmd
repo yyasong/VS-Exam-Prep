@@ -6,13 +6,22 @@ editor_options:
 
 # Endovascular
 
-**UNDER CONSTRUCTION - This Chapter is Currently in DRAFT mode**
-
 ## Vascular Access
 
-**29 Apr 2020**: *Sammy Siada, MD and Rafael Malgor, MD*
+[**Authors and Contributors**]{.underline}
+
+-   **Sammy Siada, DO, RPVI;** HS Assistant Clinical Professor; Vascular
+    and Endovascular Surgery; *UC Fresno*
+
+-   **Rafael Demarchi Malgor, MD, MBA, FACS;** Associate Professor of
+    Surgery; Program Director, Robert B. Rutherford fellowship and
+    residency in Vascular Surgery; Division of Vascular Surgery and
+    Endovascular Therapy; *The University of Colorado, Anschutz Medical
+    Center*
 
 ```{r echo=FALSE}
+
+library(embedr)
 
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Vascular_Access_1.mp3")
 
