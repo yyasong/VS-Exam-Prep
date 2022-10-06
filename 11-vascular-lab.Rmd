@@ -29,9 +29,9 @@ changes proximal and distal to flow-limiting stenosis:
 waves](https://en.wikipedia.org/wiki/Sound_wave) with
 [frequencies](https://en.wikipedia.org/wiki/Frequency) higher than those
 audible to humans. Ultrasound images are created by sending pulses of
-ultrasound
-into [tissue](https://en.wikipedia.org/wiki/Tissue_(biology)) using
-a [probe](https://en.wikipedia.org/wiki/Ultrasound_transducer#Use_in_medicine).
+ultrasound into [tissue](https://en.wikipedia.org/wiki/Tissue_(biology))
+using a
+[probe](https://en.wikipedia.org/wiki/Ultrasound_transducer#Use_in_medicine).
 Reflected pulses are recorded and displayed as an image. There are many
 types of ultrasound images, but two modes commonly seen in vascular
 ultrasonography are B-mode and doppler:
@@ -768,10 +768,19 @@ foot caused by compression of the popliteal artery by the gastrocnemius.
 
 ### Aorta
 
-**AAA:** Ultrasound screening of a AAA is non-invasive, accurate, and
-cost-effective. Sensitivity of 98% and specificity of 99% for AAA
-diagnosis. Size criteria for AAA repair is 5.5 cm men, 5.0-5.5 cm in
-women, measured outer wall to outer wall cross-sectional diameter.
+**Abdominal Aortic Aneurysms (AAA):** Ultrasound screening of a AAA is
+non-invasive, accurate, and cost-effective.[@chaikof2018]
+
+-   Sensitivity of 98% and specificity of 99% for AAA
+    diagnosis.[@wilmink2002]
+
+-   Aneurysm is measured in transverse view, anterior to posterior
+    diameter, outer wall to outer wall.[@iac2021] Size criteria for AAA
+    repair is 5.5 cm men, 5.0-5.5 cm in women.
+
+-   Can be limited by bowel gas or obesity - so recommend fasting
+
+-   For more details, see\@ref(abdominal-aneurysms).
 
 **Can ultrasound be used for graft surveillance s/p EVAR?**
 
@@ -1180,4 +1189,3 @@ Troubleshooting examinations
 -   Some modifications to tests can be made if the patient is unable to
     tolerate, such as standing or tolerating a valsalva
     maneuver.[@societyofdiagnosticmedicalsonography2015]
-

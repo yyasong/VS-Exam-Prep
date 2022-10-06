@@ -53,7 +53,7 @@ Vitals typically normal, possible tachycardia.
 
 Lab evaluation typically unremarkable. Leukocytosis, hemoconcentration,
 and acidosis (high anion gap) all are frequently found, but the absence
-of these definitely does **not** rule out acute mesenteric ischemia.
+of these definitely does **not** rule out acute mesenteric ischemia.
 
 D-dimer has been proposed as a reasonable rule-out test for acute
 mesenteric ischemia.

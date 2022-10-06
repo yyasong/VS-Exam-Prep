@@ -64,7 +64,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
     -   This association stresses the importance of a good physical exam
         when evaluating a patient with a AAA and is commonly tested on
-        exams.
+        exams.[@chaikof2018; @diwan2000]
 
 **What is the pathogenesis of an abdominal aortic aneurysm?**
 [@mooreVascularEndovascularSurgery2019]
@@ -93,7 +93,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     inflammation and aortic wall hypoxia which all increase the rate of
     AAA growth.
 
--   Infective aoritis is a rare but highly morbid cause for aortic
+-   Infective aortitis is a rare but highly morbid cause for aortic
     aneurysm formation. Treatment in this setting should be more
     aggressive with the addition of antibiotic therapy and open surgical
     repair with rifampin soaked graft whenever feasible.[@gornik2008;
@@ -157,12 +157,11 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     formation is often a highly tested question
 
 **What is the dreaded complication of AAA?**
-[@mooreVascularEndovascularSurgery2019]
 
 -   Aneurysm rupture is the fear with a diagnosis of AAA. The risk of
     rupture increases yearly as the aneurysm expands. Once an aneurysm
     develops, it tends to enlarge gradually yet progressively. This is
-    an important concept to grasp for testing.
+    an important concept to grasp for testing.[@lindsay2019; @tracci]
 
 -   Growth rate
 
@@ -172,35 +171,35 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     -   For larger aneurysms (\>5cm), the growth rate is higher at
         3-5mm/year.
 
--   Rupture risk (historically):
+-    Rupture risk, historically, has been described as:
 
-    -   4 - 5.4cm -\> 0.5-1%.
+| AAA Size | Cumulative Annual Rupture Risk |
+|----------|--------------------------------|
+| 3-3.9 cm | 0.3%                           |
+| 4-4.9 cm | 0.5-1.5%                       |
+| 5-5.9 cm | 1-11%                          |
+| 6-6.9 cm | 11-22%                         |
+| \>7 cm   | \>30%                          |
 
-    -   6 - 7cm -\> 10%
-
-    -   7 -- 8cm -\> 19-35%
+: Historical reporting of AAA rupture risk[@tracci]
 
 -   Newer data suggests the true rupture risk per year is decreasing
-    with time.
+    with time. Rupture risk has recently been reported to be much lower.
 
--   In a study from the UK published in JVS in 2015, the rupture risks
-    were far lower than previously reported and what is documented in
-    most textbooks. [@parkinsonRuptureRatesUntreated2015]
+    -   A systematic review from the UK published in JVS in 2015, the
+        rupture risks were far lower than previously reported and what
+        is documented in most textbooks. Data included 11 studies,
+        reviewing 1514 patients, published between 1995 and
+        2014.[@parkinsonRuptureRatesUntreated2015]
 
-    -   This systematic review of more recently published data mostly
-        from 1995 to 2014 included a total of 11 studies reviewing 1514
-        patients. The cumulative yearly rupture risks identified in this
-        study were as follows:
+| AAA Size   | Cumulative Annual Rupture Risk                    |
+|------------|---------------------------------------------------|
+| \<5.5 cm   | \<1%[@oliver-williams2019]                        |
+| 5.5-6.0 cm | 3.5% [0-9%][@parkinsonRuptureRatesUntreated2015]  |
+| 6.1-7.0 cm | 4.1% [0-9%][@parkinsonRuptureRatesUntreated2015]  |
+| \>7.0 cm   | 6.3% [0-14%][@parkinsonRuptureRatesUntreated2015] |
 
-        -   5.5 - 6 cm -\> 3.5%
-
-        -   6.1 - 7 cm -\> 4.1%
-
-        -   \>7 cm -\> 6.3%
-
-    -   Previously published data with meta-analyses from 1970s-1990s
-        reported rupture rates of 3.3%, 9.4% and 24%, respectively,
-        compared to 3.5%, 4.1% and 6.3% in the most recent data.
+: AAA rupture risk based on most recent publications
 
 -   Factors that increase the risk of rupture other than the size of the
     aneurysm are smoking, COPD, hypertension, transplant recipient, and
@@ -231,6 +230,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         as men and women over the age of 75 with a smoking history in
         otherwise good health who have not previously undergone
         screening. [@chaikofSocietyVascularSurgery2018a]
+    -   For more technical details on duplex screening see \@ref(aorta).
 
 | Size on Imaging | Surveillance Interval |
 |:---------------:|:---------------------:|
@@ -239,7 +239,8 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 |   4 - 4.9 cm    |        1 year         |
 |    5 - 5.4cm    |       6 months        |
 
-: Recommended Intervals for AAA Surveillance
+: Recommended Intervals for AAA Surveillance[@thompson2013;
+@chaikofSocietyVascularSurgery2018a]
 
 -   It is important to note that these screening guidelines are Level 2,
     Grade C evidence from the SVS.
@@ -950,6 +951,9 @@ endovascular approach, and how do they differ?**
     post-operative period for open repair to evaluate incisions.
     Follow-up is only needed every 5-10 years, unless the patient
     becomes symptomatic.
+
+    -   Peri-anastomotic degeneration occurs in 0.5-10% of cases. Can be
+        diagnosed with CT scan or ultrasound.@curl1992
 
 -   In contrast, EVAR patients require a strict postoperative
     surveillance regimen to allow for detection of endoleaks, aneurysm
