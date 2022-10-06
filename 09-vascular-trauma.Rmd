@@ -82,15 +82,15 @@ index. Could you explain this concept?**
 If I had to take one tool with me into resuscitation room or an austere
 location to evaluate for vascular injury, it would be the continuous
 wave Doppler. It's only more powerful if you can combine it with a
-manual blood pressure cuff and together allow one to obtain an, an
+manual blood pressure cuff and together allow one to obtain an
 objective measure of perfusion. One can slowly inflate the blood
 pressure cuff, just proximal to the arterial signal, kind of like taking
-a blood pressure and measure the pressure at which the arterial signal
+a blood pressure, and measure the pressure at which the arterial signal
 goes away. That can then be compared to a normal or non-injured
 extremity. If there is no flow limiting arterial injury, the ratio
 should be one or slightly greater than one.
 
-Conversely, if the ratio for the injured extremity is less than a 0.9,
+Conversely, if the ratio for the injured extremity is less than 0.9,
 then that's indicative of flow limiting injury in the artery to that
 extremity. If the patient happens to be in shock or cold and clamped
 down, the injured extremity index can be repeated 10 or 15 minutes later
@@ -99,49 +99,48 @@ as the patient is resuscitated and warmed.[@rasmussen2022]
 **So what do you think the role of CTA is in the workup of extremity
 with concern for vascular trauma?**
 
-If there are hard signs of arterial injury, often times the patient will
+If there are hard signs of arterial injury, oftentimes the patient will
 require an intervention without obtaining formal imaging. The question
 about imaging often comes into play when there's a soft sign of vascular
 injury, such as a reduced injury extremity index, audible bruit, or
 injury pattern. We spent decades saying that the traditional
 arteriography was the gold standard, but I think we can say now that CTA
-has become the Gold standard for the evaluation of extremity vascular
+has become the gold standard for the evaluation of extremity vascular
 injury. CTA has improved in quality and it can also get imaging of the
-head, torso or other other extremities.
+head, torso, or other other extremities.
 
 **And so whether the patient has a hard sign or a soft sign with a
-vascular injury, can you talk us through some of the principles of the
-principles of operating on peripheral vascular trauma?**
+vascular injury, can you talk us through some of the principles of operating on peripheral vascular trauma?**
 
-Foremost important to resuscitate the patient and to be mindful of his
+Foremost important is to resuscitate the patient and to be mindful of his
 or her physiology and hemodynamics. As we said, an extremity vascular
 injury can be somewhat distracting. Make sure the patient is being
 resuscitated and warmed, ventilator settings are being corrected,
-monitoring is in place, which takes a lot of communication with the
+and monitoring is in place -- which takes a lot of communication with the
 anesthesia team, the circulating nurse, the technicians, and the blood
 bank.
 
-I think once the patient is set and you've got the team resuscitating
-him or her then turn your attention to the injured extremity I will prep
+I think once the patient is set and you have the team resuscitating
+him or her, then you can turn your attention to the injured extremity. I will prep
 that patient widely and be mindful that the incision is likely to take
-more than what you think it will. For example, above the knee popliteal
-artery, I was still prep that patient from their umbilicus down both
-legs, because you need to anticipate getting proximal control or doing
+more than what you think it will. For example, for an above the knee popliteal
+artery, I will still prep that patient from their umbilicus down to both
+legs; because you need to anticipate getting proximal control, or doing
 an angiogram at the femoral artery level and anticipate the potential
 harvesting of saphenous vein for conduit.
 
 I also leave the tourniquet on and just prep it into the case. Taking
 that tourniquet down prematurely can be problematic for a couple of
-reasons. It may result in arterial bleeding which in itself can be
-catestrophic, but it can also result in hypotension which puts poses
-risk to multiple organ systems. So I just prep them into the field and
-then communicate with anesthesia tell them when I'm going to let this
-tourniquet down. Ensure they are readh, they have blood going and have a
+reasons. It may result in arterial bleeding, which in itself can be
+catestrophic, but it can also result in hypotension which poses
+risk to multiple organ systems. So, I just prep them into the field and
+then communicate with anesthesia to tell them when I am going to let this
+tourniquet down. Prior to doing so, I ensure they are ready, they have blood going, and have a
 secondary measure to control bleeding as you let that tourniquet down.
 
 For the incisions, they just need to be probably twice as long as you
 think they do. You can't fix what you can't see and if you can't see it,
-you can't control it and you certainly can't repair it.
+you can't control it, and you certainly can't repair it.
 
 **Do you routinely heparinize all these patients?**
 
