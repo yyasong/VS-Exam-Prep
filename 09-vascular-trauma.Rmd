@@ -82,15 +82,15 @@ index. Could you explain this concept?**
 If I had to take one tool with me into resuscitation room or an austere
 location to evaluate for vascular injury, it would be the continuous
 wave Doppler. It's only more powerful if you can combine it with a
-manual blood pressure cuff and together allow one to obtain an, an
+manual blood pressure cuff and together allow one to obtain an
 objective measure of perfusion. One can slowly inflate the blood
 pressure cuff, just proximal to the arterial signal, kind of like taking
-a blood pressure and measure the pressure at which the arterial signal
+a blood pressure, and measure the pressure at which the arterial signal
 goes away. That can then be compared to a normal or non-injured
 extremity. If there is no flow limiting arterial injury, the ratio
 should be one or slightly greater than one.
 
-Conversely, if the ratio for the injured extremity is less than a 0.9,
+Conversely, if the ratio for the injured extremity is less than 0.9,
 then that's indicative of flow limiting injury in the artery to that
 extremity. If the patient happens to be in shock or cold and clamped
 down, the injured extremity index can be repeated 10 or 15 minutes later
@@ -99,55 +99,54 @@ as the patient is resuscitated and warmed.[@rasmussen2022]
 **So what do you think the role of CTA is in the workup of extremity
 with concern for vascular trauma?**
 
-If there are hard signs of arterial injury, often times the patient will
+If there are hard signs of arterial injury, oftentimes the patient will
 require an intervention without obtaining formal imaging. The question
 about imaging often comes into play when there's a soft sign of vascular
 injury, such as a reduced injury extremity index, audible bruit, or
 injury pattern. We spent decades saying that the traditional
 arteriography was the gold standard, but I think we can say now that CTA
-has become the Gold standard for the evaluation of extremity vascular
+has become the gold standard for the evaluation of extremity vascular
 injury. CTA has improved in quality and it can also get imaging of the
-head, torso or other other extremities.
+head, torso, or other other extremities.
 
 **And so whether the patient has a hard sign or a soft sign with a
-vascular injury, can you talk us through some of the principles of the
-principles of operating on peripheral vascular trauma?**
+vascular injury, can you talk us through some of the principles of operating on peripheral vascular trauma?**
 
-Foremost important to resuscitate the patient and to be mindful of his
+Foremost important is to resuscitate the patient and to be mindful of his
 or her physiology and hemodynamics. As we said, an extremity vascular
 injury can be somewhat distracting. Make sure the patient is being
 resuscitated and warmed, ventilator settings are being corrected,
-monitoring is in place, which takes a lot of communication with the
+and monitoring is in place -- which takes a lot of communication with the
 anesthesia team, the circulating nurse, the technicians, and the blood
 bank.
 
-I think once the patient is set and you've got the team resuscitating
-him or her then turn your attention to the injured extremity I will prep
+I think once the patient is set and you have the team resuscitating
+him or her, then you can turn your attention to the injured extremity. I will prep
 that patient widely and be mindful that the incision is likely to take
-more than what you think it will. For example, above the knee popliteal
-artery, I was still prep that patient from their umbilicus down both
-legs, because you need to anticipate getting proximal control or doing
+more than what you think it will. For example, for an above the knee popliteal
+artery, I will still prep that patient from their umbilicus down to both
+legs; because you need to anticipate getting proximal control, or doing
 an angiogram at the femoral artery level and anticipate the potential
 harvesting of saphenous vein for conduit.
 
 I also leave the tourniquet on and just prep it into the case. Taking
 that tourniquet down prematurely can be problematic for a couple of
-reasons. It may result in arterial bleeding which in itself can be
-catestrophic, but it can also result in hypotension which puts poses
-risk to multiple organ systems. So I just prep them into the field and
-then communicate with anesthesia tell them when I'm going to let this
-tourniquet down. Ensure they are readh, they have blood going and have a
+reasons. It may result in arterial bleeding, which in itself can be
+catestrophic, but it can also result in hypotension which poses
+risk to multiple organ systems. So, I just prep them into the field and
+then communicate with anesthesia to tell them when I am going to let this
+tourniquet down. Prior to doing so, I ensure they are ready, they have blood going, and have a
 secondary measure to control bleeding as you let that tourniquet down.
 
 For the incisions, they just need to be probably twice as long as you
 think they do. You can't fix what you can't see and if you can't see it,
-you can't control it and you certainly can't repair it.
+you can't control it, and you certainly can't repair it.
 
 **Do you routinely heparinize all these patients?**
 
-I hate to equivocate, but it depends. I depends on whether or not they
+I hate to equivocate, but it depends. It depends on whether or not they
 have other injuries. So if it's an isolated extremity injury and the
-patient does not have any torso bleeding, head trauma or very extensive
+patient does not have any torso bleeding, head trauma, or very extensive
 soft tissue injury, then I will then be more inclined to use systemic
 heparin during revascularization. If they have any of the above
 injuries, then I will use regional heparin flushed up and down the
@@ -159,59 +158,59 @@ saphenous vein from the injured extremity?**
 Our teaching, as you referenced, has always been to use a saphenous vein
 from the contralateral extremity, but I am quite practical about it. I
 certainly have used ipsilateral saphenous vein. If there's no deep vein
-injury and it's part of the incision and exposure than, than I will use
+injury and it's part of the incision and exposure, then I will use
 ipsilateral reversed greater saphenous vein. If there is concern for
-deep venous injury or if I have another person to harvest a team member
-who can prep out the other leg, then often I'll defer to that and use
-contralateral, I'll be more deferential to using the contralateral
+deep venous injury or if I have another person to harvest and
+who can prep the other leg, then often I'll defer to that and use
+contralateral. I'll be more deferential to using the contralateral
 saphenous vein in the reverse configuration.[@liang2016; @fox2012]
 
 **So you have a vascular injury and you have debride it back to healthy
-tissue. How do you make the decision between, primarily repair, patch
+tissue. How do you make the decision between, primary repair, patch
 repair, or interposition graft with autologous vein or prosthetic?**
 
 You know, you can picture it now, you have vascular control with clamp
-proximal and distal. Now you're setting up, you really shifting gears
+proximal and distal. Now you're setting up, you are really shifting gears
 into a different phase of this operation. It's important to just take a
-deep breath, I think at this point and check with anesthesia and make
+deep breath, I think at this point, and check with anesthesia and make
 sure the patient's doing all right from a global standpoint.
 
-I think the other thing that at this point that I have sometimes
-overlooked is the importance of performing a proximal and distal
+I think the other thing is that at this point, I have sometimes
+overlooked the importance of performing a proximal and distal
 thrombectomy using the Fogarty catheter. I'll make sure that I've passed
-a Fogarty catheter, distal to completely clear the outflow of thrombus.
+a Fogarty catheter distally to completely clear the outflow of thrombus.
 Then I'll use regional heparin, 40-60cc of heparin saline down the
-outflow before I apply the clamp. I'll do the same in the inflow that
+outflow before I apply the clamp. I'll do the same in the inflow and that
 buys you a little time as you're sort of thinking about and sizing up
 what's in front of you.[@liang2016; @fox2012]
 
-I think my experience the majority need an interposition graft.
-Certainly if it's a grazing wound or a stab wound from a knife, there
-may be a role for primary repair or patch, but if one thinks there's
-going to be any compromise of the arterial, arterial lumen or tension on
+I think in my experience, the majority of patients need an interposition graft.
+Certainly, if it's a grazing wound or a stab wound from a knife, there
+may be a role for primary repair or patch. But if one thinks there's
+going to be any compromise of the arterial lumen or tension on
 the repair, then you're better off with an interposition. [@liang2016;
 @fox2012]
 
 There are some special cases where primary repair might be appropriate.
 Veins are much more compliant and you can often get away with a lateral
-venorrhaphy. Then sometimes the upper extremities, the brachial artery
+venorrhaphy. Then sometimes the upper extremities, such as the brachial artery,
 has more redundancy. If it's a very focal injury and you can get a
-little stretch, then you will often be able to get brachial artery back
+little stretch, then you will often be able to get the brachial artery back
 together primarily.
 
-I suspect in the majority of my experience vascular injuries require an
+I suspect in the majority of my experience, vascular injuries require an
 interposition graft. Then in regards to conduit, because most of the
 wartime injuries were contaminated and quite dirty, we deferred to
 autologous saphenous vein the vast majority of the time. However, if you
 are in a pinch, can't find vein or don't have time to harvest vein, the
-wound isn't too contaminated and the injury is proximal, axillary or
+wound isn't too contaminated, and the injury is proximal, axillary or
 subclavian, proximal femoral, or iliac, then I think using a prosthetic,
 either Dacron or expanded PTFE Gore-Tex is also acceptable. Some recent
-civilian literature says PTFE may be better than vein, but that's not
+civilian literature says PTFE may be better than vein, but that has not
 been our experience in the deployed setting.
 
 **Now that we have covered some basic principles, lets dive in a little
-deeper on each level of kind of peripheral vascular injury. First we're
+deeper on each kind of peripheral vascular injury. First we're
 going to talk about junctional hemorrhage, which is an injury in the
 junctional area between the torso and extremity, such as the distal
 external iliac/common femoral or subclavian/axillary region. These are
@@ -220,7 +219,7 @@ through a hematoma in the groin or pelvis just above inguinal
 ligament--what are the best ways to get control of this?**
 
 For the iliac artery or even just the proximal common femoral, I think a
-retroperitoneal exposure to the lower quadrant of the abdomen. We
+retroperitoneal exposure to the lower quadrant of the abdomen is preferred. We
 sometimes refer to that as a transplant incision, which is quite
 suitable depending upon the injury pattern.
 
@@ -229,54 +228,52 @@ need. So, if it truly is a groin hematoma, think that this could be
 common femoral or external iliac and in those cases, either a transplant
 incision in a retroperitoneal fashion to get that controlled up to the
 common iliac, or just doing a laparotomy and finding it through the
-abdomen.
+abdomen would suffice.
 
-**What if you encountered an internal iliac injury kind of deep in the
+**What if you encountered an internal iliac injury deep in the
 pelvis that you weren't able to control, what are the consequences of
-litigating that?**
+ligating that?**
 
 That's real tiger country, in those cases it's really damaged control.
-One of the things we haven't mentioned is the important tenant that
-maybe arguably one of the most important tenants in vascular damage
-control is ligation. We've talked a lot about setting up for a vascular
+One of the things we haven't mentioned is the important tenant -- that
+maybe arguably is one of the most important tenants in vascular damage
+control -- is ligation. We've talked a lot about setting up for a vascular
 repair, but one of the reasons to check with anesthesia and to assess
 the whole of the patient is to recognize that in some scenarios the best
 thing is ligation and then dealing with whatever consequences may result
 from that.
 
-Keeping in mind sort of life over limb and not being too aggressive
+Keeping in mind, the idea of life over limb and not being too aggressive
 about trying to do some sort of exposure and repair of a vessel that
 takes hours and many, many units of blood. So in that context, I think,
 if you find bleeding from the internal iliac or hypogastric vessels, I
 think ligating those is quite acceptable. There can be instances of
-pelvic ischemia um, but if the contralateral iliac artery is open then
+pelvic ischemia, but if the contralateral iliac artery is open, then
 that's quite rare.
 
 Also, often one is dealing with artery and vein injury because they're
-right there together. And as I mentioned, that's a, that's a real tiger
-country. If that's happening in those situations, the tenants of
-exposure, light, two suctions anddon't use too small of a needle. That's
-where the SH blunt tip needle on a 3-0 or 4-0 prolene needle works well,
-don't try to be too finesse about this because, in the pelvis, you won't
+right there together. And as I mentioned, that's real tiger
+country. If that's happening in those situations, keep in mind the tenants of
+exposure, light, two suctions, and don't use too small of a needle. That's
+where the SH blunt tip needle on a 3-0 or 4-0 prolene needle works well. 
+Don't try to be too finesse about this because, in the pelvis, you won't
 be able to see your needle.
 
 **Let's take the same injury and move it now to the external iliac--what
-are the consequences of ligating the the external iliac artery and what
+are the consequences of ligating the external iliac artery and what
 are some of your options?**
 
-Because it's the axial vessel to that extremity, I would not like gate
-the eternal iliac artery with such impunity. I think in those
+Because it's the axial vessel to that extremity, I would not ligate
+the external iliac artery with such impunity. I think in those
 situations, controlling it and making that assessment of whether or not
 to repair it is paramount. I think that the consequences of ligating an
-external iliac artery, are going to be significant and include proximal
-extremity ischemia, including thigh, and probably need for above knee
-amputation if not disarticulation of the hip.
+external iliac artery are going to be significant and include proximal
+extremity ischemia, including thigh, and probable need for above the knee
+amputation and even disarticulation of the hip.
 
-So I think the external iliac needs to be preserved at all costs. One
-can either try that on their own or depending upon how the patient's
-doing or if you are in the field and there are other triage concerns,
-whether you reconstruct immediately or use a temporary vascular shunt as
-a damage control.
+So I think the external iliac needs to be preserved at all costs. And whether you reconstruct immediately or use a temporary vascular shunt as
+a damage control is dependent upon how the patient's
+doing or if you are in the field and there are other triage concerns.
 
 **Some can find shunts a little tricky, can you give some advice to
 listeners on how to best use temporary vascular shunts for damage
@@ -285,21 +282,16 @@ control?**
 I think it's important to know what shunts you have available before you
 are in this situation. So stroll through the operating room or your
 stock room wherever you are when it's not busy and check out the stock
-of shunts. There are four or five different types of shuns, anything
+of shunts. There are four or five different types of shunts, anything
 from what's referred to as the Javid shunt, Sundt shunt, or there's the
-Argyle shunt. Then, you know, there can be makeshift, shuns, uh, such as
-small caliber chest tubes, um, and really those, uh, those Sean's, um,
-they're basically temp the vascular or they're plastic [00:34:00] tubes
-that can be placed into the injured vessel proximate. Uh, and then
-control either with a ligature around the vessel to lock that Shant in
-place, um, or a rubber vessel loop.
+Argyle shunt. Then there can be makeshift shunts, such as
+small caliber chest tubes, which are temporary plastic tubes
+that can be placed into the injured vessel proximally, and then
+controlled with either a ligature around the vessel to lock that shunt
+place or a rubber vessel loop.
 
-And then that Shant is, uh, we want to make sure that you have, uh,
-blown out any clot. Uh, that was a thrombus that was, was there and let,
-let some couple of heartbeats blow, uh, uh, red blood through the Shant
-and then, and then include it with the clamp, um, and then inserted into
-the, into the distal, uh, To the, to the vessel that's distal to the
-injury.
+And then you want to make sure that you did not blow out any clot with that shunt. So you let 
+some heartbeats go with red blood running through the shunt, then occlude it with the clamp, and then insert it to the vessel that is distal to the injury.
 
 Likewise, you have to make sure that the thrombus has been removed, and I
 mentioned this earlier from that distal vessel. I think it is very
