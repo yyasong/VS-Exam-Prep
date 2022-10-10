@@ -784,12 +784,18 @@ non-invasive, accurate, and cost-effective.[@chaikof2018]
 
 **Can ultrasound be used for graft surveillance s/p EVAR?**
 
-[S/p EVAR:]{.underline} Surveillance color duplex ultrasound is safe if
-CT imaging at 1 year exhibits no sac growth, graft migration, or
-endoleak (or stable type II endoleak). Can detect endoleaks, sac
-expansion, and limb occlusion. Migration difficult to assess given
-challenge of renal arteries visualization in a long axis view of the
-aorta.
+Surveillance color duplex ultrasound is safe if CT imaging at 1 year
+exhibits no sac growth, graft migration, or endoleak (or stable type II
+endoleak). Can detect endoleaks, sac expansion, and limb occlusion.
+Migration difficult to assess given challenge of renal arteries
+visualization in a long axis view of the aorta.
+
+Type II endoleaks with stable sac size can continue surveillance with
+duplex.[@chaikof2018; @karthikesalingam2012] Any findings concerning for
+growth, endoleak or flow in the sac should have confirmatory CTA
+performed.
+
+Surveillance duplex does not reliably detect graft migration.\@busch2009
 
 **What other pathologies can be identified on ultrasound evaluation of
 the abdomen?**
