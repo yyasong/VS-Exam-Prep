@@ -1110,6 +1110,10 @@ of a ruptured AAA (RAAA) as our last topic of the session?**
 
 ## Iliac/Peripheral Aneurysms
 
+### Demographics
+
+CIAA aneurysm defined as \>1.5cm.
+
 ### Presentation
 
 Often found incidentally, but carries risk of rupture and distal
