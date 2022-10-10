@@ -1204,4 +1204,4 @@ iliac artery and mobilizing the common and external iliac artery.
 Transection of iliacs should only be used as a last resort if this
 fails. [@leeIliacVesselInjuries2002]
 
-For more on venous trauma, see \@ref(venous-trauma).
+For more on venous trauma, see \@ref(abdominal-venous).
