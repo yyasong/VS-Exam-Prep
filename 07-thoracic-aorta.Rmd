@@ -15,6 +15,8 @@ MD and Joseph Lombardi, MD*
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_Aortic_Dissections_03auph.mp3")
 
 ```
@@ -281,6 +283,8 @@ TEVAR is best at 2w-3m.
 Jenkins
 
 ```{r echo=FALSE}
+
+library (embedr)
 
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Rouleaux_Club_TAA_Studio_sound_version_11-17-21_Auphonic.mp3")
 
@@ -1531,6 +1535,8 @@ hours, trying to get them in somewhere.
 Washington*
 
 ```{r echo=FALSE}
+
+library (embedr)
 
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Aortopathies_post_auphonic.mp3")
 
