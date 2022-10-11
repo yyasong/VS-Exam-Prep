@@ -13,6 +13,8 @@ Minnesota*
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.mp3")
 
 ```
@@ -40,6 +42,14 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
 
 -   Estimated 1.1 million Americans have AAAs, which equates to a
     prevalence of 1.4% in 50-84 year old general population.
+
+    -   Men 65-75y with a history of smoking have a prevalence of 6-7% -
+        hence the need for screening.[@lefevre2014; @chaikof2018]
+
+    -   Men without a history of smoking have a prevalence of 2%.
+
+    -   Women who are current smokers 2%, and women with a history of
+        smoking 0.8%.[@wanhainen2006]
 
 -   AAAs are 3-7x more prevalent than thoracic aortic aneurysms and can
     co-exist with other aneurysms throughout the arterial vascular
@@ -93,13 +103,16 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     inflammation and aortic wall hypoxia which all increase the rate of
     AAA growth.
 
+    -   Of note, intraluminal thrombus rarely embolizes and is not an
+        indication for anticoagulation.[@singh2019; @cameron2018]
+
 -   Infective aortitis is a rare but highly morbid cause for aortic
     aneurysm formation. Treatment in this setting should be more
     aggressive with the addition of antibiotic therapy and open surgical
     repair with rifampin soaked graft whenever feasible.[@gornik2008;
     @paravastu2009; @rasmussen1997]
 
--   For more about other aortitis, see \@ref(large-vasculitis).
+-   For more about aortitis, see \@ref(large-vasculitis).
 
 **What are the risk factors for AAA occurrence and growth?**
 [@mooreVascularEndovascularSurgery2019]
@@ -171,15 +184,15 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
     -   For larger aneurysms (\>5cm), the growth rate is higher at
         3-5mm/year.
 
--    Rupture risk, historically, has been described as:
+-   Rupture risk, historically, has been described as:
 
 | AAA Size | Cumulative Annual Rupture Risk |
-|----------|--------------------------------|
-| 3-3.9 cm | 0.3%                           |
-| 4-4.9 cm | 0.5-1.5%                       |
-| 5-5.9 cm | 1-11%                          |
-| 6-6.9 cm | 11-22%                         |
-| \>7 cm   | \>30%                          |
+|:--------:|:------------------------------:|
+| 3-3.9 cm |              0.3%              |
+| 4-4.9 cm |            0.5-1.5%            |
+| 5-5.9 cm |             1-11%              |
+| 6-6.9 cm |             11-22%             |
+|  \>7 cm  |             \>30%              |
 
 : Historical reporting of AAA rupture risk[@tracci]
 
@@ -192,12 +205,12 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         reviewing 1514 patients, published between 1995 and
         2014.[@parkinsonRuptureRatesUntreated2015]
 
-| AAA Size   | Cumulative Annual Rupture Risk                    |
-|------------|---------------------------------------------------|
-| \<5.5 cm   | \<1%[@oliver-williams2019]                        |
+|  AAA Size  |          Cumulative Annual Rupture Risk           |
+|:----------:|:-------------------------------------------------:|
+|  \<5.5 cm  |            \<1%[@oliver-williams2019]             |
 | 5.5-6.0 cm | 3.5% [0-9%][@parkinsonRuptureRatesUntreated2015]  |
 | 6.1-7.0 cm | 4.1% [0-9%][@parkinsonRuptureRatesUntreated2015]  |
-| \>7.0 cm   | 6.3% [0-14%][@parkinsonRuptureRatesUntreated2015] |
+|  \>7.0 cm  | 6.3% [0-14%][@parkinsonRuptureRatesUntreated2015] |
 
 : AAA rupture risk based on most recent publications
 
@@ -381,8 +394,7 @@ embed_audio("https://traffic.libsyn.com/audiblebleeding/VSITE_AAA_post_auphonic.
         -   Pulmonary function test with ABG (Level 2, Grade C)
 
         -   Smoking cessation for at least 2 weeks prior (Level 1, Grade
-
-            C)  
+            C)
 
         -   Pulmonary bronchodilators at least 2 weeks before aneurysm
             repair (Level 2, Grade C)
@@ -586,6 +598,13 @@ EVAR and the management?** [@mooreVascularEndovascularSurgery2019]
     events may occur from thrombus-laden aortic necks with wire and
     device manipulation to the renal arteries as well.
 
+-   Iliac limb occlusion - can occur within hours of EVAR (3-5%). Risk
+    factors included iliac artery tortuosity, calcified plaque burden or
+    occlusive disease, external iliac artery dissection[@vacirca2019],
+    inadequate outflow due to access site complication. Post operative
+    CFA duplex will show dampened waveforms.[@greenhalgh2010;
+    @taudorf2014]
+
 -   Emergent conversion from EVAR to open are associated with
     significant increase in morbidity and mortality. Risk factors
     include aneurysm diameter, young age, female gender and nonwhite
@@ -622,10 +641,12 @@ Defined as persistent blood flow within the aneurysm sac following EVAR.
     -   It is common to continue monitoring even if there is persistent
         flow as long as there is no aneurysm sac growth. Type II
         endoleaks persist in 5-25% of patients. Risk factors for
-        persistent endoleak include hypogastric coil embolization,
-        distal graft extension, absense of COPD, age \>80yrs, and graft
-        type. Risk of rupture is 1.5-3%.[@lo2016; @abularrage2010;
-        @timaran2004; @shalaby2016; @sarac2012; @jones2007]
+        persistent endoleak include anticoagulation[@bobadilla2010],
+        patency/number/diameter of IMA/lumbar arteries[@ward2014],
+        hypogastric coil embolization, distal graft extension, absence
+        of COPD, age \>80yrs, and graft type. Risk of rupture is
+        1.5-3%.[@lo2016; @abularrage2010; @timaran2004; @shalaby2016;
+        @sarac2012; @jones2007]
 
     -   If the leak persists for \> 6 months with sac enlargement \>5mm,
         intervention is recommended. Several techniques exist to
@@ -953,7 +974,7 @@ endovascular approach, and how do they differ?**
     becomes symptomatic.
 
     -   Peri-anastomotic degeneration occurs in 0.5-10% of cases. Can be
-        diagnosed with CT scan or ultrasound.@curl1992
+        diagnosed with CT scan or ultrasound.\@curl1992
 
 -   In contrast, EVAR patients require a strict postoperative
     surveillance regimen to allow for detection of endoleaks, aneurysm
