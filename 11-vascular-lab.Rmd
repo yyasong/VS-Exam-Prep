@@ -641,6 +641,12 @@ Of note, diffuse narrowing of the SFA can result in tardus et parvus
 waveforms in the popliteal, without necessarily demonstrating any areas
 of high velocity.[@aburahma2022; @pellerito2019]
 
+While duplex ultrasound most easily visualises infrainguinal arterieal
+disease, it can also be used to evaluate for iliac artery stenosis.
+Patients with an iliac Vr\>2.5 or monophasic/biphasic waveforms in the
+CFA, suggest that further imaging of the iliac system may be
+required.[@heinen2018]
+
 **Ultrasound is frequently used for graft surveillance. Can you talk
 about graft surveillance parameters?**
 
@@ -655,12 +661,15 @@ proximal to the stenosis.
 -   The highest risk for graft thrombosis, and highest cause for concern
     is suggested by PSV \>300 cm/s, Vr \>3.5, a mid-graft flow velocity
     \<45 cm/s or a drop in ABI \>0.15.
-    [@bandykHemodynamicsVeinGraft1988]
+    [@bandykHemodynamicsVeinGraft1988; @zierler2018]
 
 -   Increased risk grafts have a PSV 180-300 cm/s and a Vr 2.0-3.5.
 
 -   Spectral pulse wave doppler is more sensitive than color doppler to
     identify low flow states or thrombosed grafts.[@hedrick2005]
+
+-   Criteria for prosthetic grafts is higher than vein bypass.
+    [@zierler2018]
 
 Intervention for recurrent vein bypass graft stenosis early after
 angioplasty may be best treated with an open revision and patch
@@ -786,16 +795,30 @@ non-invasive, accurate, and cost-effective.[@chaikof2018]
 
 Surveillance color duplex ultrasound is safe if CT imaging at 1 year
 exhibits no sac growth, graft migration, or endoleak (or stable type II
-endoleak). Can detect endoleaks, sac expansion, and limb occlusion.
-Migration difficult to assess given challenge of renal arteries
-visualization in a long axis view of the aorta.
+endoleak). Contrast enhanced duplex, in particular, has a high
+sensitivity and specificity to detect endoleaks.[@abraha2017;
+@kapetanios2019; @chaer2009]
+
+Type II endoleaks classification is subdivided on surveillance duplex.
+Type IIa has a single inflow vessel and a "to-and-fro" appearance,
+whereas Type IIb has multiple vessels and maintains a monophasic flow.
+Type IIa endoleaks with velocities greater than 100cm/sec are not likely
+to spontaneously resolve and may be resistant to therapy.[@arko2003;
+@vanmarrewijk2004]
 
 Type II endoleaks with stable sac size can continue surveillance with
-duplex.[@chaikof2018; @karthikesalingam2012] Any findings concerning for
-growth, endoleak or flow in the sac should have confirmatory CTA
-performed.
+color duplex.[@chaikof2018; @karthikesalingam2012; @chaer2009] Any
+findings concerning for growth, endoleak or flow in the sac should have
+confirmatory CTA performed.[@maleux2017]
 
-Surveillance duplex does not reliably detect graft migration.\@busch2009
+Surveillance duplex does not reliably detect graft migration given
+challenge of renal arteries visualization in a long axis view of the
+aorta.[@busch2009]
+
+Velocities within stents are elevated from baseline due to stent
+rigidity, but a limb velocity \>300cm/s with a Vr \>3.5 is associated
+with a high risk of limb occlusion from stenosis or kinking and should
+undergo further investigation or intervention.[@chaikof2018; @blom2012]
 
 **What other pathologies can be identified on ultrasound evaluation of
 the abdomen?**
@@ -817,55 +840,88 @@ false lumens). Turbulent flow patterns are frequently encountered.
 
 ### Mesenteric Vasculature
 
-So far we have steered clear of the mesenteric vasculature. But this is
-an area frequently encountered on exams. Let's start with mesenteric
-vessel stenosis.
+**So far we have steered clear of the mesenteric vasculature. But this
+is an area frequently encountered on exams. Let's start with mesenteric
+vessel stenosis.**
 
-**Celiac and SMA stenosis:** May present as chronic mesenteric
-ischemia. PSV \>275 cm/s in the SMA or \>200 cm/s in the celiac artery
-indicates \>=70% stenosis. Normal SMA Doppler waveforms in the fasting
-patient show high resistance waveform, PSV \<275 cm/s and no spectral
+**Celiac and SMA stenosis:** May present as chronic mesenteric ischemia.
+PSV \>275 cm/s in the SMA or \>200 cm/s in the celiac artery indicates
+\>=70% stenosis. Normal SMA Doppler waveforms in the fasting patient
+show high resistance waveform, PSV \<275 cm/s and no spectral
 broadening. In the postprandial state, the waveform becomes low
 resistance, with a slightly increased PSV and little to no spectral
 broadening. Significant SMA stenosis may be differentiated by the
-presence of spectral broadening and elevated PSV and EDV. Distal to the
-stenosis, one would expect a tardus parvis waveform. EDV \>45 in SMA or
-\>55 in celiac are predictive of stenosis (would expect higher diastolic
-flow in celiac trunk given low resistance vascular bed of liver and
-spleen).
+presence of spectral broadening and elevated PSV (\>275cm/s) and EDV
+(\>55cm/s).[@aburahma2012; @oderich2019] Distal to the stenosis, one
+would expect a tardus parvis waveform. EDV \>45 in SMA or \>55 in celiac
+are predictive of stenosis (would expect higher diastolic flow in celiac
+trunk given low resistance vascular bed of liver and spleen).
+
+Reversal of flow in the hepatic artery and mildly elevated SMA
+velocities may indirectly signify severe stenosis or occlusion of the
+celiac artery.
+
+Note that aberrant anatomy with the hepatic artery arising from the SMA,
+will result in the proximal SMA demonstrating a low resistance waveform,
+even in the fasted state.[@pellerito2019]
+
+Mesenteric duplex is still valid even if the patient has not fasted. The
+images may be technically more difficult to acquire due to bowel gas,
+however if velocities can be obtained, you a re likely to see elevate
+PSV and low resistance waveform in the SMA. The EDV will also be
+elevated and should be interpreted with caution.
+
+**IMA Stenosis:** PSV \>200 cm/s or aortic ratio \>2.5 has a high
+sensitivity for hemodynamically significant stenosis. However, this is
+rarely clinically significant and does not require treatment.
 
 **What other mesenteric vessel pathologies may be identified on vascular
 ultrasound?**
 
-[Dissections:]{.underline} Rare without concomitant aortic dissection.
+[Dissections:]{.underline} Rare without concomitant aortic dissection,
+describe only in case reports.[@gouëffic2002; @oglesby2006]
 
 [Aneurysms:]{.underline} Rare. Repair \>2 cm celiac, hepatic, SMA
 aneurysms and \>3 cm splenic and renal.
 
-[Median arcuate ligament syndrome:]{.underline} MALS can cause
+[Median arcuate ligament syndrome:]{.underline} MALS can cause
 significantly elevated velocities at the origin of the celiac artery.
 Testing is for reversible mechanical compression, as opposed to a fixed
 lesion from atherosclerotic disease. During deep inspiration or in the
-upright position, celiac velocities should normalize if stenosis is
-secondary to MALS.
+upright position the MAL is elevated and celiac velocities should
+normalize if stenosis is secondary to MALS.[@tembey2015]
+
+[Hepatic artery thrombosis:]{.underline} Mesenteric duplex is often
+performed in liver transplant patients. Hepatic artery thrombosis most
+often occurs within the first 30d after liver transplantation, with an
+incidence of 1.5-9% and a mortality rate of 75%.[@garcía-criado2009;
+@sanyal2012]
+
+### Portal Vein
 
 **So I recognize that we are jumping ahead here discussing venous
 circulation, but as this represents another component of a mesenteric
 vascular exam, let's discuss portal venous ultrasonography.**
 
-[Portal vein:]{.underline} Normal portal venous flow is hepatopetal
-(toward the liver), whereas abnormal portal venous flow is hepatofugal
-(away from the liver). (The root "fugua" means to flee, or flight). Flow
-should be in the same direction as the hepatic artery. Other
-abnormalities that may be visualized are portal vein thrombosis (often
-associated with portal venous hypertension in patients with chronic
-cirrhosis, hepatitis, or hepatocellular carcinoma). Acute portal vein
-thrombosis on ultrasound demonstrates dilatation of the portal vein with
-hypoechoic intraluminal thrombus. Chronic portal vein thrombosis is
-characterized by a contracted vein with heterogeneous/hyperechoic echoes
-and may be associated with collateral formation.  Can also assess for
-hepatic artery stenosis/thrombosis and for functioning of TIPS
-(transjugular intrahepatic portosystemic shunt).
+Normal portal venous flow is hepatopetal (toward the liver), whereas
+abnormal portal venous flow is hepatofugal (away from the liver). (The
+root "fugua" means to flee, or flight). Flow should be in the same
+direction as the hepatic artery.
+
+Other abnormalities that may be visualized are portal vein
+thrombosis---often associated with portal venous hypertension in
+patients with chronic cirrhosis, hepatitis, or hepatocellular carcinoma.
+Acute portal vein thrombosis on ultrasound demonstrates dilatation of
+the portal vein with hypoechoic intraluminal thrombus. Chronic portal
+vein thrombosis is characterized by a contracted vein with
+heterogeneous/hyperechoic echoes and may be associated with collateral
+formation.[@chawla2015; @nouvini2013]
+
+Mesenteric duplex can also assess for functioning of TIPS (transjugular
+intrahepatic portosystemic shunt). A sign of a failing TIPS is portal
+vein peak systolic velocity less than 30cm/s.
+
+### Renal arteries
 
 **Awesome, and so before jumping fully into venous circulation, let's
 complete our discussion of abdominal ultrasound evaluation with a
@@ -874,18 +930,31 @@ discussion of the renal vasculature.**
 [Renal Pathologies:]{.underline} ostial (atherosclerotic) vs mid-artery
 (FMD)
 
-[Atherosclerotic stenosis:]{.underline} PSV\>200 cm/s predictive of
-\>60% stenosis. Renal artery-to-aortic PSV ratio (RAR) \>3.5 also
-correlates with a \>60% stenosis. The renal resistive index (RRI) is
-calculated as the RA PSV-EDV/PSV. The RRI (\>0.8) is an indicator of
-intrinsic parenchymal renal disease.
+[Atherosclerotic stenosis:]{.underline} PSV \> 285 cm/s and Renal-aortic
+ratio (RAR) \>3.5, suggests \>60% stenosis.[@schäberle2016] However
+aortic PSV needs to be within normal range (40-100) to be appropriately
+interpreted.
 
-[FMD:]{.underline} As discussed for the carotids, FMD manifests as
-beaded lesions in medium and small arteries, with the renal arteries the
-most commonly affected. Ultrasound demonstrates increased PSV in the mid
-and distal renal artery. Stenoses in the mid and distal renal artery are
-suggestive of FMD, atherosclerotic disease is primarily ostial in
-nature.
+The renal resistive index (RRI) is calculated as the RA (PSV-EDV)/PSV.
+The RRI (\>0.8) is an indicator of intrinsic parenchymal renal disease.
+RRI has been used for assessment of transplant renal allograft
+rejection, decision making for treatment of renal artery stenosis, and
+evaluate progression of CKD. Diabetic nephropathy will demonstrate
+elevated RRI, signifying parenchymal disease.[@viazzi2014] One study
+showed it was associated with poor renal and overall outcome in
+critically ill patients.[@ledorze2012]
+
+[FMD:]{.underline} Fibromuscular dysplasia (FMD) will demonstrate
+tortuous renal arteries with turbulent flow and increased PSV of the
+mid-distal portions. Beading may be difficult to see on ultrasound
+(compared to the extra-cranial carotid). Atherosclerosis disease is
+primarily ostial in nature.
+
+[In stent restenosis]{.underline}: Higher cut off values are required to
+determine in stent restenosis.[@chi2009; @schäberle2016]
+
+[Renal artery aneurysms:]{.underline} Can see a yin-yang sign.
+[@gutta2008; @ham2014]
 
 ## Venous
 
