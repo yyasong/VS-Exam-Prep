@@ -14,6 +14,8 @@ editor_options:
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part_1_postEQ.mp3")
 
 ```
@@ -222,25 +224,24 @@ Grading System (1986, Revised 1997)
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-+---------------+------------------------------------------------------+
-| G             | Clinical Description                                 |
-| rade/Category |                                                      |
-+===============+======================================================+
-| 0/0           | Asymptomatic -no haemodynamic significant occlusive  |
-|               | disease                                              |
-+---------------+------------------------------------------------------+
-| I/1           | Mild Claudication                                    |
-+---------------+------------------------------------------------------+
-| I/2           | Moderate Claudication                                |
-+---------------+------------------------------------------------------+
-| I/3           | Severe Claudication                                  |
-+---------------+------------------------------------------------------+
-| II/4          | Ischaemic Rest Pain                                  |
-+---------------+------------------------------------------------------+
-| III/5         | Minor Tissue Loss                                    |
-+---------------+------------------------------------------------------+
-| III/6         | Major Tissue Loss                                    |
-+---------------+------------------------------------------------------+
++------------+-------------+-------------------------------+
+| Grade      | Category    | Clinical Description          |
++:==========:+:===========:+:=============================:+
+| 0          | 0           | Asymptomatc -no haemodynamic  |
+|            |             | significant occlusive disease |
++------------+-------------+-------------------------------+
+| I          | 1           | Mild Claudication             |
++------------+-------------+-------------------------------+
+| I          | 2           | Moderate Claudication         |
++------------+-------------+-------------------------------+
+| I          | 3           | Severe Claudication           |
++------------+-------------+-------------------------------+
+| II         | 4           | Ischaemic Rest Pain           |
++------------+-------------+-------------------------------+
+| III        | 5           | Minor Tissue Loss             |
++------------+-------------+-------------------------------+
+| III        | 6           | Major Tissue Loss             |
++------------+-------------+-------------------------------+
 
 Leriche syndrome - Triad of claudication (buttock, thigh, and calf),
 impotence and decreased pulses signifies aortoiliac occlusive disease.
@@ -286,12 +287,12 @@ Sensitivity and Specificity both \>95% (when ABPI cut off \</=0.9 -- in
 detecting \>/= 50% stenosis) [@yaoAnkleSystolicPressure2005;
 @ourielCriticalEvaluationStress1982]
 
-| **Interpreting ABPI** |
-|-----------------------|
-| \>1.4                 |
-| \>0.9-1.39            |
-| 0.5-0.9               |
-| 0.0-0.5               |
+|  **ABPI**  |  Interpretation  |
+|:----------:|:----------------:|
+|   \>1.4    | Non-compressible |
+| \>0.9-1.39 |      Normal      |
+|  0.5-0.9   | Mild to Mod PAD  |
+|  0.0-0.5   |    Severe PAD    |
 
 **What is Exercise ABPI studies?**
 
@@ -315,29 +316,34 @@ For more on exercise testing see \@ref(lower-extremity).
 
 **What is the ultrasound duplex criteria for defining PAOD?**
 
-+-------------+--------------------+-------------+-------------------+
-| Stenosis    | Peak Systolic      | Velocity    | Distal Artery     |
-| Category    | Velocity           | Ratio       | Spectral Waveform |
-+=============+====================+=============+===================+
-| Normal      | \<150              | \<1.5       | Triphasic, Normal |
-|             |                    |             | PSV               |
-+-------------+--------------------+-------------+-------------------+
-| 30-49%      | 150-200            | 1.5-2       | Triphasic, Normal |
-|             |                    |             | PSV               |
-+-------------+--------------------+-------------+-------------------+
-| 50-75%      | 200-400            | 2-4         | M onophasic,      |
-|             |                    |             | reduced PSV       |
-+-------------+--------------------+-------------+-------------------+
-| \>75%       | \>400              | \>4         | Damped, m         |
-|             |                    |             | onophasic,        |
-|             |                    |             | reduced PSV       |
-+-------------+--------------------+-------------+-------------------+
-| Occlusion   | No Flow -- B       |             |                   |
-|             | -mode, Terminal    |             |                   |
-|             | Thump              |             |                   |
-+-------------+--------------------+-------------+-------------------+
++--------------+--------------+--------------+--------------+
+| Stenosis     | Peak         | Velocity     | Distal       |
+| Category     | Systolic     | Ratio        | Artery       |
+|              | Velocity     |              | Spectral     |
+|              |              |              | Waveform     |
++:============:+:============:+:============:+:============:+
+| Normal       | \<150        | \<1.5        | Triphasic,   |
+|              |              |              | Normal PSV   |
++--------------+--------------+--------------+--------------+
+| 30-49%       | 150-200      | 1.5-2        | Triphasic,   |
+|              |              |              | Normal PSV   |
++--------------+--------------+--------------+--------------+
+| 50-75%       | 200-400      | 2-4          | Monophasic,  |
+|              |              |              | reduced PSV  |
++--------------+--------------+--------------+--------------+
+| \>75%        | \>400        | \>4          | Damped,      |
+|              |              |              | monophasic,  |
+|              |              |              | reduced PSV  |
++--------------+--------------+--------------+--------------+
+| Occlusion    | No Flow -- B | NA           | NA           |
+|              | -mode,       |              |              |
+|              | Terminal     |              |              |
+|              | Thump        |              |              |
++--------------+--------------+--------------+--------------+
 
-Adapted from [@stone21VascularLaboratory2019]
+Adapted from Stone and Hass. Vascular Laboratory: Arterial Duplex
+Scanning. Rutherford's Vascular Surgery and Endovascular Therapy.
+2019.[@stone21VascularLaboratory2019]
 
 **What Guidelines are there pertaining to PAD Management.**
 
@@ -541,6 +547,8 @@ Guidelines?**
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/PAOD_part2_postAuphonic.mp3")
 
 ```
@@ -559,27 +567,26 @@ the Trans metatarsal level.
 Rutherford et al. Ad Hoc Committee on Reporting Standards, SVS/North
 American Chapter ISCVS:
 
-+---------------+------------------------------------------------------+
-| G             | Clinical Description                                 |
-| rade/Category |                                                      |
-+===============+======================================================+
-| 0/0           | Asymptomatic -no haemodynamic significant occlusive  |
-|               | disease                                              |
-+---------------+------------------------------------------------------+
-| I/1           | Mild Claudication                                    |
-+---------------+------------------------------------------------------+
-| I/2           | Moderate Claudication                                |
-+---------------+------------------------------------------------------+
-| I/3           | Severe Claudication                                  |
-+---------------+------------------------------------------------------+
-| II/4          | Ischaemic Rest Pain                                  |
-+---------------+------------------------------------------------------+
-| III/5         | Minor Tissue Loss                                    |
-+---------------+------------------------------------------------------+
-| III/6         | Major Tissue Loss                                    |
-+---------------+------------------------------------------------------+
++--------------+--------------+---------------------------------+
+| Grade        | Category     | Clinical Description            |
++:============:+:============:+:===============================:+
+| 0            | 0            | Asymptomatic -no haemodynamic   |
+|              |              | significant occlusive disease   |
++--------------+--------------+---------------------------------+
+| I            | 1            | Mild Claudication               |
++--------------+--------------+---------------------------------+
+| I            | 2            | Moderate Claudication           |
++--------------+--------------+---------------------------------+
+| I            | 3            | Severe Claudication             |
++--------------+--------------+---------------------------------+
+| II           | 4            | Ischaemic Rest Pain             |
++--------------+--------------+---------------------------------+
+| III          | 5            | Minor Tissue Loss               |
++--------------+--------------+---------------------------------+
+| III          | 6            | Major Tissue Loss               |
++--------------+--------------+---------------------------------+
 
-**What is Chrinc Limb Threatening Ischemia (CLTI), sometimes previously
+**What is Chronic Limb Threatening Ischemia (CLTI), sometimes previously
 call Critical Limb Ischemia (CLI)?**
 
 In the last decade leading up to the recent Global Vascular Guidelines
@@ -856,14 +863,14 @@ the greatest correlation with amputation stump healing.[@malone1987]
 **What are the recommendations for patients with CLTI when it comes to
 Medical Therapy and Risk Factor Modification?**
 
--   Treat all patients with CLTI with an Antiplatelet agent (Grade 1
-    Level A)
+-   Treat all patients with CLTI with an antiplatelet agent **(Grade 1
+    Level A)**
 
 -   Consider Clopidogrel as the single agent (**Grade 2 Level B**) --
-    CAPRIE
+    CAPRIE[@capriesteeringcommittee1996]
 
 -   High-intensity statin therapy to reduce all-cause and cardiovascular
-    mortality - Atorvastatin 80mg or rosuvastatin 40mg (**Grade 1 Level
+    mortality - Atorvastatin 80mg or Rosuvastatin 40mg (**Grade 1 Level
     A**) [@arya2018; @2013acc]
 
 -   Control Hypertension to BP target \<140mm Hg systolic and \<90mm Hg
@@ -873,10 +880,10 @@ Medical Therapy and Risk Factor Modification?**
     smokers about status of tobacco use every visit (**Grade 1 Level
     A**)
 
--   Diabetic foot wounds wiht signs of infection, erythema, swelling,
+-   Diabetic foot wounds with signs of infection, erythema, swelling,
     pain and foul smelling drainage should be treated with IV abx, plain
     radiography, ESR, CRP and cultures. Signs of systemic sepsis, such
-    as fevers, tachycardia or shock, such as hypotension, should warrent
+    as fevers, tachycardia or shock, such as hypotension, should warrant
     urgent debridement and drainage, regardless of vascular status.
 
 **What imaging assessment is required?**
@@ -1001,7 +1008,7 @@ with suspected CLTI who present with deep space foot infection or wet
 gangrene. (Good Practice Statement)
 
 Offer Revascularisation to all "average surgical risk patients" (\\\<5%
-operative mortality and 2-year survival \>50%)  with advanced
+operative mortality and 2-year survival \>50%) with advanced
 limb-threatening conditions (e.g. WIfI stage 4) and significant
 perfusion deficits (e.g. ischemia grades 2 and 3). Particularly if they
 have good saphenous vein. **Grade 1 (Strong) Level of Evidence C (Low)**
@@ -1255,69 +1262,36 @@ From Rutherford RB, Baker JD, Ernst C, et  al. Recommended standards for
 reports dealing with lower extremity ischemia: revised version. J Vasc
 Surg. 1997;26:517--538. [@rutherfordRecommendedStandardsReports1997]
 
-+---------+---------+---------+---------+---------+---------+
-| C l as  | -   \*P | Se n s  | -       | A r te  | Ve n o  |
-| s i f   |     r o | o ry L  |         | r i al  | us Si g |
-| ic a t  |     g   | o ss    | \*      | Si g n  | n al    |
-| i on    |     no  |         |         | al      |         |
-|         |     s i |         | M u s c |         |         |
-|         |     s   |         | le We a |         |         |
-|         |         |         |         |         |         |
-|         | \*\*    |         | k ne s  |         |         |
-|         |         |         | s\      |         |         |
-|         |         |         | \* \*   |         |         |
-+=========+=========+=========+=========+=========+=========+
-| I . V   | N ot i  | N o ne  | N o ne  | ++      | ++      |
-|         | mm e d  |         |         |         |         |
-| i a b   | i a t e |         |         |         |         |
-| le      | ly th r |         |         |         |         |
-|         | e a t e |         |         |         |         |
-|         | n ed    |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| I I. T  | \       | \       | \       |         |         |
-| h r e a |         |         |         |         |         |
-| t e n   |         |         |         |         |         |
-| ed      |         |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| a . M a | S al v  | M i n i | N o ne  | -   /-  | \+      |
-| r g i n | a g e a | m al (  |         |         |         |
-| a l ly  | b le if | t o e   |         |         |         |
-|         | p r o m | s) or n |         |         |         |
-|         | p t ly  | o ne    |         |         |         |
-|         | t r e a |         |         |         |         |
-|         | t ed    |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| b . Im  | S al v  | M o re  | M i l   | -   /-  | \+      |
-| m e d i | a g e a | t h an  | d, m o  |         |         |
-| a t e   | b le w  | t o e   | d e r a |         |         |
-| ly      | i th i  | s, as s | te      |         |         |
-|         | m m e d | o c i a |         |         |         |
-|         | i a te  | t ed w  |         |         |         |
-|         | r ev a  | i th r  |         |         |         |
-|         | s c u   | e st p  |         |         |         |
-|         | la r i  | a in    |         |         |         |
-|         | z a t i |         |         |         |         |
-|         | on      |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
-| I I I.  | M a j   | P r o   | P r o   | \- \|   | \-      |
-|         | or \| t | \| f o  | \| f o  |         |         |
-| \|      | i s s   | u n d,  | u n d,  | \|      | \| v    |
-|         | ue l o  | an e s  | p a r a |         |         |
-| I rr    | ss or p | t h e t | l y s   | \|      | \|      |
-|         | e r m a | ic      | is () r |         |         |
-| e       | n e nt  |         | i g o   | C \|    |         |
-|         | n e r   | \|      | r) \|   |         |         |
-| v       | ve d a  |         |         |         |         |
-|         | m a g e | \|      | \|      |         |         |
-| e       | \| i ne |         |         |         |         |
-|         | v i i t | \|      |         |         |         |
-| r       | ab l e\ |         |         |         |         |
-|         | \| c ya | \|      |         |         |         |
-| s i b   | n o s   |         |         |         |         |
-| le      | is m ay |         |         |         |         |
-|         | be pr e |         |         |         |         |
-|         | s e nt  |         |         |         |         |
-+---------+---------+---------+---------+---------+---------+
++-------------+----------------+---------+---------+---------+---------+
+| Cla         | Prognosis      | Sensory | Muscle  | A       | Venous  |
+| ssification |                | Loss    | W       | rterial | Signal  |
+|             |                |         | eakness | Signal  |         |
++=============+:==============:+:=======:+:=======:+:=======:+:=======:+
+| I . Viable  | Not            | None    | None    | Present | Present |
+|             | immediately    |         |         |         |         |
+|             | threatened     |         |         |         |         |
++-------------+----------------+---------+---------+---------+---------+
+| II\.        | \              | \       | \       |         |         |
+| Threatened  |                |         |         |         |         |
++-------------+----------------+---------+---------+---------+---------+
+| a .         | Salvageable if | Minimal | None    | Weak/   | Present |
+| Marginally  | promptly       | (toes)  |         | absent  |         |
+|             | treated        | or none |         |         |         |
+|             | (\<24hr)       |         |         |         |         |
++-------------+----------------+---------+---------+---------+---------+
+| b .         | Salvageable    | More    | Mild,   | Absent  | Absent  |
+| Immediately | with immediate | than    | m       |         |         |
+|             | revasc (\<6hr) | toes    | oderate |         |         |
++-------------+----------------+---------+---------+---------+---------+
+| III\.       | Major tissue   | P       | P       | Absent  | Absent  |
+| I           | loss or        | rofound | rofound |         |         |
+| rreversible | permanent      | ane     | pa      |         |         |
+|             | nerve damage   | sthetic | ralysis |         |         |
+|             | inevitable;    |         | (rigor) |         |         |
+|             | Minimal        |         |         |         |         |
+|             | benefit from   |         |         |         |         |
+|             | revasc         |         |         |         |         |
++-------------+----------------+---------+---------+---------+---------+
 
 **What does the work up for an acute limb entail? How is the diagnosis
 made?**
@@ -1512,7 +1486,7 @@ ischemia?**
     and/or renal failure. [@obaraAcuteLimbIschemia2018] Treatment of
     this is largely supportive with fluids
 
-### Compartment Syndrome
+## Compartment Syndrome
 
 **What is the pathophysiology and manifestations of compartment
 syndrome?**
