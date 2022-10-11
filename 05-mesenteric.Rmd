@@ -12,6 +12,8 @@ editor_options:
 
 ```{r echo=FALSE}
 
+library(embedr)
+
 embed_audio("https://traffic.libsyn.com/audiblebleeding/Mesenteric_Ischemia.mp3")
 
 ```
@@ -33,7 +35,7 @@ internal iliacs and IMA. [@chandraChronicMesentericIschemia2010;
 
 ## Acute Mesenteric Ischemia
 
-### Presentation and diagnosis
+### Presentation and Evaluation
 
 **Can you tell me about the classic presentation and approach to
 patients presenting with acute mesenteric ischemia?**
