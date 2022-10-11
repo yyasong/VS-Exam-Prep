@@ -400,22 +400,24 @@ anticoagulation.[@acosta2019]
 
 ## Chronic Mesenteric Ischemia
 
-### Presentation and Diagnosis
+### Presentation and Evaluation
 
 **How does chronic mesenteric ischemia differ in its presentation?**
 
-Chronic mesenteric ischemia is characterised by post-prandial abdominal
+Chronic mesenteric ischemia is characterized by post-prandial abdominal
 pain, typically 30-60 minutes after eating (think after gastric emptying
 time). This pain is usually severe, crampy, and resolves after minutes
-to hours of time. The pain leads to food fear and
-eventual [unintentional]{.underline} weight loss.
+to hours of time. The pain leads to food fear and eventual
+[unintentional]{.underline} weight loss. The next step in evaluation in
+these patients is a mesenteric duplex to evaluate for elevated
+velocities.
 
-The clinical presentation here is key. Chronic mesenteric ischemia is
-pretty unlikely in patients who do not have this constellation of
-clinical symptoms, and it's really common for patients to be referred
-with imaging findings of elevated mesenteric velocities on duplex who
-have none of the clinical findings, and thus do not benefit from any
-intervention.
+However, the clinical presentation here is key. Chronic mesenteric
+ischemia is pretty unlikely in patients who do not have this
+constellation of clinical symptoms, and it's really common for patients
+to be referred with imaging findings of elevated mesenteric velocities
+on duplex who have none of the clinical findings, and thus do not
+benefit from any intervention.
 
 **What are the duplex criteria for chronic mesenteric ischemia?**
 
@@ -429,17 +431,17 @@ the celiac and the SMA.
 
 The key numbers to remember here are peak systolic velocities (that's
 PSV) of 200 cm/s for the celiac artery, and 275 cm/s for the SMA. These
-correspond to a stenosis of at least 70%. Remember,
-the **superior** mesenteric artery has **higher** velocity criteria, in
-case you forget. These classic numbers come from a study done in 1993,
-and many other studies have demonstrated other thresholds. Make sure to
-check with your friendly neighborhood vascular technician to see what
-the thresholds in your local lab are!
+correspond to a stenosis of at least 70%. Remember, the **superior**
+mesenteric artery has **higher** velocity criteria, in case you forget.
+These classic numbers come from a study done in 1993, and many other
+studies have demonstrated other thresholds. Make sure to check with your
+friendly neighborhood vascular technician to see what the thresholds in
+your local lab are!
 
 In addition to the PSV, you can also use the end diastolic velocity
 (EDV) to predict stenosis. For the EDV values in the celiac and the SMA,
 think approximately 50 cm/s predicts a stenosis of 50% (easy to
-remember, **50-50**). This is known as Bowersox criteria, and is
+remember, **50-50**). This is known as Bowersox criteria, and is
 actually \>45, but 50 is easier to
 remember.[@bowersoxDuplexUltrasonographyDiagnosis1991]
 
@@ -449,7 +451,8 @@ is easy for the SMA, where an EDV of 70 cm/s predicts a stenosis of 70%
 predicts that same 70% stenosis.
 
 So to review the numbers: [@monetaDuplexUltrasoundCriteria1991;
-@monetaMesentericDuplexScanning1993; @zwolakMesentericCeliacDuplex1998]
+@monetaMesentericDuplexScanning1993; @zwolakMesentericCeliacDuplex1998;
+@aburahma2012]
 
 -   PSVs: 200 in the celiac or 275 in the SMA gives you 70% stenosis
 
@@ -502,6 +505,11 @@ of embolic protection devices to prevent distal embolism, and other
 authors also advocate for the use of covered stents for the mesenteric
 circulation due to better patency.[@oderichComparisonCoveredStents2013;
 @oderich132ChronicMesenteric2019]
+
+**What is the surveillance protocol for an SMA stent?**
+
+At most institutions it is 1mo, 6mo and annually
+thereafter.[@mohler2012; @zierler2018]
 
 **How about open revascularization?**
 
