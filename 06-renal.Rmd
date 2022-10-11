@@ -969,7 +969,8 @@ atherosclerotic disease?**
 
 -   May miss mild FMD.
 
--   Can be useful for detecting aneurysms and dissections
+-   Can be useful for detecting aneurysms and dissections - can be
+    difficult to diagnose on duplex ultrasonography.[@renaud2012]
 
 **And finally, Duplex ultrasonography**
 
