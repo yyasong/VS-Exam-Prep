@@ -39,7 +39,7 @@ disease](https://www.jvascsurg.org/article/S0741-5214(21)00893-4/fulltext)
     (NIHSS).[@fischer2010]
 
     A particularly confusing distinction is between a crescendo TIA and
-    a stroke in evolution. A crescendo frequent repetitive neurological
+    a stroke in evolution. A crescendo TIA is frequent repetitive neurological
     attacks without complete resolution of the deficit between the
     episodes, usually over a 24 hour period. The result of which is the
     same neurological deficit. If the patient exhibits progressive
